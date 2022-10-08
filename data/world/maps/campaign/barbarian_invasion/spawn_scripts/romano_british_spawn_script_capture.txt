@@ -1,0 +1,37 @@
+;; NOTE: on revolts this is called when the offical ownership of the settlement has _just_ been changed, 
+;; but nothing else has been processed yet, so keep that in mind when doing checks
+;; (i.e. you might have a settlement that is the last one of a faction: they would think that they still had
+;;  1 settlement remaining, but if you actually check the world they don't have any)
+
+script
+	declare_persistent_counter romano_british_spawned
+	
+	;;if they already spawned don't do it again
+	;;also skip checks if this isn't britain
+	if 	I_CompareCounter romano_british_spawned > 0
+		|| not HasResource britain
+	
+		return false
+	end_if
+	
+	;;count the number of roman holdings in britain
+	declare_counter roman_british_holdings
+	for_each settlement in world
+		if		HasResource britain
+			&&	SettlementOwnedBy roman_empire ;;roman empire tag, not a single faction
+			
+			inc_counter roman_british_holdings 1
+		end_if
+	end_for
+	
+	;;we haven't spawned before, and the roman empire
+	;;no longer holds any regions in Britain
+	if	I_CompareCounter roman_british_holdings == 0
+	
+		inc_counter romano_british_spawned 1 ;;rerember that we spawned
+		return true ;;we should spawn
+	end_if
+	
+	;;else don't spawn
+	return false
+end_script

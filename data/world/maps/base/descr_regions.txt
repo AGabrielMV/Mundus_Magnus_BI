@@ -1,0 +1,1305 @@
+;
+; regions list
+;
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Caledonia
+	legion: Caledonica
+	Dal_Raida
+	celts
+	Pictii
+	111 111 0
+	none
+	5
+	5
+	pagan 90 christianity 10
+Tribus_Saxones
+	legion: Barbaricorum
+	Vicus_Saxones
+	saxons
+	Angles
+	232 41 55
+	none
+	5
+	5
+	pagan 100
+Locus_Barbaricum
+	legion: Barbaricorum
+	Campus_Barbaricum
+	vandals
+	Slavs
+	58 177 95
+	none
+	5
+	2
+	pagan 100
+Tribus_Alanni
+	legion: Scythica
+	Campus_Alanni
+	huns
+	Alans
+	177 170 58
+	none
+	5
+	3
+	pagan 100
+Tribus_Sakae
+	legion: Barbaricorum
+	Campus_Sakae
+	huns
+	Saka
+	58 177 75
+	none
+	5
+	6
+	pagan 100
+Hibernia
+	legion: Hibernica
+	Tara
+	celts
+	Scotii
+	212 232 41
+	none
+	5
+	3
+	pagan 90 christianity 10
+Britannia_Inferior
+	legion: Victrix
+	Eburacum
+	empire_west
+	Celts
+	232 41 198
+	britain
+	5
+	5
+	christianity 10 pagan 90
+Locus_Sarmatae
+	legion: Barbaricorum
+	Campus_Sarmatae
+	sarmatians
+	Sarmatians
+	177 255 83
+	none
+	5
+	4
+	pagan 100
+Britannia_Superior
+	legion: Britannica
+	Londinium
+	empire_west
+	Britons
+	232 41 46
+	britain
+	5
+	8
+	christianity 30 pagan 70
+Tribus_Burgundii
+	legion: Barbaricorum
+	Campus_Burgundii
+	burgundii
+	Burgundii
+	131 33 125
+	none
+	5
+	5
+	pagan 100
+Tribus_Vandali
+	legion: Barbaricorum
+	Vicus_Vandali
+	vandals
+	Sarmatians
+	177 58 83
+	none
+	5
+	4
+	pagan 100
+Tribus_Frisii
+	legion: Barbaricorum
+	Campus_Frisii
+	saxons
+	Frisii
+	2 0 255
+	none
+	5
+	6
+	pagan 100
+Tribus_Chattii
+	legion: Barbaricorum
+	Campus_Chattii
+	franks
+	Chatti
+	232 198 41
+	none
+	5
+	4
+	pagan 100
+Tribus_Lombardi
+	legion: Barbaricorum
+	Campus_Lombardi
+	lombardi
+	Lombardi
+	203 41 232
+	none
+	5
+	4
+	pagan 100
+Germania_Inferior
+	legion: Minervia
+	Colonia_Agrippina
+	empire_west
+	Batavi
+	41 162 232
+	none
+	5
+	7
+	christianity 30 pagan 70
+Tribus_Franki
+	legion: Barbaricorum
+	Vicus_Franki
+	franks
+	Franki
+	255 150 177
+	none
+	5
+	5
+	pagan 100
+Sarmatia
+	legion: Barbaricorum
+	Vicus_Sarmatae
+	sarmatians
+	Sarmatians
+	33 131 116
+	bosphoran
+	5
+	6
+	pagan 100
+Belgica
+	legion: Gallicana
+	Samarobriva
+	empire_west
+	Belgae
+	232 90 41
+	none
+	5
+	7
+	christianity 25 pagan 75
+Tribus_Marcomanni
+	legion: Barbaricorum
+	Campus_Marcomanni
+	alemanni
+	Marcomanni
+	177 78 58
+	none
+	5
+	5
+	pagan 100
+Tribus_Roxolani
+	legion: Scythica
+	Campus_Roxolani
+	roxolani
+	Roxolani
+	131 89 33
+	bosphoran
+	5
+	5
+	pagan 100
+Germania_Superior
+	legion: Primigenia
+	Argentoratum
+	empire_west
+	Suebi
+	63 232 41
+	none
+	5
+	6
+	christianity 25 pagan 75
+Lugdinensis
+	legion: Flavia_Gallicana
+	Lugdunum
+	empire_west
+	Aedui
+	85 114 141
+	none
+	5
+	14
+	christianity 30 pagan 70
+Tribus_Alemanni
+	legion: Barbaricorum
+	Vicus_Alemanni
+	alemanni
+	Alemanni
+	58 150 177
+	none
+	5
+	5
+	pagan 100
+Tribus_Quaddi
+	legion: Barbaricorum
+	Campus_Quaddi
+	alemanni
+	Quaddi
+	58 0 177
+	none
+	5
+	5
+	pagan 100
+Tribus_Iazyges
+	legion: Barbaricorum
+	Campus_Iazyges
+	sarmatians
+	Iazyges
+	33 100 131
+	none
+	5
+	14
+	pagan 100
+Dacia
+	legion: Gemina
+	Colonia_Dacia
+	goths
+	Ostrogoths
+	72 177 58
+	bosphoran
+	5
+	6
+	pagan 60 christianity 40
+Raetia
+	legion: Concors_Italica
+	Augusta_Vindelicorum
+	empire_west
+	Suebi
+	41 232 225
+	none
+	5
+	3
+	christianity 25 pagan 75
+Noricum
+	legion: Pia_Italica
+	Carnuntum
+	empire_west
+	Juthungi
+	230 41 232
+	none
+	5
+	4
+	christianity 25 pagan 75
+Pannonia
+	legion: Adiutrix
+	Aquincum
+	empire_west
+	Scordisci
+	131 61 33
+	none
+	5
+	3
+	christianity 25 pagan 75
+Aquitania
+	legion: Gallicana
+	Burdigala
+	empire_west
+	Pictones
+	68 232 41
+	none
+	5
+	14
+	christianity 30 pagan 70
+Colchis
+	legion: Apollinaris
+	Kotais
+	empire_east
+	Colchians
+	199 31 143
+	bosphoran
+	5
+	4
+	christianity 55 zoroastrian 35 pagan 10
+Atropatene
+	legion: Parthica
+	Phraaspa
+	sassanids
+	Parthians
+	61 239 246
+	sughdian
+	5
+	4
+	zoroastrian 100
+Alpes_Maritimae_et_Cottinae
+	legion: Iulia_Alpina
+	Massilia
+	empire_west
+	Vocontii
+	117 198 13
+	none
+	5
+	9
+	christianity 30 pagan 70
+Aemilia_et_Liguria
+	legion: Italica
+	Mediolanium
+	empire_west
+	Ligurians
+	157 13 198
+	none
+	5
+	10
+	christianity 20 pagan 80
+Venetia
+	legion: Italica
+	Aquileia
+	empire_west
+	Veneti
+	13 198 117
+	none
+	5
+	4
+	christianity 45 pagan 55
+Illyricum_et_Dalmatia
+	legion: Illyricorum
+	Salona
+	empire_west
+	Illyrians
+	58 173 177
+	none
+	5
+	3
+	christianity 25 pagan 75
+Thracia
+	legion: Claudia_Pia_Fidelis
+	Constantinople
+	empire_east
+	Thracians
+	218 246 61
+	bosphoran
+	5
+	10
+	christianity 75 pagan 25
+Taraconensis
+	legion: Gemina
+	Tarraco
+	empire_west
+	Basques
+	13 196 198
+	none
+	5
+	6
+	christianity 30 pagan 70
+Narbonensis
+	legion: Flavia_Martis
+	Arles
+	empire_west
+	Volcae
+	196 13 198
+	none
+	5
+	8
+	christianity 40 pagan 60
+Armenia
+	legion: Armeniaca
+	Artaxarta
+	sassanids
+	Armenians
+	202 61 17
+	sughdian
+	5
+	5
+	zoroastrian 100
+Moesia
+	legion: Flavia_Felix
+	Sirmium
+	empire_east
+	Paionians
+	131 33 100
+	none
+	5
+	7
+	christianity 50 pagan 50
+Cappadocia
+	legion: Fulminata
+	Caesarea
+	empire_east
+	Cappadocians
+	177 58 148
+	bosphoran
+	5
+	8
+	christianity 70 pagan 15 zoroastrian 15
+Northern_Italy
+	legion: Italica
+	Rome
+	empire_west
+	Latins
+	52 13 198
+	rome
+	5
+	7
+	christianity 75 pagan 25
+Media
+	legion: Parthica
+	Arsakia
+	sassanids
+	Persians
+	58 167 177
+	sughdian
+	5
+	6
+	zoroastrian 100
+Pontus_et_Bithynia
+	legion: Pontica
+	Sinope
+	empire_east
+	Paphlagonians
+	202 156 17
+	bosphoran
+	5
+	10
+	christianity 70 pagan 30
+Carthaginiensis
+	legion: Hispana
+	Carthago_Nova
+	empire_west
+	Iberians
+	187 198 13
+	none
+	5
+	7
+	christianity 40 pagan 60
+Lusitania
+	legion: Hispana
+	Salamantica
+	empire_west
+	Lusitanians
+	13 198 30
+	none
+	5
+	4
+	christianity 30 pagan 70
+Sardinia
+	legion: Sardinica
+	Caralis
+	empire_west
+	Beronicensis
+	198 35 13
+	none
+	5
+	5
+	christianity 40 pagan 60
+Macedonia
+	legion: Macedonica
+	Thessalonica
+	empire_east
+	Edones
+	177 58 145
+	none
+	5
+	10
+	christianity 75 pagan 25
+Galatia
+	legion: Galatiae
+	Ancyra
+	empire_east
+	Galatians
+	17 165 202
+	none
+	5
+	8
+	christianity 60 pagan 40
+Southern_Italy
+	legion: Italica
+	Tarentum
+	empire_west
+	Latins
+	198 13 174
+	none
+	5
+	9
+	christianity 60 pagan 40
+Assyria
+	legion: Parthica
+	Hatra
+	sassanids
+	Kurds
+	244 122 13
+	sughdian
+	5
+	8
+	zoroastrian 90 christianity 10
+Baetica
+	legion: Hispana
+	Corduba
+	empire_west
+	Iberians
+	17 13 198
+	none
+	5
+	14
+	christianity 45 pagan 55
+Achaea
+	legion: Gemina
+	Athens
+	empire_east
+	Achaeans
+	58 177 106
+	none
+	5
+	9
+	christianity 40 pagan 60
+Asiana
+	legion: Asianae
+	Ephesus
+	empire_east
+	Phrygians
+	131 83 77
+	none
+	5
+	12
+	christianity 75 pagan 25
+Cilicia_et_Lycia
+	legion: Isaura
+	Tarsus
+	empire_east
+	Cilicians
+	17 202 52
+	none
+	5
+	10
+	christianity 70 pagan 30
+Babylonia
+	legion: Parthica
+	Ctesiphon
+	sassanids
+	Persians
+	177 58 167
+	sughdian
+	5
+	9
+	zoroastrian 100
+Syria_Coele
+	legion: Flavia_Firma
+	Antioch
+	empire_east
+	Syrians
+	13 244 165
+	none
+	5
+	9
+	christianity 85 pagan 5 zoroastrian 10
+Sicilia
+	legion: Siciliae
+	Syracuse
+	empire_west
+	Sicani
+	177 142 58
+	none
+	5
+	8
+	christianity 30 pagan 70
+Arabia_Inferior
+	legion: Arabica
+	Dumatha
+	sassanids
+	Nabataeans
+	13 171 244
+	berber, sughdian
+	5
+	3
+	zoroastrian 50 pagan 15 christianity 35
+Mauretania
+	legion: Mauretanica
+	Volubilis
+	berbers
+	Berbers
+	202 126 17
+	berber
+	5
+	6
+	christianity 100
+Cyprus
+	legion: Cyprica
+	Salamis
+	empire_east
+	Cypriots
+	126 144 111
+	none
+	5
+	9
+	christianity 50 pagan 50
+Phoenicia
+	legion: Gallicia
+	Sidon
+	empire_east
+	Palmyrans
+	33 131 128
+	none
+	5
+	9
+	christianity 85 pagan 5 zoroastrian 10
+Africa
+	legion: Augusta
+	Carthage
+	empire_west
+	Poeni
+	202 191 17
+	berber
+	5
+	14
+	christianity 90 pagan 10
+Creta
+	legion: Cretae
+	Kydonia
+	empire_east
+	Cretans
+	193 162 206
+	none
+	5
+	7
+	christianity 45 pagan 55
+Palaestina
+	legion: Palaestinae
+	Jerusalem
+	empire_east
+	Judaeans
+	244 13 29
+	berber
+	5
+	8
+	christianity 95 zoroastrian 5
+Arabia_Superior
+	legion: Ferrata
+	Philadelphaea
+	empire_east
+	Judaeans
+	13 244 160
+	berber
+	5
+	5
+	christianity 75 pagan 10 zoroastrian 15
+Nabataea
+	legion: Nabatae
+	Petra
+	berbers
+	Nabataeans
+	13 0 244
+	berber
+	5
+	5
+	christianity 90 zoroastrian 10
+Gaetulia
+	legion: Africarum
+	Dimmidi
+	berbers
+	Berbers
+	244 13 138
+	berber
+	5
+	1
+	christianity 10 pagan 90
+Tripolitania
+	legion: Flavia_Salutis
+	Lepcis_Magna
+	empire_west
+	Berbers
+	2 252 0
+	berber
+	5
+	5
+	christianity 70 pagan 30
+Aegyptus
+	legion: Traiana
+	Alexandria
+	empire_east
+	Moors
+	244 13 214
+	berber
+	5
+	12
+	christianity 85 pagan 15
+Cyrenaica
+	legion: Cyrenaica
+	Cyrene
+	empire_east
+	Moors
+	244 171 13
+	berber
+	5
+	4
+	christianity 70 pagan 30
+Flavia_Caesariensis
+	legion: Victrix
+	Lindum
+	empire_west
+	Britons
+	144 157 157
+	britain
+	5
+	2
+	christianity 55 pagan 45
+Valentia
+	legion: Victrix						
+	Deva
+	empire_west						
+	Celts
+	41 232 63						
+	britain						
+	5						
+	3						
+	pagan 60 christianity 40						
+Britannia_Prima
+	legion: Britannica
+	Corinium
+	empire_west
+	Britons
+	129 123 31
+	britain
+	5
+	3
+	christianity 40 pagan 60
+Mumhain
+	legion: Hibernica
+	Ivernis
+	celts
+	Scotii
+	43 130 47
+	none
+	5
+	3
+	pagan 85 christianity 15
+Armorica
+	legion: Gallicana
+	Darioritum
+	empire_west
+	Pictones
+	87 92 92
+	none
+	5
+	3
+	christianity 15 pagan 85						
+Lugdunensis_Tertia
+	legion: Superventores_Iuniores
+	Turonum
+	empire_west
+	Pictones
+	232 41 135
+	none
+	5
+	6
+	christianity 35 pagan 65
+Lugdunensis_Secunda
+	legion: Gallicana
+	Rotomagus
+	empire_west
+	Pictones
+	33 152 75
+	none
+	5
+	6
+	christianity 35 pagan 65
+Lugdunensis_Senonia
+	legion: Gallicana
+	Senones
+	empire_west
+	Aedui
+	31 75 37
+	none
+	5
+	6
+	christianity 35 pagan 65
+Toxandria
+	legion: Minervia
+	Atuatuca
+	franks
+	Batavi
+	6 141 25
+	none
+	5
+	7
+	christianity 20 pagan 80
+Belgica_Prima
+	legion: Gallicana
+	Augusta_Treverorum
+	empire_west
+	Belgae
+	72 41 232
+	none
+	5
+	7
+	christianity 25 pagan 75
+Maxima_Sequanorum
+	legion: Primigenia
+	Vesontio
+	empire_west
+	Aedui
+	171 111 58
+	none
+	5
+	3
+	christianity 25 pagan 75
+Aquitania_Prima
+	legion: Flavia_Gallicana
+	Avaricum
+	empire_west
+	Pictones
+	68 166 211
+	none
+	5
+	7
+	christianity 70 pagan 30
+Novempopulana
+	legion: Gallicana
+	Elusa
+	empire_west
+	Pictones
+	154 162 97
+	none
+	5
+	6
+	christianity 60 pagan 40
+Viennensis
+	legion: Iulia_Alpina
+	Vienna
+	empire_west
+	Vocontii
+	194 204 127
+	none
+	5
+	5
+	christianity 30 pagan 70
+Kush
+	legion: Aethiopica
+	Meroe
+	berbers
+	Berbers
+	86 99 121
+	none
+	5
+	7
+	pagan 95 christianity 5
+Saba
+	legion: Arabica
+	Mariaba
+	berbers
+	Nabataeans
+	6 129 61
+	none
+	5
+	6
+	pagan 80 christianity 15 zoroastrian 5
+Sind
+	legion: Indica
+	Patala
+	sassanids
+	Sughdians
+	21 190 29
+	none
+	5
+	10
+	pagan 75 zoroastrian 25
+Bactria
+	legion: Scythica
+	Bactra
+	sassanids
+	Sughdians
+	20 155 2
+	none
+	5
+	7
+	zoroastrian 55 pagan 35 christianity 10
+Kashgaria
+	legion: Sinica
+	Kashgar
+	huns
+	Saka
+	155 255 167
+	none
+	5
+	1
+	pagan 100
+Mazun
+	legion: Arabica
+	Omana
+	berbers
+	Nabataeans
+	240 182 100
+	none
+	5
+	6
+	pagan 55 zoroastrian 40 christianity 5
+Gallaecia
+	legion: Gemina
+	Bracara
+	empire_west
+	Iberians
+	13 157 198
+	none
+	5
+	3
+	christianity 30 pagan 70
+Hispania_Interior
+	legion: Hispana
+	Toletum
+	empire_west
+	Iberians
+	238 106 8
+	none
+	5
+	5
+	christianity 45 pagan 55
+Vasconia
+	legion: Hispana
+	Pompaelo
+	empire_west
+	Basques
+	11 83 203
+	none
+	5
+	4
+	pagan 85 christianity 15
+Asturicensis
+	legion: Gemina
+	Asturica
+	empire_west
+	Iberians				
+	204 160 7				
+	none		
+	5
+	5
+	pagan 65 christianity 35
+Gaditanus
+	legion: Hispana
+	Gades
+	empire_west
+	Iberians
+	103 146 146
+	none
+	5
+	3
+	christianity 60 pagan 40
+Pacensis
+	legion: Hispana
+	Pax_Iulia
+	empire_west
+	Lusitanians
+	204 9 9
+	none
+	5
+	9
+	pagan 60 christianity 40
+Scallabitana
+	legion: Hispana
+	Scallabis
+	empire_west
+	Lusitanians
+	103 119 193
+	none
+	5
+	3
+	christianity 10 pagan 90						
+Caesaraugustana
+	legion: Hispana
+	Caesaraugusta
+	empire_west
+	Iberians
+	53 100 47
+	none
+	5
+	3
+	christianity 30 pagan 70
+Cluniensis
+	legion: Gemina
+	Colonia_Clunia
+	empire_west
+	Iberians
+	198 13 35
+	none
+	5
+	8
+	pagan 80 christianity 20
+Baleares
+	legion: Balearica
+	Palma
+	empire_west
+	Beronicensis
+	25 255 25
+	none
+	5
+	2
+	christianity 15 pagan 85
+Tingitana
+	legion: Mauretanica
+	Tingis
+	berbers
+	Berbers
+	158 177 26
+	berber
+	5
+	3
+	christianity 100
+Caesariensis_Occidental
+	legion: Mauretanica
+	Altava
+	berbers
+	Berbers
+	141 168 231
+	berber		
+	5
+	6
+	christianity 60 pagan 40
+Caesariensis
+	legion: Mauretanica
+	Caesarea_Mauretania
+	berbers
+	Berbers
+	189 71 91
+	berber
+	5
+	3
+	christianity 80 pagan 20
+Mauretania_Sitifensis
+	legion: Mauretanica
+	Sitifis
+	berbers
+	Berbers
+	202 17 48
+	berber
+	5
+	2
+	christianity 70 pagan 30
+Numidia
+	legion: Mauretanica
+	Constantina
+	berbers
+	Berbers
+	17 83 202
+	berber
+	5
+	1
+	christianity 80 pagan 20
+Byzacena
+	legion: Augusta
+	Hadrumetum
+	empire_west
+	Poeni
+	31 202 17
+	berber
+	5
+	6
+	christianity 90 pagan 10
+Nasamonia
+	legion: Africarum
+	Augila
+	berbers
+	Berbers
+	47 121 213
+	berber
+	5
+	3
+	pagan 90 christianity 10
+Sicilia_Occidental				
+	legion: Siciliae
+	Lilybaeum				
+	empire_west				
+	Sicani				
+	65 17 202						
+	none	
+	5
+	8
+	pagan 60 christianity 40
+Lucania_et_Brutii
+	legion: Italica
+	Rhegium
+	empire_west
+	Latins
+	13 170 198
+	none
+	5
+	3
+	christianity 35 pagan 66
+Campania
+	legion: Italica
+	Neapolis
+	empire_west
+	Latins
+	33 196 58
+	none
+	5
+	6
+	christianity 55 pagan 45
+Samnium
+	legion: Italica
+	Beneventum
+	empire_west
+	Latins
+	159 160 99
+	none
+	5
+	3
+	christianity 40 pagan 60
+Flaminia
+	legion: Italica
+	Ravenna
+	empire_west
+	Latins
+	198 43 13
+	none
+	5
+	10
+	christianity 60 pagan 40
+Picenum
+	legion: Italica
+	Asculum
+	empire_west
+	Latins
+	198 178 13
+	none
+	5
+	3
+	christianity 50 pagan 50
+Tuscia							
+	legion: Italica
+	Florentia						
+	empire_west						
+	Latins						
+	157 198 13						
+	none
+	5						
+	4						
+	christianity 70 pagan 30						
+Corsica
+	legion: Sardinica
+	Aleria
+	empire_west
+	Beronicensis
+	115 144 78
+	none
+	5
+	2
+	christianity 40 pagan 60
+Alpes_Cottiae
+	legion: Italica
+	Genua
+	empire_west
+	Ligurians
+	221 232 41
+	none
+	5
+	3
+	christianity 20 pagan 80
+Scandza
+	legion: Barbaricorum
+	Fanum_Nerthi
+	saxons
+	Angles
+	19 147 64
+	none
+	5
+	0
+	pagan 100
+Guotodin
+	legion: Caledonica
+	Alauna
+	celts
+	Pictii
+	6 122 176
+	none
+	5
+	3
+	pagan 90 christianity 10
+Verturio
+	legion: Caledonica
+	Dunum_Verturiones
+	celts
+	Pictii
+	255 255 128
+	none
+	5
+	2
+	pagan 90 christianity 10
+Tribus_Anglii
+	legion: Barbaricorum
+	Haithabu
+	saxons
+	Angles
+	219 9 68
+	none
+	5
+	3
+	pagan 100
+Hercynia
+	legion: Barbaricorum
+	Biriciana
+	alemanni
+	Alemanni
+	39 67 171
+	none
+	5
+	2
+	pagan 100
+Sahara
+	legion: Africarum
+	Romanes_Eunt_Domus
+	berbers
+	Berbers
+	66 66 66
+	none
+	1
+	1
+	pagan 100
+Cydamae
+	legion: Africarum
+	Cydamus
+	berbers
+	Berbers
+	50 220 11
+	berber
+	5
+	1
+	christianity 10 pagan 90
+Locus_Melanogaetuli
+	legion: Africarum
+	Talubat
+	berbers
+	Berbers
+	41 86 232
+	berber
+	5
+	2
+	pagan 100
+Garamantia
+	legion: Africarum
+	Garama
+	berbers
+	Berbers
+	220 177 28
+	berber
+	5
+	6
+	pagan 95 christianity 5
+Phasania
+	legion: Africarum
+	Sabae
+	berbers
+	Berbers
+	54 132 36
+	berber
+	5
+	4
+	pagan 100
+Libya
+	legion: Africarum
+	Ammonium
+	berbers
+	Berbers
+	42 232 77
+	berber
+	5
+	0
+	pagan 70 christianity 30
+;Raetia_Prima
+;	legion: Concors_Italica
+;	Curia
+;	empire_west
+;	Suebi
+;	119 41 182
+;	none
+;	5
+;	2
+;	christianity 35 pagan 65

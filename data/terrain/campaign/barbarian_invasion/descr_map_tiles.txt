@@ -1,0 +1,735 @@
+; file - a static model that should be loaded into the map
+; base_albedo, base_material, ;
+; if no textures are specified, default textures will be used 
+
+; file - a static model that should be loaded into the map
+; base_albedo, base_material, ;
+; if no textures are specified, default textures will be used 
+
+file data/terrain/campaign/barbarian_invasion/pieces/001_lod0.cas
+base_albedo data/terrain/campaign/barbarian_invasion/textures/001_albedo.tga
+base_material data/terrain/campaign/barbarian_invasion/textures/001_material.tga
+winter_base_albedo data/terrain/campaign/barbarian_invasion/textures_winter/001_albedo.tga
+winter_base_material data/terrain/campaign/barbarian_invasion/textures/001_material.tga
+heightmap data/terrain/campaign/barbarian_invasion/heightmap/001_lod0.bin
+
+file data/terrain/campaign/barbarian_invasion/pieces/002_lod0.cas
+base_albedo data/terrain/campaign/barbarian_invasion/textures/002_albedo.tga
+base_material data/terrain/campaign/barbarian_invasion/textures/002_material.tga
+winter_base_albedo data/terrain/campaign/barbarian_invasion/textures_winter/002_albedo.tga
+winter_base_material data/terrain/campaign/barbarian_invasion/textures/002_material.tga
+heightmap data/terrain/campaign/barbarian_invasion/heightmap/002_lod0.bin
+
+file data/terrain/campaign/barbarian_invasion/pieces/003_lod0.cas
+base_albedo data/terrain/campaign/barbarian_invasion/textures/003_albedo.tga
+base_material data/terrain/campaign/barbarian_invasion/textures/003_material.tga
+winter_base_albedo data/terrain/campaign/barbarian_invasion/textures_winter/003_albedo.tga
+winter_base_material data/terrain/campaign/barbarian_invasion/textures/003_material.tga
+heightmap data/terrain/campaign/barbarian_invasion/heightmap/003_lod0.bin
+
+file data/terrain/campaign/barbarian_invasion/pieces/004_lod0.cas
+base_albedo data/terrain/campaign/barbarian_invasion/textures/004_albedo.tga
+base_material data/terrain/campaign/barbarian_invasion/textures/004_material.tga
+winter_base_albedo data/terrain/campaign/barbarian_invasion/textures_winter/004_albedo.tga
+winter_base_material data/terrain/campaign/barbarian_invasion/textures/004_material.tga
+heightmap data/terrain/campaign/barbarian_invasion/heightmap/004_lod0.bin
+
+file data/terrain/campaign/barbarian_invasion/pieces/005_lod0.cas
+base_albedo data/terrain/campaign/barbarian_invasion/textures/005_albedo.tga
+base_material data/terrain/campaign/barbarian_invasion/textures/005_material.tga
+winter_base_albedo data/terrain/campaign/barbarian_invasion/textures_winter/005_albedo.tga
+winter_base_material data/terrain/campaign/barbarian_invasion/textures/005_material.tga
+heightmap data/terrain/campaign/barbarian_invasion/heightmap/005_lod0.bin
+
+file data/terrain/campaign/barbarian_invasion/pieces/006_lod0.cas
+base_albedo data/terrain/campaign/barbarian_invasion/textures/006_albedo.tga
+base_material data/terrain/campaign/barbarian_invasion/textures/006_material.tga
+winter_base_albedo data/terrain/campaign/barbarian_invasion/textures_winter/006_albedo.tga
+winter_base_material data/terrain/campaign/barbarian_invasion/textures/006_material.tga
+heightmap data/terrain/campaign/barbarian_invasion/heightmap/006_lod0.bin
+
+file data/terrain/campaign/barbarian_invasion/pieces/007_lod0.cas
+base_albedo data/terrain/campaign/barbarian_invasion/textures/007_albedo.tga
+base_material data/terrain/campaign/barbarian_invasion/textures/007_material.tga
+winter_base_albedo data/terrain/campaign/barbarian_invasion/textures_winter/007_albedo.tga
+winter_base_material data/terrain/campaign/barbarian_invasion/textures/007_material.tga
+heightmap data/terrain/campaign/barbarian_invasion/heightmap/007_lod0.bin
+
+file data/terrain/campaign/barbarian_invasion/pieces/008_lod0.cas
+base_albedo data/terrain/campaign/barbarian_invasion/textures/008_albedo.tga
+base_material data/terrain/campaign/barbarian_invasion/textures/008_material.tga
+winter_base_albedo data/terrain/campaign/barbarian_invasion/textures_winter/008_albedo.tga
+winter_base_material data/terrain/campaign/barbarian_invasion/textures/008_material.tga
+heightmap data/terrain/campaign/barbarian_invasion/heightmap/008_lod0.bin
+
+file data/terrain/campaign/barbarian_invasion/pieces/009_lod0.cas
+base_albedo data/terrain/campaign/barbarian_invasion/textures/009_albedo.tga
+base_material data/terrain/campaign/barbarian_invasion/textures/009_material.tga
+winter_base_albedo data/terrain/campaign/barbarian_invasion/textures_winter/009_albedo.tga
+winter_base_material data/terrain/campaign/barbarian_invasion/textures/009_material.tga
+heightmap data/terrain/campaign/barbarian_invasion/heightmap/009_lod0.bin
+
+file data/terrain/campaign/barbarian_invasion/pieces/010_lod0.cas
+base_albedo data/terrain/campaign/barbarian_invasion/textures/010_albedo.tga
+base_material data/terrain/campaign/barbarian_invasion/textures/010_material.tga
+winter_base_albedo data/terrain/campaign/barbarian_invasion/textures_winter/010_albedo.tga
+winter_base_material data/terrain/campaign/barbarian_invasion/textures/010_material.tga
+heightmap data/terrain/campaign/barbarian_invasion/heightmap/010_lod0.bin
+
+file data/terrain/campaign/barbarian_invasion/pieces/011_lod0.cas
+base_albedo data/terrain/campaign/barbarian_invasion/textures/011_albedo.tga
+base_material data/terrain/campaign/barbarian_invasion/textures/011_material.tga
+winter_base_albedo data/terrain/campaign/barbarian_invasion/textures_winter/011_albedo.tga
+winter_base_material data/terrain/campaign/barbarian_invasion/textures/011_material.tga
+heightmap data/terrain/campaign/barbarian_invasion/heightmap/011_lod0.bin
+
+file data/terrain/campaign/barbarian_invasion/pieces/012_lod0.cas
+base_albedo data/terrain/campaign/barbarian_invasion/textures/012_albedo.tga
+base_material data/terrain/campaign/barbarian_invasion/textures/012_material.tga
+winter_base_albedo data/terrain/campaign/barbarian_invasion/textures_winter/012_albedo.tga
+winter_base_material data/terrain/campaign/barbarian_invasion/textures/012_material.tga
+heightmap data/terrain/campaign/barbarian_invasion/heightmap/012_lod0.bin
+
+file data/terrain/campaign/barbarian_invasion/pieces/013_lod0.cas
+base_albedo data/terrain/campaign/barbarian_invasion/textures/013_albedo.tga
+base_material data/terrain/campaign/barbarian_invasion/textures/013_material.tga
+winter_base_albedo data/terrain/campaign/barbarian_invasion/textures_winter/013_albedo.tga
+winter_base_material data/terrain/campaign/barbarian_invasion/textures/013_material.tga
+heightmap data/terrain/campaign/barbarian_invasion/heightmap/013_lod0.bin
+
+file data/terrain/campaign/barbarian_invasion/pieces/014_lod0.cas
+base_albedo data/terrain/campaign/barbarian_invasion/textures/014_albedo.tga
+base_material data/terrain/campaign/barbarian_invasion/textures/014_material.tga
+winter_base_albedo data/terrain/campaign/barbarian_invasion/textures_winter/014_albedo.tga
+winter_base_material data/terrain/campaign/barbarian_invasion/textures/014_material.tga
+heightmap data/terrain/campaign/barbarian_invasion/heightmap/014_lod0.bin
+
+file data/terrain/campaign/barbarian_invasion/pieces/015_lod0.cas
+base_albedo data/terrain/campaign/barbarian_invasion/textures/015_albedo.tga
+base_material data/terrain/campaign/barbarian_invasion/textures/015_material.tga
+winter_base_albedo data/terrain/campaign/barbarian_invasion/textures_winter/015_albedo.tga
+winter_base_material data/terrain/campaign/barbarian_invasion/textures/015_material.tga
+heightmap data/terrain/campaign/barbarian_invasion/heightmap/015_lod0.bin
+
+file data/terrain/campaign/barbarian_invasion/pieces/016_lod0.cas
+base_albedo data/terrain/campaign/barbarian_invasion/textures/016_albedo.tga
+base_material data/terrain/campaign/barbarian_invasion/textures/016_material.tga
+winter_base_albedo data/terrain/campaign/barbarian_invasion/textures_winter/016_albedo.tga
+winter_base_material data/terrain/campaign/barbarian_invasion/textures/016_material.tga
+heightmap data/terrain/campaign/barbarian_invasion/heightmap/016_lod0.bin
+
+file data/terrain/campaign/barbarian_invasion/pieces/017_lod0.cas
+base_albedo data/terrain/campaign/barbarian_invasion/textures/017_albedo.tga
+base_material data/terrain/campaign/barbarian_invasion/textures/017_material.tga
+winter_base_albedo data/terrain/campaign/barbarian_invasion/textures_winter/017_albedo.tga
+winter_base_material data/terrain/campaign/barbarian_invasion/textures/017_material.tga
+heightmap data/terrain/campaign/barbarian_invasion/heightmap/017_lod0.bin
+
+file data/terrain/campaign/barbarian_invasion/pieces/018_lod0.cas
+base_albedo data/terrain/campaign/barbarian_invasion/textures/018_albedo.tga
+base_material data/terrain/campaign/barbarian_invasion/textures/018_material.tga
+winter_base_albedo data/terrain/campaign/barbarian_invasion/textures_winter/018_albedo.tga
+winter_base_material data/terrain/campaign/barbarian_invasion/textures/018_material.tga
+heightmap data/terrain/campaign/barbarian_invasion/heightmap/018_lod0.bin
+
+file data/terrain/campaign/barbarian_invasion/pieces/019_lod0.cas
+base_albedo data/terrain/campaign/barbarian_invasion/textures/019_albedo.tga
+base_material data/terrain/campaign/barbarian_invasion/textures/019_material.tga
+winter_base_albedo data/terrain/campaign/barbarian_invasion/textures_winter/019_albedo.tga
+winter_base_material data/terrain/campaign/barbarian_invasion/textures/019_material.tga
+heightmap data/terrain/campaign/barbarian_invasion/heightmap/019_lod0.bin
+
+file data/terrain/campaign/barbarian_invasion/pieces/020_lod0.cas
+base_albedo data/terrain/campaign/barbarian_invasion/textures/020_albedo.tga
+base_material data/terrain/campaign/barbarian_invasion/textures/020_material.tga
+winter_base_albedo data/terrain/campaign/barbarian_invasion/textures_winter/020_albedo.tga
+winter_base_material data/terrain/campaign/barbarian_invasion/textures/020_material.tga
+heightmap data/terrain/campaign/barbarian_invasion/heightmap/020_lod0.bin
+
+file data/terrain/campaign/barbarian_invasion/pieces/021_lod0.cas
+base_albedo data/terrain/campaign/barbarian_invasion/textures/021_albedo.tga
+base_material data/terrain/campaign/barbarian_invasion/textures/021_material.tga
+winter_base_albedo data/terrain/campaign/barbarian_invasion/textures_winter/021_albedo.tga
+winter_base_material data/terrain/campaign/barbarian_invasion/textures/021_material.tga
+heightmap data/terrain/campaign/barbarian_invasion/heightmap/021_lod0.bin
+
+file data/terrain/campaign/barbarian_invasion/pieces/022_lod0.cas
+base_albedo data/terrain/campaign/barbarian_invasion/textures/022_albedo.tga
+base_material data/terrain/campaign/barbarian_invasion/textures/022_material.tga
+winter_base_albedo data/terrain/campaign/barbarian_invasion/textures_winter/022_albedo.tga
+winter_base_material data/terrain/campaign/barbarian_invasion/textures/022_material.tga
+heightmap data/terrain/campaign/barbarian_invasion/heightmap/022_lod0.bin
+
+file data/terrain/campaign/barbarian_invasion/pieces/023_lod0.cas
+base_albedo data/terrain/campaign/barbarian_invasion/textures/023_albedo.tga
+base_material data/terrain/campaign/barbarian_invasion/textures/023_material.tga
+winter_base_albedo data/terrain/campaign/barbarian_invasion/textures_winter/023_albedo.tga
+winter_base_material data/terrain/campaign/barbarian_invasion/textures/023_material.tga
+heightmap data/terrain/campaign/barbarian_invasion/heightmap/023_lod0.bin
+
+file data/terrain/campaign/barbarian_invasion/pieces/024_lod0.cas
+base_albedo data/terrain/campaign/barbarian_invasion/textures/024_albedo.tga
+base_material data/terrain/campaign/barbarian_invasion/textures/024_material.tga
+winter_base_albedo data/terrain/campaign/barbarian_invasion/textures_winter/024_albedo.tga
+winter_base_material data/terrain/campaign/barbarian_invasion/textures/024_material.tga
+heightmap data/terrain/campaign/barbarian_invasion/heightmap/024_lod0.bin
+
+file data/terrain/campaign/barbarian_invasion/pieces/025_lod0.cas
+base_albedo data/terrain/campaign/barbarian_invasion/textures/025_albedo.tga
+base_material data/terrain/campaign/barbarian_invasion/textures/025_material.tga
+winter_base_albedo data/terrain/campaign/barbarian_invasion/textures_winter/025_albedo.tga
+winter_base_material data/terrain/campaign/barbarian_invasion/textures/025_material.tga
+heightmap data/terrain/campaign/barbarian_invasion/heightmap/025_lod0.bin
+
+file data/terrain/campaign/barbarian_invasion/pieces/026_lod0.cas
+base_albedo data/terrain/campaign/barbarian_invasion/textures/026_albedo.tga
+base_material data/terrain/campaign/barbarian_invasion/textures/026_material.tga
+winter_base_albedo data/terrain/campaign/barbarian_invasion/textures_winter/026_albedo.tga
+winter_base_material data/terrain/campaign/barbarian_invasion/textures/026_material.tga
+heightmap data/terrain/campaign/barbarian_invasion/heightmap/026_lod0.bin
+
+file data/terrain/campaign/barbarian_invasion/pieces/027_lod0.cas
+base_albedo data/terrain/campaign/barbarian_invasion/textures/027_albedo.tga
+base_material data/terrain/campaign/barbarian_invasion/textures/027_material.tga
+winter_base_albedo data/terrain/campaign/barbarian_invasion/textures_winter/027_albedo.tga
+winter_base_material data/terrain/campaign/barbarian_invasion/textures/027_material.tga
+heightmap data/terrain/campaign/barbarian_invasion/heightmap/027_lod0.bin
+
+file data/terrain/campaign/barbarian_invasion/pieces/028_lod0.cas
+base_albedo data/terrain/campaign/barbarian_invasion/textures/028_albedo.tga
+base_material data/terrain/campaign/barbarian_invasion/textures/028_material.tga
+winter_base_albedo data/terrain/campaign/barbarian_invasion/textures_winter/028_albedo.tga
+winter_base_material data/terrain/campaign/barbarian_invasion/textures/028_material.tga
+heightmap data/terrain/campaign/barbarian_invasion/heightmap/028_lod0.bin
+
+file data/terrain/campaign/barbarian_invasion/pieces/029_lod0.cas
+base_albedo data/terrain/campaign/barbarian_invasion/textures/029_albedo.tga
+base_material data/terrain/campaign/barbarian_invasion/textures/029_material.tga
+winter_base_albedo data/terrain/campaign/barbarian_invasion/textures_winter/029_albedo.tga
+winter_base_material data/terrain/campaign/barbarian_invasion/textures/029_material.tga
+heightmap data/terrain/campaign/barbarian_invasion/heightmap/029_lod0.bin
+
+file data/terrain/campaign/barbarian_invasion/pieces/030_lod0.cas
+base_albedo data/terrain/campaign/barbarian_invasion/textures/030_albedo.tga
+base_material data/terrain/campaign/barbarian_invasion/textures/030_material.tga
+winter_base_albedo data/terrain/campaign/barbarian_invasion/textures_winter/030_albedo.tga
+winter_base_material data/terrain/campaign/barbarian_invasion/textures/030_material.tga
+heightmap data/terrain/campaign/barbarian_invasion/heightmap/030_lod0.bin
+
+file data/terrain/campaign/barbarian_invasion/pieces/031_lod0.cas
+base_albedo data/terrain/campaign/barbarian_invasion/textures/031_albedo.tga
+base_material data/terrain/campaign/barbarian_invasion/textures/031_material.tga
+winter_base_albedo data/terrain/campaign/barbarian_invasion/textures_winter/031_albedo.tga
+winter_base_material data/terrain/campaign/barbarian_invasion/textures/031_material.tga
+heightmap data/terrain/campaign/barbarian_invasion/heightmap/031_lod0.bin
+
+file data/terrain/campaign/barbarian_invasion/pieces/032_lod0.cas
+base_albedo data/terrain/campaign/barbarian_invasion/textures/032_albedo.tga
+base_material data/terrain/campaign/barbarian_invasion/textures/032_material.tga
+winter_base_albedo data/terrain/campaign/barbarian_invasion/textures_winter/032_albedo.tga
+winter_base_material data/terrain/campaign/barbarian_invasion/textures/032_material.tga
+heightmap data/terrain/campaign/barbarian_invasion/heightmap/032_lod0.bin
+
+file data/terrain/campaign/barbarian_invasion/pieces/033_lod0.cas
+base_albedo data/terrain/campaign/barbarian_invasion/textures/033_albedo.tga
+base_material data/terrain/campaign/barbarian_invasion/textures/033_material.tga
+winter_base_albedo data/terrain/campaign/barbarian_invasion/textures_winter/033_albedo.tga
+winter_base_material data/terrain/campaign/barbarian_invasion/textures/033_material.tga
+heightmap data/terrain/campaign/barbarian_invasion/heightmap/033_lod0.bin
+
+file data/terrain/campaign/barbarian_invasion/pieces/034_lod0.cas
+base_albedo data/terrain/campaign/barbarian_invasion/textures/034_albedo.tga
+base_material data/terrain/campaign/barbarian_invasion/textures/034_material.tga
+winter_base_albedo data/terrain/campaign/barbarian_invasion/textures_winter/034_albedo.tga
+winter_base_material data/terrain/campaign/barbarian_invasion/textures/034_material.tga
+heightmap data/terrain/campaign/barbarian_invasion/heightmap/034_lod0.bin
+
+file data/terrain/campaign/barbarian_invasion/pieces/035_lod0.cas
+base_albedo data/terrain/campaign/barbarian_invasion/textures/035_albedo.tga
+base_material data/terrain/campaign/barbarian_invasion/textures/035_material.tga
+winter_base_albedo data/terrain/campaign/barbarian_invasion/textures_winter/035_albedo.tga
+winter_base_material data/terrain/campaign/barbarian_invasion/textures/035_material.tga
+heightmap data/terrain/campaign/barbarian_invasion/heightmap/035_lod0.bin
+
+file data/terrain/campaign/barbarian_invasion/pieces/036_lod0.cas
+base_albedo data/terrain/campaign/barbarian_invasion/textures/036_albedo.tga
+base_material data/terrain/campaign/barbarian_invasion/textures/036_material.tga
+winter_base_albedo data/terrain/campaign/barbarian_invasion/textures_winter/036_albedo.tga
+winter_base_material data/terrain/campaign/barbarian_invasion/textures/036_material.tga
+heightmap data/terrain/campaign/barbarian_invasion/heightmap/036_lod0.bin
+
+file data/terrain/campaign/barbarian_invasion/pieces/037_lod0.cas
+base_albedo data/terrain/campaign/barbarian_invasion/textures/037_albedo.tga
+base_material data/terrain/campaign/barbarian_invasion/textures/037_material.tga
+winter_base_albedo data/terrain/campaign/barbarian_invasion/textures_winter/037_albedo.tga
+winter_base_material data/terrain/campaign/barbarian_invasion/textures/037_material.tga
+heightmap data/terrain/campaign/barbarian_invasion/heightmap/037_lod0.bin
+
+file data/terrain/campaign/barbarian_invasion/pieces/038_lod0.cas
+base_albedo data/terrain/campaign/barbarian_invasion/textures/038_albedo.tga
+base_material data/terrain/campaign/barbarian_invasion/textures/038_material.tga
+winter_base_albedo data/terrain/campaign/barbarian_invasion/textures_winter/038_albedo.tga
+winter_base_material data/terrain/campaign/barbarian_invasion/textures/038_material.tga
+heightmap data/terrain/campaign/barbarian_invasion/heightmap/038_lod0.bin
+
+file data/terrain/campaign/barbarian_invasion/pieces/039_lod0.cas
+base_albedo data/terrain/campaign/barbarian_invasion/textures/039_albedo.tga
+base_material data/terrain/campaign/barbarian_invasion/textures/039_material.tga
+winter_base_albedo data/terrain/campaign/barbarian_invasion/textures_winter/039_albedo.tga
+winter_base_material data/terrain/campaign/barbarian_invasion/textures/039_material.tga
+heightmap data/terrain/campaign/barbarian_invasion/heightmap/039_lod0.bin
+
+file data/terrain/campaign/barbarian_invasion/pieces/040_lod0.cas
+base_albedo data/terrain/campaign/barbarian_invasion/textures/040_albedo.tga
+base_material data/terrain/campaign/barbarian_invasion/textures/040_material.tga
+winter_base_albedo data/terrain/campaign/barbarian_invasion/textures_winter/040_albedo.tga
+winter_base_material data/terrain/campaign/barbarian_invasion/textures/040_material.tga
+heightmap data/terrain/campaign/barbarian_invasion/heightmap/040_lod0.bin
+
+file data/terrain/campaign/barbarian_invasion/pieces/041_lod0.cas
+base_albedo data/terrain/campaign/barbarian_invasion/textures/041_albedo.tga
+base_material data/terrain/campaign/barbarian_invasion/textures/041_material.tga
+winter_base_albedo data/terrain/campaign/barbarian_invasion/textures_winter/041_albedo.tga
+winter_base_material data/terrain/campaign/barbarian_invasion/textures/041_material.tga
+heightmap data/terrain/campaign/barbarian_invasion/heightmap/041_lod0.bin
+
+file data/terrain/campaign/barbarian_invasion/pieces/042_lod0.cas
+base_albedo data/terrain/campaign/barbarian_invasion/textures/042_albedo.tga
+base_material data/terrain/campaign/barbarian_invasion/textures/042_material.tga
+winter_base_albedo data/terrain/campaign/barbarian_invasion/textures_winter/042_albedo.tga
+winter_base_material data/terrain/campaign/barbarian_invasion/textures/042_material.tga
+heightmap data/terrain/campaign/barbarian_invasion/heightmap/042_lod0.bin
+
+file data/terrain/campaign/barbarian_invasion/pieces/043_lod0.cas
+base_albedo data/terrain/campaign/barbarian_invasion/textures/043_albedo.tga
+base_material data/terrain/campaign/barbarian_invasion/textures/043_material.tga
+winter_base_albedo data/terrain/campaign/barbarian_invasion/textures_winter/043_albedo.tga
+winter_base_material data/terrain/campaign/barbarian_invasion/textures/043_material.tga
+heightmap data/terrain/campaign/barbarian_invasion/heightmap/043_lod0.bin
+
+file data/terrain/campaign/barbarian_invasion/pieces/044_lod0.cas
+base_albedo data/terrain/campaign/barbarian_invasion/textures/044_albedo.tga
+base_material data/terrain/campaign/barbarian_invasion/textures/044_material.tga
+winter_base_albedo data/terrain/campaign/barbarian_invasion/textures_winter/044_albedo.tga
+winter_base_material data/terrain/campaign/barbarian_invasion/textures/044_material.tga
+heightmap data/terrain/campaign/barbarian_invasion/heightmap/044_lod0.bin
+
+file data/terrain/campaign/barbarian_invasion/pieces/045_lod0.cas
+base_albedo data/terrain/campaign/barbarian_invasion/textures/045_albedo.tga
+base_material data/terrain/campaign/barbarian_invasion/textures/045_material.tga
+winter_base_albedo data/terrain/campaign/barbarian_invasion/textures_winter/045_albedo.tga
+winter_base_material data/terrain/campaign/barbarian_invasion/textures/045_material.tga
+heightmap data/terrain/campaign/barbarian_invasion/heightmap/045_lod0.bin
+
+file data/terrain/campaign/barbarian_invasion/pieces/046_lod0.cas
+base_albedo data/terrain/campaign/barbarian_invasion/textures/046_albedo.tga
+base_material data/terrain/campaign/barbarian_invasion/textures/046_material.tga
+winter_base_albedo data/terrain/campaign/barbarian_invasion/textures_winter/046_albedo.tga
+winter_base_material data/terrain/campaign/barbarian_invasion/textures/046_material.tga
+heightmap data/terrain/campaign/barbarian_invasion/heightmap/046_lod0.bin
+
+file data/terrain/campaign/barbarian_invasion/pieces/047_lod0.cas
+base_albedo data/terrain/campaign/barbarian_invasion/textures/047_albedo.tga
+base_material data/terrain/campaign/barbarian_invasion/textures/047_material.tga
+winter_base_albedo data/terrain/campaign/barbarian_invasion/textures_winter/047_albedo.tga
+winter_base_material data/terrain/campaign/barbarian_invasion/textures/047_material.tga
+heightmap data/terrain/campaign/barbarian_invasion/heightmap/047_lod0.bin
+
+file data/terrain/campaign/barbarian_invasion/pieces/048_lod0.cas
+base_albedo data/terrain/campaign/barbarian_invasion/textures/048_albedo.tga
+base_material data/terrain/campaign/barbarian_invasion/textures/048_material.tga
+winter_base_albedo data/terrain/campaign/barbarian_invasion/textures_winter/048_albedo.tga
+winter_base_material data/terrain/campaign/barbarian_invasion/textures/048_material.tga
+heightmap data/terrain/campaign/barbarian_invasion/heightmap/048_lod0.bin
+
+file data/terrain/campaign/barbarian_invasion/pieces/049_lod0.cas
+base_albedo data/terrain/campaign/barbarian_invasion/textures/049_albedo.tga
+base_material data/terrain/campaign/barbarian_invasion/textures/049_material.tga
+winter_base_albedo data/terrain/campaign/barbarian_invasion/textures_winter/049_albedo.tga
+winter_base_material data/terrain/campaign/barbarian_invasion/textures/049_material.tga
+heightmap data/terrain/campaign/barbarian_invasion/heightmap/049_lod0.bin
+
+file data/terrain/campaign/barbarian_invasion/pieces/050_lod0.cas
+base_albedo data/terrain/campaign/barbarian_invasion/textures/050_albedo.tga
+base_material data/terrain/campaign/barbarian_invasion/textures/050_material.tga
+winter_base_albedo data/terrain/campaign/barbarian_invasion/textures_winter/050_albedo.tga
+winter_base_material data/terrain/campaign/barbarian_invasion/textures/050_material.tga
+heightmap data/terrain/campaign/barbarian_invasion/heightmap/050_lod0.bin
+
+file data/terrain/campaign/barbarian_invasion/pieces/051_lod0.cas
+base_albedo data/terrain/campaign/barbarian_invasion/textures/051_albedo.tga
+base_material data/terrain/campaign/barbarian_invasion/textures/051_material.tga
+winter_base_albedo data/terrain/campaign/barbarian_invasion/textures_winter/051_albedo.tga
+winter_base_material data/terrain/campaign/barbarian_invasion/textures/051_material.tga
+heightmap data/terrain/campaign/barbarian_invasion/heightmap/051_lod0.bin
+
+file data/terrain/campaign/barbarian_invasion/pieces/052_lod0.cas
+base_albedo data/terrain/campaign/barbarian_invasion/textures/052_albedo.tga
+base_material data/terrain/campaign/barbarian_invasion/textures/052_material.tga
+winter_base_albedo data/terrain/campaign/barbarian_invasion/textures_winter/052_albedo.tga
+winter_base_material data/terrain/campaign/barbarian_invasion/textures/052_material.tga
+heightmap data/terrain/campaign/barbarian_invasion/heightmap/052_lod0.bin
+
+file data/terrain/campaign/barbarian_invasion/pieces/053_lod0.cas
+base_albedo data/terrain/campaign/barbarian_invasion/textures/053_albedo.tga
+base_material data/terrain/campaign/barbarian_invasion/textures/053_material.tga
+winter_base_albedo data/terrain/campaign/barbarian_invasion/textures_winter/053_albedo.tga
+winter_base_material data/terrain/campaign/barbarian_invasion/textures/053_material.tga
+heightmap data/terrain/campaign/barbarian_invasion/heightmap/053_lod0.bin
+
+file data/terrain/campaign/barbarian_invasion/pieces/054_lod0.cas
+base_albedo data/terrain/campaign/barbarian_invasion/textures/054_albedo.tga
+base_material data/terrain/campaign/barbarian_invasion/textures/054_material.tga
+winter_base_albedo data/terrain/campaign/barbarian_invasion/textures_winter/054_albedo.tga
+winter_base_material data/terrain/campaign/barbarian_invasion/textures/054_material.tga
+heightmap data/terrain/campaign/barbarian_invasion/heightmap/054_lod0.bin
+
+file data/terrain/campaign/barbarian_invasion/pieces/055_lod0.cas
+base_albedo data/terrain/campaign/barbarian_invasion/textures/055_albedo.tga
+base_material data/terrain/campaign/barbarian_invasion/textures/055_material.tga
+winter_base_albedo data/terrain/campaign/barbarian_invasion/textures_winter/055_albedo.tga
+winter_base_material data/terrain/campaign/barbarian_invasion/textures/055_material.tga
+heightmap data/terrain/campaign/barbarian_invasion/heightmap/055_lod0.bin
+
+file data/terrain/campaign/barbarian_invasion/pieces/056_lod0.cas
+base_albedo data/terrain/campaign/barbarian_invasion/textures/056_albedo.tga
+base_material data/terrain/campaign/barbarian_invasion/textures/056_material.tga
+winter_base_albedo data/terrain/campaign/barbarian_invasion/textures_winter/056_albedo.tga
+winter_base_material data/terrain/campaign/barbarian_invasion/textures/056_material.tga
+heightmap data/terrain/campaign/barbarian_invasion/heightmap/056_lod0.bin
+
+file data/terrain/campaign/barbarian_invasion/pieces/057_lod0.cas
+base_albedo data/terrain/campaign/barbarian_invasion/textures/057_albedo.tga
+base_material data/terrain/campaign/barbarian_invasion/textures/057_material.tga
+winter_base_albedo data/terrain/campaign/barbarian_invasion/textures_winter/057_albedo.tga
+winter_base_material data/terrain/campaign/barbarian_invasion/textures/057_material.tga
+heightmap data/terrain/campaign/barbarian_invasion/heightmap/057_lod0.bin
+
+file data/terrain/campaign/barbarian_invasion/pieces/058_lod0.cas
+base_albedo data/terrain/campaign/barbarian_invasion/textures/058_albedo.tga
+base_material data/terrain/campaign/barbarian_invasion/textures/058_material.tga
+winter_base_albedo data/terrain/campaign/barbarian_invasion/textures_winter/058_albedo.tga
+winter_base_material data/terrain/campaign/barbarian_invasion/textures/058_material.tga
+heightmap data/terrain/campaign/barbarian_invasion/heightmap/058_lod0.bin
+
+file data/terrain/campaign/barbarian_invasion/pieces/059_lod0.cas
+base_albedo data/terrain/campaign/barbarian_invasion/textures/059_albedo.tga
+base_material data/terrain/campaign/barbarian_invasion/textures/059_material.tga
+winter_base_albedo data/terrain/campaign/barbarian_invasion/textures_winter/059_albedo.tga
+winter_base_material data/terrain/campaign/barbarian_invasion/textures/059_material.tga
+heightmap data/terrain/campaign/barbarian_invasion/heightmap/059_lod0.bin
+
+file data/terrain/campaign/barbarian_invasion/pieces/060_lod0.cas
+base_albedo data/terrain/campaign/barbarian_invasion/textures/060_albedo.tga
+base_material data/terrain/campaign/barbarian_invasion/textures/060_material.tga
+winter_base_albedo data/terrain/campaign/barbarian_invasion/textures_winter/060_albedo.tga
+winter_base_material data/terrain/campaign/barbarian_invasion/textures/060_material.tga
+heightmap data/terrain/campaign/barbarian_invasion/heightmap/060_lod0.bin
+
+file data/terrain/campaign/barbarian_invasion/pieces/061_lod0.cas
+base_albedo data/terrain/campaign/barbarian_invasion/textures/061_albedo.tga
+base_material data/terrain/campaign/barbarian_invasion/textures/061_material.tga
+winter_base_albedo data/terrain/campaign/barbarian_invasion/textures_winter/061_albedo.tga
+winter_base_material data/terrain/campaign/barbarian_invasion/textures/061_material.tga
+heightmap data/terrain/campaign/barbarian_invasion/heightmap/061_lod0.bin
+
+file data/terrain/campaign/barbarian_invasion/pieces/062_lod0.cas
+base_albedo data/terrain/campaign/barbarian_invasion/textures/062_albedo.tga
+base_material data/terrain/campaign/barbarian_invasion/textures/062_material.tga
+winter_base_albedo data/terrain/campaign/barbarian_invasion/textures_winter/062_albedo.tga
+winter_base_material data/terrain/campaign/barbarian_invasion/textures/062_material.tga
+heightmap data/terrain/campaign/barbarian_invasion/heightmap/062_lod0.bin
+
+file data/terrain/campaign/barbarian_invasion/pieces/063_lod0.cas
+base_albedo data/terrain/campaign/barbarian_invasion/textures/063_albedo.tga
+base_material data/terrain/campaign/barbarian_invasion/textures/063_material.tga
+winter_base_albedo data/terrain/campaign/barbarian_invasion/textures_winter/063_albedo.tga
+winter_base_material data/terrain/campaign/barbarian_invasion/textures/063_material.tga
+heightmap data/terrain/campaign/barbarian_invasion/heightmap/063_lod0.bin
+
+file data/terrain/campaign/barbarian_invasion/pieces/064_lod0.cas
+base_albedo data/terrain/campaign/barbarian_invasion/textures/064_albedo.tga
+base_material data/terrain/campaign/barbarian_invasion/textures/064_material.tga
+winter_base_albedo data/terrain/campaign/barbarian_invasion/textures_winter/064_albedo.tga
+winter_base_material data/terrain/campaign/barbarian_invasion/textures/064_material.tga
+heightmap data/terrain/campaign/barbarian_invasion/heightmap/064_lod0.bin
+
+file data/terrain/campaign/barbarian_invasion/pieces/065_lod0.cas
+base_albedo data/terrain/campaign/barbarian_invasion/textures/065_albedo.tga
+base_material data/terrain/campaign/barbarian_invasion/textures/065_material.tga
+winter_base_albedo data/terrain/campaign/barbarian_invasion/textures_winter/065_albedo.tga
+winter_base_material data/terrain/campaign/barbarian_invasion/textures/065_material.tga
+heightmap data/terrain/campaign/barbarian_invasion/heightmap/065_lod0.bin
+
+file data/terrain/campaign/barbarian_invasion/pieces/066_lod0.cas
+base_albedo data/terrain/campaign/barbarian_invasion/textures/066_albedo.tga
+base_material data/terrain/campaign/barbarian_invasion/textures/066_material.tga
+winter_base_albedo data/terrain/campaign/barbarian_invasion/textures_winter/066_albedo.tga
+winter_base_material data/terrain/campaign/barbarian_invasion/textures/066_material.tga
+heightmap data/terrain/campaign/barbarian_invasion/heightmap/066_lod0.bin
+
+file data/terrain/campaign/barbarian_invasion/pieces/067_lod0.cas
+base_albedo data/terrain/campaign/barbarian_invasion/textures/067_albedo.tga
+base_material data/terrain/campaign/barbarian_invasion/textures/067_material.tga
+winter_base_albedo data/terrain/campaign/barbarian_invasion/textures_winter/067_albedo.tga
+winter_base_material data/terrain/campaign/barbarian_invasion/textures/067_material.tga
+heightmap data/terrain/campaign/barbarian_invasion/heightmap/067_lod0.bin
+
+file data/terrain/campaign/barbarian_invasion/pieces/068_lod0.cas
+base_albedo data/terrain/campaign/barbarian_invasion/textures/068_albedo.tga
+base_material data/terrain/campaign/barbarian_invasion/textures/068_material.tga
+winter_base_albedo data/terrain/campaign/barbarian_invasion/textures_winter/068_albedo.tga
+winter_base_material data/terrain/campaign/barbarian_invasion/textures/068_material.tga
+heightmap data/terrain/campaign/barbarian_invasion/heightmap/068_lod0.bin
+
+file data/terrain/campaign/barbarian_invasion/pieces/069_lod0.cas
+base_albedo data/terrain/campaign/barbarian_invasion/textures/069_albedo.tga
+base_material data/terrain/campaign/barbarian_invasion/textures/069_material.tga
+winter_base_albedo data/terrain/campaign/barbarian_invasion/textures_winter/069_albedo.tga
+winter_base_material data/terrain/campaign/barbarian_invasion/textures/069_material.tga
+heightmap data/terrain/campaign/barbarian_invasion/heightmap/069_lod0.bin
+
+file data/terrain/campaign/barbarian_invasion/pieces/070_lod0.cas
+base_albedo data/terrain/campaign/barbarian_invasion/textures/070_albedo.tga
+base_material data/terrain/campaign/barbarian_invasion/textures/070_material.tga
+winter_base_albedo data/terrain/campaign/barbarian_invasion/textures_winter/070_albedo.tga
+winter_base_material data/terrain/campaign/barbarian_invasion/textures/070_material.tga
+heightmap data/terrain/campaign/barbarian_invasion/heightmap/070_lod0.bin
+
+file data/terrain/campaign/barbarian_invasion/pieces/071_lod0.cas
+base_albedo data/terrain/campaign/barbarian_invasion/textures/071_albedo.tga
+base_material data/terrain/campaign/barbarian_invasion/textures/071_material.tga
+winter_base_albedo data/terrain/campaign/barbarian_invasion/textures_winter/071_albedo.tga
+winter_base_material data/terrain/campaign/barbarian_invasion/textures/071_material.tga
+heightmap data/terrain/campaign/barbarian_invasion/heightmap/071_lod0.bin
+
+file data/terrain/campaign/barbarian_invasion/pieces/072_lod0.cas
+base_albedo data/terrain/campaign/barbarian_invasion/textures/072_albedo.tga
+base_material data/terrain/campaign/barbarian_invasion/textures/072_material.tga
+winter_base_albedo data/terrain/campaign/barbarian_invasion/textures_winter/072_albedo.tga
+winter_base_material data/terrain/campaign/barbarian_invasion/textures/072_material.tga
+heightmap data/terrain/campaign/barbarian_invasion/heightmap/072_lod0.bin
+
+file data/terrain/campaign/barbarian_invasion/pieces/073_lod0.cas
+base_albedo data/terrain/campaign/barbarian_invasion/textures/073_albedo.tga
+base_material data/terrain/campaign/barbarian_invasion/textures/073_material.tga
+winter_base_albedo data/terrain/campaign/barbarian_invasion/textures_winter/073_albedo.tga
+winter_base_material data/terrain/campaign/barbarian_invasion/textures/073_material.tga
+heightmap data/terrain/campaign/barbarian_invasion/heightmap/073_lod0.bin
+
+file data/terrain/campaign/barbarian_invasion/pieces/074_lod0.cas
+base_albedo data/terrain/campaign/barbarian_invasion/textures/074_albedo.tga
+base_material data/terrain/campaign/barbarian_invasion/textures/074_material.tga
+winter_base_albedo data/terrain/campaign/barbarian_invasion/textures_winter/074_albedo.tga
+winter_base_material data/terrain/campaign/barbarian_invasion/textures/074_material.tga
+heightmap data/terrain/campaign/barbarian_invasion/heightmap/074_lod0.bin
+
+file data/terrain/campaign/barbarian_invasion/pieces/075_lod0.cas
+base_albedo data/terrain/campaign/barbarian_invasion/textures/075_albedo.tga
+base_material data/terrain/campaign/barbarian_invasion/textures/075_material.tga
+winter_base_albedo data/terrain/campaign/barbarian_invasion/textures_winter/075_albedo.tga
+winter_base_material data/terrain/campaign/barbarian_invasion/textures/075_material.tga
+heightmap data/terrain/campaign/barbarian_invasion/heightmap/075_lod0.bin
+
+file data/terrain/campaign/barbarian_invasion/pieces/076_lod0.cas
+base_albedo data/terrain/campaign/barbarian_invasion/textures/076_albedo.tga
+base_material data/terrain/campaign/barbarian_invasion/textures/076_material.tga
+winter_base_albedo data/terrain/campaign/barbarian_invasion/textures_winter/076_albedo.tga
+winter_base_material data/terrain/campaign/barbarian_invasion/textures/076_material.tga
+heightmap data/terrain/campaign/barbarian_invasion/heightmap/076_lod0.bin
+
+file data/terrain/campaign/barbarian_invasion/pieces/077_lod0.cas
+base_albedo data/terrain/campaign/barbarian_invasion/textures/077_albedo.tga
+base_material data/terrain/campaign/barbarian_invasion/textures/077_material.tga
+winter_base_albedo data/terrain/campaign/barbarian_invasion/textures_winter/077_albedo.tga
+winter_base_material data/terrain/campaign/barbarian_invasion/textures/077_material.tga
+heightmap data/terrain/campaign/barbarian_invasion/heightmap/077_lod0.bin
+
+file data/terrain/campaign/barbarian_invasion/pieces/078_lod0.cas
+base_albedo data/terrain/campaign/barbarian_invasion/textures/078_albedo.tga
+base_material data/terrain/campaign/barbarian_invasion/textures/078_material.tga
+winter_base_albedo data/terrain/campaign/barbarian_invasion/textures_winter/078_albedo.tga
+winter_base_material data/terrain/campaign/barbarian_invasion/textures/078_material.tga
+heightmap data/terrain/campaign/barbarian_invasion/heightmap/078_lod0.bin
+
+file data/terrain/campaign/barbarian_invasion/pieces/079_lod0.cas
+base_albedo data/terrain/campaign/barbarian_invasion/textures/079_albedo.tga
+base_material data/terrain/campaign/barbarian_invasion/textures/079_material.tga
+winter_base_albedo data/terrain/campaign/barbarian_invasion/textures_winter/079_albedo.tga
+winter_base_material data/terrain/campaign/barbarian_invasion/textures/079_material.tga
+heightmap data/terrain/campaign/barbarian_invasion/heightmap/079_lod0.bin
+
+file data/terrain/campaign/barbarian_invasion/pieces/080_lod0.cas
+base_albedo data/terrain/campaign/barbarian_invasion/textures/080_albedo.tga
+base_material data/terrain/campaign/barbarian_invasion/textures/080_material.tga
+winter_base_albedo data/terrain/campaign/barbarian_invasion/textures_winter/080_albedo.tga
+winter_base_material data/terrain/campaign/barbarian_invasion/textures/080_material.tga
+heightmap data/terrain/campaign/barbarian_invasion/heightmap/080_lod0.bin
+
+file data/terrain/campaign/barbarian_invasion/pieces/081_lod0.cas
+base_albedo data/terrain/campaign/barbarian_invasion/textures/081_albedo.tga
+base_material data/terrain/campaign/barbarian_invasion/textures/081_material.tga
+winter_base_albedo data/terrain/campaign/barbarian_invasion/textures_winter/081_albedo.tga
+winter_base_material data/terrain/campaign/barbarian_invasion/textures/081_material.tga
+heightmap data/terrain/campaign/barbarian_invasion/heightmap/081_lod0.bin
+
+file data/terrain/campaign/barbarian_invasion/pieces/082_lod0.cas
+base_albedo data/terrain/campaign/barbarian_invasion/textures/082_albedo.tga
+base_material data/terrain/campaign/barbarian_invasion/textures/082_material.tga
+winter_base_albedo data/terrain/campaign/barbarian_invasion/textures_winter/082_albedo.tga
+winter_base_material data/terrain/campaign/barbarian_invasion/textures/082_material.tga
+heightmap data/terrain/campaign/barbarian_invasion/heightmap/082_lod0.bin
+
+file data/terrain/campaign/barbarian_invasion/pieces/083_lod0.cas
+base_albedo data/terrain/campaign/barbarian_invasion/textures/083_albedo.tga
+base_material data/terrain/campaign/barbarian_invasion/textures/083_material.tga
+winter_base_albedo data/terrain/campaign/barbarian_invasion/textures_winter/083_albedo.tga
+winter_base_material data/terrain/campaign/barbarian_invasion/textures/083_material.tga
+heightmap data/terrain/campaign/barbarian_invasion/heightmap/083_lod0.bin
+
+file data/terrain/campaign/barbarian_invasion/pieces/084_lod0.cas
+base_albedo data/terrain/campaign/barbarian_invasion/textures/084_albedo.tga
+base_material data/terrain/campaign/barbarian_invasion/textures/084_material.tga
+winter_base_albedo data/terrain/campaign/barbarian_invasion/textures_winter/084_albedo.tga
+winter_base_material data/terrain/campaign/barbarian_invasion/textures/084_material.tga
+heightmap data/terrain/campaign/barbarian_invasion/heightmap/084_lod0.bin
+
+file data/terrain/campaign/barbarian_invasion/pieces/085_lod0.cas
+base_albedo data/terrain/campaign/barbarian_invasion/textures/085_albedo.tga
+base_material data/terrain/campaign/barbarian_invasion/textures/085_material.tga
+winter_base_albedo data/terrain/campaign/barbarian_invasion/textures_winter/085_albedo.tga
+winter_base_material data/terrain/campaign/barbarian_invasion/textures/085_material.tga
+heightmap data/terrain/campaign/barbarian_invasion/heightmap/085_lod0.bin
+
+file data/terrain/campaign/barbarian_invasion/pieces/086_lod0.cas
+base_albedo data/terrain/campaign/barbarian_invasion/textures/086_albedo.tga
+base_material data/terrain/campaign/barbarian_invasion/textures/086_material.tga
+winter_base_albedo data/terrain/campaign/barbarian_invasion/textures_winter/086_albedo.tga
+winter_base_material data/terrain/campaign/barbarian_invasion/textures/086_material.tga
+heightmap data/terrain/campaign/barbarian_invasion/heightmap/086_lod0.bin
+
+file data/terrain/campaign/barbarian_invasion/pieces/087_lod0.cas
+base_albedo data/terrain/campaign/barbarian_invasion/textures/087_albedo.tga
+base_material data/terrain/campaign/barbarian_invasion/textures/087_material.tga
+winter_base_albedo data/terrain/campaign/barbarian_invasion/textures_winter/087_albedo.tga
+winter_base_material data/terrain/campaign/barbarian_invasion/textures/087_material.tga
+heightmap data/terrain/campaign/barbarian_invasion/heightmap/087_lod0.bin
+
+file data/terrain/campaign/barbarian_invasion/pieces/088_lod0.cas
+base_albedo data/terrain/campaign/barbarian_invasion/textures/088_albedo.tga
+base_material data/terrain/campaign/barbarian_invasion/textures/088_material.tga
+winter_base_albedo data/terrain/campaign/barbarian_invasion/textures_winter/088_albedo.tga
+winter_base_material data/terrain/campaign/barbarian_invasion/textures/088_material.tga
+heightmap data/terrain/campaign/barbarian_invasion/heightmap/088_lod0.bin
+
+file data/terrain/campaign/barbarian_invasion/pieces/089_lod0.cas
+base_albedo data/terrain/campaign/barbarian_invasion/textures/089_albedo.tga
+base_material data/terrain/campaign/barbarian_invasion/textures/089_material.tga
+winter_base_albedo data/terrain/campaign/barbarian_invasion/textures_winter/089_albedo.tga
+winter_base_material data/terrain/campaign/barbarian_invasion/textures/089_material.tga
+heightmap data/terrain/campaign/barbarian_invasion/heightmap/089_lod0.bin
+
+file data/terrain/campaign/barbarian_invasion/pieces/090_lod0.cas
+base_albedo data/terrain/campaign/barbarian_invasion/textures/090_albedo.tga
+base_material data/terrain/campaign/barbarian_invasion/textures/090_material.tga
+winter_base_albedo data/terrain/campaign/barbarian_invasion/textures_winter/090_albedo.tga
+winter_base_material data/terrain/campaign/barbarian_invasion/textures/090_material.tga
+heightmap data/terrain/campaign/barbarian_invasion/heightmap/090_lod0.bin
+
+file data/terrain/campaign/barbarian_invasion/pieces/091_lod0.cas
+base_albedo data/terrain/campaign/barbarian_invasion/textures/091_albedo.tga
+base_material data/terrain/campaign/barbarian_invasion/textures/091_material.tga
+winter_base_albedo data/terrain/campaign/barbarian_invasion/textures_winter/091_albedo.tga
+winter_base_material data/terrain/campaign/barbarian_invasion/textures/091_material.tga
+heightmap data/terrain/campaign/barbarian_invasion/heightmap/091_lod0.bin
+
+file data/terrain/campaign/barbarian_invasion/pieces/092_lod0.cas
+base_albedo data/terrain/campaign/barbarian_invasion/textures/092_albedo.tga
+base_material data/terrain/campaign/barbarian_invasion/textures/092_material.tga
+winter_base_albedo data/terrain/campaign/barbarian_invasion/textures_winter/092_albedo.tga
+winter_base_material data/terrain/campaign/barbarian_invasion/textures/092_material.tga
+heightmap data/terrain/campaign/barbarian_invasion/heightmap/092_lod0.bin
+
+file data/terrain/campaign/barbarian_invasion/pieces/093_lod0.cas
+base_albedo data/terrain/campaign/barbarian_invasion/textures/093_albedo.tga
+base_material data/terrain/campaign/barbarian_invasion/textures/093_material.tga
+winter_base_albedo data/terrain/campaign/barbarian_invasion/textures_winter/093_albedo.tga
+winter_base_material data/terrain/campaign/barbarian_invasion/textures/093_material.tga
+heightmap data/terrain/campaign/barbarian_invasion/heightmap/093_lod0.bin
+
+file data/terrain/campaign/barbarian_invasion/pieces/094_lod0.cas
+base_albedo data/terrain/campaign/barbarian_invasion/textures/094_albedo.tga
+base_material data/terrain/campaign/barbarian_invasion/textures/094_material.tga
+winter_base_albedo data/terrain/campaign/barbarian_invasion/textures_winter/094_albedo.tga
+winter_base_material data/terrain/campaign/barbarian_invasion/textures/094_material.tga
+heightmap data/terrain/campaign/barbarian_invasion/heightmap/094_lod0.bin
+
+file data/terrain/campaign/barbarian_invasion/pieces/095_lod0.cas
+base_albedo data/terrain/campaign/barbarian_invasion/textures/095_albedo.tga
+base_material data/terrain/campaign/barbarian_invasion/textures/095_material.tga
+winter_base_albedo data/terrain/campaign/barbarian_invasion/textures_winter/095_albedo.tga
+winter_base_material data/terrain/campaign/barbarian_invasion/textures/095_material.tga
+heightmap data/terrain/campaign/barbarian_invasion/heightmap/095_lod0.bin
+
+file data/terrain/campaign/barbarian_invasion/pieces/096_lod0.cas
+base_albedo data/terrain/campaign/barbarian_invasion/textures/096_albedo.tga
+base_material data/terrain/campaign/barbarian_invasion/textures/096_material.tga
+winter_base_albedo data/terrain/campaign/barbarian_invasion/textures_winter/096_albedo.tga
+winter_base_material data/terrain/campaign/barbarian_invasion/textures/096_material.tga
+heightmap data/terrain/campaign/barbarian_invasion/heightmap/096_lod0.bin
+
+file data/terrain/campaign/barbarian_invasion/pieces/097_lod0.cas
+base_albedo data/terrain/campaign/barbarian_invasion/textures/097_albedo.tga
+base_material data/terrain/campaign/barbarian_invasion/textures/097_material.tga
+winter_base_albedo data/terrain/campaign/barbarian_invasion/textures_winter/097_albedo.tga
+winter_base_material data/terrain/campaign/barbarian_invasion/textures/097_material.tga
+heightmap data/terrain/campaign/barbarian_invasion/heightmap/097_lod0.bin
+
+file data/terrain/campaign/barbarian_invasion/pieces/098_lod0.cas
+base_albedo data/terrain/campaign/barbarian_invasion/textures/098_albedo.tga
+base_material data/terrain/campaign/barbarian_invasion/textures/098_material.tga
+winter_base_albedo data/terrain/campaign/barbarian_invasion/textures_winter/098_albedo.tga
+winter_base_material data/terrain/campaign/barbarian_invasion/textures/098_material.tga
+heightmap data/terrain/campaign/barbarian_invasion/heightmap/098_lod0.bin
+
+file data/terrain/campaign/barbarian_invasion/pieces/099_lod0.cas
+base_albedo data/terrain/campaign/barbarian_invasion/textures/099_albedo.tga
+base_material data/terrain/campaign/barbarian_invasion/textures/099_material.tga
+winter_base_albedo data/terrain/campaign/barbarian_invasion/textures_winter/099_albedo.tga
+winter_base_material data/terrain/campaign/barbarian_invasion/textures/099_material.tga
+heightmap data/terrain/campaign/barbarian_invasion/heightmap/099_lod0.bin
+
+file data/terrain/campaign/barbarian_invasion/pieces/100_lod0.cas
+base_albedo data/terrain/campaign/barbarian_invasion/textures/100_albedo.tga
+base_material data/terrain/campaign/barbarian_invasion/textures/100_material.tga
+winter_base_albedo data/terrain/campaign/barbarian_invasion/textures_winter/100_albedo.tga
+winter_base_material data/terrain/campaign/barbarian_invasion/textures/100_material.tga
+heightmap data/terrain/campaign/barbarian_invasion/heightmap/100_lod0.bin
+
+file data/terrain/campaign/barbarian_invasion/pieces/101_lod0.cas
+base_albedo data/terrain/campaign/barbarian_invasion/textures/101_albedo.tga
+base_material data/terrain/campaign/barbarian_invasion/textures/101_material.tga
+winter_base_albedo data/terrain/campaign/barbarian_invasion/textures_winter/101_albedo.tga
+winter_base_material data/terrain/campaign/barbarian_invasion/textures/101_material.tga
+heightmap data/terrain/campaign/barbarian_invasion/heightmap/101_lod0.bin
+
+file data/terrain/campaign/barbarian_invasion/pieces/102_lod0.cas
+base_albedo data/terrain/campaign/barbarian_invasion/textures/102_albedo.tga
+base_material data/terrain/campaign/barbarian_invasion/textures/102_material.tga
+winter_base_albedo data/terrain/campaign/barbarian_invasion/textures_winter/102_albedo.tga
+winter_base_material data/terrain/campaign/barbarian_invasion/textures/102_material.tga
+heightmap data/terrain/campaign/barbarian_invasion/heightmap/102_lod0.bin
+
+file data/terrain/campaign/barbarian_invasion/pieces/103_lod0.cas
+base_albedo data/terrain/campaign/barbarian_invasion/textures/103_albedo.tga
+base_material data/terrain/campaign/barbarian_invasion/textures/103_material.tga
+winter_base_albedo data/terrain/campaign/barbarian_invasion/textures_winter/103_albedo.tga
+winter_base_material data/terrain/campaign/barbarian_invasion/textures/103_material.tga
+heightmap data/terrain/campaign/barbarian_invasion/heightmap/103_lod0.bin
+
+file data/terrain/campaign/barbarian_invasion/pieces/104_lod0.cas
+base_albedo data/terrain/campaign/barbarian_invasion/textures/104_albedo.tga
+base_material data/terrain/campaign/barbarian_invasion/textures/104_material.tga
+winter_base_albedo data/terrain/campaign/barbarian_invasion/textures_winter/104_albedo.tga
+winter_base_material data/terrain/campaign/barbarian_invasion/textures/104_material.tga
+heightmap data/terrain/campaign/barbarian_invasion/heightmap/104_lod0.bin

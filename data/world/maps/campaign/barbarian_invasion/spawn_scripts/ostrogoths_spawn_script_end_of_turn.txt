@@ -1,0 +1,20 @@
+;; NOTE: on revolts this is called when the offical ownership of the settlement has _just_ been changed, 
+;; but nothing else has been processed yet, so keep that in mind when doing checks
+;; (i.e. you might have a settlement that is the last one of a faction: they would think that they still had
+;;  1 settlement remaining, but if you actually check the world they don't have any)
+
+script
+	;; if it's the end of turn 2, the player is ostrogoths,
+	;; the ostrogoths haven't spawned and this settlement is Campus Iazyges
+	
+	if	   I_TurnNumber == 1
+		&& I_LocalFaction ostrogoths
+		&& not FactionIsAlive ostrogoths
+		&& SettlementName Campus_Iazyges
+	
+		return true ;;we should spawn
+	end_if
+	
+	;;else don't spawn
+	return false
+end_script

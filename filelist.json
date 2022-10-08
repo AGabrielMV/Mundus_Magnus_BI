@@ -1,0 +1,2370 @@
+[
+	{
+		"filename": "data\/descr_aerial_map_tile_models.txt",
+		"checksum": 572242310
+	},
+	{
+		"filename": "data\/descr_banners.txt",
+		"checksum": 1529163960
+	},
+	{
+		"filename": "data\/descr_campaigns.txt",
+		"checksum": 1121054533
+	},
+	{
+		"filename": "data\/descr_character.txt",
+		"checksum": 929827286
+	},
+	{
+		"filename": "data\/descr_sm_faction_logos.txt",
+		"checksum": 1661043331
+	},
+	{
+		"filename": "data\/descr_sm_factions.txt",
+		"checksum": 3740504546
+	},
+	{
+		"filename": "data\/descr_sm_factions_difficulty.json",
+		"checksum": 1064391472
+	},
+	{
+		"filename": "data\/descr_sounds.txt",
+		"checksum": 4041042488
+	},
+	{
+		"filename": "data\/descr_standards.txt",
+		"checksum": 813070430
+	},
+	{
+		"filename": "data\/export_descr_buildings.txt",
+		"checksum": 368711467
+	},
+	{
+		"filename": "data\/export_descr_unit.txt",
+		"checksum": 375826787
+	},
+	{
+		"filename": "data\/original_overrides\/override files.txt",
+		"checksum": 1706503018
+	},
+	{
+		"filename": "data\/original_overrides\/resource_quantity\/world\/maps\/campaign\/imperial_campaign\/descr_strat.txt",
+		"checksum": 1876317122
+	},
+	{
+		"filename": "data\/terrain\/aerial_map\/sea\/surf2b.tga.dds",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/terrain\/aerial_map\/special\/summer\/cultivated.tga.dds",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/terrain\/aerial_map\/special\/summer\/cultivated_snow.tga.dds",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/terrain\/aerial_map\/special\/winter\/cultivated.tga.dds",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/terrain\/aerial_map\/special\/winter\/cultivated_n.tga.dds",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/terrain\/aerial_map\/special\/winter\/cultivated_s.tga.dds",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/terrain\/aerial_map\/special\/winter\/cultivated_snow.tga.dds",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/terrain\/aerial_map\/tile_models\/river_a\/river_a.cas",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/coastline\/coastline.cas",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/coastline\/coastline_1.cas",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/descr_map_coastlines.txt",
+		"checksum": 3403304894
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/descr_map_tiles.txt",
+		"checksum": 747541242
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/frame\/black.tga.dds",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/frame\/corner.tga.dds",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/frame\/corner_n.tga.dds",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/frame\/corner_s.tga.dds",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/frame\/edge.tga.dds",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/frame\/edge_n.tga.dds",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/frame\/edge_s.tga.dds",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/frame\/frame.cas",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/heightmap\/001_lod0.bin",
+		"checksum": 2795882310
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/heightmap\/002_lod0.bin",
+		"checksum": 1645519089
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/heightmap\/003_lod0.bin",
+		"checksum": 1991488159
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/heightmap\/004_lod0.bin",
+		"checksum": 3609223671
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/heightmap\/005_lod0.bin",
+		"checksum": 3604798617
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/heightmap\/006_lod0.bin",
+		"checksum": 942155471
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/heightmap\/007_lod0.bin",
+		"checksum": 2050461722
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/heightmap\/008_lod0.bin",
+		"checksum": 944300045
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/heightmap\/009_lod0.bin",
+		"checksum": 3447745232
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/heightmap\/010_lod0.bin",
+		"checksum": 1601773049
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/heightmap\/011_lod0.bin",
+		"checksum": 615375808
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/heightmap\/012_lod0.bin",
+		"checksum": 4035731146
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/heightmap\/013_lod0.bin",
+		"checksum": 3764270970
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/heightmap\/014_lod0.bin",
+		"checksum": 310263473
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/heightmap\/015_lod0.bin",
+		"checksum": 2448641732
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/heightmap\/016_lod0.bin",
+		"checksum": 3955437223
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/heightmap\/017_lod0.bin",
+		"checksum": 224072634
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/heightmap\/018_lod0.bin",
+		"checksum": 1837433941
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/heightmap\/019_lod0.bin",
+		"checksum": 3815056712
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/heightmap\/020_lod0.bin",
+		"checksum": 1157102016
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/heightmap\/021_lod0.bin",
+		"checksum": 2549558386
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/heightmap\/022_lod0.bin",
+		"checksum": 3804161221
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/heightmap\/023_lod0.bin",
+		"checksum": 1526149757
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/heightmap\/024_lod0.bin",
+		"checksum": 3901859688
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/heightmap\/025_lod0.bin",
+		"checksum": 757550668
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/heightmap\/026_lod0.bin",
+		"checksum": 1577070716
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/heightmap\/027_lod0.bin",
+		"checksum": 2896302474
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/heightmap\/028_lod0.bin",
+		"checksum": 175449475
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/heightmap\/029_lod0.bin",
+		"checksum": 1932311318
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/heightmap\/030_lod0.bin",
+		"checksum": 2697148097
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/heightmap\/031_lod0.bin",
+		"checksum": 515731102
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/heightmap\/032_lod0.bin",
+		"checksum": 757480574
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/heightmap\/033_lod0.bin",
+		"checksum": 1301508255
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/heightmap\/034_lod0.bin",
+		"checksum": 2217317068
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/heightmap\/035_lod0.bin",
+		"checksum": 3750933195
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/heightmap\/036_lod0.bin",
+		"checksum": 25551226
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/heightmap\/037_lod0.bin",
+		"checksum": 1719105226
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/heightmap\/038_lod0.bin",
+		"checksum": 1215807855
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/heightmap\/039_lod0.bin",
+		"checksum": 2551837201
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/heightmap\/040_lod0.bin",
+		"checksum": 1940415969
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/heightmap\/041_lod0.bin",
+		"checksum": 2538268472
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/heightmap\/042_lod0.bin",
+		"checksum": 3863629090
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/heightmap\/043_lod0.bin",
+		"checksum": 4136853063
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/heightmap\/044_lod0.bin",
+		"checksum": 4145525218
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/heightmap\/045_lod0.bin",
+		"checksum": 2320837743
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/heightmap\/046_lod0.bin",
+		"checksum": 3352664215
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/heightmap\/047_lod0.bin",
+		"checksum": 2278630088
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/heightmap\/048_lod0.bin",
+		"checksum": 561512437
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/heightmap\/049_lod0.bin",
+		"checksum": 3478869628
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/heightmap\/050_lod0.bin",
+		"checksum": 3398044641
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/heightmap\/051_lod0.bin",
+		"checksum": 992396408
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/heightmap\/052_lod0.bin",
+		"checksum": 1372083908
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/heightmap\/053_lod0.bin",
+		"checksum": 1670681856
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/heightmap\/054_lod0.bin",
+		"checksum": 3309793015
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/heightmap\/055_lod0.bin",
+		"checksum": 1477072010
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/heightmap\/056_lod0.bin",
+		"checksum": 4190281526
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/heightmap\/057_lod0.bin",
+		"checksum": 1669467804
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/heightmap\/058_lod0.bin",
+		"checksum": 1399589753
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/heightmap\/059_lod0.bin",
+		"checksum": 1780287025
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/heightmap\/060_lod0.bin",
+		"checksum": 4277903460
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/heightmap\/061_lod0.bin",
+		"checksum": 1259156650
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/heightmap\/062_lod0.bin",
+		"checksum": 2757017617
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/heightmap\/063_lod0.bin",
+		"checksum": 1354016657
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/heightmap\/064_lod0.bin",
+		"checksum": 3007539099
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/heightmap\/065_lod0.bin",
+		"checksum": 2557271337
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/heightmap\/066_lod0.bin",
+		"checksum": 3236738159
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/heightmap\/067_lod0.bin",
+		"checksum": 3830647563
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/heightmap\/068_lod0.bin",
+		"checksum": 3940607170
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/heightmap\/069_lod0.bin",
+		"checksum": 2577003645
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/heightmap\/070_lod0.bin",
+		"checksum": 1098555087
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/heightmap\/071_lod0.bin",
+		"checksum": 3053506098
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/heightmap\/072_lod0.bin",
+		"checksum": 1031675663
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/heightmap\/073_lod0.bin",
+		"checksum": 1449210461
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/heightmap\/074_lod0.bin",
+		"checksum": 2667669345
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/heightmap\/075_lod0.bin",
+		"checksum": 3968828893
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/heightmap\/076_lod0.bin",
+		"checksum": 3463560920
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/heightmap\/077_lod0.bin",
+		"checksum": 757529080
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/heightmap\/078_lod0.bin",
+		"checksum": 2694693693
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/heightmap\/079_lod0.bin",
+		"checksum": 2271268478
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/heightmap\/080_lod0.bin",
+		"checksum": 3936240658
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/heightmap\/081_lod0.bin",
+		"checksum": 3633919357
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/heightmap\/082_lod0.bin",
+		"checksum": 277340465
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/heightmap\/083_lod0.bin",
+		"checksum": 2904036988
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/heightmap\/084_lod0.bin",
+		"checksum": 1861206317
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/heightmap\/085_lod0.bin",
+		"checksum": 1103126101
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/heightmap\/086_lod0.bin",
+		"checksum": 1671380787
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/heightmap\/087_lod0.bin",
+		"checksum": 2633923766
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/heightmap\/088_lod0.bin",
+		"checksum": 3485879306
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/heightmap\/089_lod0.bin",
+		"checksum": 3208612750
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/heightmap\/090_lod0.bin",
+		"checksum": 1676787883
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/heightmap\/091_lod0.bin",
+		"checksum": 405633758
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/heightmap\/092_lod0.bin",
+		"checksum": 3855529224
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/heightmap\/093_lod0.bin",
+		"checksum": 254667674
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/heightmap\/094_lod0.bin",
+		"checksum": 2247482413
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/heightmap\/095_lod0.bin",
+		"checksum": 1742113787
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/heightmap\/096_lod0.bin",
+		"checksum": 1415050120
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/heightmap\/097_lod0.bin",
+		"checksum": 2469910420
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/heightmap\/098_lod0.bin",
+		"checksum": 2397920241
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/heightmap\/099_lod0.bin",
+		"checksum": 2594592957
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/heightmap\/100_lod0.bin",
+		"checksum": 2589488078
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/heightmap\/101_lod0.bin",
+		"checksum": 1975855402
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/heightmap\/102_lod0.bin",
+		"checksum": 1859927927
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/heightmap\/103_lod0.bin",
+		"checksum": 1967667887
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/heightmap\/104_lod0.bin",
+		"checksum": 909563903
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/pieces\/001_lod0.cas",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/pieces\/002_lod0.cas",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/pieces\/003_lod0.cas",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/pieces\/004_lod0.cas",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/pieces\/005_lod0.cas",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/pieces\/006_lod0.cas",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/pieces\/007_lod0.cas",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/pieces\/008_lod0.cas",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/pieces\/009_lod0.cas",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/pieces\/010_lod0.cas",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/pieces\/011_lod0.cas",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/pieces\/012_lod0.cas",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/pieces\/013_lod0.cas",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/pieces\/014_lod0.cas",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/pieces\/015_lod0.cas",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/pieces\/016_lod0.cas",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/pieces\/017_lod0.cas",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/pieces\/018_lod0.cas",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/pieces\/019_lod0.cas",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/pieces\/020_lod0.cas",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/pieces\/021_lod0.cas",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/pieces\/022_lod0.cas",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/pieces\/023_lod0.cas",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/pieces\/024_lod0.cas",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/pieces\/025_lod0.cas",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/pieces\/026_lod0.cas",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/pieces\/027_lod0.cas",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/pieces\/028_lod0.cas",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/pieces\/029_lod0.cas",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/pieces\/030_lod0.cas",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/pieces\/031_lod0.cas",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/pieces\/032_lod0.cas",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/pieces\/033_lod0.cas",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/pieces\/034_lod0.cas",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/pieces\/035_lod0.cas",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/pieces\/036_lod0.cas",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/pieces\/037_lod0.cas",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/pieces\/038_lod0.cas",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/pieces\/039_lod0.cas",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/pieces\/040_lod0.cas",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/pieces\/041_lod0.cas",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/pieces\/042_lod0.cas",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/pieces\/043_lod0.cas",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/pieces\/044_lod0.cas",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/pieces\/045_lod0.cas",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/pieces\/046_lod0.cas",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/pieces\/047_lod0.cas",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/pieces\/048_lod0.cas",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/pieces\/049_lod0.cas",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/pieces\/050_lod0.cas",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/pieces\/051_lod0.cas",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/pieces\/052_lod0.cas",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/pieces\/053_lod0.cas",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/pieces\/054_lod0.cas",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/pieces\/055_lod0.cas",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/pieces\/056_lod0.cas",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/pieces\/057_lod0.cas",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/pieces\/058_lod0.cas",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/pieces\/059_lod0.cas",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/pieces\/060_lod0.cas",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/pieces\/061_lod0.cas",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/pieces\/062_lod0.cas",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/pieces\/063_lod0.cas",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/pieces\/064_lod0.cas",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/pieces\/065_lod0.cas",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/pieces\/066_lod0.cas",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/pieces\/067_lod0.cas",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/pieces\/068_lod0.cas",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/pieces\/069_lod0.cas",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/pieces\/070_lod0.cas",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/pieces\/071_lod0.cas",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/pieces\/072_lod0.cas",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/pieces\/073_lod0.cas",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/pieces\/074_lod0.cas",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/pieces\/075_lod0.cas",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/pieces\/076_lod0.cas",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/pieces\/077_lod0.cas",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/pieces\/078_lod0.cas",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/pieces\/079_lod0.cas",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/pieces\/080_lod0.cas",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/pieces\/081_lod0.cas",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/pieces\/082_lod0.cas",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/pieces\/083_lod0.cas",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/pieces\/084_lod0.cas",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/pieces\/085_lod0.cas",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/pieces\/086_lod0.cas",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/pieces\/087_lod0.cas",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/pieces\/088_lod0.cas",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/pieces\/089_lod0.cas",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/pieces\/090_lod0.cas",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/pieces\/091_lod0.cas",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/pieces\/092_lod0.cas",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/pieces\/093_lod0.cas",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/pieces\/094_lod0.cas",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/pieces\/095_lod0.cas",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/pieces\/096_lod0.cas",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/pieces\/097_lod0.cas",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/pieces\/098_lod0.cas",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/pieces\/099_lod0.cas",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/pieces\/100_lod0.cas",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/pieces\/101_lod0.cas",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/pieces\/102_lod0.cas",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/pieces\/103_lod0.cas",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/pieces\/104_lod0.cas",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/river_mesh.cas",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/textures\/001_albedo.tga.dds",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/textures\/001_material.tga.dds",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/textures\/002_albedo.tga.dds",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/textures\/002_material.tga.dds",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/textures\/003_albedo.tga.dds",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/textures\/003_material.tga.dds",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/textures\/004_albedo.tga.dds",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/textures\/004_material.tga.dds",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/textures\/005_albedo.tga.dds",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/textures\/005_material.tga.dds",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/textures\/006_albedo.tga.dds",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/textures\/006_material.tga.dds",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/textures\/007_albedo.tga.dds",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/textures\/007_material.tga.dds",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/textures\/008_albedo.tga.dds",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/textures\/008_material.tga.dds",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/textures\/009_albedo.tga.dds",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/textures\/009_material.tga.dds",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/textures\/010_albedo.tga.dds",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/textures\/010_material.tga.dds",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/textures\/011_albedo.tga.dds",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/textures\/011_material.tga.dds",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/textures\/012_albedo.tga.dds",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/textures\/012_material.tga.dds",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/textures\/013_albedo.tga.dds",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/textures\/013_material.tga.dds",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/textures\/014_albedo.tga.dds",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/textures\/014_material.tga.dds",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/textures\/015_albedo.tga.dds",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/textures\/015_material.tga.dds",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/textures\/016_albedo.tga.dds",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/textures\/016_material.tga.dds",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/textures\/017_albedo.tga.dds",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/textures\/017_material.tga.dds",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/textures\/018_albedo.tga.dds",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/textures\/018_material.tga.dds",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/textures\/019_albedo.tga.dds",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/textures\/019_material.tga.dds",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/textures\/020_albedo.tga.dds",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/textures\/020_material.tga.dds",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/textures\/021_albedo.tga.dds",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/textures\/021_material.tga.dds",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/textures\/022_albedo.tga.dds",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/textures\/022_material.tga.dds",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/textures\/023_albedo.tga.dds",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/textures\/023_material.tga.dds",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/textures\/024_albedo.tga.dds",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/textures\/024_material.tga.dds",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/textures\/025_albedo.tga.dds",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/textures\/025_material.tga.dds",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/textures\/026_albedo.tga.dds",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/textures\/026_material.tga.dds",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/textures\/027_albedo.tga.dds",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/textures\/027_material.tga.dds",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/textures\/028_albedo.tga.dds",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/textures\/028_material.tga.dds",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/textures\/029_albedo.tga.dds",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/textures\/029_material.tga.dds",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/textures\/030_albedo.tga.dds",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/textures\/030_material.tga.dds",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/textures\/031_albedo.tga.dds",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/textures\/031_material.tga.dds",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/textures\/032_albedo.tga.dds",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/textures\/032_material.tga.dds",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/textures\/033_albedo.tga.dds",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/textures\/033_material.tga.dds",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/textures\/034_albedo.tga.dds",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/textures\/034_material.tga.dds",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/textures\/035_albedo.tga.dds",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/textures\/035_material.tga.dds",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/textures\/036_albedo.tga.dds",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/textures\/036_material.tga.dds",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/textures\/037_albedo.tga.dds",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/textures\/037_material.tga.dds",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/textures\/038_albedo.tga.dds",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/textures\/038_material.tga.dds",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/textures\/039_albedo.tga.dds",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/textures\/039_material.tga.dds",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/textures\/040_albedo.tga.dds",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/textures\/040_material.tga.dds",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/textures\/041_albedo.tga.dds",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/textures\/041_material.tga.dds",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/textures\/042_albedo.tga.dds",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/textures\/042_material.tga.dds",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/textures\/043_albedo.tga.dds",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/textures\/043_material.tga.dds",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/textures\/044_albedo.tga.dds",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/textures\/044_material.tga.dds",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/textures\/045_albedo.tga.dds",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/textures\/045_material.tga.dds",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/textures\/046_albedo.tga.dds",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/textures\/046_material.tga.dds",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/textures\/047_albedo.tga.dds",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/textures\/047_material.tga.dds",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/textures\/048_albedo.tga.dds",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/textures\/048_material.tga.dds",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/textures\/049_albedo.tga.dds",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/textures\/049_material.tga.dds",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/textures\/050_albedo.tga.dds",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/textures\/050_material.tga.dds",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/textures\/051_albedo.tga.dds",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/textures\/051_material.tga.dds",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/textures\/052_albedo.tga.dds",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/textures\/052_material.tga.dds",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/textures\/053_albedo.tga.dds",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/textures\/053_material.tga.dds",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/textures\/054_albedo.tga.dds",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/textures\/054_material.tga.dds",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/textures\/055_albedo.tga.dds",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/textures\/055_material.tga.dds",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/textures\/056_albedo.tga.dds",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/textures\/056_material.tga.dds",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/textures\/057_albedo.tga.dds",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/textures\/057_material.tga.dds",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/textures\/058_albedo.tga.dds",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/textures\/058_material.tga.dds",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/textures\/059_albedo.tga.dds",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/textures\/059_material.tga.dds",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/textures\/060_albedo.tga.dds",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/textures\/060_material.tga.dds",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/textures\/061_albedo.tga.dds",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/textures\/061_material.tga.dds",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/textures\/062_albedo.tga.dds",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/textures\/062_material.tga.dds",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/textures\/063_albedo.tga.dds",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/textures\/063_material.tga.dds",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/textures\/064_albedo.tga.dds",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/textures\/064_material.tga.dds",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/textures\/065_albedo.tga.dds",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/textures\/065_material.tga.dds",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/textures\/066_albedo.tga.dds",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/textures\/066_material.tga.dds",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/textures\/067_albedo.tga.dds",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/textures\/067_material.tga.dds",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/textures\/068_albedo.tga.dds",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/textures\/068_material.tga.dds",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/textures\/069_albedo.tga.dds",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/textures\/069_material.tga.dds",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/textures\/070_albedo.tga.dds",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/textures\/070_material.tga.dds",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/textures\/071_albedo.tga.dds",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/textures\/071_material.tga.dds",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/textures\/072_albedo.tga.dds",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/textures\/072_material.tga.dds",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/textures\/073_albedo.tga.dds",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/textures\/073_material.tga.dds",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/textures\/074_albedo.tga.dds",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/textures\/074_material.tga.dds",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/textures\/075_albedo.tga.dds",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/textures\/075_material.tga.dds",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/textures\/076_albedo.tga.dds",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/textures\/076_material.tga.dds",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/textures\/077_albedo.tga.dds",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/textures\/077_material.tga.dds",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/textures\/078_albedo.tga.dds",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/textures\/078_material.tga.dds",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/textures\/079_albedo.tga.dds",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/textures\/079_material.tga.dds",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/textures\/080_albedo.tga.dds",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/textures\/080_material.tga.dds",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/textures\/081_albedo.tga.dds",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/textures\/081_material.tga.dds",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/textures\/082_albedo.tga.dds",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/textures\/082_material.tga.dds",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/textures\/083_albedo.tga.dds",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/textures\/083_material.tga.dds",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/textures\/084_albedo.tga.dds",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/textures\/084_material.tga.dds",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/textures\/085_albedo.tga.dds",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/textures\/085_material.tga.dds",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/textures\/086_albedo.tga.dds",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/textures\/086_material.tga.dds",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/textures\/087_albedo.tga.dds",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/textures\/087_material.tga.dds",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/textures\/088_albedo.tga.dds",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/textures\/088_material.tga.dds",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/textures\/089_albedo.tga.dds",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/textures\/089_material.tga.dds",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/textures\/090_albedo.tga.dds",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/textures\/090_material.tga.dds",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/textures\/091_albedo.tga.dds",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/textures\/091_material.tga.dds",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/textures\/092_albedo.tga.dds",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/textures\/092_material.tga.dds",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/textures\/093_albedo.tga.dds",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/textures\/093_material.tga.dds",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/textures\/094_albedo.tga.dds",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/textures\/094_material.tga.dds",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/textures\/095_albedo.tga.dds",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/textures\/095_material.tga.dds",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/textures\/096_albedo.tga.dds",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/textures\/096_material.tga.dds",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/textures\/097_albedo.tga.dds",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/textures\/097_material.tga.dds",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/textures\/098_albedo.tga.dds",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/textures\/098_material.tga.dds",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/textures\/099_albedo.tga.dds",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/textures\/099_material.tga.dds",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/textures\/100_albedo.tga.dds",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/textures\/100_material.tga.dds",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/textures\/101_albedo.tga.dds",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/textures\/101_material.tga.dds",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/textures\/102_albedo.tga.dds",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/textures\/102_material.tga.dds",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/textures\/103_albedo.tga.dds",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/textures\/103_material.tga.dds",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/textures\/104\/albedo.tga.dds",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/textures\/104\/material.tga.dds",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/textures\/104_albedo.tga.dds",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/textures\/104_material.tga.dds",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/textures_winter\/001_albedo.tga.dds",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/textures_winter\/002_albedo.tga.dds",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/textures_winter\/003_albedo.tga.dds",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/textures_winter\/004_albedo.tga.dds",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/textures_winter\/005_albedo.tga.dds",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/textures_winter\/006_albedo.tga.dds",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/textures_winter\/007_albedo.tga.dds",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/textures_winter\/008_albedo.tga.dds",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/textures_winter\/009_albedo.tga.dds",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/textures_winter\/010_albedo.tga.dds",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/textures_winter\/011_albedo.tga.dds",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/textures_winter\/012_albedo.tga.dds",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/textures_winter\/013_albedo.tga.dds",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/textures_winter\/014_albedo.tga.dds",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/textures_winter\/015_albedo.tga.dds",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/textures_winter\/016_albedo.tga.dds",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/textures_winter\/017_albedo.tga.dds",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/textures_winter\/018_albedo.tga.dds",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/textures_winter\/019_albedo.tga.dds",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/textures_winter\/020_albedo.tga.dds",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/textures_winter\/021_albedo.tga.dds",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/textures_winter\/022_albedo.tga.dds",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/textures_winter\/023_albedo.tga.dds",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/textures_winter\/024_albedo.tga.dds",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/textures_winter\/025_albedo.tga.dds",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/textures_winter\/026_albedo.tga.dds",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/textures_winter\/027_albedo.tga.dds",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/textures_winter\/028_albedo.tga.dds",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/textures_winter\/029_albedo.tga.dds",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/textures_winter\/030_albedo.tga.dds",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/textures_winter\/031_albedo.tga.dds",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/textures_winter\/032_albedo.tga.dds",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/textures_winter\/033_albedo.tga.dds",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/textures_winter\/034_albedo.tga.dds",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/textures_winter\/035_albedo.tga.dds",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/textures_winter\/036_albedo.tga.dds",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/textures_winter\/037_albedo.tga.dds",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/textures_winter\/038_albedo.tga.dds",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/textures_winter\/039_albedo.tga.dds",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/textures_winter\/040_albedo.tga.dds",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/textures_winter\/041_albedo.tga.dds",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/textures_winter\/042_albedo.tga.dds",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/textures_winter\/043_albedo.tga.dds",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/textures_winter\/044_albedo.tga.dds",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/textures_winter\/045_albedo.tga.dds",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/textures_winter\/046_albedo.tga.dds",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/textures_winter\/047_albedo.tga.dds",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/textures_winter\/048_albedo.tga.dds",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/textures_winter\/049_albedo.tga.dds",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/textures_winter\/050_albedo.tga.dds",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/textures_winter\/051_albedo.tga.dds",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/textures_winter\/052_albedo.tga.dds",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/textures_winter\/053_albedo.tga.dds",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/textures_winter\/054_albedo.tga.dds",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/textures_winter\/055_albedo.tga.dds",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/textures_winter\/056_albedo.tga.dds",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/textures_winter\/057_albedo.tga.dds",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/textures_winter\/058_albedo.tga.dds",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/textures_winter\/059_albedo.tga.dds",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/textures_winter\/060_albedo.tga.dds",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/textures_winter\/061_albedo.tga.dds",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/textures_winter\/062_albedo.tga.dds",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/textures_winter\/063_albedo.tga.dds",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/textures_winter\/064_albedo.tga.dds",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/textures_winter\/065_albedo.tga.dds",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/textures_winter\/066_albedo.tga.dds",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/textures_winter\/067_albedo.tga.dds",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/textures_winter\/068_albedo.tga.dds",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/textures_winter\/069_albedo.tga.dds",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/textures_winter\/070_albedo.tga.dds",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/textures_winter\/071_albedo.tga.dds",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/textures_winter\/072_albedo.tga.dds",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/textures_winter\/073_albedo.tga.dds",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/textures_winter\/074_albedo.tga.dds",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/textures_winter\/075_albedo.tga.dds",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/textures_winter\/076_albedo.tga.dds",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/textures_winter\/077_albedo.tga.dds",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/textures_winter\/078_albedo.tga.dds",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/textures_winter\/079_albedo.tga.dds",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/textures_winter\/080_albedo.tga.dds",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/textures_winter\/081_albedo.tga.dds",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/textures_winter\/082_albedo.tga.dds",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/textures_winter\/083_albedo.tga.dds",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/textures_winter\/084_albedo.tga.dds",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/textures_winter\/085_albedo.tga.dds",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/textures_winter\/086_albedo.tga.dds",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/textures_winter\/087_albedo.tga.dds",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/textures_winter\/088_albedo.tga.dds",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/textures_winter\/089_albedo.tga.dds",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/textures_winter\/090_albedo.tga.dds",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/textures_winter\/091_albedo.tga.dds",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/textures_winter\/092_albedo.tga.dds",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/textures_winter\/093_albedo.tga.dds",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/textures_winter\/094_albedo.tga.dds",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/textures_winter\/095_albedo.tga.dds",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/textures_winter\/096_albedo.tga.dds",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/textures_winter\/097_albedo.tga.dds",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/textures_winter\/098_albedo.tga.dds",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/textures_winter\/099_albedo.tga.dds",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/textures_winter\/100_albedo.tga.dds",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/textures_winter\/101_albedo.tga.dds",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/textures_winter\/102_albedo.tga.dds",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/textures_winter\/103_albedo.tga.dds",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/terrain\/campaign\/barbarian_invasion\/textures_winter\/104_albedo.tga.dds",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/text\/barbarian_invasion_regions_and_settlement_names.txt",
+		"checksum": 3239771740
+	},
+	{
+		"filename": "data\/text\/campaign_descriptions.txt",
+		"checksum": 4288862888
+	},
+	{
+		"filename": "data\/text\/expanded_bi.txt",
+		"checksum": 99917105
+	},
+	{
+		"filename": "data\/text\/historic_events.txt",
+		"checksum": 2321948702
+	},
+	{
+		"filename": "data\/world\/maps\/base\/descr_disasters.txt",
+		"checksum": 3541977456
+	},
+	{
+		"filename": "data\/world\/maps\/base\/descr_regions.txt",
+		"checksum": 2727403884
+	},
+	{
+		"filename": "data\/world\/maps\/base\/descr_regions_and_settlement_name_lookup.txt",
+		"checksum": 2466799539
+	},
+	{
+		"filename": "data\/world\/maps\/base\/descr_terrain.txt",
+		"checksum": 634672287
+	},
+	{
+		"filename": "data\/world\/maps\/base\/map.rwm",
+		"checksum": 1004595392
+	},
+	{
+		"filename": "data\/world\/maps\/base\/map_climates.tga",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/world\/maps\/base\/map_fe.tga",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/world\/maps\/base\/map_features.tga",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/world\/maps\/base\/map_ground_types.tga",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/world\/maps\/base\/map_heights.tga",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/world\/maps\/base\/map_regions - copia.tga",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/world\/maps\/base\/map_regions.tga",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/world\/maps\/base\/map_regionsold.tga",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/world\/maps\/base\/map_roughness.tga",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/world\/maps\/base\/map_snow.tga",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/world\/maps\/base\/map_trade_routes.tga",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/world\/maps\/base\/water_surface.tga",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/world\/maps\/campaign\/barbarian_invasion\/descr_events.txt",
+		"checksum": 1476382027
+	},
+	{
+		"filename": "data\/world\/maps\/campaign\/barbarian_invasion\/descr_harvests.txt",
+		"checksum": 3076014505
+	},
+	{
+		"filename": "data\/world\/maps\/campaign\/barbarian_invasion\/descr_mercenaries.txt",
+		"checksum": 1247816417
+	},
+	{
+		"filename": "data\/world\/maps\/campaign\/barbarian_invasion\/descr_strat.txt",
+		"checksum": 1655628015
+	},
+	{
+		"filename": "data\/world\/maps\/campaign\/barbarian_invasion\/descr_win_conditions.txt",
+		"checksum": 1267478133
+	},
+	{
+		"filename": "data\/world\/maps\/campaign\/barbarian_invasion\/disasters.tga",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/world\/maps\/campaign\/barbarian_invasion\/feral_map.tga.dds",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/world\/maps\/campaign\/barbarian_invasion\/feral_map_winter.tga.dds",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/world\/maps\/campaign\/barbarian_invasion\/feral_radar_map.tga",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/world\/maps\/campaign\/barbarian_invasion\/feral_radar_map_winter.tga",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/world\/maps\/campaign\/barbarian_invasion\/map_ground_types.tga",
+		"checksum": "Blacklisted"
+	},
+	{
+		"filename": "data\/world\/maps\/campaign\/barbarian_invasion\/spawn_scripts\/ostrogoths_spawn_script_end_of_turn.txt",
+		"checksum": 51475255
+	},
+	{
+		"filename": "data\/world\/maps\/campaign\/barbarian_invasion\/spawn_scripts\/ostrogoths_spawn_script_revolt.txt",
+		"checksum": 2504979725
+	},
+	{
+		"filename": "data\/world\/maps\/campaign\/barbarian_invasion\/spawn_scripts\/romano_british_spawn_script_capture.txt",
+		"checksum": 4047116240
+	},
+	{
+		"filename": "data\/world\/maps\/campaign\/barbarian_invasion\/spawn_scripts\/romano_british_spawn_script_end_of_turn.txt",
+		"checksum": 2930771811
+	}
+]
