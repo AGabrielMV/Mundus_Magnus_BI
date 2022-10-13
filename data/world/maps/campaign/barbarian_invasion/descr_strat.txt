@@ -2654,7 +2654,7 @@ denari	7000
 settlement
 {
 	level huge_city
-	region Thracia
+	region Europa
 
 	year_founded 363
 	population 17248

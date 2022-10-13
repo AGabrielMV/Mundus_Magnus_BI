@@ -363,7 +363,7 @@ Illyricum_et_Dalmatia
 	5
 	3
 	christianity 25 pagan 75
-Thracia
+Europa
 	legion: Claudia_Pia_Fidelis
 	Constantinople
 	empire_east
@@ -371,8 +371,8 @@ Thracia
 	218 246 61
 	bosphoran
 	5
-	10
-	christianity 75 pagan 25
+	4
+	christianity 90 pagan 10
 Taraconensis
 	legion: Gemina
 	Tarraco
@@ -405,7 +405,7 @@ Armenia
 	zoroastrian 100
 Moesia
 	legion: Flavia_Felix
-	Sirmium
+	Singidunum
 	empire_east
 	Paionians
 	131 33 100
@@ -535,10 +535,10 @@ Baetica
 	christianity 45 pagan 55
 Achaea
 	legion: Gemina
-	Athens
+	Corinth
 	empire_east
 	Achaeans
-	58 177 106
+	225 192 192
 	none
 	5
 	9
@@ -709,9 +709,9 @@ Aegyptus
 	empire_east
 	Moors
 	244 13 214
-	berber
+	none
 	5
-	12
+	6
 	christianity 85 pagan 15
 Cyrenaica
 	legion: Cyrenaica
@@ -1293,13 +1293,173 @@ Libya
 	5
 	0
 	pagan 70 christianity 30
-;Raetia_Prima
-;	legion: Concors_Italica
-;	Curia
-;	empire_west
-;	Suebi
-;	119 41 182
-;	none
-;	5
-;	2
-;	christianity 35 pagan 65
+Libya_Inferior
+	legion: Cyrenaica
+	Paraetonium
+	empire_east
+	Moors
+	136 125 2
+	berber
+	5
+	0
+	christianity 70 pagan 30
+Raetia_Prima
+	legion: Concors_Italica
+	Curia
+	empire_west
+	Suebi
+	119 41 182
+	none
+	5
+	2
+	christianity 35 pagan 65
+Savia
+	legion: Iovii_Seniores
+	Siscia
+	empire_west
+	Illyrians
+	61 177 58
+	none
+	5
+	3
+	christianity 65 pagan 35
+Pannonia_Secunda
+	legion: Flavia_Felix
+	Sirmium
+	empire_east
+	Scordisci
+	164 170 3
+	none
+	5
+	4
+	christianity 50 pagan 50
+Epirus_Nova
+	legion: Macedonica
+	Dyrrhachium
+	empire_east
+	Edones
+	83 58 177
+	none
+	5
+	5
+	christianity 70 pagan 30
+Thessalia
+	legion: Macedonica
+	Larissa
+	empire_east
+	Edones
+	177 83 58
+	none
+	5
+	5
+	christianity 75 pagan 25
+Epirus_Vetus
+	legion: Gemina
+	Nicopolis
+	empire_east
+	Achaeans
+	13 18 244
+	none
+	5
+	4
+	christianity 65 pagan 35
+Praevalitana
+	legion: Illyricorum
+	Doclea
+	empire_east
+	Illyrians
+	136 25 43
+	none
+	5
+	0
+	christianity 30 pagan 70
+Dacia_Ripensis
+	legion: Flavia_Felix
+	Ratiaria
+	empire_east
+	Paionians
+	98 101 199
+	none
+	5
+	4
+	christianity 50 pagan 50
+Dardania
+	legion: Flavia_Felix
+	Scupi
+	empire_east
+	Paionians
+	13 3 247
+	none
+	5
+	1
+	christianity 50 pagan 50
+Haemimontus
+	legion: Claudia_Pia_Fidelis
+	Hadrianopolis
+	empire_east
+	Thracians
+	176 179 179
+	bosphoran
+	5
+	5
+	christianity 75 pagan 25
+Thracia
+	legion: Claudia_Pia_Fidelis
+	Philippopolis
+	empire_east
+	Thracians
+	118 131 33
+	bosphoran
+	5
+	10
+	christianity 75 pagan 25
+Moesia_Secunda
+	legion: Claudia_Pia_Fidelis
+	Marcianopolis
+	empire_east
+	Thracians
+	75 135 69
+	bosphoran
+	5
+	6
+	christianity 65 pagan 35
+Augustamnica
+	legion: Traiana
+	Pelusium
+	empire_east
+	Moors
+	119 90 174
+	none
+	5
+	5
+	christianity 90 pagan 10
+Thebais_Inferior
+	legion: Maximiana_Thebanorum
+	Ptolemais_Thebais
+	empire_east
+	Moors
+	241 244 13
+	none
+	5
+	5
+	christianity 70 pagan 30
+Arcadia
+	legion: Traiana
+	Oxyrhynchus
+	empire_east
+	Moors
+	122 13 244
+	none
+	5
+	5
+	christianity 70 pagan 30
+Thebais_Superior
+	legion: Flavia_Constantia
+	Thebae
+	empire_east
+	Moors
+	95 186 228
+	none
+	5
+	3
+	christianity 60 pagan 30 zoroastrian 10
