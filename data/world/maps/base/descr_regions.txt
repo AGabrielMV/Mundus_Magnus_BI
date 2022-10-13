@@ -871,7 +871,7 @@ Kush
 	86 99 121
 	none
 	5
-	7
+	4
 	pagan 95 christianity 5
 Saba
 	legion: Arabica
@@ -1462,4 +1462,54 @@ Thebais_Superior
 	none
 	5
 	3
-	christianity 60 pagan 30 zoroastrian 10
+	christianity 50 pagan 40 zoroastrian 10
+Triacontaschoenus
+	legion: Africarum
+	Pachoras
+	berbers
+	Moors
+	166 6 33
+	none
+	5
+	3
+	christianity 20 pagan 80
+Nubia
+	legion: Africarum
+	Napata
+	berbers
+	Moors
+	205 173 88
+	none
+	5
+	5
+	christianity 10 pagan 90
+Alut
+	legion: Africarum
+	Soba
+	berbers
+	Moors
+	129 40 191
+	none
+	5
+	6
+	pagan 100
+Locus_Blemmyae
+	legion: Africarum
+	Sedes_Blemmyae
+	berbers
+	Moors
+	71 147 50
+	none
+	5
+	2
+	pagan 100
+Ethiopia
+	legion: Africarum
+	Axum
+	berbers
+	Moors
+	195 96 104
+	none
+	5
+	6
+	pagan 40 christianity 60
