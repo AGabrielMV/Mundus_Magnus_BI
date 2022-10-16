@@ -26,7 +26,7 @@ Tribus_Saxones
 Locus_Barbaricum
 	legion: Barbaricorum
 	Campus_Barbaricum
-	vandals
+	slavs
 	Slavs
 	58 177 95
 	none
@@ -538,7 +538,7 @@ Achaea
 	Corinth
 	empire_east
 	Achaeans
-	225 192 192
+	58 177 106
 	none
 	5
 	9
@@ -551,7 +551,7 @@ Asiana
 	131 83 77
 	none
 	5
-	12
+	6
 	christianity 75 pagan 25
 Cilicia_et_Lycia
 	legion: Isaura
@@ -561,7 +561,7 @@ Cilicia_et_Lycia
 	17 202 52
 	none
 	5
-	10
+	5
 	christianity 70 pagan 30
 Babylonia
 	legion: Parthica
@@ -1233,8 +1233,8 @@ Hercynia
 	5
 	2
 	pagan 100
-Sahara
-	legion: Africarum
+Terra_Incognita
+	legion: Judean_Peoples_Front
 	Romanes_Eunt_Domus
 	berbers
 	Berbers
@@ -1243,7 +1243,7 @@ Sahara
 	1
 	1
 	pagan 100
-Cydamae
+Arzugitania
 	legion: Africarum
 	Cydamus
 	berbers
@@ -1388,7 +1388,7 @@ Dardania
 	Scupi
 	empire_east
 	Paionians
-	13 3 247
+	244 13 24
 	none
 	5
 	1
@@ -1398,7 +1398,7 @@ Haemimontus
 	Hadrianopolis
 	empire_east
 	Thracians
-	176 179 179
+	232 3 67
 	bosphoran
 	5
 	5
@@ -1418,7 +1418,7 @@ Moesia_Secunda
 	Marcianopolis
 	empire_east
 	Thracians
-	75 135 69
+	225 192 192
 	bosphoran
 	5
 	6
@@ -1513,3 +1513,303 @@ Ethiopia
 	5
 	6
 	pagan 40 christianity 60
+Tribus_Varini
+	legion: Barbaricorum
+	Virunum
+	saxons
+	Angles
+	119 144 182
+	none
+	5
+	1
+	pagan 100
+Tribus_Rugii
+	legion: Barbaricorum
+	Rugium
+	lombardi
+	Lombardi
+	255 128 64
+	none
+	5
+	2
+	pagan 100
+Tribus_Vidivarii
+	legion: Barbaricorum
+	Sedes_Vidivarium
+	lombardi
+	Lombardi
+	0 255 48
+	none
+	5
+	2
+	pagan 100
+Hasdingia
+	legion: Barbaricorum
+	Sedes_Hasdingiorum
+	vandals
+	Lombardi
+	250 128 151
+	none
+	5
+	5
+	pagan 100
+Lugia
+	legion: Barbaricorum
+	Calisia
+	vandals
+	Lombardi
+	128 128 64
+	none
+	5
+	2
+	pagan 100
+Tribus_Antae
+	legion: Barbaricorum
+	Sedes_Antae
+	slavs
+	Slavs
+	247 250 32
+	none
+	5
+	1
+	pagan 100
+Tibiscus
+	legion: Augustenses_Defensores
+	Tibiscum
+	goths
+	Ostrogoths
+	72 122 168
+	none
+	5
+	3
+	pagan 70 christianity 30
+Dacia_Porolissensis
+	legion: Gemina
+	Porolissum
+	goths
+	Ostrogoths
+	255 128 68
+	none
+	5
+	3
+	pagan 80 christianity 20
+Dacia_Malvensis
+	legion: Gemina
+	Tiasum
+	goths
+	Ostrogoths
+	92 92 179
+	none
+	5
+	3
+	pagan 60 christianity 40
+Bastarnia
+	legion: Gemina
+	Petrodava
+	goths
+	Ostrogoths
+	223 192 126
+	none
+	5
+	3
+	pagan 60 christianity 40
+Venedae
+	legion: Barbaricorum
+	Sedes_Venedarum
+	slavs
+	Slavs
+	69 127 206
+	none
+	5
+	1
+	pagan 100
+Amadocia
+	legion: Barbaricorum
+	Amadoca
+	slavs
+	Slavs
+	107 156 168
+	none
+	5
+	1
+	pagan 100
+Neuria
+	legion: Barbaricorum
+	Azagarium
+	slavs
+	Slavs
+	125 68 76
+	none
+	5
+	1
+	pagan 100
+Tribus_Galindae
+	legion: Barbaricorum
+	Sedes_Galindorum
+	slavs
+	Slavs
+	148 155 177
+	none
+	5
+	1
+	pagan 100
+Tribus_Sitoni
+	legion: Barbaricorum
+	Sitonium
+	slavs
+	Slavs
+	58 89 177
+	none
+	5
+	1
+	pagan 100
+Scythia_Minor
+	legion: Herculia
+	Tomis
+	empire_east
+	Thracians
+	131 33 38
+	bosphoran
+	5
+	2
+	christianity 75 pagan 25
+Gerrhos
+	legion: Scythica
+	Gerrhi
+	ostrogoths
+	Ostrogoths
+	211 212 2
+	bosphoran
+	5
+	2
+	pagan 100
+Taurica
+	legion: Scythica
+	Cherson
+	empire_east
+	Ostrogoths
+	17 74 202
+	bosphoran
+	5
+	3
+	pagan 100
+Cimmerian_Bosphorus
+	legion: Scythica
+	Panticapaeum
+	empire_east
+	Ostrogoths
+	200 197 155
+	bosphoran
+	5
+	2
+	pagan 100
+Sindica
+	legion: Scythica
+	Phanagoria
+	roxolani
+	Alans
+	242 235 54
+	bosphoran
+	5
+	1
+	pagan 100
+Tyras
+	legion: Scythica
+	Alba_Julia
+	ostrogoths
+	Ostrogoths
+	246 24 118
+	bosphoran
+	5
+	3
+	pagan 60 christianity 40						
+Insulae
+	legion: Timacenses_Auxiliarii
+	Rhodes
+	empire_east
+	Achaeans
+	131 33 77
+	none
+	5
+	3
+	christianity 60 pagan 40
+Hellespontus
+	legion: Asianae
+	Cyzicus
+	empire_east
+	Phrygians
+	33 59 131
+	none
+	5
+	3
+	christianity 85 pagan 15
+Phrygia
+	legion: Galatiae
+	Synnada
+	empire_east
+	Phrygians
+	242 218 86
+	none
+	5
+	4
+	christianity 60 pagan 40
+Lydia
+	legion: Asianae
+	Sardis
+	empire_east
+	Phrygians
+	149 109 127
+	none
+	5
+	6
+	christianity 75 pagan 25
+Caria
+	legion: Asianae
+	Aphrodisias
+	empire_east
+	Phrygians
+	163 103 179
+	none
+	5
+	5
+	christianity 40 pagan 60
+Lycia
+	legion: Asianae
+	Myra
+	empire_east
+	Phrygians
+	162 156 2
+	none
+	5
+	4
+	christianity 80 pagan 20
+Pamphylia
+	legion: Isaura
+	Perge
+	empire_east
+	Cilicians
+	221 14 63
+	none
+	5
+	5
+	christianity 65 pagan 35
+Isauria
+	legion: Isaura
+	Seleucea
+	empire_east
+	Cilicians
+	245 55 32
+	none
+	5
+	4
+	christianity 55 pagan 45
+Lycaonia
+	legion: Isaura
+	Iconium
+	empire_east
+	Cilicians
+	155 155 133
+	none
+	5
+	3
+	christianity 70 pagan 30

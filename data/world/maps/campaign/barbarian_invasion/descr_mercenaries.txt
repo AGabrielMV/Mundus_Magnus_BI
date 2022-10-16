@@ -111,7 +111,7 @@ pool Balearics
 	unit merc ballistae,				exp 0 cost 600 replenish 0.125 - 0.25 max 1 initial 0
 
 pool North_Africa
-	regions Mauretania Africa Sahara Tripolitania				
+	regions Mauretania Africa Gaetulia Tripolitania				
 	unit merc camel raiders,			exp 0 cost 500 replenish 0.1 - 0.15 max 2 initial 1
 	unit merc armoured camel riders,	exp 0 cost 1450 replenish 0.125 - 0.25 max 1 initial 0
 	unit merc equites veteranii,			exp 2 cost 950 replenish 0.06 - 0.19 max 2 initial 1
