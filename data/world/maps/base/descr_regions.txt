@@ -421,7 +421,7 @@ Cappadocia
 	177 58 148
 	bosphoran
 	5
-	8
+	5
 	christianity 70 pagan 15 zoroastrian 15
 Northern_Italy
 	legion: Italica
@@ -445,7 +445,7 @@ Media
 	zoroastrian 100
 Pontus_et_Bithynia
 	legion: Pontica
-	Sinope
+	Neocaesarea
 	empire_east
 	Paphlagonians
 	202 156 17
@@ -519,7 +519,7 @@ Assyria
 	sassanids
 	Kurds
 	244 122 13
-	sughdian
+	none
 	5
 	8
 	zoroastrian 90 christianity 10
@@ -581,7 +581,7 @@ Syria_Coele
 	13 244 165
 	none
 	5
-	9
+	6
 	christianity 85 pagan 5 zoroastrian 10
 Sicilia
 	legion: Siciliae
@@ -661,7 +661,7 @@ Palaestina
 	244 13 29
 	berber
 	5
-	8
+	5
 	christianity 95 zoroastrian 5
 Arabia_Superior
 	legion: Ferrata
@@ -675,14 +675,14 @@ Arabia_Superior
 	christianity 75 pagan 10 zoroastrian 15
 Nabataea
 	legion: Nabatae
-	Petra
+	Tabawa
 	berbers
 	Nabataeans
 	13 0 244
-	berber
+	none
 	5
-	5
-	christianity 90 zoroastrian 10
+	2
+	pagan 60 christianity 40
 Gaetulia
 	legion: Africarum
 	Dimmidi
@@ -1813,3 +1813,183 @@ Lycaonia
 	5
 	3
 	christianity 70 pagan 30
+Bithynia
+	legion: Pontica
+	Nicomedia
+	empire_east
+	Phrygians
+	202 17 122
+	none
+	5
+	3
+	christianity 80 pagan 20
+Paphlagonia
+	legion: Pontica
+	Gangra
+	empire_east
+	Paphlagonians
+	250 229 51
+	none
+	5
+	3
+	christianity 70 pagan 30
+Pontus_Polemoniacus
+	legion: Pontica
+	Trapezus
+	empire_east
+	Paphlagonians
+	41 54 209
+	none
+	5
+	4
+	christianity 70 pagan 15 zoroastrian 15
+Satrapiae
+	legion: Armeniaca
+	Arsamosata
+	empire_east
+	Armenians
+	3 57 209
+	none
+	5
+	2
+	christianity 75 pagan 25
+Armenia_Prima
+	legion: Armeniaca
+	Sebastea
+	empire_east
+	Armenians
+	26 156 4
+	none
+	5
+	3
+	christianity 75 pagan 25
+Armenia_Secunda
+	legion: Armeniaca
+	Melitene
+	empire_east
+	Cappadocians
+	209 236 155
+	none
+	5
+	4
+	christianity 75 pagan 25
+Euphratensis
+	legion: Flavia_Firma
+	Hierapolis
+	empire_east
+	Syrians
+	206 85 85
+	none
+	5
+	5
+	christianity 85 pagan 5 zoroastrian 10
+Phoenicia_Libanensis
+	legion: Ferrata
+	Emesa
+	empire_east
+	Syrians
+	244 203 14
+	none
+	5
+	3
+	christianity 75 pagan 10 zoroastrian 15
+Palmyrene
+	legion: Ferrata
+	Palmyra
+	empire_east
+	Syrians
+	175 171 244
+	none
+	5
+	2
+	christianity 75 pagan 10 zoroastrian 15
+Palaestina_Secunda
+	legion: Palaestinae
+	Scythopolis
+	empire_east
+	Judaeans
+	152 52 52
+	none
+	5
+	3
+	christianity 95 zoroastrian 5
+al-Manadhirah
+	legion: Arabica
+	Hirah
+	berbers
+	Nabataeans
+	153 102 204
+	none
+	5
+	3
+	pagan 10 christianity 50 zoroastrian 40
+Palaestina_Salutaris
+	legion: Nabatae
+	Petra
+	berbers
+	Nabataeans
+	35 244 13
+	none
+	5
+	4
+	christianity 55 zoroastrian 10 pagan 35
+Hejaz
+	legion: Arabica
+	Yathrib
+	berbers
+	Nabataeans
+	228 246 107
+	none
+	5
+	2
+	pagan 70 christianity 30
+Erythraea
+	legion: Africarum
+	Mendefera
+	berbers
+	Moors
+	220 106 114
+	none
+	5
+	6
+	pagan 60 christianity 40
+Adulitania
+	legion: Africarum
+	Adulis
+	berbers
+	Moors
+	41 232 125
+	none
+	5
+	3
+	pagan 70 christianity 30
+Osrhoene
+	legion: Parthica
+	Edessa
+	sassanids
+	Kurds
+	34 1 175
+	none
+	5
+	4
+	christianity 60 zoroastrian 40
+Mesopotamia
+	legion: Parthica
+	Amida
+	sassanids
+	Kurds
+	149 114 98
+	none
+	5
+	4
+	christianity 60 zoroastrian 40
+Nodardashiragan
+	legion: Parthica
+	Irbil
+	sassanids
+	Persians
+	194 218 61
+	none
+	5
+	1
+	christianity 85 zoroastrian 15
