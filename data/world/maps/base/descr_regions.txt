@@ -1987,9 +1987,29 @@ Nodardashiragan
 	legion: Parthica
 	Irbil
 	sassanids
-	Persians
+	Kurds
 	194 218 61
 	none
 	5
 	1
 	christianity 85 zoroastrian 15
+Meshan
+	legion: Parthica
+	Starabad_Ardashir
+	sassanids
+	Persians
+	183 184 33
+	none
+	5
+	6
+	zoroastrian 100
+Khuzistan
+	legion: Parthica
+	Gundeshapur
+	sassanids
+	Persians
+	72 58 177
+	none
+	5
+	5
+	zoroastrian 100
