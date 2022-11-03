@@ -36,12 +36,12 @@ Locus_Barbaricum
 Tribus_Alanni
 	legion: Scythica
 	Campus_Alanni
-	huns
+	roxolani
 	Alans
 	177 170 58
 	none
 	5
-	3
+	4
 	pagan 100
 Tribus_Sakae
 	legion: Barbaricorum
@@ -51,7 +51,7 @@ Tribus_Sakae
 	58 177 75
 	none
 	5
-	6
+	3
 	pagan 100
 Hibernia
 	legion: Hibernica
@@ -891,7 +891,7 @@ Sind
 	21 190 29
 	none
 	5
-	10
+	6
 	pagan 75 zoroastrian 25
 Bactria
 	legion: Scythica
@@ -911,7 +911,7 @@ Kashgaria
 	155 255 167
 	none
 	5
-	1
+	2
 	pagan 100
 Mazun
 	legion: Arabica
@@ -2013,3 +2013,533 @@ Khuzistan
 	5
 	5
 	zoroastrian 100
+Vaspakuran
+	legion: Armeniaca
+	Van
+	sassanids
+	Armenians
+	119 92 52
+	none
+	5
+	5
+	christianity 65 zoroastrian 35
+Karin
+	legion: Armeniaca
+	Karno_Kaghak
+	sassanids
+	Armenians
+	149 146 128
+	none
+	5
+	4
+	christianity 75 zoroastrian 25
+Tribus_Sclaveniae
+	legion: Barbaricorum
+	Sedes_Sclaveniae
+	slavs
+	Slavs
+	5 116 44
+	none
+	5
+	1
+	pagan 100
+Tribus_Tissagetae
+	legion: Scythica
+	Sedes_Tissagetae
+	roxolani
+	Roxolani
+	93 93 205
+	none
+	5
+	4
+	pagan 100
+Tribus_Iirkai
+	legion: Scythica
+	Sedes_Iirkae
+	roxolani
+	Roxolani
+	175 198 15
+	none
+	5
+	3
+	pagan 100
+Tribus_Siracae
+	legion: Scythica
+	Siracena
+	roxolani
+	Roxolani
+	52 241 209
+	none
+	5
+	3
+	pagan 100
+Tribus_Hunni
+	legion: Scythica
+	Sedes_Hunnorum
+	huns
+	Saka
+	247 116 202
+	none
+	5
+	3
+	pagan 100
+Tribus_Baranjar
+	legion: Scythica
+	Balanjar
+	huns
+	Saka
+	253 246 127
+	none
+	5
+	3
+	pagan 100
+Kartli
+	legion: Parthica
+	Mtskheta
+	sassanids
+	Colchians
+	159 17 28
+	none
+	5
+	3
+	christianity 70 zoroastrian 30
+Arran
+	legion: Parthica
+	Kabalak
+	sassanids
+	Colchians
+	251 210 147
+	none
+	5
+	3
+	christianity 50 zoroastrian 30 pagan 20
+Mazkut
+	legion: Parthica
+	Chogh
+	sassanids
+	Colchians
+	253 4 10
+	none
+	5
+	2
+	christianity 10 zoroastrian 40 pagan 50
+Syunik
+	legion: Flavia_Theodosiana
+	Baghaberd
+	sassanids
+	Armenians
+	247 184 52
+	none
+	5
+	2
+	christianity 75 zoroastrian 25
+Parishkhwargar
+	legion: Parthica
+	Amul
+	sassanids
+	Persians
+	149 22 128
+	none
+	5
+	5
+	zoroastrian 75 pagan 20 christianity 5
+Gilan
+	legion: Parthica
+	Rasht
+	sassanids
+	Persians
+	95 166 56
+	none
+	5
+	5
+	pagan 65 zoroastrian 35 christianity 5
+Gurgan
+	legion: Parthica
+	Astarabad
+	sassanids
+	Persians
+	23 124 42
+	none
+	5
+	2
+	zoroastrian 100
+Parthau
+	legion: Parthica
+	Spahan
+	sassanids
+	Persians
+	211 44 67
+	none
+	5
+	5
+	zoroastrian 100
+Goyman
+	legion: Parthica
+	Rayy
+	sassanids
+	Persians
+	188 46 46
+	none
+	5
+	4
+	zoroastrian 100
+Dihistan
+	legion: Parthica
+	Igdi
+	sassanids
+	Persians
+	192 137 84
+	none
+	5
+	3
+	zoroastrian 65 pagan 35
+Abarshahr
+	legion: Parthica
+	Neyshapur
+	sassanids
+	Parthians
+	117 162 204
+	none
+	5
+	2
+	zoroastrian 100
+Pars
+	legion: Parthica
+	Stakhr
+	sassanids
+	Persians
+	232 172 176
+	none
+	5
+	4
+	zoroastrian 100
+Kirman
+	legion: Parthica
+	Shiragan
+	sassanids
+	Persians
+	186 45 1
+	none
+	5
+	1
+	zoroastrian 90 pagan 10
+Kuhistan
+	legion: Parthica
+	Veh_Ardashir
+	sassanids
+	Persians
+	217 188 101
+	none
+	5
+	2
+	zoroastrian 100
+Makuran
+	legion: Parthica
+	Tiz
+	sassanids
+	Persians
+	194 177 101
+	none
+	5
+	1
+	zoroastrian 80 pagan 20
+Pardan
+	legion: Parthica
+	Puhlpahrag
+	sassanids
+	Persians
+	38 255 38
+	none
+	5
+	2
+	zoroastrian 75 pagan 25
+Turgistan
+	legion: Parthica
+	Quzdar
+	sassanids
+	Persians
+	188 106 97
+	none
+	5
+	0
+	zoroastrian 60 pagan 40
+Kushanshahr
+	legion: Parthica
+	Kandahara
+	sassanids
+	Persians
+	110 8 8
+	none
+	5
+	2
+	zoroastrian 60 pagan 40
+Seistan
+	legion: Parthica
+	Phra
+	sassanids
+	Persians
+	41 68 140
+	none
+	5
+	0
+	zoroastrian 90 pagan 10
+Harev
+	legion: Parthica
+	Harey
+	sassanids
+	Persians
+	3 179 152
+	none
+	5
+	2
+	zoroastrian 90 pagan 10
+Parshistan
+	legion: Parthica
+	Kophen
+	sassanids
+	Persians
+	158 128 38
+	none
+	5
+	2
+	zoroastrian 50 pagan 50
+Gandhara
+	legion: Indica
+	Taksasila
+	sassanids
+	Sughdians
+	162 97 102
+	none
+	5
+	6
+	pagan 75 zoroastrian 25
+Darada
+	legion: Indica
+	Aornos
+	sassanids
+	Sughdians
+	109 31 182
+	none
+	5
+	3
+	pagan 75 zoroastrian 25
+Sattagydia
+	legion: Indica
+	Multan
+	sassanids
+	Sughdians
+	238 239 158
+	none
+	5
+	8
+	pagan 75 zoroastrian 25
+Madra
+	legion: Indica
+	Sagala
+	sassanids
+	Sughdians
+	237 229 0
+	none
+	5
+	7
+	pagan 75 zoroastrian 25
+Sauvira
+	legion: Indica
+	Roruka
+	sassanids
+	Sughdians
+	165 222 159
+	none
+	5
+	6
+	pagan 75 zoroastrian 25
+Saurashtra
+	legion: Indica
+	Junagadh
+	sassanids
+	Sughdians
+	247 116 205
+	none
+	5
+	5
+	pagan 75 zoroastrian 25
+Khuttal
+	legion: Scythica
+	Hulbuk
+	sassanids
+	Sughdians
+	158 159 66
+	none
+	5
+	2
+	zoroastrian 55 pagan 45
+Tribus_Aorsi
+	legion: Scythica
+	Sedes_Aorsi
+	roxolani
+	Alans
+	169 167 162
+	none
+	5
+	1
+	pagan 100
+Tribus_Magyar
+	legion: Scythica
+	Sedes_Magyarum
+	huns
+	Saka
+	96 114 167
+	none
+	5
+	1
+	pagan 100
+Tribus_Sabiri
+	legion: Scythica
+	Sedes_Sabiri
+	huns
+	Saka
+	205 212 157
+	none
+	5
+	1
+	pagan 100
+Tribus_Iastae
+	legion: Scythica
+	Sedes_Iastae
+	roxolani
+	Saka
+	239 240 100
+	none
+	5
+	1
+	pagan 100
+Yueban
+	legion: Scythica
+	Chuban
+	huns
+	Saka
+	53 37 207
+	none
+	5
+	1
+	pagan 100
+Jaxartes
+	legion: Scythica
+	Farab
+	sassanids
+	Sughdians
+	238 1 73
+	sughdian
+	5
+	2
+	pagan 100
+Khwarazm
+	legion: Parthica
+	Kath
+	sassanids
+	Sughdians
+	122 4 85
+	sughdian
+	5
+	3
+	pagan 100
+Farghana
+	legion: Parthica
+	Akhsikath
+	sassanids
+	Sughdians
+	1 128 187
+	sughdian
+	5
+	5
+	pagan 100
+Kangha
+	legion: Parthica
+	Chach
+	sassanids
+	Sughdians
+	147 187 95
+	sughdian
+	5
+	3
+	pagan 100
+Usrushana
+	legion: Parthica
+	Bunjikath
+	sassanids
+	Sughdians
+	90 90 200
+	sughdian
+	5
+	3
+	zoroastrian 50 pagan 50
+Wusun
+	legion: Scythica
+	Chighu
+	huns
+	Saka
+	249 105 109
+	none
+	5
+	1
+	pagan 100
+Sughdia
+	legion: Parthica
+	Samarkand
+	sassanids
+	Sughdians
+	133 55 61
+	sughdian
+	5
+	5
+	zoroastrian 60 pagan 40
+Bukhara
+	legion: Parthica
+	Bumiskat
+	sassanids
+	Sughdians
+	224 57 116
+	sughdian
+	5
+	4
+	zoroastrian 60 pagan 40
+Chaghaniyan
+	legion: Parthica
+	Akhrun
+	sassanids
+	Sughdians
+	156 92 48
+	sughdian
+	5
+	3
+	zoroastrian 60 pagan 40
+Marv
+	legion: Parthica
+	Merv
+	sassanids
+	Sughdians
+	25 59 226
+	none
+	5
+	2
+	zoroastrian 60 pagan 30 christianity 10
+Khotan
+	legion: Sinica
+	Hotan
+	huns
+	Saka
+	78 244 120
+	none
+	5
+	2
+	pagan 100
+Kuqa
+	legion: Sinica
+	Kucha
+	huns
+	Saka
+	225 249 21
+	none
+	5
+	2
+	pagan 100
