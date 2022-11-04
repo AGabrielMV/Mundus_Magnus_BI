@@ -596,10 +596,10 @@ Sicilia
 Arabia_Inferior
 	legion: Arabica
 	Dumatha
-	sassanids
+	berbers
 	Nabataeans
 	13 171 244
-	berber, sughdian
+	none
 	5
 	3
 	zoroastrian 50 pagan 15 christianity 35
@@ -921,7 +921,7 @@ Mazun
 	240 182 100
 	none
 	5
-	6
+	2
 	pagan 55 zoroastrian 40 christianity 5
 Gallaecia
 	legion: Gemina
@@ -2543,3 +2543,123 @@ Kuqa
 	5
 	2
 	pagan 100
+Hajar
+	legion: Arabica
+	Thaj
+	berbers
+	Nabataeans
+	104 184 119
+	none
+	5
+	0
+	zoroastrian 30 pagan 70
+Bahraiyn
+	legion: Arabica
+	Hatta
+	berbers
+	Nabataeans
+	102 204 102
+	none
+	5
+	0
+	zoroastrian 50 pagan 50
+Maketa
+	legion: Arabica
+	Moscha
+	berbers
+	Nabataeans
+	157 105 105
+	none
+	5
+	3
+	pagan 65 zoroastrian 35
+Zufar
+	legion: Arabica
+	Asich
+	berbers
+	Nabataeans
+	117 204 141
+	none
+	5
+	0
+	zoroastrian 15 pagan 80 christianity 5
+Mahra
+	legion: Arabica
+	Salalah
+	berbers
+	Nabataeans
+	232 125 29
+	none
+	5
+	3
+	pagan 100
+Himyar
+	legion: Arabica
+	Zafar
+	berbers
+	Nabataeans
+	180 181 33
+	none
+	5
+	6
+	pagan 80 christianity 20
+Hadramaut
+	legion: Arabica
+	Shibam
+	berbers
+	Nabataeans
+	8 195 166
+	none
+	5
+	4
+	pagan 95 christianity 5
+Najran
+	legion: Arabica
+	Ramat
+	berbers
+	Nabataeans
+	235 43 43
+	none
+	5
+	5
+	pagan 75 christianity 25
+Taenia
+	legion: Arabica
+	Jubbah
+	berbers
+	Nabataeans
+	157 79 171
+	none
+	5
+	2
+	zoroastrian 15 pagan 55 christianity 30
+Yamama
+	legion: Arabica
+	Hajr
+	berbers
+	Nabataeans
+	234 73 126
+	none
+	5
+	3
+	pagan 85 christianity 15
+Kindah
+	legion: Arabica
+	Qaryat
+	berbers
+	Nabataeans
+	65 119 54
+	none
+	5
+	1
+	pagan 100
+Tihamah
+	legion: Arabica
+	Bakkah
+	berbers
+	Nabataeans
+	37 134 129
+	none
+	5
+	4
+	pagan 85 christianity 15
