@@ -525,13 +525,13 @@ Assyria
 	zoroastrian 90 christianity 10
 Baetica
 	legion: Hispana
-	Corduba
+	Hispalis
 	empire_west
 	Iberians
 	17 13 198
 	none
 	5
-	14
+	7
 	christianity 45 pagan 55
 Achaea
 	legion: Gemina
@@ -1183,15 +1183,15 @@ Alpes_Cottiae
 	5
 	3
 	christianity 20 pagan 80
-Scandza
+Gautia
 	legion: Barbaricorum
-	Fanum_Nerthi
+	Lodose
 	saxons
 	Angles
 	19 147 64
 	none
 	5
-	0
+	4
 	pagan 100
 Guotodin
 	legion: Caledonica
@@ -2663,3 +2663,133 @@ Tihamah
 	5
 	4
 	pagan 85 christianity 15
+Baetica_Cordubensis
+	legion: Hispana
+	Corduba
+	empire_west
+	Iberians
+	222 72 51
+	none
+	5
+	7
+	christianity 45 pagan 55
+Dumnonia
+	legion: Victrix
+	Isca_Dumnoriorum
+	empire_west
+	Celts
+	51 241 46
+	britain
+	5
+	2
+	pagan 60 christianity 40
+Icenia
+	legion: Victrix
+	Venta_Icenorum
+	empire_west
+	Celts
+	171 87 84
+	britain
+	5
+	3
+	pagan 60 christianity 40
+Connachta
+	legion: Hibernica
+	Cruachan
+	celts
+	Scotii
+	120 210 120
+	none
+	5
+	4
+	pagan 100
+Ulaidh
+	legion: Hibernica
+	Emain_Macha
+	celts
+	Scotii
+	160 210 200
+	none
+	5
+	3
+	pagan 100
+Ostrogothia
+	legion: Barbaricorum
+	Bravellir
+	saxons
+	Angles
+	200 200 40
+	none
+	5
+	3
+	pagan 100
+Cimbria
+	legion: Barbaricorum
+	Sedes_Iutum
+	saxons
+	Angles
+	132 33 116
+	none
+	5
+	2
+	pagan 100
+Dania
+	legion: Barbaricorum
+	Bergio
+	saxons
+	Angles
+	241 13 8
+	none
+	5
+	2
+	pagan 100
+Theustia
+	legion: Barbaricorum
+	Finnhaith
+	saxons
+	Angles
+	126 115 178
+	none
+	5
+	2
+	pagan 100
+Valagothia
+	legion: Barbaricorum
+	Valhagarum
+	saxons
+	Angles
+	218 89 3
+	none
+	5
+	3
+	pagan 100
+Svitjod
+	legion: Barbaricorum
+	Uppsala
+	saxons
+	Angles
+	0 140 140
+	none
+	5
+	4
+	pagan 100
+Vistula
+	legion: Barbaricorum
+	Arsenium
+	vandals
+	Lombardi
+	255 0 0
+	none
+	5
+	2
+	pagan 100
+Locus_Aestii
+	legion: Barbaricorum
+	Sedes_Aestiorum
+	slavs
+	Slavs
+	240 70 128
+	none
+	5
+	2
+	pagan 100
