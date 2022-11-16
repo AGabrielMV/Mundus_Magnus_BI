@@ -35,7 +35,7 @@ year 381
 region Sarmatia
 
 year 387
-region Tribus_Alemanni
+region Agri_Decumates
 
 year 389
 region Asiana
@@ -57,13 +57,13 @@ faction empire_west
 region Narbonensis
 
 year 416
-region Tribus_Frisii
+region Frisia
 
 year 416
-region Tribus_Saxones
+region Saxonia
 
 year 416 
-region Tribus_Burgundii
+region Bructeria
 
 year 421
 faction empire_west
@@ -74,7 +74,7 @@ region Mauretania
 
 year 425
 faction empire_west
-region Tribus_Franki
+region Ripuaria
 
 year 426
 region Arabia_Inferior
@@ -104,7 +104,7 @@ year 450
 region Colchis
 
 year 450
-region Tribus_Roxolani
+region Maeotis
 
 year 453
 faction empire_west

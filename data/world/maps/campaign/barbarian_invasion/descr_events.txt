@@ -46,55 +46,55 @@
 ; You can always have a positioned historic event at the same time as the warning if you want a message alongside it.
 
 event	historic	new_testament_formulated
-date 4 summer
+date 2 summer
 
 event	historic	the_sassanid_martyrdom
-date 13 summer
+date 11 summer
 
 event	historic 	the_martyrdom_of_saint_eusebius
-date 16 summer
+date 14 summer
 
 event	historic	first_council_of_constantinople
-date 18 summer
+date 16 summer
 
 event	historic	the_serapeum_destroyed
-date 28 summer
+date 26 summer
 
 event	historic	final_olympic_games_held
-date 31 summer
+date 29 summer
 
 event	historic	council_of_carthage
-date 31 winter
+date 29 winter
 
 event	historic	the_notitia_dignitarum
-date 32 winter
+date 30 winter
 
 event	historic	the_vulgate
-date 42 summer
+date 40 summer
 
 event	historic	heretical_british_monk_disapppears
-date 52 summer
+date 50 summer
 
 event	historic	patrick_introduces_christianity_to_ireland
-date 55 summer
+date 53 summer
 
-event	emergent_faction	slavs
-date	47 summer
-region  Locus_Barbaricum
+;event	emergent_faction	slavs
+;date	45 summer
+;region  Locus_Barbaricum
 
 event	historic		council_of_ephesus
-date 67 summer
+date 65 summer
 
 event	historic		legal_code_revised
-date 68 summer
+date 66 summer
 
 event	historic		council_of_chalcedon
-date 75 summer
+date 73 summer
 
 event	historic		papal_primacy
-date 88 summer
+date 86 summer
 
 event	historic		pagan_philosopher_murdered
-date 104
+date 102
 
 

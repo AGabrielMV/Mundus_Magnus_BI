@@ -7,19 +7,19 @@ pool Britain
 	unit merc sarmatian armoured archers,	exp 2 cost 1250 replenish 0.06 - 0.19 max 1 initial 1
 	
 pool Germany
-	regions Germania_Inferior Germania_Superior Tribus_Chattii Tribus_Saxones Tribus_Alemanni Tribus_Franki Tribus_Frisii
+	regions Germania_Inferior Germania_Superior Hermunduria Saxonia Agri_Decumates Ripuaria Frisia
 	unit merc golden band,			exp 1 cost 1000 replenish 0.06 - 0.44 max 1 initial 0
 	unit merc foederati infantry,			exp 0 cost 600 replenish 0.06 - 0.19 max 1 initial 1
 	unit merc foederati cavalry,			exp 0 cost 700 replenish 0.06 - 0.19 max 1 initial 1
 	unit merc veteranii,			exp 2 cost 1230 replenish 0.06 - 0.19 max 1 initial 0
 
 pool Eastern_Europe
-	regions Tribus_Burgundii Tribus_Lombardi Tribus_Marcomanni Tribus_Quaddi
+	regions Bructeria Semnonia Boihaemum Tribus_Quaddi
 	unit merc golden band,			exp 2 cost 1200 replenish 0.06 - 0.44 max 2 initial 1
 	unit merc sarmatian armoured archers,	exp 2 cost 1250 replenish 0.06 - 0.19 max 1 initial 0
 	
 pool Steppes
-	regions Tribus_Sakae Tribus_Alanni Tribus_Vandali Locus_Sarmatae Locus_Barbaricum Tribus_Roxolani			
+	regions Tribus_Sakae Tribus_Alanni Tribus_Vandali Borysthenes Locus_Barbaricum Maeotis			
 	unit merc alan horse archers,			exp 1 cost 825 replenish 0.12 - 0.38 max 2 initial 1
 	unit merc vandal lancers,			exp 1 cost 800 replenish 0.03 - 0.05 max 1 initial 0
 	unit merc vandal raiders,			exp 1 cost 575 replenish 0.03 - 0.05 max 1 initial 0

@@ -21,17 +21,17 @@ playable
 	ostrogoths
 	slavs
 	berbers
+	slave
 end
 unlockable
 end
 nonplayable
 	empire_east_rebels
 	empire_west_rebels
-	slave
 end
 
 
-start_date	363 summer
+start_date	365 summer
 end_date	476 summer
 
 
@@ -929,7 +929,7 @@ resource        wine, 1,   78,   167
 
 faction	huns, religious_genghis
 denari	10000
-character	Tukhechjen, named character, leader, age 45, , x 184, y 188 
+character	Tukhechjen, named character, leader, age 45, , x 224, y 194 
 traits FactionLeader 1, Warlord 3 , GoodCommander 1 , Girls 2 , Feck 1 , HunnicFearsomeness 2 , Pagan 1
 ancillaries mercenary_captain, mistress, slave_trader, wrestler, witch, musician
 army
@@ -949,7 +949,7 @@ unit		hun horde spearmen				exp 0 armour 0 weapon_lvl 0
 unit		hun horde spearmen				exp 0 armour 0 weapon_lvl 0
 unit		hun horde spearmen				exp 0 armour 0 weapon_lvl 0
 
-character	Kandak, named character, heir, age 26, , x 185, y 183 
+character	Kandak, named character, heir, age 26, , x 225, y 189 
 traits FactionHeir 1, GoodCommander 2 , HunnicFearsomeness 1 , Pagan 1
 ancillaries hun_witch, mistress, musician
 army
@@ -969,7 +969,7 @@ unit		hun horde spearmen				exp 0 armour 0 weapon_lvl 0
 unit		hun horde spearmen				exp 0 armour 0 weapon_lvl 0
 unit		hun horde spearmen				exp 0 armour 0 weapon_lvl 0
 
-character	Ellak, named character, age 24, , x 180, y 179 
+character	Ellak, named character, age 24, , x 221, y 192 
 traits GoodCommander 2 , HunnicFearsomeness 1 , Pagan 1
 ancillaries scout
 army
@@ -988,7 +988,7 @@ unit		hun horde spearmen				exp 0 armour 0 weapon_lvl 0
 unit		hun horde spearmen				exp 0 armour 0 weapon_lvl 0
 unit		hun horde spearmen				exp 0 armour 0 weapon_lvl 0
 
-character	Diggiz, named character, age 27, , x 182, y 189 
+character	Diggiz, named character, age 27, , x 222, y 195 
 traits Warlord 1 , GoodCommander 3 , Disciplinarian 1 , Girls 3 , HunnicFearsomeness 2 , Intelligent 1 , PoliticsSkill 1, Pagan 1
 ancillaries soothsayer, torturer, mistress, musician, oracle
 army
@@ -1007,7 +1007,7 @@ unit		hun horde spearmen				exp 0 armour 0 weapon_lvl 0
 unit		hun horde spearmen				exp 0 armour 0 weapon_lvl 0
 unit		hun horde spearmen				exp 0 armour 0 weapon_lvl 0
 
-character	Karaton, general, age 30, , x 178, y 186 
+character	Karaton, general, age 30, , x 218, y 197 
 
 army
 unit		hunnic heavy cavalry				exp 0 armour 0 weapon_lvl 0
@@ -1027,7 +1027,7 @@ unit		hun horde chosen warriors				exp 0 armour 0 weapon_lvl 0
 unit		hun horde chosen warriors				exp 0 armour 0 weapon_lvl 0
 unit		hun horde chosen warriors				exp 0 armour 0 weapon_lvl 0
 
-character	Tumen, general, age 30, , x 177, y 176 
+character	Tumen, general, age 30, , x 217, y 192 
 
 army
 unit		hunnic lancers				exp 0 armour 0 weapon_lvl 0
@@ -1047,7 +1047,7 @@ unit		hun horde chosen warriors				exp 0 armour 0 weapon_lvl 0
 unit		hun horde chosen warriors				exp 0 armour 0 weapon_lvl 0
 unit		hun horde chosen warriors				exp 0 armour 0 weapon_lvl 0
 
-character	Kursyk, general, age 30, , x 187, y 184 
+character	Kursyk, general, age 30, , x 227, y 190 
 
 army
 unit		tribal cavalry				exp 2 armour 2 weapon_lvl 2
@@ -1067,7 +1067,7 @@ unit		hun horde chosen warriors				exp 0 armour 0 weapon_lvl 0
 unit		hun horde chosen warriors				exp 0 armour 0 weapon_lvl 0
 unit		hun horde chosen warriors				exp 0 armour 0 weapon_lvl 0
 
-character	Datan, general, age 45, , x 188, y 182 
+character	Datan, general, age 45, , x 228, y 188 
 
 army
 unit		hunnic lancers				exp 0 armour 0 weapon_lvl 0
@@ -1087,7 +1087,7 @@ unit		hun horde chosen warriors				exp 0 armour 0 weapon_lvl 0
 unit		hun horde chosen warriors				exp 0 armour 0 weapon_lvl 0
 unit		hun horde chosen warriors				exp 0 armour 0 weapon_lvl 0
 
-character	Mete, general, age 36, , x 177, y 183 
+character	Mete, general, age 36, , x 219, y 188 
 
 army
 unit		tribal cavalry				exp 2 armour 2 weapon_lvl 2
@@ -1107,13 +1107,13 @@ unit		hun horde chosen warriors				exp 0 armour 0 weapon_lvl 0
 unit		hun horde chosen warriors				exp 0 armour 0 weapon_lvl 0
 unit		hun horde chosen warriors				exp 0 armour 0 weapon_lvl 0
 
-character	Panu, diplomat, age 33, , x 166, y 180 
+character	Panu, diplomat, age 33, , x 215, y 186 
 traits GoodDiplomat 3 , Pagan 1
 
-character	Bulumar, assassin, age 27, , x 173, y 178 
+character	Bulumar, assassin, age 27, , x 213, y 194 
 traits GoodAssassin 1 
 
-character	Muyun, spy, age 31, , x 194, y 184 
+character	Muyun, spy, age 31, , x 220, y 189 
 traits GoodSpy 2 
 
 
@@ -1133,15 +1133,179 @@ denari	15000
 settlement
 {
 	level city
-	region Dacia
+	region Bastarnia
 
 	year_founded 20
-	population 11507
+	population 8507
 	plan_set default_set
 	faction_creator goths
 	building
 	{
 		type core_building governors_palace
+	}
+	building
+	{
+		type defenses wooden_pallisade
+	}
+	building
+	{
+		type barracks city_barracks
+	}
+	building
+	{
+		type equestrian stables
+	}
+	building
+	{
+		type missiles practice_field
+	}
+	building
+	{
+		type market market
+	}
+	building
+	{
+		type hinterland_roads roads
+	}
+	building
+	{
+		type hinterland_farms farms
+	}
+}
+
+settlement
+{
+	level large_town
+	region Dacia
+
+	year_founded 20
+	population 3728
+	plan_set default_set
+	faction_creator goths
+	building
+	{
+		type core_building governors_villa
+	}
+	building
+	{
+		type defenses wooden_pallisade
+	}
+	building
+	{
+		type hinterland_roads roads
+	}
+	building
+	{
+		type barracks muster_field
+	}
+	building
+	{
+		type missiles practice_field
+	}
+	building
+	{
+		type market trader
+	}
+	building
+	{
+		type hinterland_mines mines
+	}
+}
+
+settlement
+{
+	level town
+	region Dacia_Malvensis
+
+	year_founded 20
+	population 1602
+	plan_set default_set
+	faction_creator goths
+	building
+	{
+		type core_building governors_house
+	}
+	building
+	{
+		type defenses wooden_pallisade
+	}
+	building
+	{
+		type hinterland_roads roads
+	}
+	building
+	{
+		type barracks muster_field
+	}
+	building
+	{
+		type hinterland_farms farms
+	}
+	building
+	{
+		type temple_church_christianity church_christianity_chapel
+	}
+}
+
+character	Athaneric, named character, leader, age 46, , x 151, y 153 
+traits FactionLeader 1, Warlord 2 , GoodCommander 2 , GoodAdministrator 1 , Anger 1 , Pagan 1 , PaganPiety 1
+ancillaries translator, swordbearer, torturer, pet_hunting_dog, goldsmith
+army
+unit		goth warlords				exp 0 armour 0 weapon_lvl 0
+unit		gothic lancer				exp 0 armour 0 weapon_lvl 0
+unit		goth raiders				exp 0 armour 0 weapon_lvl 0
+unit		gothic spearmen				exp 0 armour 0 weapon_lvl 0
+unit		gothic spearmen				exp 0 armour 0 weapon_lvl 0
+
+character	Fritigern, named character, heir, age 39, , x 141, y 143 
+traits FactionHeir 1, GoodCommander 2, Christian 1
+ancillaries veteran_warrior, scout
+army
+unit		goth warlords				exp 0 armour 0 weapon_lvl 0
+unit		goth raiders				exp 0 armour 0 weapon_lvl 0
+unit		gothic spearmen				exp 0 armour 0 weapon_lvl 0
+
+character	Theia, general,	age 31,	, x 138, y 153 
+army
+unit		goth raiders				exp 0 armour 0 weapon_lvl 0
+unit		gothic spearmen				exp 0 armour 0 weapon_lvl 0
+
+character	Theodobald, diplomat, age 42, , x 144, y 145 
+traits GoodDiplomat 1 , Christian 1
+
+character	Berig, spy, age 26, , x 151, y 156 
+traits GoodSpy 1 , Pagan 1
+
+character	Hunimund, assassin, age 21, , x 143, y 152 
+traits GoodAssassin 2 , Pagan 1
+
+character_record		Bernildis, 	female, command 0, influence 0, management 0, subterfuge 0, age 42, alive, never_a_leader
+character_record		Adelgund, 	female, command 0, influence 0, management 0, subterfuge 0, age 24, alive, never_a_leader
+character_record		Ulrike, 	female, command 0, influence 0, management 0, subterfuge 0, age 19, alive, never_a_leader
+character_record		Leovigild, 	male, command 0, influence 0, management 0, subterfuge 0, age 14, alive, never_a_leader
+character_record		Cniva, 	male, command 0, influence 0, management 0, subterfuge 0, age 10, alive, never_a_leader
+character_record		Athanagild, 	male, command 0, influence 0, management 0, subterfuge 0, age 10, alive, never_a_leader
+character_record		Ataulf, 	male, command 0, influence 0, management 0, subterfuge 0, age 7, alive, never_a_leader
+character_record		Veleda, 	female, command 0, influence 0, management 0, subterfuge 0, age 2, alive, never_a_leader
+
+relative 	Athaneric, 	 Bernildis, 	Adelgund,	Ulrike,	Leovigild,	Cniva,	end
+relative 	Fritigern, 	Adelgund,		Athanagild,	Ataulf,	Veleda,	end
+
+
+faction	sarmatians, trader_henry
+denari	15000
+settlement
+{
+	level large_town
+	region Tribus_Iazyges
+
+	year_founded 20
+	population 4195
+	plan_set default_set
+	faction_creator sarmatians
+	building
+	{
+		type core_building governors_villa
 	}
 	building
 	{
@@ -1157,102 +1321,11 @@ settlement
 	}
 	building
 	{
-		type market forum
-	}
-	building
-	{
-		type hinterland_roads roads
-	}
-	building
-	{
-		type hinterland_farms farms+1
-	}
-	building
-	{
-		type hinterland_mines mines
-	}
-	building
-	{
-		type temple_church_christianity church_christianity_chapel
-	}
-}
-
-character	Ermaneric, named character, leader, age 53, , x 138, y 152 
-traits FactionLeader 1, Warlord 2 , GoodCommander 1 , GoodAdministrator 3 , GoodTrader 1 , Anger 1 , Christian 1 
-ancillaries translator, swordbearer, musician, trusty_steed, goldsmith
-army
-unit		goth warlords				exp 0 armour 0 weapon_lvl 0
-unit		peasant gothic				exp 0 armour 0 weapon_lvl 0
-unit		gothic spearmen				exp 0 armour 0 weapon_lvl 0
-unit		gothic lancer				exp 0 armour 0 weapon_lvl 0
-
-character	Vithimer, named character, heir, age 33, , x 133, y 151 
-traits FactionHeir 1, GoodCommander 3, Pagan 1
-ancillaries veteran_warrior, scout
-army
-unit		goth warlords				exp 0 armour 0 weapon_lvl 0
-unit		goth raiders				exp 0 armour 0 weapon_lvl 0
-unit		gothic spearmen				exp 0 armour 0 weapon_lvl 0
-
-character	Theodobald, diplomat, age 42, , x 140, y 145 
-traits GoodDiplomat 1 , Christian 1
-
-character	Berig, spy, age 26, , x 151, y 156 
-traits GoodSpy 1 , Pagan 1
-
-character	Hunimund, assassin, age 21, , x 145, y 157 
-traits GoodAssassin 2 
-
-character_record		Bernildis, 	female, command 0, influence 0, management 0, subterfuge 0, age 52, alive, never_a_leader
-character_record		Adelgund, 	female, command 0, influence 0, management 0, subterfuge 0, age 24, alive, never_a_leader
-character_record		Ulrike, 	female, command 0, influence 0, management 0, subterfuge 0, age 18, alive, never_a_leader
-character_record		Leovigild, 	male, command 0, influence 0, management 0, subterfuge 0, age 14, alive, never_a_leader
-character_record		Cniva, 	male, command 0, influence 0, management 0, subterfuge 0, age 12, alive, never_a_leader
-character_record		Sigeric, 	male, command 0, influence 0, management 0, subterfuge 0, age 11, alive, never_a_leader
-character_record		Vinithar, 	male, command 0, influence 0, management 0, subterfuge 0, age 8, alive, never_a_leader
-
-relative 	Ermaneric, 	 Bernildis, 	Vithimer,	Ulrike,	Leovigild,	Cniva,	end
-relative 	Vithimer, 	Adelgund,		Sigeric,	Vinithar,	end
-
-
-faction	sarmatians, trader_henry
-denari	15000
-settlement
-{
-	level city
-	region Sarmatia
-
-	year_founded 20
-	population 10798
-	plan_set default_set
-	faction_creator sarmatians
-	building
-	{
-		type core_building governors_palace
-	}
-	building
-	{
-		type barracks militia_barracks
-	}
-	building
-	{
-		type equestrian cavalry_barracks
-	}
-	building
-	{
-		type missiles practice_field
-	}
-	building
-	{
 		type market market
 	}
 	building
 	{
-		type smith blacksmith
-	}
-	building
-	{
-		type hinterland_farms farms+1
+		type hinterland_farms farms
 	}
 	building
 	{
@@ -1264,7 +1337,7 @@ settlement
 	}
 }
 
-character	Boz, named character, leader, age 43, , x 157, y 162 
+character	Boz, named character, leader, age 43, , x 124, y 152 
 traits FactionLeader 1, Warlord 1 , GoodCommander 1 , GoodTrader 3 , GoodAdministrator 3 , GoodTaxman 3 , Pagan 1 
 ancillaries master_smith, magician, oracle
 army
@@ -1273,20 +1346,20 @@ unit		sarmatian armoured archers				exp 0 armour 0 weapon_lvl 0
 unit		herdsmen sarmatian				exp 0 armour 0 weapon_lvl 0
 unit		runaway slave spearmen				exp 0 armour 0 weapon_lvl 0
 
-character	Rumo, named character, heir, age 20, , x 162, y 174 
+character	Rumo, named character, heir, age 20, , x 121, y 149 
 traits FactionHeir 1, Bloodthirsty 1 , Pagan 1 
 army
 unit		sarmatian warlords				exp 0 armour 0 weapon_lvl 0
 unit		runaway slave spearmen				exp 0 armour 0 weapon_lvl 0
 unit		herdsmen sarmatian				exp 0 armour 0 weapon_lvl 0
 
-character	Galat, diplomat, age 22, , x 174, y 170 
+character	Galat, diplomat, age 22, , x 122, y 153 
 traits Pagan 1
 
-character	Atheas, assassin, age 32, , x 168, y 172 
+character	Atheas, assassin, age 32, , x 120, y 157 
 traits GoodAssassin 1 
 
-character	Kudurmabug, spy, age 24, , x 170, y 165 
+character	Kudurmabug, spy, age 24, , x 117, y 154 
 traits GoodSpy 2 , Pagan 1
 
 
@@ -1300,178 +1373,18 @@ relative 	Boz, 	Afina,		Rumo,	Palacus,	Tigran,	Haldita,	end
 
 faction	vandals, religious_caesar
 denari	10000
-character	Visimar, named character, leader, age 37, , x 157, y 182 
-traits FactionLeader 1, Warlord 1 , Despoiler 3 , GoodTrader 3 , GoodTaxman 3 , Intelligent 2 , LogisticalSkill 2 , Pagan 1 
-ancillaries overseer, scout, torturer, merchant, jeweller, swordbearer
-army
-unit		steppe warlords				exp 0 armour 0 weapon_lvl 0
-unit		steppe raiders				exp 0 armour 0 weapon_lvl 0
-unit		steppe raiders				exp 0 armour 0 weapon_lvl 0
-unit		steppe horde horse				exp 0 armour 0 weapon_lvl 0
-unit		steppe horde horse				exp 0 armour 0 weapon_lvl 0
-unit		steppe horde horse				exp 0 armour 0 weapon_lvl 0
-unit		steppe horde horse				exp 0 armour 0 weapon_lvl 0
-unit		steppe horde horse				exp 0 armour 0 weapon_lvl 0
-unit		steppe horde horse				exp 0 armour 0 weapon_lvl 0
-unit		steppe horde peasants				exp 0 armour 0 weapon_lvl 0
-unit		steppe horde peasants				exp 0 armour 0 weapon_lvl 0
-unit		steppe horde peasants				exp 0 armour 0 weapon_lvl 0
-unit		steppe horde peasants				exp 0 armour 0 weapon_lvl 0
-unit		steppe horde spearmen				exp 0 armour 0 weapon_lvl 0
-unit		steppe horde spearmen				exp 0 armour 0 weapon_lvl 0
-unit		steppe horde spearmen				exp 0 armour 0 weapon_lvl 0
-unit		steppe horde spearmen				exp 0 armour 0 weapon_lvl 0
-unit		steppe horde chosen warriors				exp 0 armour 0 weapon_lvl 0
-unit		steppe horde chosen warriors				exp 0 armour 0 weapon_lvl 0
-
-character	Gondegusulus, named character, heir, age 18, , x 159, y 181 
-traits FactionHeir 1, GoodCommander 1 , Pagan 1 
-ancillaries musician, herbalist, master_hunter
-army
-unit		steppe warlords				exp 0 armour 0 weapon_lvl 0
-unit		steppe raiders				exp 0 armour 0 weapon_lvl 0
-unit		steppe raiders				exp 0 armour 0 weapon_lvl 0
-unit		steppe horde horse				exp 0 armour 0 weapon_lvl 0
-unit		steppe horde horse				exp 0 armour 0 weapon_lvl 0
-unit		steppe horde horse				exp 0 armour 0 weapon_lvl 0
-unit		steppe horde horse				exp 0 armour 0 weapon_lvl 0
-unit		steppe horde horse				exp 0 armour 0 weapon_lvl 0
-unit		steppe horde horse				exp 0 armour 0 weapon_lvl 0
-unit		steppe horde peasants				exp 0 armour 0 weapon_lvl 0
-unit		steppe horde peasants				exp 0 armour 0 weapon_lvl 0
-unit		steppe horde peasants				exp 0 armour 0 weapon_lvl 0
-unit		steppe horde peasants				exp 0 armour 0 weapon_lvl 0
-unit		steppe horde spearmen				exp 0 armour 0 weapon_lvl 0
-unit		steppe horde spearmen				exp 0 armour 0 weapon_lvl 0
-unit		steppe horde spearmen				exp 0 armour 0 weapon_lvl 0
-unit		steppe horde spearmen				exp 0 armour 0 weapon_lvl 0
-unit		steppe horde chosen warriors				exp 0 armour 0 weapon_lvl 0
-unit		steppe horde chosen warriors				exp 0 armour 0 weapon_lvl 0
-
-character	Boiocalus, general, age 35, , x 153, y 182 
-army
-unit		steppe lancers				exp 0 armour 0 weapon_lvl 0
-unit		steppe raiders				exp 0 armour 0 weapon_lvl 0
-unit		steppe raiders				exp 0 armour 0 weapon_lvl 0
-unit		steppe horde horse				exp 0 armour 0 weapon_lvl 0
-unit		steppe horde horse				exp 0 armour 0 weapon_lvl 0
-unit		steppe horde horse				exp 0 armour 0 weapon_lvl 0
-unit		steppe horde horse				exp 0 armour 0 weapon_lvl 0
-unit		steppe horde horse				exp 0 armour 0 weapon_lvl 0
-unit		steppe horde horse				exp 0 armour 0 weapon_lvl 0
-unit		steppe horde peasants				exp 0 armour 0 weapon_lvl 0
-unit		steppe horde peasants				exp 0 armour 0 weapon_lvl 0
-unit		steppe horde peasants				exp 0 armour 0 weapon_lvl 0
-unit		steppe horde peasants				exp 0 armour 0 weapon_lvl 0
-unit		steppe horde spearmen				exp 0 armour 0 weapon_lvl 0
-unit		steppe horde spearmen				exp 0 armour 0 weapon_lvl 0
-unit		steppe horde spearmen				exp 0 armour 0 weapon_lvl 0
-unit		steppe horde spearmen				exp 0 armour 0 weapon_lvl 0
-unit		steppe horde chosen warriors				exp 0 armour 0 weapon_lvl 0
-unit		steppe horde chosen warriors				exp 0 armour 0 weapon_lvl 0
-
-character	Eraric, general, age 38, , x 157, y 185 
-army
-unit		steppe lancers				exp 0 armour 0 weapon_lvl 0
-unit		steppe raiders				exp 0 armour 0 weapon_lvl 0
-unit		steppe raiders				exp 0 armour 0 weapon_lvl 0
-unit		steppe horde horse				exp 0 armour 0 weapon_lvl 0
-unit		steppe horde horse				exp 0 armour 0 weapon_lvl 0
-unit		steppe horde horse				exp 0 armour 0 weapon_lvl 0
-unit		steppe horde horse				exp 0 armour 0 weapon_lvl 0
-unit		steppe horde horse				exp 0 armour 0 weapon_lvl 0
-unit		steppe horde horse				exp 0 armour 0 weapon_lvl 0
-unit		steppe horde peasants				exp 0 armour 0 weapon_lvl 0
-unit		steppe horde peasants				exp 0 armour 0 weapon_lvl 0
-unit		steppe horde peasants				exp 0 armour 0 weapon_lvl 0
-unit		steppe horde peasants				exp 0 armour 0 weapon_lvl 0
-unit		steppe horde spearmen				exp 0 armour 0 weapon_lvl 0
-unit		steppe horde spearmen				exp 0 armour 0 weapon_lvl 0
-unit		steppe horde spearmen				exp 0 armour 0 weapon_lvl 0
-unit		steppe horde spearmen				exp 0 armour 0 weapon_lvl 0
-unit		steppe horde chosen warriors				exp 0 armour 0 weapon_lvl 0
-unit		steppe horde chosen warriors				exp 0 armour 0 weapon_lvl 0
-
-character	Nasua, general, age 29, , x 152, y 183 
-army
-unit		steppe lancers				exp 0 armour 0 weapon_lvl 0
-unit		steppe raiders				exp 0 armour 0 weapon_lvl 0
-unit		steppe raiders				exp 0 armour 0 weapon_lvl 0
-unit		steppe horde horse				exp 0 armour 0 weapon_lvl 0
-unit		steppe horde horse				exp 0 armour 0 weapon_lvl 0
-unit		steppe horde horse				exp 0 armour 0 weapon_lvl 0
-unit		steppe horde horse				exp 0 armour 0 weapon_lvl 0
-unit		steppe horde horse				exp 0 armour 0 weapon_lvl 0
-unit		steppe horde horse				exp 0 armour 0 weapon_lvl 0
-unit		steppe horde peasants				exp 0 armour 0 weapon_lvl 0
-unit		steppe horde peasants				exp 0 armour 0 weapon_lvl 0
-unit		steppe horde peasants				exp 0 armour 0 weapon_lvl 0
-unit		steppe horde peasants				exp 0 armour 0 weapon_lvl 0
-unit		steppe horde spearmen				exp 0 armour 0 weapon_lvl 0
-unit		steppe horde spearmen				exp 0 armour 0 weapon_lvl 0
-unit		steppe horde spearmen				exp 0 armour 0 weapon_lvl 0
-unit		steppe horde spearmen				exp 0 armour 0 weapon_lvl 0
-unit		steppe horde chosen warriors				exp 0 armour 0 weapon_lvl 0
-unit		steppe horde chosen warriors				exp 0 armour 0 weapon_lvl 0
-
-character	Gundahar, general, age 34, , x 155, y 184 
-army
-unit		steppe lancers				exp 0 armour 0 weapon_lvl 0
-unit		steppe raiders				exp 0 armour 0 weapon_lvl 0
-unit		steppe raiders				exp 0 armour 0 weapon_lvl 0
-unit		steppe horde horse				exp 0 armour 0 weapon_lvl 0
-unit		steppe horde horse				exp 0 armour 0 weapon_lvl 0
-unit		steppe horde horse				exp 0 armour 0 weapon_lvl 0
-unit		steppe horde horse				exp 0 armour 0 weapon_lvl 0
-unit		steppe horde horse				exp 0 armour 0 weapon_lvl 0
-unit		steppe horde horse				exp 0 armour 0 weapon_lvl 0
-unit		steppe horde peasants				exp 0 armour 0 weapon_lvl 0
-unit		steppe horde peasants				exp 0 armour 0 weapon_lvl 0
-unit		steppe horde peasants				exp 0 armour 0 weapon_lvl 0
-unit		steppe horde peasants				exp 0 armour 0 weapon_lvl 0
-unit		steppe horde spearmen				exp 0 armour 0 weapon_lvl 0
-unit		steppe horde spearmen				exp 0 armour 0 weapon_lvl 0
-unit		steppe horde spearmen				exp 0 armour 0 weapon_lvl 0
-unit		steppe horde spearmen				exp 0 armour 0 weapon_lvl 0
-unit		steppe horde chosen warriors				exp 0 armour 0 weapon_lvl 0
-unit		steppe horde chosen warriors				exp 0 armour 0 weapon_lvl 0
-
-character	Duva, diplomat, age 37, , x 154, y 185 
-traits Pagan 1
-
-character	Oza, spy, age 27, , x 155, y 182
-traits GoodSpy 2 , Pagan 1
-
-character	Marcuui, assassin, age 17, , x 158, y 180 
-traits GoodAssassin 1 
-
-
-character_record		Alba, 	female, command 0, influence 0, management 0, subterfuge 0, age 34, alive, never_a_leader
-character_record		Brunhild, 	female, command 0, influence 0, management 0, subterfuge 0, age 18, alive, never_a_leader
-character_record		Maroboduus, 	male, command 0, influence 0, management 0, subterfuge 0, age 14, alive, never_a_leader
-character_record		Ludwiga, 	female, command 0, influence 0, management 0, subterfuge 0, age 13, alive, never_a_leader
-character_record		Gildo, 	male, command 0, influence 0, management 0, subterfuge 0, age 12, alive, never_a_leader
-character_record		Brinno, 	male, command 0, influence 0, management 0, subterfuge 0, age 4, alive, never_a_leader
-character_record		Vangio, 	male, command 0, influence 0, management 0, subterfuge 0, age 2, alive, never_a_leader
-
-relative 	Visimar, 	Alba,		Gondegusulus,	Maroboduus,	Ludwiga,	Gildo,	end
-relative 	Gondegusulus, 	Brunhild,		Brinno,	Vangio,	end
-
-
-faction	franks, religious_napoleon
-denari	15000
 settlement
 {
-	level city
-	region Tribus_Franki
+	level large_town
+	region Hasdingia
 
-	year_founded 20
-	population 11881
+	year_founded 363
+	population 5845
 	plan_set default_set
-	faction_creator franks
+	faction_creator vandals
 	building
 	{
-		type core_building governors_palace
+		type core_building governors_villa
 	}
 	building
 	{
@@ -1483,19 +1396,11 @@ settlement
 	}
 	building
 	{
-		type equestrian cavalry_barracks
+		type equestrian stables
 	}
 	building
 	{
-		type missiles practice_field
-	}
-	building
-	{
-		type market forum
-	}
-	building
-	{
-		type health baths
+		type market market
 	}
 	building
 	{
@@ -1503,7 +1408,141 @@ settlement
 	}
 	building
 	{
-		type hinterland_farms farms+2
+		type hinterland_farms farms
+	}
+	building
+	{
+		type hinterland_roads roads
+	}
+}
+
+settlement
+{
+	level large_town
+	region Tribus_Vandali
+
+	year_founded 363
+	population 3845
+	plan_set default_set
+	faction_creator vandals
+	building
+	{
+		type core_building governors_villa
+	}
+	building
+	{
+		type defenses wooden_pallisade
+	}
+	building
+	{
+		type barracks muster_field
+	}
+	building
+	{
+		type market trader
+	}
+	building
+	{
+		type hinterland_farms farms
+	}
+}
+
+character	Visimar, named character, leader, age 37, , x 119, y 166 
+traits FactionLeader 1, Warlord 1 , Despoiler 3 , GoodTrader 3 , GoodTaxman 3 , Intelligent 2 , LogisticalSkill 2 , Pagan 1 
+ancillaries overseer, scout, torturer, merchant, jeweller, swordbearer
+army
+unit		steppe warlords				exp 0 armour 0 weapon_lvl 0
+unit		steppe lancers				exp 0 armour 0 weapon_lvl 0
+unit		steppe spearmen vandal				exp 0 armour 0 weapon_lvl 0
+unit		steppe spearmen vandal				exp 0 armour 0 weapon_lvl 0
+
+character	Gondegusulus, named character, heir, age 18, , x 121, y 162 
+traits FactionHeir 1, GoodCommander 1 , Pagan 1 
+ancillaries musician, herbalist, master_hunter
+army
+unit		steppe warlords				exp 0 armour 0 weapon_lvl 0
+unit		steppe lancers				exp 0 armour 0 weapon_lvl 0
+unit		steppe raiders				exp 0 armour 0 weapon_lvl 0
+
+character	Eraric, named character, age 41, , x 107, y 175 
+traits GoodAdministrator 2, GoodCommander 2, Warlord 1, KindRuler 1, Pagan 1
+ancillaries soothsayer, swordbearer, veteran_warrior
+army
+unit		steppe warlords				exp 0 armour 0 weapon_lvl 0
+unit		steppe lancers				exp 0 armour 0 weapon_lvl 0
+unit		steppe spearmen vandal				exp 0 armour 0 weapon_lvl 0
+unit		steppe raiders				exp 0 armour 0 weapon_lvl 0
+
+character	Gundahar, named character, age 20, , x 104, y 177 
+traits GoodAmbusher 1, GoodDefender 1, Pagan 1
+ancillaries pet_hunting_dog
+army
+unit		steppe warlords				exp 0 armour 0 weapon_lvl 0
+unit		steppe raiders				exp 0 armour 0 weapon_lvl 0
+unit		steppe spearmen vandal				exp 0 armour 0 weapon_lvl 0
+
+character	Duva, diplomat, age 37, , x 112, y 164 
+traits Pagan 1
+
+character	Oza, spy, age 27, , x 124, y 171
+traits GoodSpy 2 , Pagan 1
+
+character	Marcuui, assassin, age 17, , x 113, y 171 
+traits GoodAssassin 1 
+
+
+character_record		Alba, 	female, command 0, influence 0, management 0, subterfuge 0, age 34, alive, never_a_leader
+character_record		Brunhild, 	female, command 0, influence 0, management 0, subterfuge 0, age 18, alive, never_a_leader
+character_record		Maroboduus, 	male, command 0, influence 0, management 0, subterfuge 0, age 14, alive, never_a_leader
+character_record		Ludwiga, 	female, command 0, influence 0, management 0, subterfuge 0, age 13, alive, never_a_leader
+character_record		Gildo, 	male, command 0, influence 0, management 0, subterfuge 0, age 12, alive, never_a_leader
+character_record		Brinno, 	male, command 0, influence 0, management 0, subterfuge 0, age 4, alive, never_a_leader
+
+character_record		Irmingarda,	female, command 0, influence 0, management 0, subterfuge 0, age 39, alive, never_a_leader
+character_record		Adelgund,	female, command 0, influence 0, management 0, subterfuge 0, age 17, alive, never_a_leader
+character_record		Vangio, 	male, command 0, influence 0, management 0, subterfuge 0, age 11, alive, never_a_leader
+character_record		Amalberga,	female, command 0, influence 0, management 0, subterfuge 0, age 16, alive, never_a_leader
+character_record		Fredbal, 	male, command 0, influence 0, management 0, subterfuge 0, age 2, alive, never_a_leader
+
+relative 	Visimar, 	Alba,		Gondegusulus,	Maroboduus,	Ludwiga,	Gildo,	end
+relative 	Gondegusulus, 	Brunhild,		Brinno,	end
+relative	Eraric,	Irmingarda,		Gundahar, Adelgund,	Vangio, end
+relative	Gundahar,	Amalberga,	Fredbal, end
+
+faction	franks, religious_napoleon
+denari	15000
+settlement
+{
+	level large_town
+	region Toxandria
+
+	year_founded 363
+	population 4713
+	plan_set default_set
+	faction_creator empire_west
+	building
+	{
+		type core_building governors_villa
+	}
+	building
+	{
+		type defenses wooden_wall
+	}
+	building
+	{
+		type barracks militia_barracks
+	}
+	building
+	{
+		type equestrian stables
+	}
+	building
+	{
+		type smith blacksmith
+	}
+	building
+	{
+		type hinterland_farms farms+1
 	}
 	building
 	{
@@ -1511,11 +1550,11 @@ settlement
 	}
 	building
 	{
-		type temple_of_viking temple_of_viking_temple
+		type temple_of_viking temple_of_viking_shrine
 	}
 }
 
-character	Chlodio, named character, leader, age 45, , x 86, y 173 
+character	Chlodio, named character, leader, age 45, , x 71, y 181 
 traits FactionLeader 1, Warlord 1 , GoodCommander 2 , GoodTrader 3 , GoodFarmer 2 , GoodAdministrator 3 , GoodTaxman 2 , Pagan 1 
 ancillaries drinking_companion, civilized_slave, famous_warrior
 army
@@ -1524,7 +1563,7 @@ unit		levy spearman frank				exp 0 armour 0 weapon_lvl 0
 unit		levy spearman frank				exp 0 armour 0 weapon_lvl 0
 unit		western peasant frank				exp 0 armour 0 weapon_lvl 0
 
-character	Merovaeus, named character, heir, age 27, , x 91, y 178 
+character	Merovaeus, named character, heir, age 27, , x 68, y 182 
 traits FactionHeir 1, GoodCommander 2 , TacticalSkill 1 , Girls 1 , Pagan 1 
 ancillaries galloper, rival, bodyguard
 army
@@ -1533,13 +1572,13 @@ unit		saxon hunters				exp 0 armour 0 weapon_lvl 0
 unit		levy spearman frank				exp 0 armour 0 weapon_lvl 0
 unit		axe heerbann				exp 0 armour 0 weapon_lvl 0
 
-character	Sigimer, diplomat, age 25, , x 94, y 171 
+character	Sigimer, diplomat, age 25, , x 68, y 175 
 traits GoodDiplomat 2, Pagan 1 
 
-character	Carolus, spy, age 22, , x 104, y 176 
+character	Carolus, spy, age 22, , x 79, y 176 
 traits GoodSpy 3 , Pagan 1
 
-character	Lutgardis, assassin, age 25, , x 86, y 173 
+character	Lutgardis, assassin, age 25, , x 71, y 181 
 traits GoodAssassin 1 
 
 
@@ -1561,10 +1600,10 @@ denari	15000
 settlement
 {
 	level city
-	region Tribus_Saxones
+	region Saxonia
 
 	year_founded 363
-	population 10423
+	population 7423
 	plan_set default_set
 	faction_creator saxons
 	building
@@ -1577,7 +1616,7 @@ settlement
 	}
 	building
 	{
-		type barracks city_barracks
+		type barracks militia_barracks
 	}
 	building
 	{
@@ -1585,11 +1624,7 @@ settlement
 	}
 	building
 	{
-		type market forum
-	}
-	building
-	{
-		type health sewers
+		type market market
 	}
 	building
 	{
@@ -1601,7 +1636,7 @@ settlement
 	}
 	building
 	{
-		type hinterland_farms farms+2
+		type hinterland_farms farms
 	}
 	building
 	{
@@ -1613,7 +1648,7 @@ settlement
 	}
 }
 
-character	Gelder, named character, leader, age 50, , x 87, y 195 
+character	Gelder, named character, leader, age 50, , x 87, y 185 
 traits FactionLeader 1, Warlord 2 , Pagan 1, Rabblerouser 3 , Paranoia 1 , PaganPiety 1 , GoodAdministrator 3 , GoodFarmer 3 , GoodTrader 3
 ancillaries foodtaster, master_smith, lazy_guards, soothsayer
 army
@@ -1637,7 +1672,7 @@ unit		naval boats				exp 0 armour 0 weapon_lvl 0
 unit		naval boats				exp 0 armour 0 weapon_lvl 0
 unit		naval boats				exp 0 armour 0 weapon_lvl 0
 
-character	Eutlinde, diplomat, age 38, , x 83, y 190 
+character	Eutlinde, diplomat, age 38, , x 83, y 183 
 traits GoodDiplomat 2 , Pagan 1
 
 character	Ricburgis, spy, age 22, , x 91, y 190 
@@ -1664,10 +1699,10 @@ denari	15000
 settlement
 {
 	level city
-	region Tribus_Alemanni
+	region Agri_Decumates
 
 	year_founded 20
-	population 11626
+	population 6261
 	plan_set default_set
 	faction_creator alemanni
 	building
@@ -1720,7 +1755,7 @@ settlement
 	}
 }
 
-character	Suomar, named character, leader, age 40, , x 82, y 164 
+character	Suomar, named character, leader, age 40, , x 84, y 165
 traits FactionLeader 1, Warlord 3 , Pagan 1, HighPersonalSecurity 1 , Brave 2 , GoodFarmer 3 , GoodAdministrator 2 , GoodTaxman 1 , Miserly 1 , HatesRoman 2 
 ancillaries roman_turncoat, agriculturalist, bard, freeman_clerk2
 army
@@ -1729,7 +1764,7 @@ unit		spear warband alemanni				exp 0 armour 0 weapon_lvl 0
 unit		spear warband alemanni				exp 0 armour 0 weapon_lvl 0
 unit		lombard archers				exp 0 armour 0 weapon_lvl 0
 
-character	Hortar, named character, heir, age 20, , x 92, y 166 
+character	Hortar, named character, heir, age 20, , x 82, y 164 
 traits FactionHeir 1, Drink 1 , Brave 1 , Feck 1 , Noctophilia 1 , HatesRoman 1 , Pagan 1
 ancillaries slubberdegullion, cackling_crone
 army
@@ -1738,13 +1773,13 @@ unit		spear warband alemanni				exp 0 armour 0 weapon_lvl 0
 unit		western peasant alemanni				exp 0 armour 0 weapon_lvl 0
 unit		alemanni warhounds				exp 0 armour 0 weapon_lvl 0
 
-character	Catualdo, diplomat, age 31, , x 100, y 170 
+character	Catualdo, diplomat, age 31, , x 92, y 166 
 traits GoodDiplomat 2 , Pagan 1
 
 character	Haming, spy, age 23, , x 80, y 160 
 traits GoodSpy 1 , Pagan 1
 
-character	Lanfred, assassin, age 29, , x 95, y 166 
+character	Lanfred, assassin, age 29, , x 88, y 165 
 
 
 
@@ -1768,7 +1803,7 @@ settlement
 	region Hibernia
 
 	year_founded 20
-	population 10977
+	population 7977
 	plan_set default_set
 	faction_creator celts
 	building
@@ -1793,11 +1828,7 @@ settlement
 	}
 	building
 	{
-		type market forum
-	}
-	building
-	{
-		type health sewers
+		type market market
 	}
 	building
 	{
@@ -1813,7 +1844,7 @@ settlement
 	}
 	building
 	{
-		type hinterland_farms farms+1
+		type hinterland_farms farms
 	}
 	building
 	{
@@ -1821,42 +1852,7 @@ settlement
 	}
 }
 
-settlement
-{
-	level large_town
-	region Caledonia
-
-	year_founded 20
-	population 2253
-	plan_set default_set
-	faction_creator celts
-	building
-	{
-		type core_building governors_villa
-	}
-	building
-	{
-		type defenses wooden_pallisade
-	}
-	building
-	{
-		type barracks muster_field
-	}
-	building
-	{
-		type port_buildings port
-	}
-	building
-	{
-		type hinterland_roads roads
-	}
-	building
-	{
-		type temple_of_battleforge temple_of_battleforge_shrine
-	}
-}
-
-character	Angus, named character, leader, age 65, , x 36, y 198 
+character	Angus, named character, leader, age 65, , x 36, y 197 
 traits FactionLeader 1, Warlord 1 , GoodCommander 2 , GoodFarmer 2 , GoodAdministrator 2 , PhlegmHumour 2 , Pagan 1 
 ancillaries scout, wise_woman, herbalist, master_hunter, pet_hunting_dog
 army
@@ -1865,7 +1861,7 @@ unit		gallowglass				exp 0 armour 0 weapon_lvl 0
 unit		celtish wolfhounds				exp 0 armour 0 weapon_lvl 0
 unit		western peasant celt				exp 0 armour 0 weapon_lvl 0
 
-character	Drest, named character, heir, age 29, , x 45, y 208 
+character	Drest, named character, heir, age 29, , x 34, y 194 
 traits FactionHeir 1, GoodCommander 3 , GoodTrader 2 , GoodBuilder 1 , PoliticsSkill 1 , PhlegmHumour 1 , Pagan 1 
 ancillaries druid, famous_warrior
 army
@@ -1880,13 +1876,13 @@ army
 unit		naval boats				exp 0 armour 0 weapon_lvl 0
 unit		naval boats				exp 0 armour 0 weapon_lvl 0
 
-character	Fiobh, diplomat, age 34, , x 51, y 208 
+character	Fiobh, diplomat, age 34, , x 37, y 201 
 traits GoodDiplomat 3 , Pagan 1
 
-character	Brede, spy, age 26, , x 45, y 208 
+character	Brede, spy, age 26, , x 42, y 195 
 traits GoodSpy 1 , Pagan 1
 
-character	Conall, assassin, age 21, , x 36, y 198 
+character	Conall, assassin, age 21, , x 36, y 197 
 traits GoodAssassin 2 
 
 
@@ -1909,10 +1905,10 @@ denari	10000
 settlement
 {
 	level city
-	region Tribus_Roxolani
+	region Tribus_Alanni
 
 	year_founded 363
-	population 9878
+	population 6878
 	plan_set default_set
 	faction_creator roxolani
 	building
@@ -1949,7 +1945,57 @@ settlement
 	}
 }
 
-character	Madyes, named character, leader, age 42, , x 190, y 170 
+settlement
+{
+	level town
+	region Tribus_Aorsi
+
+	year_founded 20
+	population 1728
+	plan_set default_set
+	faction_creator roxolani
+	building
+	{
+		type core_building governors_house
+	}
+	building
+	{
+		type barracks muster_field
+	}
+	building
+	{
+		type market trader
+	}
+}
+
+settlement
+{
+	level town
+	region Tribus_Siracae
+
+	year_founded 20
+	population 1306
+	plan_set default_set
+	faction_creator roxolani
+	building
+	{
+		type core_building governors_house
+	}
+	building
+	{
+		type defenses wooden_pallisade
+	}
+	building
+	{
+		type barracks muster_field
+	}
+	building
+	{
+		type hinterland_farms farms
+	}
+}
+
+character	Madyes, named character, leader, age 42, , x 200, y 173 
 traits FactionLeader 1, Warlord 1 , GoodCommander 2 , Brave 2 , GoodFarmer 1 , GoodTaxman 1 , Just 1 , Pagan 1 
 ancillaries witch, roman_turncoat
 army
@@ -1958,20 +2004,25 @@ unit		herdsmen sarmatian				exp 0 armour 0 weapon_lvl 0
 unit		herdsmen sarmatian				exp 0 armour 0 weapon_lvl 0
 unit		runaway slave spearmen				exp 0 armour 0 weapon_lvl 0
 
-character	Ara, named character, heir, age 22, , x 184, y 174 
+character	Ara, named character, heir, age 22, , x 203, y 161 
 traits FactionHeir 1, GoodCommander 2 , BloodHumour 1 , Pagan 1 
 army
 unit		sarmatian warlords				exp 0 armour 0 weapon_lvl 0
 unit		runaway slave spearmen				exp 0 armour 0 weapon_lvl 0
 unit		herdsmen sarmatian				exp 0 armour 0 weapon_lvl 0
 
-character	Zanticus, diplomat, age 44, , x 186, y 174 
+character	Rasparaganus, general, age 30, , x 228, y 174 
+army
+unit		runaway slave spearmen				exp 0 armour 0 weapon_lvl 0
+unit		herdsmen sarmatian				exp 0 armour 0 weapon_lvl 0
+
+character	Zanticus, diplomat, age 44, , x 200, y 171 
 traits GoodDiplomat 3 , Pagan 1
 
-character	Prusias, assassin, age 19, , x 182, y 174 
+character	Prusias, assassin, age 19, , x 216, y 174 
 traits GoodAssassin 3 
 
-character	Rimsin, spy, age 37, , x 200, y 171 
+character	Rimsin, spy, age 37, , x 210, y 174 
 traits GoodSpy 2 , Pagan 1
 
 
@@ -1987,35 +2038,322 @@ relative 	Ara, 	Fallon,		Atheas,	end
 
 
 faction	ostrogoths, balanced_henry
-dead_until_resurrected
-re_emergent
 denari	10000
+settlement
+{
+	level city
+	region Oium
+
+	year_founded 20
+	population 7498
+	plan_set default_set
+	faction_creator ostrogoths
+	building
+	{
+		type core_building governors_palace
+	}
+	building
+	{
+		type defenses wooden_pallisade
+	}
+	building
+	{
+		type barracks city_barracks
+	}
+	building
+	{
+		type equestrian cavalry_barracks
+	}
+	building
+	{
+		type missiles practice_field
+	}
+	building
+	{
+		type market market
+	}
+	building
+	{
+		type smith blacksmith
+	}
+	building
+	{
+		type hinterland_farms farms+1
+	}
+	building
+	{
+		type hinterland_roads roads
+	}
+}
+
+settlement
+{
+	level town
+	region Borysthenes
+
+	year_founded 20
+	population 1103
+	plan_set default_set
+	faction_creator sarmatians
+	building
+	{
+		type core_building governors_house
+	}
+	building
+	{
+		type barracks muster_field
+	}
+	building
+	{
+		type market trader
+	}
+	building
+	{
+		type hinterland_farms farms
+	}
+}
+
+settlement
+{
+	level large_town
+	region Sarmatia
+
+	year_founded 20
+	population 4217
+	plan_set default_set
+	faction_creator ostrogoths
+	building
+	{
+		type core_building governors_villa
+	}
+	building
+	{
+		type defenses wooden_pallisade
+	}
+	building
+	{
+		type barracks militia_barracks
+	}
+	building
+	{
+		type market trader
+	}
+	building
+	{
+		type hinterland_farms farms
+	}
+	building
+	{
+		type hinterland_roads roads
+	}
+}
+
+settlement
+{
+	level large_town
+	region Maeotis
+
+	year_founded 20
+	population 2364
+	plan_set default_set
+	faction_creator sarmatians
+	building
+	{
+		type core_building governors_villa
+	}
+	building
+	{
+		type barracks muster_field
+	}
+	building
+	{
+		type equestrian stables
+	}
+	building
+	{
+		type market trader
+	}
+	building
+	{
+		type hinterland_farms farms
+	}
+	building
+	{
+		type hinterland_roads roads
+	}
+}
+
+character	Ermaneric, named character, leader, age 67, , x 175, y 164 
+traits FactionLeader 1, Warlord 2 , GoodCommander 3 , BadAdministrator 1 , Anger 2 , Pagan 1 
+ancillaries translator, swordbearer, veteran_warrior, trusty_steed
+army
+unit		goth warlords				exp 0 armour 0 weapon_lvl 0
+unit		gothic lancer				exp 0 armour 0 weapon_lvl 0
+unit		goth raiders				exp 0 armour 0 weapon_lvl 0
+unit		gothic spearmen				exp 0 armour 0 weapon_lvl 0
+unit		gothic spearmen				exp 0 armour 0 weapon_lvl 0
+
+character	Vithimer, named character, heir, age 41, , x 179, y 164 
+traits FactionHeir 1, GoodCommander 1, GoodAdministrator 2, GoodTrader 1, Pagan 1
+ancillaries goldsmith, slave_trader
+army
+unit		goth warlords				exp 0 armour 0 weapon_lvl 0
+unit		goth raiders				exp 0 armour 0 weapon_lvl 0
+unit		gothic spearmen				exp 0 armour 0 weapon_lvl 0
+
+character	Vinithar, named character, age 37, , x 165, y 160 
+traits GoodCommander 3, Intelligent 1, PhlegmHumour 1, GoodAttacker 1, Pagan 1
+ancillaries soothsayer, scout, swordbearer
+army
+unit		goth warlords				exp 0 armour 0 weapon_lvl 0
+unit		gothic lancer				exp 0 armour 0 weapon_lvl 0
+unit		gothic spearmen				exp 0 armour 0 weapon_lvl 0
+unit		goth raiders				exp 0 armour 0 weapon_lvl 0
+
+character	Alatheus, named character, age 35, , x 172, y 178 
+traits GoodCommander 1, Just 1, GoodBuilder 2, Pagan 1
+army
+unit		goth warlords				exp 0 armour 0 weapon_lvl 0
+unit		alan horse archers				exp 0 armour 0 weapon_lvl 0
+unit		gothic spearmen				exp 0 armour 0 weapon_lvl 0
+
+character	Saphrax, named character, age 30, , x 190, y 168 
+traits GoodCommander 2, GoodCavalryGeneral 2, HatesHun 1, Pagan 1
+ancillaries hun_turncoat
+army
+unit		goth warlords				exp 0 armour 0 weapon_lvl 0
+unit		gothic lancer				exp 0 armour 0 weapon_lvl 0
+unit		alan horse archers				exp 0 armour 0 weapon_lvl 0
+unit		alan horse archers				exp 0 armour 0 weapon_lvl 0
+
+character	Sisenand, diplomat, age 31, , x 167, y 165 
+traits GoodDiplomat 2 , Pagan 1
+
+character	Respa, spy, age 28, , x 176, y 156 
+traits GoodSpy 2 , Pagan 1
+
+character	Tanausis, assassin, age 19, , x 184, y 172 
+traits GoodAssassin 1 
+
+character_record		Thusnelda, 	female, command 0, influence 0, management 0, subterfuge 0, age 59, alive, never_a_leader
+character_record		Althilt, 	female, command 0, influence 0, management 0, subterfuge 0, age 21, alive, never_a_leader
+character_record		Priska, 	female, command 0, influence 0, management 0, subterfuge 0, age 19, alive, never_a_leader
+character_record		Bescela, 	female, command 0, influence 0, management 0, subterfuge 0, age 28, alive, never_a_leader
+character_record		Aurinia, 	female, command 0, influence 0, management 0, subterfuge 0, age 25, alive, never_a_leader
+character_record		Thuruar, 	male, command 0, influence 0, management 0, subterfuge 0, age 9, alive, never_a_leader
+character_record		Viderichus, 	male, command 0, influence 0, management 0, subterfuge 0, age 6, alive, never_a_leader
+character_record		Amalberga, 	female, command 0, influence 0, management 0, subterfuge 0, age 2, alive, never_a_leader
+
+relative 	Ermaneric, 	 Thusnelda, 	Vithimer,	Vinithar,	Althilt,	Priska,	end
+relative 	Vithimer, 	Bescela,		Thuruar,	end
+relative 	Vinithar, 	Aurinia,		Viderichus,	Amalberga,	end
+relative 	Alatheus, 	Althilt,		end
+relative 	Saphrax, 	Priska,		end
 
 
 faction	romano_british, balanced_caesar
 dead_until_resurrected
 denari	15000
 
-
 faction	slavs, balanced_henry
-dead_until_resurrected
 denari	10000
+settlement
+{
+	level large_town
+	region Tribus_Antae
+
+	year_founded 363
+	population 4617
+	plan_set default_set
+	faction_creator slavs
+	building
+	{
+		type core_building governors_villa
+	}
+	building
+	{
+		type defenses wooden_pallisade
+	}
+	building
+	{
+		type barracks militia_barracks
+	}
+	building
+	{
+		type equestrian stables
+	}
+	building
+	{
+		type market market
+	}
+	building
+	{
+		type hinterland_farms farms
+	}
+	building
+	{
+		type smith blacksmith
+	}
+}
+
+character	Boddic, named character, leader, age 41, , x 138, y 172 
+traits FactionLeader 1, Warlord 2 , GoodCommander 2 , Despoiler 2 , GoodTrader 2 , Intelligent 2 , LogisticalSkill 2 , Pagan 1 
+ancillaries scout, merchant, soothsayer, swordbearer
+army
+unit		steppe warlords				exp 0 armour 0 weapon_lvl 0
+unit		steppe lancers				exp 0 armour 0 weapon_lvl 0
+unit		steppe raiders				exp 0 armour 0 weapon_lvl 0
+unit		steppe spearmen vandal				exp 0 armour 0 weapon_lvl 0
+
+character	Atech, named character, heir, age 20, , x 141, y 170 
+traits FactionHeir 1, GoodCommander 1 , Pagan 1 
+ancillaries swordbearer, master_hunter
+army
+unit		steppe warlords				exp 0 armour 0 weapon_lvl 0
+unit		steppe spearmen vandal				exp 0 armour 0 weapon_lvl 0
+unit		steppe raiders				exp 0 armour 0 weapon_lvl 0
+
+
+character	Ibo, diplomat, age 33, , x 136, y 174
+traits GoodDiplomat 1, Pagan 1
+
+character	Clef, spy, age 25, , x 147, y 165
+traits GoodSpy 3 , Pagan 1
+
+character	Alof, assassin, age 21, , x 139, y 166  
+traits GoodAssassin 1 , Pagan 1	
+
+
+character_record		Olga, 	female, command 0, influence 0, management 0, subterfuge 0, age 37, alive, never_a_leader
+character_record		Priska, 	female, command 0, influence 0, management 0, subterfuge 0, age 18, alive, never_a_leader
+character_record		Lamissio, 	male, command 0, influence 0, management 0, subterfuge 0, age 14, alive, never_a_leader
+character_record		Biua, 	female, command 0, influence 0, management 0, subterfuge 0, age 13, alive, never_a_leader
+character_record		Claffo, 	male, command 0, influence 0, management 0, subterfuge 0, age 12, alive, never_a_leader
+character_record		Ivan, 	male, command 0, influence 0, management 0, subterfuge 0, age 4, alive, never_a_leader
+character_record		Tato, 	male, command 0, influence 0, management 0, subterfuge 0, age 2, alive, never_a_leader
+
+relative 	Boddic, 	Olga,		Atech,	Lamissio,	Biua,	Claffo,	end
+relative 	Atech, 	Priska,		Ivan,	Tato,	end
 
 
 faction	burgundii, religious_stalin
 denari	10000
 settlement
 {
-	level city
-	region Tribus_Burgundii
+	level large_town
+	region Bructeria
 
 	year_founded 363
-	population 8541
+	population 5841
 	plan_set default_set
 	faction_creator alemanni
 	building
 	{
-		type core_building governors_palace
+		type core_building governors_villa
+	}
+	building
+	{
+		type defenses wooden_pallisade
 	}
 	building
 	{
@@ -2047,7 +2385,7 @@ settlement
 	}
 }
 
-character	Odovacar, named character, leader, age 44, , x 115, y 193 
+character	Odovacar, named character, leader, age 44, , x 86, y 174 
 traits FactionLeader 1, Warlord 2 , GoodTaxman 2 , GoodAdministrator 3 , HatesNomad 1 , Pagan 1 
 army
 unit		chosen warlord alemanni				exp 0 armour 0 weapon_lvl 0
@@ -2055,20 +2393,20 @@ unit		spear warband alemanni				exp 0 armour 0 weapon_lvl 0
 unit		spear warband alemanni				exp 0 armour 0 weapon_lvl 0
 unit		burgundian lancer				exp 0 armour 0 weapon_lvl 0
 
-character	Inguiomerus, named character, heir, age 24, , x 125, y 194 
+character	Inguiomerus, named character, heir, age 24, , x 91, y 174 
 traits FactionHeir 1 , Pagan 1
 army
 unit		chosen warlord alemanni				exp 0 armour 0 weapon_lvl 0
 unit		burgundian lancer				exp 0 armour 0 weapon_lvl 0
 unit		burgundian lancer				exp 0 armour 0 weapon_lvl 0
 
-character	Isenbard, diplomat, age 36, , x 117, y 192 
+character	Isenbard, diplomat, age 36, , x 81, y 172 
 traits GoodDiplomat 3, Pagan 1 
 
-character	Othelhildis, assassin, age 29, , x 108, y 187 
+character	Othelhildis, assassin, age 29, , x 86, y 178 
 traits GoodAssassin 3 
 
-character	Leutfred, spy, age 32, , x 102, y 190
+character	Leutfred, spy, age 32, , x 86, y 170 
 traits GoodSpy 2 , Pagan 1
 
 
@@ -2087,16 +2425,16 @@ faction	lombardi, religious_stalin
 denari	10000
 settlement
 {
-	level city
-	region Tribus_Lombardi
+	level large_town
+	region Semnonia
 
 	year_founded 20
-	population 8500
+	population 4500
 	plan_set default_set
 	faction_creator lombardi
 	building
 	{
-		type core_building governors_palace
+		type core_building governors_villa
 	}
 	building
 	{
@@ -2108,15 +2446,11 @@ settlement
 	}
 	building
 	{
-		type market forum
+		type market trader
 	}
 	building
 	{
-		type hinterland_roads roads
-	}
-	building
-	{
-		type hinterland_farms farms+1
+		type hinterland_farms farms
 	}
 	building
 	{
@@ -2124,7 +2458,7 @@ settlement
 	}
 }
 
-character	Rando, named character, leader, age 44, , x 115, y 180 
+character	Rando, named character, leader, age 44, , x 98, y 183 
 traits FactionLeader 1, Warlord 2 , GoodTaxman 3 , GoodAdministrator 3 , GoodFarmer 1 , Pagan 1 
 army
 unit		chosen warlord alemanni				exp 0 armour 0 weapon_lvl 0
@@ -2132,20 +2466,20 @@ unit		spear warband alemanni				exp 0 armour 0 weapon_lvl 0
 unit		spear warband alemanni				exp 0 armour 0 weapon_lvl 0
 unit		lombard archers				exp 0 armour 0 weapon_lvl 0
 
-character	Burkhard, named character, heir, age 24, , x 123, y 183 
+character	Burkhard, named character, heir, age 24, , x 96, y 186 
 traits FactionHeir 1, GoodCommander 1 , Pagan 1
 army
 unit		chosen warlord alemanni				exp 0 armour 0 weapon_lvl 0
 unit		lombard archers				exp 0 armour 0 weapon_lvl 0
 unit		lombard archers				exp 0 armour 0 weapon_lvl 0
 
-character	Adelhaide, diplomat, age 44, , x 117, y 179 
+character	Adelhaide, diplomat, age 44, , x 94, y 180 
 traits GoodDiplomat 3, Pagan 1 
 
-character	Hariulfus, assassin, age 19, , x 115, y 186 
+character	Hariulfus, assassin, age 19, , x 101, y 184 
 traits GoodAssassin 3 
 
-character	Hengist, spy, age 27, , x 107, y 179 
+character	Hengist, spy, age 27, , x 97, y 179 
 traits GoodSpy 2, Pagan 1
 
 
@@ -2158,16 +2492,16 @@ faction	sassanids, fortified_henry
 denari	7000
 settlement
 {
-	level large_city
+	level huge_city
 	region Babylonia
 
 	year_founded 20
-	population 14204
+	population 24204
 	plan_set default_set
 	faction_creator sassanids
 	building
 	{
-		type core_building proconsuls_palace
+		type core_building imperial_palace
 	}
 	building
 	{
@@ -2175,11 +2509,11 @@ settlement
 	}
 	building
 	{
-		type barracks city_barracks
+		type barracks militia_barracks
 	}
 	building
 	{
-		type equestrian stables
+		type equestrian circus_maximus
 	}
 	building
 	{
@@ -2195,6 +2529,10 @@ settlement
 	}
 	building
 	{
+		type health baths
+	}
+	building
+	{
 		type hinterland_farms farms+3
 	}
 	building
@@ -2207,11 +2545,11 @@ settlement
 	}
 	building
 	{
-		type caravans frankincense_rd
+		type caravans silk_rd
 	}
 	building
 	{
-		type despotic_law secret_police_hq
+		type despotic_law secret_police_network
 	}
 	building
 	{
@@ -2221,11 +2559,117 @@ settlement
 
 settlement
 {
-	level city
+	level large_city
 	region Atropatene
 
 	year_founded 20
-	population 7242
+	population 12242
+	plan_set default_set
+	faction_creator sassanids
+	building
+	{
+		type core_building proconsuls_palace
+	}
+	building
+	{
+		type defenses stone_wall
+	}
+	building
+	{
+		type barracks militia_barracks
+	}
+	building
+	{
+		type equestrian stables
+	}
+	building
+	{
+		type missiles practice_field
+	}
+	building
+	{
+		type market market
+	}
+	building
+	{
+		type hinterland_farms farms+2
+	}
+	building
+	{
+		type hinterland_roads paved_roads
+	}
+	building
+	{
+		type caravans caravan
+	}
+	building
+	{
+		type despotic_law execution_square
+	}
+	building
+	{
+		type temple_of_one_god temple_of_one_god_awesome_temple
+	}
+}
+
+settlement
+{
+	level large_city
+	region Media
+
+	year_founded 363
+	population 12521
+	plan_set default_set
+	faction_creator sassanids
+	building
+	{
+		type core_building proconsuls_palace
+	}
+	building
+	{
+		type defenses large_stone_wall
+	}
+	building
+	{
+		type equestrian hippodrome
+	}
+	building
+	{
+		type missiles archery_range
+	}
+	building
+	{
+		type market forum
+	}
+	building
+	{
+		type hinterland_farms farms+2
+	}
+	building
+	{
+		type hinterland_roads paved_roads
+	}
+	building
+	{
+		type caravans frankincense_rd
+	}
+	building
+	{
+		type despotic_law secret_police_hq
+	}
+	building
+	{
+		type temple_of_one_god temple_of_one_god_temple
+	}
+}
+
+settlement
+{
+	level city
+	region Assyria
+
+	year_founded 20
+	population 6586
 	plan_set default_set
 	faction_creator sassanids
 	building
@@ -2234,11 +2678,58 @@ settlement
 	}
 	building
 	{
-		type defenses wooden_wall
+		type defenses stone_wall
 	}
 	building
 	{
 		type barracks militia_barracks
+	}
+	building
+	{
+		type equestrian stables
+	}
+	building
+	{
+		type market trader
+	}
+	building
+	{
+		type hinterland_farms farms
+	}
+	building
+	{
+		type hinterland_roads paved_roads
+	}
+	building
+	{
+		type despotic_law execution_square
+	}
+	building
+	{
+		type temple_of_one_god temple_of_one_god_temple
+	}
+}
+
+settlement
+{
+	level city
+	region Nodardashiragan
+
+	year_founded 20
+	population 6500
+	plan_set default_set
+	faction_creator sassanids
+	building
+	{
+		type core_building governors_palace
+	}
+	building
+	{
+		type defenses stone_wall
+	}
+	building
+	{
+		type barracks muster_field
 	}
 	building
 	{
@@ -2277,10 +2768,10 @@ settlement
 settlement
 {
 	level city
-	region Media
+	region Khuzistan
 
 	year_founded 363
-	population 9521
+	population 8000
 	plan_set default_set
 	faction_creator sassanids
 	building
@@ -2289,7 +2780,7 @@ settlement
 	}
 	building
 	{
-		type defenses wooden_wall
+		type defenses stone_wall
 	}
 	building
 	{
@@ -2313,7 +2804,46 @@ settlement
 	}
 	building
 	{
-		type caravans caravan
+		type despotic_law execution_square
+	}
+	building
+	{
+		type temple_of_one_god temple_of_one_god_temple
+	}
+}
+
+settlement
+{
+	level city
+	region Meshan
+
+	year_founded 363
+	population 6500
+	plan_set default_set
+	faction_creator sassanids
+	building
+	{
+		type core_building governors_palace
+	}
+	building
+	{
+		type defenses wooden_wall
+	}
+	building
+	{
+		type market forum
+	}
+	building
+	{
+		type hinterland_farms farms+1
+	}
+	building
+	{
+		type hinterland_roads paved_roads
+	}
+	building
+	{
+		type port_buildings shipwright
 	}
 	building
 	{
@@ -2327,20 +2857,20 @@ settlement
 
 settlement
 {
-	level city
-	region Assyria
+	level large_city
+	region Pars
 
 	year_founded 20
-	population 6586
+	population 13500
 	plan_set default_set
 	faction_creator sassanids
 	building
 	{
-		type core_building governors_palace
+		type core_building proconsuls_palace
 	}
 	building
 	{
-		type defenses wooden_wall
+		type defenses large_stone_wall
 	}
 	building
 	{
@@ -2348,15 +2878,23 @@ settlement
 	}
 	building
 	{
-		type equestrian stables
+		type equestrian hippodrome
 	}
 	building
 	{
-		type market trader
+		type missiles archery_range
 	}
 	building
 	{
-		type hinterland_farms farms
+		type market forum
+	}
+	building
+	{
+		type port_buildings port
+	}
+	building
+	{
+		type hinterland_farms farms+2
 	}
 	building
 	{
@@ -2368,6 +2906,45 @@ settlement
 	}
 	building
 	{
+		type temple_of_one_god temple_of_one_god_awesome_temple
+	}
+}
+
+settlement
+{
+	level large_town
+	region Parthau
+
+	year_founded 20
+	population 3500
+	plan_set default_set
+	faction_creator sassanids
+	building
+	{
+		type core_building governors_villa
+	}
+	building
+	{
+		type defenses wooden_wall
+	}
+	building
+	{
+		type equestrian stables
+	}
+	building
+	{
+		type market market
+	}
+	building
+	{
+		type hinterland_farms farms+1
+	}
+	building
+	{
+		type hinterland_roads paved_roads
+	}
+	building
+	{
 		type temple_of_one_god temple_of_one_god_temple
 	}
 }
@@ -2375,10 +2952,10 @@ settlement
 settlement
 {
 	level city
-	region Armenia
+	region Goyman
 
 	year_founded 20
-	population 8197
+	population 6500
 	plan_set default_set
 	faction_creator sassanids
 	building
@@ -2387,11 +2964,54 @@ settlement
 	}
 	building
 	{
-		type defenses wooden_wall
+		type defenses stone_wall
 	}
 	building
 	{
 		type barracks militia_barracks
+	}
+	building
+	{
+		type missiles practice_field
+	}
+	building
+	{
+		type market market
+	}
+	building
+	{
+		type health sewers
+	}
+	building
+	{
+		type hinterland_farms farms+1
+	}
+	building
+	{
+		type hinterland_roads paved_roads
+	}
+	building
+	{
+		type temple_of_one_god temple_of_one_god_temple
+	}
+}
+
+settlement
+{
+	level large_town
+	region Syunik
+
+	year_founded 20
+	population 5421
+	plan_set default_set
+	faction_creator sassanids
+	building
+	{
+		type core_building governors_villa
+	}
+	building
+	{
+		type defenses stone_wall
 	}
 	building
 	{
@@ -2403,11 +3023,206 @@ settlement
 	}
 	building
 	{
+		type barracks militia_barracks
+	}
+	building
+	{
+		type temple_church_christianity church_christianity_shrine
+	}
+	building
+	{
 		type market trader
 	}
 	building
 	{
+		type hinterland_mines mines
+	}
+	building
+	{
+		type hinterland_roads roads
+	}
+}
+
+settlement
+{
+	level city
+	region Arran
+
+	year_founded 363
+	population 6100
+	plan_set default_set
+	faction_creator sassanids
+	building
+	{
+		type core_building governors_palace
+	}
+	building
+	{
+		type defenses stone_wall
+	}
+	building
+	{
+		type barracks muster_field
+	}
+	building
+	{
+		type equestrian stables
+	}
+	building
+	{
+		type market market
+	}
+	building
+	{
 		type hinterland_farms farms+1
+	}
+	building
+	{
+		type hinterland_roads paved_roads
+	}
+	building
+	{
+		type temple_church_christianity church_christianity_shrine
+	}
+}
+
+settlement
+{
+	level large_town
+	region Mazkut
+
+	year_founded 20
+	population 4708
+	plan_set default_set
+	faction_creator sassanids
+	building
+	{
+		type core_building governors_villa
+	}
+	building
+	{
+		type defenses wooden_pallisade
+	}
+	building
+	{
+		type barracks muster_field
+	}
+	building
+	{
+		type missiles practice_field
+	}
+	building
+	{
+		type market trader
+	}
+	building
+	{
+		type hinterland_roads roads
+	}
+}
+
+settlement
+{
+	level town
+	region Gilan
+
+	year_founded 20
+	population 1337
+	plan_set default_set
+	faction_creator sassanids
+	building
+	{
+		type core_building governors_house
+	}
+	building
+	{
+		type defenses wooden_pallisade
+	}
+	building
+	{
+		type barracks muster_field
+	}
+	building
+	{
+		type market trader
+	}
+	building
+	{
+		type hinterland_roads roads
+	}
+}
+
+settlement
+{
+	level large_town
+	region Parishkhwargar
+
+	year_founded 363
+	population 3500
+	plan_set default_set
+	faction_creator sassanids
+	building
+	{
+		type core_building governors_villa
+	}
+	building
+	{
+		type defenses wooden_wall
+	}
+	building
+	{
+		type barracks muster_field
+	}
+	building
+	{
+		type market trader
+	}
+	building
+	{
+		type hinterland_roads paved_roads
+	}
+}
+
+settlement
+{
+	level city
+	region Gurgan
+
+	year_founded 20
+	population 6500
+	plan_set default_set
+	faction_creator sassanids
+	building
+	{
+		type core_building governors_palace
+	}
+	building
+	{
+		type defenses stone_wall
+	}
+	building
+	{
+		type barracks muster_field
+	}
+	building
+	{
+		type equestrian stables
+	}
+	building
+	{
+		type missiles practice_field
+	}
+	building
+	{
+		type market market
+	}
+	building
+	{
+		type hinterland_farms farms
+	}
+	building
+	{
+		type hinterland_roads paved_roads
 	}
 	building
 	{
@@ -2419,11 +3234,514 @@ settlement
 	}
 	building
 	{
+		type temple_of_one_god temple_of_one_god_temple
+	}
+}
+
+settlement
+{
+	level town
+	region Dihistan
+
+	year_founded 20
+	population 1019
+	plan_set default_set
+	faction_creator sassanids
+	building
+	{
+		type core_building governors_house
+	}
+	building
+	{
+		type barracks muster_field
+	}
+	building
+	{
+		type market trader
+	}
+	building
+	{
+		type temple_of_one_god temple_of_one_god_shrine
+	}
+}
+
+settlement
+{
+	level city
+	region Marv
+
+	year_founded 20
+	population 8000
+	plan_set default_set
+	faction_creator sassanids
+	building
+	{
+		type core_building governors_palace
+	}
+	building
+	{
+		type defenses stone_wall
+	}
+	building
+	{
+		type barracks muster_field
+	}
+	building
+	{
+		type equestrian stables
+	}
+	building
+	{
+		type market market
+	}
+	building
+	{
+		type smith blacksmith
+	}
+	building
+	{
+		type hinterland_farms farms+2
+	}
+	building
+	{
+		type hinterland_roads paved_roads
+	}
+	building
+	{
+		type caravans caravan
+	}
+	building
+	{
+		type despotic_law execution_square
+	}
+	building
+	{
+		type temple_of_one_god temple_of_one_god_shrine
+	}
+}
+
+settlement
+{
+	level large_city
+	region Abarshahr
+
+	year_founded 20
+	population 12100
+	plan_set default_set
+	faction_creator sassanids
+	building
+	{
+		type core_building proconsuls_palace
+	}
+	building
+	{
+		type defenses stone_wall
+	}
+	building
+	{
+		type barracks muster_field
+	}
+	building
+	{
+		type equestrian stables
+	}
+	building
+	{
+		type market market
+	}
+	building
+	{
+		type hinterland_farms farms+2
+	}
+	building
+	{
+		type hinterland_roads paved_roads
+	}
+	building
+	{
+		type caravans caravan
+	}
+	building
+	{
+		type despotic_law execution_square
+	}
+	building
+	{
+		type temple_of_one_god temple_of_one_god_awesome_temple
+	}
+}
+
+settlement
+{
+	level large_town
+	region Kuhistan
+
+	year_founded 20
+	population 4000
+	plan_set default_set
+	faction_creator sassanids
+	building
+	{
+		type core_building governors_villa
+	}
+	building
+	{
+		type defenses wooden_wall
+	}
+	building
+	{
+		type barracks militia_barracks
+	}
+	building
+	{
+		type equestrian stables
+	}
+	building
+	{
+		type market market
+	}
+	building
+	{
+		type hinterland_farms farms+1
+	}
+	building
+	{
 		type hinterland_roads paved_roads
 	}
 	building
 	{
 		type temple_of_one_god temple_of_one_god_temple
+	}
+}
+
+settlement
+{
+	level large_town
+	region Kirman
+
+	year_founded 20
+	population 3000
+	plan_set default_set
+	faction_creator sassanids
+	building
+	{
+		type core_building governors_villa
+	}
+	building
+	{
+		type defenses wooden_wall
+	}
+	building
+	{
+		type equestrian stables
+	}
+	building
+	{
+		type market market
+	}
+	building
+	{
+		type hinterland_farms farms+1
+	}
+	building
+	{
+		type hinterland_roads paved_roads
+	}
+	building
+	{
+		type temple_of_one_god temple_of_one_god_shrine
+	}
+}
+
+settlement
+{
+	level large_town
+	region Turgistan
+
+	year_founded 363
+	population 4500
+	plan_set default_set
+	faction_creator sassanids
+	building
+	{
+		type core_building governors_villa
+	}
+	building
+	{
+		type defenses wooden_wall
+	}
+	building
+	{
+		type barracks militia_barracks
+	}
+	building
+	{
+		type market market
+	}
+	building
+	{
+		type hinterland_farms farms+1
+	}
+	building
+	{
+		type hinterland_roads roads
+	}
+}
+
+settlement
+{
+	level large_town
+	region Makuran
+
+	year_founded 20
+	population 2500
+	plan_set default_set
+	faction_creator sassanids
+	building
+	{
+		type core_building governors_villa
+	}
+	building
+	{
+		type defenses wooden_wall
+	}
+	building
+	{
+		type equestrian stables
+	}
+	building
+	{
+		type market market
+	}
+	building
+	{
+		type hinterland_farms farms
+	}
+	building
+	{
+		type hinterland_roads roads
+	}
+	building
+	{
+		type temple_of_one_god temple_of_one_god_shrine
+	}
+}
+
+settlement
+{
+	level large_town
+	region Pardan
+
+	year_founded 20
+	population 3000
+	plan_set default_set
+	faction_creator sassanids
+	building
+	{
+		type core_building governors_villa
+	}
+	building
+	{
+		type defenses wooden_wall
+	}
+	building
+	{
+		type equestrian stables
+	}
+	building
+	{
+		type market market
+	}
+	building
+	{
+		type hinterland_farms farms
+	}
+	building
+	{
+		type hinterland_roads roads
+	}
+	building
+	{
+		type temple_of_one_god temple_of_one_god_shrine
+	}
+}
+
+settlement
+{
+	level large_town
+	region Kushanshahr
+
+	year_founded 20
+	population 3000
+	plan_set default_set
+	faction_creator sassanids
+	building
+	{
+		type core_building governors_villa
+	}
+	building
+	{
+		type defenses wooden_wall
+	}
+	building
+	{
+		type barracks militia_barracks
+	}
+	building
+	{
+		type market trader
+	}
+	building
+	{
+		type hinterland_farms farms
+	}
+	building
+	{
+		type hinterland_roads roads
+	}
+	building
+	{
+		type temple_of_one_god temple_of_one_god_shrine
+	}
+}
+
+settlement
+{
+	level large_town
+	region Seistan
+
+	year_founded 363
+	population 4500
+	plan_set default_set
+	faction_creator sassanids
+	building
+	{
+		type core_building governors_villa
+	}
+	building
+	{
+		type defenses wooden_wall
+	}
+	building
+	{
+		type market trader
+	}
+	building
+	{
+		type hinterland_farms farms+1
+	}
+	building
+	{
+		type hinterland_roads roads
+	}
+	building
+	{
+		type temple_of_one_god temple_of_one_god_shrine
+	}
+}
+
+settlement
+{
+	level city
+	region Harev
+
+	year_founded 363
+	population 8000
+	plan_set default_set
+	faction_creator sassanids
+	building
+	{
+		type core_building governors_palace
+	}
+	building
+	{
+		type defenses wooden_wall
+	}
+	building
+	{
+		type equestrian stables
+	}
+	building
+	{
+		type market market
+	}
+	building
+	{
+		type hinterland_farms farms+1
+	}
+	building
+	{
+		type hinterland_roads roads
+	}
+	building
+	{
+		type despotic_law execution_square
+	}
+	building
+	{
+		type temple_of_one_god temple_of_one_god_temple
+	}
+}
+
+settlement
+{
+	level large_town
+	region Haggar
+
+	year_founded 20
+	population 3127
+	plan_set default_set
+	faction_creator sassanids
+	building
+	{
+		type core_building governors_villa
+	}
+	building
+	{
+		type defenses stone_wall
+	}
+	building
+	{
+		type barracks muster_field
+	}
+	building
+	{
+		type market market
+	}
+	building
+	{
+		type port_buildings port
+	}
+	building
+	{
+		type hinterland_roads roads
+	}
+}
+
+settlement
+{
+	level town
+	region Mazun
+
+	year_founded 363
+	population 1822
+	plan_set default_set
+	faction_creator sassanids
+	building
+	{
+		type core_building governors_house
+	}
+	building
+	{
+		type defenses wooden_pallisade
+	}
+	building
+	{
+		type market trader
+	}
+	building
+	{
+		type hinterland_roads roads
 	}
 }
 
@@ -2527,16 +3845,16 @@ faction	berbers, trader_henry
 denari	8000
 settlement
 {
-	level large_city
+	level large_town
 	region Mauretania
 
 	year_founded 20
-	population 13516
+	population 5516
 	plan_set default_set
 	faction_creator berbers
 	building
 	{
-		type core_building proconsuls_palace
+		type core_building governors_villa
 	}
 	building
 	{
@@ -2548,7 +3866,7 @@ settlement
 	}
 	building
 	{
-		type equestrian cavalry_barracks
+		type equestrian stables
 	}
 	building
 	{
@@ -2611,7 +3929,7 @@ settlement
 	}
 }
 
-character	Aswad, named character, leader, age 58, , x 12, y 102
+character	Aswad, named character, leader, age 58, , x 10, y 98
 traits FactionLeader 1, GoodBuilder 1 , KindRuler 1 , GoodFarmer 2 , Christian 1
 army
 unit		desert chieftain				exp 0 armour 0 weapon_lvl 0
@@ -2620,7 +3938,7 @@ unit		berber axemen				exp 0 armour 0 weapon_lvl 0
 unit		berber axemen				exp 0 armour 0 weapon_lvl 0
 unit		moorish raiders				exp 0 armour 0 weapon_lvl 0
 
-character	Hamza, named character, heir, age 24, , x 38, y 74
+character	Hamza, named character, heir, age 24, , x 53, y 85
 traits FactionHeir 1, GoodCommander 2 , GoodTaxman 1 , Christian 1
 army
 unit		desert chieftain				exp 0 armour 0 weapon_lvl 0
@@ -2724,61 +4042,6 @@ settlement
 
 settlement
 {
-	level large_city
-	region Achaea
-
-	year_founded 363
-	population 10521
-	plan_set default_set
-	faction_creator empire_east
-	building
-	{
-		type core_building proconsuls_palace
-	}
-	building
-	{
-		type defenses large_stone_wall
-	}
-	building
-	{
-		type equestrian stables
-	}
-	building
-	{
-		type market market
-	}
-	building
-	{
-		type port_buildings shipwright
-	}
-	building
-	{
-		type health baths
-	}
-	building
-	{
-		type hinterland_farms farms+1
-	}
-	building
-	{
-		type hinterland_roads paved_roads
-	}
-	building
-	{
-		type academic scriptorium
-	}
-	building
-	{
-		type amphitheatres stone_amphitheatre
-	}
-	building
-	{
-		type temple_of_leadership temple_of_leadership_large_temple
-	}
-}
-
-settlement
-{
 	level city
 	region Asiana
 
@@ -2809,92 +4072,6 @@ settlement
 	building
 	{
 		type temple_church_christianity church_christianity_church
-	}
-}
-
-settlement
-{
-	level city
-	region Macedonia
-
-	year_founded 363
-	population 6520
-	plan_set default_set
-	faction_creator empire_east
-	building
-	{
-		type core_building governors_palace
-	}
-	building
-	{
-		type defenses stone_wall
-	}
-	building
-	{
-		type equestrian stables
-	}
-	building
-	{
-		type hinterland_farms farms
-	}
-	building
-	{
-		type hinterland_roads roads
-	}
-	building
-	{
-		type amphitheatres stone_amphitheatre
-	}
-	building
-	{
-		type temple_of_leadership temple_of_leadership_temple
-	}
-}
-
-settlement
-{
-	level city
-	region Moesia
-
-	year_founded 363
-	population 8140
-	plan_set default_set
-	faction_creator empire_east
-	building
-	{
-		type core_building governors_palace
-	}
-	building
-	{
-		type defenses stone_wall
-	}
-	building
-	{
-		type barracks muster_field
-	}
-	building
-	{
-		type equestrian stables
-	}
-	building
-	{
-		type hinterland_farms farms+1
-	}
-	building
-	{
-		type market market
-	}
-	building
-	{
-		type health baths
-	}
-	building
-	{
-		type hinterland_roads paved_roads
-	}
-	building
-	{
-		type temple_of_mithras temple_of_mithras_temple
 	}
 }
 
@@ -3272,33 +4449,6 @@ settlement
 
 settlement
 {
-	level large_town
-	region Creta
-
-	year_founded 363
-	population 2713
-	plan_set default_set
-	faction_creator empire_east
-	building
-	{
-		type core_building governors_villa
-	}
-	building
-	{
-		type defenses wooden_wall
-	}
-	building
-	{
-		type hinterland_farms farms
-	}
-	building
-	{
-		type temple_of_leadership temple_of_leadership_shrine
-	}
-}
-
-settlement
-{
 	level city
 	region Cappadocia
 
@@ -3419,6 +4569,516 @@ settlement
 	building
 	{
 		type temple_of_leadership temple_of_leadership_shrine
+	}
+}
+
+settlement
+{
+	level town
+	region Scythia_Minor
+
+	year_founded 20
+	population 1008
+	plan_set default_set
+	faction_creator empire_east
+	building
+	{
+		type core_building governors_house
+	}
+}
+
+settlement
+{
+	level town
+	region Moesia_Secunda
+
+	year_founded 20
+	population 1008
+	plan_set default_set
+	faction_creator empire_east
+	building
+	{
+		type core_building governors_house
+	}
+}
+
+settlement
+{
+	level town
+	region Thracia
+
+	year_founded 20
+	population 1008
+	plan_set default_set
+	faction_creator empire_east
+	building
+	{
+		type core_building governors_house
+	}
+}
+
+settlement
+{
+	level town
+	region Haemimontus
+
+	year_founded 20
+	population 1008
+	plan_set default_set
+	faction_creator empire_east
+	building
+	{
+		type core_building governors_house
+	}
+}
+
+settlement
+{
+	level town
+	region Hellespontus
+
+	year_founded 20
+	population 1008
+	plan_set default_set
+	faction_creator empire_east
+	building
+	{
+		type core_building governors_house
+	}
+}
+
+settlement
+{
+	level town
+	region Bithynia
+
+	year_founded 20
+	population 1008
+	plan_set default_set
+	faction_creator empire_east
+	building
+	{
+		type core_building governors_house
+	}
+}
+
+settlement
+{
+	level town
+	region Lydia
+
+	year_founded 20
+	population 1008
+	plan_set default_set
+	faction_creator empire_east
+	building
+	{
+		type core_building governors_house
+	}
+}
+
+settlement
+{
+	level town
+	region Caria
+
+	year_founded 20
+	population 1008
+	plan_set default_set
+	faction_creator empire_east
+	building
+	{
+		type core_building governors_house
+	}
+}
+
+settlement
+{
+	level town
+	region Insulae
+
+	year_founded 20
+	population 1008
+	plan_set default_set
+	faction_creator empire_east
+	building
+	{
+		type core_building governors_house
+	}
+}
+
+settlement
+{
+	level town
+	region Lycia
+
+	year_founded 20
+	population 1008
+	plan_set default_set
+	faction_creator empire_east
+	building
+	{
+		type core_building governors_house
+	}
+}
+
+settlement
+{
+	level town
+	region Pamphylia
+
+	year_founded 20
+	population 1008
+	plan_set default_set
+	faction_creator empire_east
+	building
+	{
+		type core_building governors_house
+	}
+}
+
+settlement
+{
+	level town
+	region Phrygia
+
+	year_founded 20
+	population 1008
+	plan_set default_set
+	faction_creator empire_east
+	building
+	{
+		type core_building governors_house
+	}
+}
+
+settlement
+{
+	level town
+	region Paphlagonia
+
+	year_founded 20
+	population 1008
+	plan_set default_set
+	faction_creator empire_east
+	building
+	{
+		type core_building governors_house
+	}
+}
+
+settlement
+{
+	level town
+	region Pontus_Polemoniacus
+
+	year_founded 20
+	population 1008
+	plan_set default_set
+	faction_creator empire_east
+	building
+	{
+		type core_building governors_house
+	}
+}
+
+settlement
+{
+	level town
+	region Armenia_Prima
+
+	year_founded 20
+	population 1008
+	plan_set default_set
+	faction_creator empire_east
+	building
+	{
+		type core_building governors_house
+	}
+}
+
+settlement
+{
+	level town
+	region Armenia_Secunda
+
+	year_founded 20
+	population 1008
+	plan_set default_set
+	faction_creator empire_east
+	building
+	{
+		type core_building governors_house
+	}
+}
+
+settlement
+{
+	level town
+	region Lycaonia
+
+	year_founded 20
+	population 1008
+	plan_set default_set
+	faction_creator empire_east
+	building
+	{
+		type core_building governors_house
+	}
+}
+
+settlement
+{
+	level town
+	region Isauria
+
+	year_founded 20
+	population 1008
+	plan_set default_set
+	faction_creator empire_east
+	building
+	{
+		type core_building governors_house
+	}
+}
+
+settlement
+{
+	level town
+	region Satrapiae
+
+	year_founded 20
+	population 1008
+	plan_set default_set
+	faction_creator empire_east
+	building
+	{
+		type core_building governors_house
+	}
+}
+
+settlement
+{
+	level town
+	region Mesopotamia
+
+	year_founded 20
+	population 1008
+	plan_set default_set
+	faction_creator empire_east
+	building
+	{
+		type core_building governors_house
+	}
+}
+
+settlement
+{
+	level town
+	region Osrhoene
+
+	year_founded 20
+	population 1008
+	plan_set default_set
+	faction_creator empire_east
+	building
+	{
+		type core_building governors_house
+	}
+}
+
+settlement
+{
+	level town
+	region Euphratensis
+
+	year_founded 20
+	population 1008
+	plan_set default_set
+	faction_creator empire_east
+	building
+	{
+		type core_building governors_house
+	}
+}
+
+settlement
+{
+	level town
+	region Phoenicia_Libanensis
+
+	year_founded 20
+	population 1008
+	plan_set default_set
+	faction_creator empire_east
+	building
+	{
+		type core_building governors_house
+	}
+}
+
+settlement
+{
+	level town
+	region Palmyrene
+
+	year_founded 20
+	population 1008
+	plan_set default_set
+	faction_creator empire_east
+	building
+	{
+		type core_building governors_house
+	}
+}
+
+settlement
+{
+	level town
+	region Palaestina_Secunda
+
+	year_founded 20
+	population 1008
+	plan_set default_set
+	faction_creator empire_east
+	building
+	{
+		type core_building governors_house
+	}
+}
+
+settlement
+{
+	level town
+	region Palaestina_Salutaris
+
+	year_founded 20
+	population 1008
+	plan_set default_set
+	faction_creator empire_east
+	building
+	{
+		type core_building governors_house
+	}
+}
+
+settlement
+{
+	level town
+	region Augustamnica
+
+	year_founded 20
+	population 1008
+	plan_set default_set
+	faction_creator empire_east
+	building
+	{
+		type core_building governors_house
+	}
+}
+
+settlement
+{
+	level town
+	region Arcadia
+
+	year_founded 20
+	population 1008
+	plan_set default_set
+	faction_creator empire_east
+	building
+	{
+		type core_building governors_house
+	}
+}
+
+settlement
+{
+	level town
+	region Thebais_Inferior
+
+	year_founded 20
+	population 1008
+	plan_set default_set
+	faction_creator empire_east
+	building
+	{
+		type core_building governors_house
+	}
+}
+
+settlement
+{
+	level town
+	region Thebais_Superior
+
+	year_founded 20
+	population 1008
+	plan_set default_set
+	faction_creator empire_east
+	building
+	{
+		type core_building governors_house
+	}
+}
+
+settlement
+{
+	level town
+	region Libya_Inferior
+
+	year_founded 20
+	population 1008
+	plan_set default_set
+	faction_creator empire_east
+	building
+	{
+		type core_building governors_house
+	}
+}
+
+settlement
+{
+	level town
+	region Libya
+
+	year_founded 20
+	population 1008
+	plan_set default_set
+	faction_creator empire_east
+	building
+	{
+		type core_building governors_house
+	}
+}
+
+settlement
+{
+	level town
+	region Tyras
+
+	year_founded 20
+	population 1008
+	plan_set default_set
+	faction_creator empire_east
+	building
+	{
+		type core_building governors_house
+	}
+}
+
+settlement
+{
+	level town
+	region Taurica
+
+	year_founded 20
+	population 1008
+	plan_set default_set
+	faction_creator empire_east
+	building
+	{
+		type core_building governors_house
 	}
 }
 
@@ -4845,6 +6505,922 @@ settlement
 	}
 }
 
+settlement
+{
+	level large_town
+	region Creta
+
+	year_founded 363
+	population 2713
+	plan_set default_set
+	faction_creator empire_east
+	building
+	{
+		type core_building governors_villa
+	}
+	building
+	{
+		type defenses wooden_wall
+	}
+	building
+	{
+		type hinterland_farms farms
+	}
+	building
+	{
+		type temple_of_leadership temple_of_leadership_shrine
+	}
+}
+
+settlement
+{
+	level city
+	region Macedonia
+
+	year_founded 363
+	population 6520
+	plan_set default_set
+	faction_creator empire_east
+	building
+	{
+		type core_building governors_palace
+	}
+	building
+	{
+		type defenses stone_wall
+	}
+	building
+	{
+		type equestrian stables
+	}
+	building
+	{
+		type hinterland_farms farms
+	}
+	building
+	{
+		type hinterland_roads roads
+	}
+	building
+	{
+		type amphitheatres stone_amphitheatre
+	}
+	building
+	{
+		type temple_of_leadership temple_of_leadership_temple
+	}
+}
+
+settlement
+{
+	level city
+	region Moesia
+
+	year_founded 363
+	population 8140
+	plan_set default_set
+	faction_creator empire_east
+	building
+	{
+		type core_building governors_palace
+	}
+	building
+	{
+		type defenses stone_wall
+	}
+	building
+	{
+		type barracks muster_field
+	}
+	building
+	{
+		type equestrian stables
+	}
+	building
+	{
+		type hinterland_farms farms+1
+	}
+	building
+	{
+		type market market
+	}
+	building
+	{
+		type health baths
+	}
+	building
+	{
+		type hinterland_roads paved_roads
+	}
+	building
+	{
+		type temple_of_mithras temple_of_mithras_temple
+	}
+}
+
+settlement
+{
+	level large_city
+	region Achaea
+
+	year_founded 363
+	population 10521
+	plan_set default_set
+	faction_creator empire_east
+	building
+	{
+		type core_building proconsuls_palace
+	}
+	building
+	{
+		type defenses large_stone_wall
+	}
+	building
+	{
+		type equestrian stables
+	}
+	building
+	{
+		type market market
+	}
+	building
+	{
+		type port_buildings shipwright
+	}
+	building
+	{
+		type health baths
+	}
+	building
+	{
+		type hinterland_farms farms+1
+	}
+	building
+	{
+		type hinterland_roads paved_roads
+	}
+	building
+	{
+		type academic scriptorium
+	}
+	building
+	{
+		type amphitheatres stone_amphitheatre
+	}
+	building
+	{
+		type temple_of_leadership temple_of_leadership_large_temple
+	}
+}
+
+settlement
+{
+	level town
+	region Valentia
+
+	year_founded 20
+	population 1008
+	plan_set default_set
+	faction_creator romano_british
+	building
+	{
+		type core_building governors_house
+	}
+}
+
+settlement
+{
+	level town
+	region Dumnonia
+
+	year_founded 20
+	population 1008
+	plan_set default_set
+	faction_creator romano_british
+	building
+	{
+		type core_building governors_house
+	}
+}
+
+settlement
+{
+	level town
+	region Icenia
+
+	year_founded 20
+	population 1008
+	plan_set default_set
+	faction_creator romano_british
+	building
+	{
+		type core_building governors_house
+	}
+}
+
+settlement
+{
+	level large_town
+	region Britannia_Prima
+
+	year_founded 363
+	population 2713
+	plan_set default_set
+	faction_creator empire_west
+	building
+	{
+		type core_building governors_villa
+	}
+	building
+	{
+		type defenses wooden_wall
+	}
+	building
+	{
+		type hinterland_farms farms
+	}
+	building
+	{
+		type hinterland_roads roads
+	}
+	building
+	{
+		type temple_of_leadership temple_of_leadership_shrine
+	}
+}
+
+settlement
+{
+	level town
+	region Armorica
+
+	year_founded 20
+	population 1008
+	plan_set default_set
+	faction_creator empire_west
+	building
+	{
+		type core_building governors_house
+	}
+}
+
+settlement
+{
+	level town
+	region Lugdunensis_Secunda
+
+	year_founded 20
+	population 1008
+	plan_set default_set
+	faction_creator empire_west
+	building
+	{
+		type core_building governors_house
+	}
+}
+
+settlement
+{
+	level town
+	region Lugdunensis_Tertia
+
+	year_founded 20
+	population 1008
+	plan_set default_set
+	faction_creator empire_west
+	building
+	{
+		type core_building governors_house
+	}
+}
+
+settlement
+{
+	level town
+	region Lugdunensis_Senonia
+
+	year_founded 20
+	population 1008
+	plan_set default_set
+	faction_creator empire_west
+	building
+	{
+		type core_building governors_house
+	}
+}
+
+settlement
+{
+	level town
+	region Belgica_Prima
+
+	year_founded 20
+	population 1008
+	plan_set default_set
+	faction_creator empire_west
+	building
+	{
+		type core_building governors_house
+	}
+}
+
+settlement
+{
+	level town
+	region Maxima_Sequanorum
+
+	year_founded 20
+	population 1008
+	plan_set default_set
+	faction_creator empire_west
+	building
+	{
+		type core_building governors_house
+	}
+}
+
+settlement
+{
+	level town
+	region Viennensis
+
+	year_founded 20
+	population 1008
+	plan_set default_set
+	faction_creator empire_west
+	building
+	{
+		type core_building governors_house
+	}
+}
+
+settlement
+{
+	level town
+	region Aquitania_Prima
+
+	year_founded 20
+	population 1008
+	plan_set default_set
+	faction_creator empire_west
+	building
+	{
+		type core_building governors_house
+	}
+}
+
+settlement
+{
+	level town
+	region Novempopulana
+
+	year_founded 20
+	population 1008
+	plan_set default_set
+	faction_creator empire_west
+	building
+	{
+		type core_building governors_house
+	}
+}
+
+settlement
+{
+	level town
+	region Vasconia
+
+	year_founded 20
+	population 1008
+	plan_set default_set
+	faction_creator empire_west
+	building
+	{
+		type core_building governors_house
+	}
+}
+
+settlement
+{
+	level town
+	region Caesaraugustana
+
+	year_founded 20
+	population 1008
+	plan_set default_set
+	faction_creator empire_west
+	building
+	{
+		type core_building governors_house
+	}
+}
+
+settlement
+{
+	level town
+	region Cluniensis
+
+	year_founded 20
+	population 1008
+	plan_set default_set
+	faction_creator empire_west
+	building
+	{
+		type core_building governors_house
+	}
+}
+
+settlement
+{
+	level town
+	region Asturicensis
+
+	year_founded 20
+	population 1008
+	plan_set default_set
+	faction_creator empire_west
+	building
+	{
+		type core_building governors_house
+	}
+}
+
+settlement
+{
+	level town
+	region Gallaecia
+
+	year_founded 20
+	population 1008
+	plan_set default_set
+	faction_creator empire_west
+	building
+	{
+		type core_building governors_house
+	}
+}
+
+settlement
+{
+	level town
+	region Scallabitana
+
+	year_founded 20
+	population 1008
+	plan_set default_set
+	faction_creator empire_west
+	building
+	{
+		type core_building governors_house
+	}
+}
+
+settlement
+{
+	level town
+	region Pacensis
+
+	year_founded 20
+	population 1008
+	plan_set default_set
+	faction_creator empire_west
+	building
+	{
+		type core_building governors_house
+	}
+}
+
+settlement
+{
+	level town
+	region Baetica_Cordubensis
+
+	year_founded 20
+	population 1008
+	plan_set default_set
+	faction_creator empire_west
+	building
+	{
+		type core_building governors_house
+	}
+}
+
+settlement
+{
+	level town
+	region Gaditanus
+
+	year_founded 20
+	population 1008
+	plan_set default_set
+	faction_creator empire_west
+	building
+	{
+		type core_building governors_house
+	}
+}
+
+settlement
+{
+	level town
+	region Hispania_Interior
+
+	year_founded 20
+	population 1008
+	plan_set default_set
+	faction_creator empire_west
+	building
+	{
+		type core_building governors_house
+	}
+}
+
+settlement
+{
+	level town
+	region Baleares
+
+	year_founded 20
+	population 1008
+	plan_set default_set
+	faction_creator empire_west
+	building
+	{
+		type core_building governors_house
+	}
+}
+
+settlement
+{
+	level town
+	region Alpes_Cottiae
+
+	year_founded 20
+	population 1008
+	plan_set default_set
+	faction_creator empire_west
+	building
+	{
+		type core_building governors_house
+	}
+}
+
+settlement
+{
+	level town
+	region Tuscia
+
+	year_founded 20
+	population 1008
+	plan_set default_set
+	faction_creator empire_west
+	building
+	{
+		type core_building governors_house
+	}
+}
+
+settlement
+{
+	level town
+	region Corsica
+
+	year_founded 20
+	population 1008
+	plan_set default_set
+	faction_creator empire_west
+	building
+	{
+		type core_building governors_house
+	}
+}
+
+settlement
+{
+	level town
+	region Campania
+
+	year_founded 20
+	population 1008
+	plan_set default_set
+	faction_creator empire_west
+	building
+	{
+		type core_building governors_house
+	}
+}
+
+settlement
+{
+	level town
+	region Lucania_et_Brutii
+
+	year_founded 20
+	population 1008
+	plan_set default_set
+	faction_creator empire_west
+	building
+	{
+		type core_building governors_house
+	}
+}
+
+settlement
+{
+	level town
+	region Samnium
+
+	year_founded 20
+	population 1008
+	plan_set default_set
+	faction_creator empire_west
+	building
+	{
+		type core_building governors_house
+	}
+}
+
+settlement
+{
+	level town
+	region Picenum
+
+	year_founded 20
+	population 1008
+	plan_set default_set
+	faction_creator empire_west
+	building
+	{
+		type core_building governors_house
+	}
+}
+
+settlement
+{
+	level town
+	region Venetia
+
+	year_founded 20
+	population 1008
+	plan_set default_set
+	faction_creator empire_west
+	building
+	{
+		type core_building governors_house
+	}
+}
+
+settlement
+{
+	level town
+	region Raetia_Prima
+
+	year_founded 20
+	population 1008
+	plan_set default_set
+	faction_creator empire_west
+	building
+	{
+		type core_building governors_house
+	}
+}
+
+settlement
+{
+	level town
+	region Savia
+
+	year_founded 20
+	population 1008
+	plan_set default_set
+	faction_creator empire_west
+	building
+	{
+		type core_building governors_house
+	}
+}
+
+settlement
+{
+	level town
+	region Pannonia_Secunda
+
+	year_founded 20
+	population 1008
+	plan_set default_set
+	faction_creator empire_west
+	building
+	{
+		type core_building governors_house
+	}
+}
+
+settlement
+{
+	level town
+	region Praevalitana
+
+	year_founded 20
+	population 1008
+	plan_set default_set
+	faction_creator empire_west
+	building
+	{
+		type core_building governors_house
+	}
+}
+
+settlement
+{
+	level town
+	region Dacia_Ripensis
+
+	year_founded 20
+	population 1008
+	plan_set default_set
+	faction_creator empire_west
+	building
+	{
+		type core_building governors_house
+	}
+}
+
+settlement
+{
+	level town
+	region Dardania
+
+	year_founded 20
+	population 1008
+	plan_set default_set
+	faction_creator empire_west
+	building
+	{
+		type core_building governors_house
+	}
+}
+
+settlement
+{
+	level town
+	region Epirus_Nova
+
+	year_founded 20
+	population 1008
+	plan_set default_set
+	faction_creator empire_west
+	building
+	{
+		type core_building governors_house
+	}
+}
+
+settlement
+{
+	level town
+	region Epirus_Vetus
+
+	year_founded 20
+	population 1008
+	plan_set default_set
+	faction_creator empire_west
+	building
+	{
+		type core_building governors_house
+	}
+}
+
+settlement
+{
+	level town
+	region Thessalia
+
+	year_founded 20
+	population 1008
+	plan_set default_set
+	faction_creator empire_west
+	building
+	{
+		type core_building governors_house
+	}
+}
+
+settlement
+{
+	level town
+	region Byzacena
+
+	year_founded 20
+	population 1008
+	plan_set default_set
+	faction_creator empire_west
+	building
+	{
+		type core_building governors_house
+	}
+}
+
+settlement
+{
+	level town
+	region Numidia
+
+	year_founded 20
+	population 1008
+	plan_set default_set
+	faction_creator empire_west
+	building
+	{
+		type core_building governors_house
+	}
+}
+
+settlement
+{
+	level town
+	region Mauretania_Sitifensis
+
+	year_founded 20
+	population 1008
+	plan_set default_set
+	faction_creator empire_west
+	building
+	{
+		type core_building governors_house
+	}
+}
+
+settlement
+{
+	level town
+	region Caesariensis
+
+	year_founded 20
+	population 1008
+	plan_set default_set
+	faction_creator empire_west
+	building
+	{
+		type core_building governors_house
+	}
+}
+
+settlement
+{
+	level town
+	region Caesariensis_Occidental
+
+	year_founded 20
+	population 1008
+	plan_set default_set
+	faction_creator empire_west
+	building
+	{
+		type core_building governors_house
+	}
+}
+
+settlement
+{
+	level town
+	region Tingitana
+
+	year_founded 20
+	population 1008
+	plan_set default_set
+	faction_creator empire_west
+	building
+	{
+		type core_building governors_house
+	}
+}
+
+settlement
+{
+	level large_town
+	region Sicilia_Occidental
+
+	year_founded 363
+	population 2713
+	plan_set default_set
+	faction_creator empire_east
+	building
+	{
+		type core_building governors_villa
+	}
+	building
+	{
+		type defenses wooden_wall
+	}
+	building
+	{
+		type hinterland_farms farms
+	}
+	building
+	{
+		type temple_of_leadership temple_of_leadership_shrine
+	}
+}
+
 character	Valentinianus Flavius, named character, leader, age 62, , x 95, y 127
 traits LoyaltyStarter 1 , RomanFactionLeader 1, Christian 1, ChristianConversion 2 , Anger 3 , PoliticsSkill 2 , Corrupt 1 , ExpensiveTastes 2 , BadTrader 3 
 ancillaries elder_senator, famous_warrior, historian
@@ -5185,6 +7761,17 @@ denari	10000
 settlement
 {
 	level village
+	region Terra_Incognita
+
+	year_founded 363
+	population 400
+	plan_set default_set
+	faction_creator berbers
+}
+
+settlement
+{
+	level village
 	region Locus_Barbaricum
 
 	year_founded 363
@@ -5195,8 +7782,98 @@ settlement
 
 settlement
 {
+	level city
+	region Armenia
+
+	year_founded 20
+	population 8197
+	plan_set default_set
+	faction_creator sassanids
+	building
+	{
+		type core_building governors_palace
+	}
+	building
+	{
+		type defenses wooden_wall
+	}
+	building
+	{
+		type barracks militia_barracks
+	}
+	building
+	{
+		type equestrian stables
+	}
+	building
+	{
+		type missiles archery_range
+	}
+	building
+	{
+		type market trader
+	}
+	building
+	{
+		type hinterland_farms farms+1
+	}
+	building
+	{
+		type caravans caravan
+	}
+	building
+	{
+		type despotic_law execution_square
+	}
+	building
+	{
+		type hinterland_roads paved_roads
+	}
+	building
+	{
+		type temple_church_christianity church_christianity_church
+	}
+}
+
+settlement
+{
 	level large_town
-	region Tribus_Chattii
+	region Caledonia
+
+	year_founded 20
+	population 2253
+	plan_set default_set
+	faction_creator celts
+	building
+	{
+		type core_building governors_villa
+	}
+	building
+	{
+		type defenses wooden_pallisade
+	}
+	building
+	{
+		type barracks muster_field
+	}
+	building
+	{
+		type port_buildings port
+	}
+	building
+	{
+		type hinterland_roads roads
+	}
+	building
+	{
+		type temple_of_battleforge temple_of_battleforge_shrine
+	}
+}
+
+settlement
+{
+	level large_town
+	region Hermunduria
 
 	year_founded 363
 	population 2547
@@ -5250,7 +7927,7 @@ settlement
 settlement
 {
 	level large_town
-	region Tribus_Frisii
+	region Frisia
 
 	year_founded 363
 	population 2059
@@ -5276,21 +7953,6 @@ settlement
 
 settlement
 {
-	level town
-	region Tribus_Alanni
-
-	year_founded 20
-	population 1008
-	plan_set default_set
-	faction_creator huns
-	building
-	{
-		type core_building governors_house
-	}
-}
-
-settlement
-{
 	level village
 	region Tribus_Sakae
 
@@ -5298,44 +7960,6 @@ settlement
 	population 400
 	plan_set default_set
 	faction_creator huns
-}
-
-settlement
-{
-	level large_town
-	region Locus_Sarmatae
-
-	year_founded 20
-	population 2143
-	plan_set default_set
-	faction_creator sarmatians
-	building
-	{
-		type core_building governors_villa
-	}
-	building
-	{
-		type hinterland_roads roads
-	}
-}
-
-settlement
-{
-	level large_town
-	region Tribus_Iazyges
-
-	year_founded 20
-	population 2195
-	plan_set default_set
-	faction_creator sarmatians
-	building
-	{
-		type core_building governors_villa
-	}
-	building
-	{
-		type hinterland_roads roads
-	}
 }
 
 settlement
@@ -5364,7 +7988,7 @@ settlement
 settlement
 {
 	level large_town
-	region Tribus_Marcomanni
+	region Boihaemum
 
 	year_founded 363
 	population 2234
@@ -5404,21 +8028,6 @@ settlement
 	population 400
 	plan_set default_set
 	faction_creator berbers
-}
-
-settlement
-{
-	level town
-	region Tribus_Vandali
-
-	year_founded 363
-	population 1845
-	plan_set default_set
-	faction_creator vandals
-	building
-	{
-		type core_building governors_house
-	}
 }
 
 character	sub_faction vandals, Gunthamund, general, age 38, , x 148, y 184
@@ -5611,6 +8220,8 @@ faction_relationships 	empire_west, at_war_with 	sarmatians, alemanni, celts, be
 faction_relationships 	empire_east_rebels, at_war_with 	empire_east, empire_west
 faction_relationships 	empire_west_rebels, at_war_with 	empire_east, empire_west
 faction_relationships 	slave, at_war_with 	huns, goths, sarmatians, vandals, franks, saxons, alemanni, celts, sassanids, roxolani, burgundii, berbers, empire_east, empire_west, lombardi, romano_british, ostrogoths, berbers, slavs
+faction_relationships 	slavs, at_war_with 	slave
+faction_relationships 	ostrogoths, at_war_with 	slave
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ; >>>> start of regions section <<<<
 
@@ -5625,10 +8236,10 @@ spawn_script romano_british, capture, spawn_scripts/romano_british_spawn_script_
 spawn_script romano_british, end_of_turn, spawn_scripts/romano_british_spawn_script_end_of_turn.txt
 
 ;;handle the ostrogoths this way too, having them as a shadow faction is a lil weird
-spawn_script ostrogoths, revolt, spawn_scripts/ostrogoths_spawn_script_revolt.txt
+;;spawn_script ostrogoths, revolt, spawn_scripts/ostrogoths_spawn_script_revolt.txt
 
 ;;additional guard, very very rarely the goths don't take a settlement, so automatically spawn them as horde on turn 3 if that happens
-spawn_script ostrogoths, end_of_turn, spawn_scripts/ostrogoths_spawn_script_end_of_turn.txt
+;;spawn_script ostrogoths, end_of_turn, spawn_scripts/ostrogoths_spawn_script_end_of_turn.txt
 
 ;;handle scripted rebellions for letting the player spawn
 script 

@@ -1,5 +1,5 @@
 saxons
-hold_regions Vicus_Saxones Londinium Samarobriva
+hold_regions Tulifurdum Londinium Samarobriva
 take_regions 18
 
 vandals

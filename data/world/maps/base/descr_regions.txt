@@ -13,9 +13,9 @@ Caledonia
 	5
 	5
 	pagan 90 christianity 10
-Tribus_Saxones
+Saxonia
 	legion: Barbaricorum
-	Vicus_Saxones
+	Tulifurdum
 	saxons
 	Angles
 	232 41 55
@@ -25,7 +25,7 @@ Tribus_Saxones
 	pagan 100
 Locus_Barbaricum
 	legion: Barbaricorum
-	Campus_Barbaricum
+	Voruta
 	slavs
 	Slavs
 	58 177 95
@@ -73,9 +73,9 @@ Britannia_Inferior
 	5
 	5
 	christianity 10 pagan 90
-Locus_Sarmatae
+Borysthenes
 	legion: Barbaricorum
-	Campus_Sarmatae
+	Gelonus
 	sarmatians
 	Sarmatians
 	177 255 83
@@ -93,9 +93,9 @@ Britannia_Superior
 	5
 	8
 	christianity 30 pagan 70
-Tribus_Burgundii
+Bructeria
 	legion: Barbaricorum
-	Campus_Burgundii
+	Uburzis
 	burgundii
 	Burgundii
 	131 33 125
@@ -113,9 +113,9 @@ Tribus_Vandali
 	5
 	4
 	pagan 100
-Tribus_Frisii
+Frisia
 	legion: Barbaricorum
-	Campus_Frisii
+	Flevum
 	saxons
 	Frisii
 	2 0 255
@@ -123,9 +123,9 @@ Tribus_Frisii
 	5
 	6
 	pagan 100
-Tribus_Chattii
+Hermunduria
 	legion: Barbaricorum
-	Campus_Chattii
+	Lupfurdum
 	franks
 	Chatti
 	232 198 41
@@ -133,9 +133,9 @@ Tribus_Chattii
 	5
 	4
 	pagan 100
-Tribus_Lombardi
+Semnonia
 	legion: Barbaricorum
-	Campus_Lombardi
+	Calancorum
 	lombardi
 	Lombardi
 	203 41 232
@@ -153,9 +153,9 @@ Germania_Inferior
 	5
 	7
 	christianity 30 pagan 70
-Tribus_Franki
+Ripuaria
 	legion: Barbaricorum
-	Vicus_Franki
+	Segodunum
 	franks
 	Franki
 	255 150 177
@@ -165,7 +165,7 @@ Tribus_Franki
 	pagan 100
 Sarmatia
 	legion: Barbaricorum
-	Vicus_Sarmatae
+	Olbia
 	sarmatians
 	Sarmatians
 	33 131 116
@@ -183,9 +183,9 @@ Belgica
 	5
 	7
 	christianity 25 pagan 75
-Tribus_Marcomanni
+Boihaemum
 	legion: Barbaricorum
-	Campus_Marcomanni
+	Casurgis
 	alemanni
 	Marcomanni
 	177 78 58
@@ -193,9 +193,9 @@ Tribus_Marcomanni
 	5
 	5
 	pagan 100
-Tribus_Roxolani
+Maeotis
 	legion: Scythica
-	Campus_Roxolani
+	Tanais
 	roxolani
 	Roxolani
 	131 89 33
@@ -223,9 +223,9 @@ Lugdinensis
 	5
 	14
 	christianity 30 pagan 70
-Tribus_Alemanni
+Agri_Decumates
 	legion: Barbaricorum
-	Vicus_Alemanni
+	Sumelocenna
 	alemanni
 	Alemanni
 	58 150 177
@@ -1185,7 +1185,7 @@ Alpes_Cottiae
 	christianity 20 pagan 80
 Gautia
 	legion: Barbaricorum
-	Lodose
+	Hrefnesholt
 	saxons
 	Angles
 	19 147 64
@@ -1195,7 +1195,7 @@ Gautia
 	pagan 100
 Guotodin
 	legion: Caledonica
-	Alauna
+	Eildon
 	celts
 	Pictii
 	6 122 176
@@ -1203,9 +1203,9 @@ Guotodin
 	5
 	3
 	pagan 90 christianity 10
-Verturio
+Fortriu
 	legion: Caledonica
-	Dunum_Verturiones
+	Tuesis
 	celts
 	Pictii
 	255 255 128
@@ -1213,7 +1213,7 @@ Verturio
 	5
 	2
 	pagan 90 christianity 10
-Tribus_Anglii
+Anglia
 	legion: Barbaricorum
 	Haithabu
 	saxons
@@ -1565,7 +1565,7 @@ Lugia
 	pagan 100
 Tribus_Antae
 	legion: Barbaricorum
-	Sedes_Antae
+	Belz
 	slavs
 	Slavs
 	247 250 32
@@ -1673,9 +1673,9 @@ Scythia_Minor
 	5
 	2
 	christianity 75 pagan 25
-Gerrhos
+Oium
 	legion: Scythica
-	Gerrhi
+	Arheimar
 	ostrogoths
 	Ostrogoths
 	211 212 2
@@ -2185,7 +2185,7 @@ Goyman
 	zoroastrian 100
 Dihistan
 	legion: Parthica
-	Igdi
+	Dehistan
 	sassanids
 	Persians
 	192 137 84
@@ -2543,7 +2543,7 @@ Kuqa
 	5
 	2
 	pagan 100
-Hajar
+Bahrain
 	legion: Arabica
 	Thaj
 	berbers
@@ -2553,7 +2553,7 @@ Hajar
 	5
 	0
 	zoroastrian 30 pagan 70
-Bahraiyn
+Haggar
 	legion: Arabica
 	Hatta
 	berbers
@@ -2725,7 +2725,7 @@ Ostrogothia
 	pagan 100
 Cimbria
 	legion: Barbaricorum
-	Sedes_Iutum
+	Alabu
 	saxons
 	Angles
 	132 33 116
@@ -2763,7 +2763,7 @@ Valagothia
 	5
 	3
 	pagan 100
-Svitjod
+Sueonia
 	legion: Barbaricorum
 	Uppsala
 	saxons

@@ -878,37 +878,37 @@
 			"surnames": "blank_surnames",
 		},
 
-		;;information for when this faction emerges
-		"emergence":
-		{
-			;;units to use if we emerge inside a settlement
-			"settlement units":
-			[
-				"gothic spearmen",
-				"gothic warriors",
-				"gothic warrior nobles",
-				"alan horse archers",
-				"gothic horse archers",
-				"arian priests",
-			],
-			;;units to use if we emerge as a horde
-			"horde units":
-			[
-				"gothic spearmen",
-				"gothic warriors",
-				"gothic warrior nobles",
-				"alan horse archers",
-				"gothic horse archers",
-				"arian priests",
-				"steppe horde peasants",
-				"steppe horde spearmen",
-				"steppe horde horse",
-				"steppe horde chosen warriors",
-			],
-
-			;;strength multiplier (compared to the strength of a regular revolt from the settlement)
-			"strength": 1.5,
-		},
+		;;information for when this faction emerges	;; added directly to the map
+		;;"emergence":
+		;;{
+		;;	;;units to use if we emerge inside a settlement
+		;;	"settlement units":
+		;;	[
+		;;		"gothic spearmen",
+		;;		"gothic warriors",
+		;;		"gothic warrior nobles",
+		;;		"alan horse archers",
+		;;		"gothic horse archers",
+		;;		"arian priests",
+		;;	],
+		;;	;;units to use if we emerge as a horde
+		;;	"horde units":
+		;;	[
+		;;		"gothic spearmen",
+		;;		"gothic warriors",
+		;;		"gothic warrior nobles",
+		;;		"alan horse archers",
+		;;		"gothic horse archers",
+		;;		"arian priests",
+		;;		"steppe horde peasants",
+		;;		"steppe horde spearmen",
+		;;		"steppe horde horse",
+		;;		"steppe horde chosen warriors",
+		;;	],
+		;;
+		;;	;;strength multiplier (compared to the strength of a regular revolt from the settlement)
+		;;	"strength": 1.5,
+		;;},
 
 		;;horde information
 		"horde":
