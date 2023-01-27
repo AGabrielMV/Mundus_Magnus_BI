@@ -3975,7 +3975,7 @@ settlement
 	region Europa
 
 	year_founded 363
-	population 17248
+	population 27248
 	plan_set default_set
 	faction_creator empire_east
 	building
@@ -3988,15 +3988,15 @@ settlement
 	}
 	building
 	{
-		type barracks militia_barracks
+		type barracks royal_barracks
 	}
 	building
 	{
-		type equestrian stables
+		type equestrian circus_maximus
 	}
 	building
 	{
-		type missiles practice_field
+		type missiles archery_range
 	}
 	building
 	{
@@ -4004,7 +4004,7 @@ settlement
 	}
 	building
 	{
-		type smith blacksmith
+		type smith foundry
 	}
 	building
 	{
@@ -4036,7 +4036,7 @@ settlement
 	}
 	building
 	{
-		type temple_church_christianity church_christianity_church
+		type temple_church_christianity church_christianity_cathedral
 	}
 }
 
@@ -4046,7 +4046,7 @@ settlement
 	region Asiana
 
 	year_founded 363
-	population 6371
+	population 8371
 	plan_set default_set
 	faction_creator empire_east
 	building
@@ -4059,7 +4059,11 @@ settlement
 	}
 	building
 	{
-		type barracks muster_field
+		type barracks militia_barracks
+	}
+	building
+	{
+		type market market
 	}
 	building
 	{
@@ -4067,7 +4071,11 @@ settlement
 	}
 	building
 	{
-		type hinterland_roads roads
+		type hinterland_roads paved_roads
+	}
+	building
+	{
+		type hinterland_farms farms+2
 	}
 	building
 	{
@@ -4128,7 +4136,7 @@ settlement
 	region Cilicia_et_Lycia
 
 	year_founded 363
-	population 1839
+	population 2339
 	plan_set default_set
 	faction_creator empire_east
 	building
@@ -4574,121 +4582,341 @@ settlement
 
 settlement
 {
-	level town
+	level large_town
 	region Scythia_Minor
 
-	year_founded 20
-	population 1008
+	year_founded 363
+	population 2200
 	plan_set default_set
 	faction_creator empire_east
 	building
 	{
-		type core_building governors_house
+		type core_building governors_villa
+	}
+	building
+	{
+		type defenses wooden_wall
+	}
+	building
+	{
+		type health sewers
+	}
+	building
+	{
+		type hinterland_roads paved_roads
+	}
+	building
+	{
+		type temple_church_christianity church_christianity_chapel
 	}
 }
 
 settlement
 {
-	level town
+	level city
 	region Moesia_Secunda
 
-	year_founded 20
-	population 1008
+	year_founded 363
+	population 6200
 	plan_set default_set
 	faction_creator empire_east
 	building
 	{
-		type core_building governors_house
+		type core_building governors_palace
+	}
+	building
+	{
+		type defenses stone_wall
+	}
+	building
+	{
+		type port_buildings port
+	}
+	building
+	{
+		type market market
+	}
+	building
+	{
+		type health sewers
+	}
+	building
+	{
+		type hinterland_farms farms+1
+	}
+	building
+	{
+		type hinterland_roads paved_roads
+	}
+	building
+	{
+		type temple_church_christianity church_christianity_shrine
 	}
 }
 
 settlement
 {
-	level town
+	level large_town
 	region Thracia
 
-	year_founded 20
-	population 1008
+	year_founded 363
+	population 4000
 	plan_set default_set
 	faction_creator empire_east
 	building
 	{
-		type core_building governors_house
+		type core_building governors_villa
+	}
+	building
+	{
+		type defenses wooden_wall
+	}
+	building
+	{
+		type port_buildings port
+	}
+	building
+	{
+		type health sewers
+	}
+	building
+	{
+		type hinterland_farms farms
+	}
+	building
+	{
+		type hinterland_roads paved_roads
+	}
+	building
+	{
+		type temple_church_christianity church_christianity_shrine
 	}
 }
 
 settlement
 {
-	level town
+	level city
 	region Haemimontus
 
-	year_founded 20
-	population 1008
+	year_founded 363
+	population 7349
 	plan_set default_set
 	faction_creator empire_east
 	building
 	{
-		type core_building governors_house
+		type core_building governors_palace
+	}
+	building
+	{
+		type defenses stone_wall
+	}
+	building
+	{
+		type barracks militia_barracks
+	}
+	building
+	{
+		type market market
+	}
+	building
+	{
+		type hinterland_roads paved_roads
+	}
+	building
+	{
+		type health baths
+	}
+	building
+	{
+		type equestrian stables
+	}
+	building
+	{
+		type hinterland_farms farms+1
+	}
+	building
+	{
+		type temple_church_christianity church_christianity_chapel
 	}
 }
 
 settlement
 {
-	level town
+	level large_town
 	region Hellespontus
 
-	year_founded 20
-	population 1008
+	year_founded 363
+	population 4240
 	plan_set default_set
 	faction_creator empire_east
 	building
 	{
-		type core_building governors_house
+		type core_building governors_villa
+	}
+	building
+	{
+		type defenses stone_wall
+	}
+	building
+	{
+		type barracks militia_barracks
+	}
+	building
+	{
+		type port_buildings port
+	}
+	building
+	{
+		type health sewers
+	}
+	building
+	{
+		type market market
+	}
+	building
+	{
+		type hinterland_roads paved_roads
+	}
+	building
+	{
+		type temple_church_christianity church_christianity_chapel
 	}
 }
 
 settlement
 {
-	level town
+	level huge_city
 	region Bithynia
 
-	year_founded 20
-	population 1008
+	year_founded 363
+	population 27958
 	plan_set default_set
 	faction_creator empire_east
 	building
 	{
-		type core_building governors_house
+		type core_building imperial_palace
+	}
+	building
+	{
+		type defenses large_stone_wall
+	}
+	building
+	{
+		type barracks army_barracks
+	}
+	building
+	{
+		type market forum
+	}
+	building
+	{
+		type smith blacksmith
+	}
+	building
+	{
+		type health aqueduct
+	}
+	building
+	{
+		type hinterland_farms farms+2
+	}
+	building
+	{
+		type hinterland_roads paved_roads
+	}
+	building
+	{
+		type academic scriptorium
+	}
+	building
+	{
+		type amphitheatres urban_amphitheatre
+	}
+	building
+	{
+		type temple_church_christianity church_christianity_chapel
 	}
 }
 
 settlement
 {
-	level town
+	level city
 	region Lydia
 
 	year_founded 20
-	population 1008
+	population 8734
 	plan_set default_set
 	faction_creator empire_east
 	building
 	{
-		type core_building governors_house
+		type core_building governors_palace
+	}
+	building
+	{
+		type defenses wooden_wall
+	}
+	building
+	{
+		type barracks militia_barracks
+	}
+	building
+	{
+		type market forum
+	}
+	building
+	{
+		type smith blacksmith
+	}
+	building
+	{
+		type health baths
+	}
+    building
+	{
+		type hinterland_farms farms+1
+	}
+	building
+	{
+		type hinterland_roads paved_roads
+	}
+	building
+	{
+		type temple_church_christianity church_christianity_church
 	}
 }
 
 settlement
 {
-	level town
+	level large_town
 	region Caria
 
-	year_founded 20
-	population 1008
+	year_founded 363
+	population 3684
 	plan_set default_set
 	faction_creator empire_east
 	building
 	{
-		type core_building governors_house
+		type core_building governors_villa
+	}
+	building
+	{
+		type defenses wooden_pallisade
+	}
+	building
+	{
+		type barracks muster_field
+	}
+	building
+	{
+		type health sewers
+	}
+	building
+	{
+		type hinterland_roads roads
+	}
+	building
+	{
+		type temple_of_leadership temple_of_leadership_temple
 	}
 }
 
@@ -4697,343 +4925,891 @@ settlement
 	level town
 	region Insulae
 
-	year_founded 20
-	population 1008
+	year_founded 363
+	population 2713
 	plan_set default_set
 	faction_creator empire_east
 	building
 	{
-		type core_building governors_house
+		type core_building governors_villa
+	}
+	building
+	{
+		type defenses wooden_pallisade
+	}
+	building
+	{
+		type health sewers
+	}
+	building
+	{
+		type hinterland_farms farms
+	}
+	building
+	{
+		type port_buildings port
+	}
+	building
+	{
+		type hinterland_roads roads
+	}
+	building
+	{
+		type temple_church_christianity church_christianity_shrine
 	}
 }
 
 settlement
 {
-	level town
+	level large_town
 	region Lycia
 
-	year_founded 20
-	population 1008
+	year_founded 363
+	population 3500
 	plan_set default_set
 	faction_creator empire_east
 	building
 	{
-		type core_building governors_house
+		type core_building governors_villa
+	}
+	building
+	{
+		type defenses wooden_wall
+	}
+	building
+	{
+		type port_buildings port
+	}
+	building
+	{
+		type health sewers
+	}
+	building
+	{
+		type market market
+	}
+	building
+	{
+		type hinterland_roads paved_roads
+	}
+	building
+	{
+		type temple_church_christianity church_christianity_chapel
 	}
 }
 
 settlement
 {
-	level town
+	level large_town
 	region Pamphylia
 
 	year_founded 20
-	population 1008
+	population 2381
 	plan_set default_set
 	faction_creator empire_east
 	building
 	{
-		type core_building governors_house
+		type core_building governors_villa
+	}
+	building
+	{
+		type defenses wooden_pallisade
+	}
+	building
+	{
+		type health sewers
+	}
+	building
+	{
+		type market trader
+	}
+	building
+	{
+		type port_buildings port
+	}
+	building
+	{
+		type health sewers
+	}
+	building
+	{
+		type hinterland_roads roads
 	}
 }
 
 settlement
 {
-	level town
+	level large_town
 	region Phrygia
 
-	year_founded 20
-	population 1008
+	year_founded 363
+	population 2800
 	plan_set default_set
 	faction_creator empire_east
 	building
 	{
-		type core_building governors_house
+		type core_building governors_villa
+	}
+	building
+	{
+		type defenses wooden_pallisade
+	}
+	building
+	{
+		type health sewers
+	}
+	building
+	{
+		type hinterland_farms farms
+	}
+	building
+	{
+		type hinterland_roads paved_roads
+	}
+	building
+	{
+		type temple_church_christianity church_christianity_shrine
 	}
 }
 
 settlement
 {
-	level town
+	level large_town
 	region Paphlagonia
 
-	year_founded 20
-	population 1008
+	year_founded 363
+	population 2200
 	plan_set default_set
 	faction_creator empire_east
 	building
 	{
-		type core_building governors_house
+		type core_building governors_villa
+	}
+	building
+	{
+		type defenses wooden_pallisade
+	}
+	building
+	{
+		type health sewers
+	}
+	building
+	{
+		type port_buildings port
+	}
+	building
+	{
+		type market market
+	}
+	building
+	{
+		type hinterland_roads paved_roads
+	}
+	building
+	{
+		type temple_church_christianity church_christianity_shrine
 	}
 }
 
 settlement
 {
-	level town
+	level large_town
 	region Pontus_Polemoniacus
 
 	year_founded 20
-	population 1008
+	population 4380
 	plan_set default_set
 	faction_creator empire_east
 	building
 	{
-		type core_building governors_house
+		type core_building governors_villa
+	}
+	building
+	{
+		type defenses stone_wall
+	}
+	building
+	{
+		type health sewers
+	}
+	building
+	{
+		type barracks militia_barracks
+	}
+	building
+	{
+		type market trader
+	}
+	building
+	{
+		type hinterland_roads paved_roads
+	}
+	building
+	{
+		type temple_church_christianity church_christianity_shrine
 	}
 }
 
 settlement
 {
-	level town
+	level large_town
 	region Armenia_Prima
 
 	year_founded 20
-	population 1008
+	population 2375
 	plan_set default_set
 	faction_creator empire_east
 	building
 	{
-		type core_building governors_house
+		type core_building governors_villa
+	}
+	building
+	{
+		type defenses wooden_wall
+	}
+	building
+	{
+		type health sewers
+	}
+	building
+	{
+		type barracks muster_field
+	}
+	building
+	{
+		type market trader
+	}
+	building
+	{
+		type hinterland_roads paved_roads
 	}
 }
 
 settlement
 {
-	level town
+	level large_town
 	region Armenia_Secunda
 
 	year_founded 20
-	population 1008
+	population 3129
 	plan_set default_set
 	faction_creator empire_east
 	building
 	{
-		type core_building governors_house
+		type core_building governors_villa
+	}
+	building
+	{
+		type defenses wooden_wall
+	}
+	building
+	{
+		type health sewers
+	}
+	building
+	{
+		type equestrian stables
+	}
+	building
+	{
+		type market market
+	}
+	building
+	{
+		type hinterland_roads paved_roads
+	}
+	building
+	{
+		type temple_church_christianity church_christianity_shrine
 	}
 }
 
 settlement
 {
-	level town
+	level large_town
 	region Lycaonia
 
 	year_founded 20
-	population 1008
+	population 1983
 	plan_set default_set
 	faction_creator empire_east
 	building
 	{
-		type core_building governors_house
+		type core_building governors_villa
+	}
+	building
+	{
+		type health sewers
+	}
+	building
+	{
+		type market trader
+	}
+	building
+	{
+		type hinterland_roads paved_roads
 	}
 }
 
 settlement
 {
-	level town
+	level large_town
 	region Isauria
 
 	year_founded 20
-	population 1008
+	population 1768
 	plan_set default_set
 	faction_creator empire_east
 	building
 	{
-		type core_building governors_house
+		type core_building governors_villa
+	}
+	building
+	{
+		type health sewers
+	}
+	building
+	{
+		type barracks muster_field
+	}
+	building
+	{
+		type hinterland_roads roads
+	}
+	building
+	{
+		type temple_of_mithras temple_of_mithras_shrine
 	}
 }
 
 settlement
 {
-	level town
+	level large_town
 	region Satrapiae
 
 	year_founded 20
-	population 1008
+	population 4521
 	plan_set default_set
 	faction_creator empire_east
 	building
 	{
-		type core_building governors_house
+		type core_building governors_villa
+	}
+	building
+	{
+		type defenses wooden_wall
+	}
+	building
+	{
+		type health sewers
+	}
+	building
+	{
+		type barracks militia_barracks
+	}
+	building
+	{
+		type market market
+	}
+	building
+	{
+		type hinterland_roads paved_roads
+	}
+	building
+	{
+		type temple_church_christianity church_christianity_shrine
 	}
 }
 
 settlement
 {
-	level town
+	level city
 	region Mesopotamia
 
 	year_founded 20
-	population 1008
+	population 6237
 	plan_set default_set
 	faction_creator empire_east
 	building
 	{
-		type core_building governors_house
+		type core_building governors_palace
+	}
+	building
+	{
+		type defenses stone_wall
+	}
+	building
+	{
+		type health baths
+	}
+	building
+	{
+		type barracks militia_barracks
+	}
+	building
+	{
+		type equestrian stables
+	}
+	building
+	{
+		type market market
+	}
+	building
+	{
+		type hinterland_farms farms+1
+	}
+	building
+	{
+		type hinterland_roads paved_roads
+	}
+	building
+	{
+		type temple_church_christianity church_christianity_chapel
 	}
 }
 
 settlement
 {
-	level town
+	level large_town
 	region Osrhoene
 
 	year_founded 20
-	population 1008
+	population 5789
 	plan_set default_set
 	faction_creator empire_east
 	building
 	{
-		type core_building governors_house
+		type core_building governors_villa
+	}
+	building
+	{
+		type defenses stone_wall
+	}
+	building
+	{
+		type health sewers
+	}
+	building
+	{
+		type barracks muster_field
+	}
+	building
+	{
+		type missiles archery_range
+	}
+	building
+	{
+		type hinterland_farms farms+1
+	}
+	building
+	{
+		type hinterland_roads paved_roads
+	}
+	building
+	{
+		type temple_church_christianity church_christianity_shrine
 	}
 }
 
 settlement
 {
-	level town
+	level large_town
 	region Euphratensis
 
 	year_founded 20
-	population 1008
+	population 3780
 	plan_set default_set
 	faction_creator empire_east
 	building
 	{
-		type core_building governors_house
+		type core_building governors_villa
+	}
+	building
+	{
+		type defenses stone_wall
+	}
+	building
+	{
+		type health sewers
+	}
+	building
+	{
+		type market trader
+	}
+	building
+	{
+		type hinterland_farms farms+1
+	}
+	building
+	{
+		type hinterland_roads paved_roads
+	}
+	building
+	{
+		type temple_church_christianity church_christianity_shrine
 	}
 }
 
 settlement
 {
-	level town
+	level large_town
 	region Phoenicia_Libanensis
 
 	year_founded 20
-	population 1008
+	population 4800
 	plan_set default_set
 	faction_creator empire_east
 	building
 	{
-		type core_building governors_house
+		type core_building governors_villa
+	}
+	building
+	{
+		type defenses stone_wall
+	}
+	building
+	{
+		type health sewers
+	}
+	building
+	{
+		type missiles practice_field
+	}
+	building
+	{
+		type market market
+	}
+	building
+	{
+		type hinterland_farms farms
+	}
+	building
+	{
+		type hinterland_roads paved_roads
 	}
 }
 
 settlement
 {
-	level town
+	level city
 	region Palmyrene
 
 	year_founded 20
-	population 1008
+	population 5984
 	plan_set default_set
 	faction_creator empire_east
 	building
 	{
-		type core_building governors_house
+		type core_building governors_palace
+	}
+	building
+	{
+		type defenses stone_wall
+	}
+	building
+	{
+		type health baths
+	}
+	building
+	{
+		type barracks militia_barracks
+	}
+	building
+	{
+		type equestrian stables
+	}
+	building
+	{
+		type market market
+	}
+	building
+	{
+		type hinterland_roads paved_roads
+	}
+	building
+	{
+		type temple_of_leadership temple_of_leadership_temple
 	}
 }
 
 settlement
 {
-	level town
+	level city
 	region Palaestina_Secunda
 
 	year_founded 20
-	population 1008
+	population 6520
 	plan_set default_set
 	faction_creator empire_east
 	building
 	{
-		type core_building governors_house
+		type core_building governors_palace
+	}
+	building
+	{
+		type defenses stone_wall
+	}
+	building
+	{
+		type health baths
+	}
+	building
+	{
+		type hinterland_roads paved_roads
+	}
+	building
+	{
+		type amphitheatres stone_amphitheatre
+	}
+	building
+	{
+		type market forum
+	}
+	building
+	{
+		type temple_church_christianity church_christianity_church
 	}
 }
 
 settlement
 {
-	level town
+	level large_town
 	region Palaestina_Salutaris
 
-	year_founded 20
-	population 1008
+	year_founded 363
+	population 2400
 	plan_set default_set
 	faction_creator empire_east
 	building
 	{
-		type core_building governors_house
+		type core_building governors_villa
+	}
+	building
+	{
+		type defenses wooden_wall
+	}
+	building
+	{
+		type port_buildings port
+	}
+	building
+	{
+		type market market
+	}
+	building
+	{
+		type hinterland_roads paved_roads
+	}
+	building
+	{
+		type temple_church_christianity church_christianity_chapel
 	}
 }
 
 settlement
 {
-	level town
+	level large_town
 	region Augustamnica
 
-	year_founded 20
-	population 1008
+	year_founded 363
+	population 2500
 	plan_set default_set
 	faction_creator empire_east
 	building
 	{
-		type core_building governors_house
+		type core_building governors_villa
+	}
+	building
+	{
+		type defenses wooden_wall
+	}
+	building
+	{
+		type port_buildings port
+	}
+	building
+	{
+		type hinterland_farms farms
+	}
+	building
+	{
+		type hinterland_roads paved_roads
 	}
 }
 
 settlement
 {
-	level town
+	level city
 	region Arcadia
 
-	year_founded 20
-	population 1008
+	year_founded 363
+	population 6200
 	plan_set default_set
 	faction_creator empire_east
 	building
 	{
-		type core_building governors_house
+		type core_building governors_palace
+	}
+	building
+	{
+		type defenses stone_wall
+	}
+	building
+	{
+		type market market
+	}
+	building
+	{
+		type port_buildings port
+	}
+	building
+	{
+		type health sewers
+	}
+	building
+	{
+		type hinterland_farms farms+2
+	}
+	building
+	{
+		type hinterland_roads paved_roads
+	}
+	building
+	{
+		type amphitheatres stone_amphitheatre
+	}
+	building
+	{
+		type temple_church_christianity church_christianity_chapel
 	}
 }
 
 settlement
 {
-	level town
+	level city
 	region Thebais_Inferior
 
 	year_founded 20
-	population 1008
+	population 10534
 	plan_set default_set
 	faction_creator empire_east
 	building
 	{
-		type core_building governors_house
+		type core_building governors_palace
+	}
+	building
+	{
+		type barracks militia_barracks
+	}
+	building
+	{
+		type health sewers
+	}
+	building
+	{
+		type hinterland_farms farms+1
+	}
+	building
+	{
+		type hinterland_roads paved_roads
+	}
+	building
+	{
+		type market forum
+	}
+	building
+	{
+		type hinterland_mines mines
+	}
+	building
+	{
+		type amphitheatres stone_amphitheatre
+	}
+	building
+	{
+		type temple_of_leadership temple_of_leadership_shrine
 	}
 }
 
 settlement
 {
-	level town
+	level city
 	region Thebais_Superior
 
-	year_founded 20
-	population 1008
+	year_founded 363
+	population 6300
 	plan_set default_set
 	faction_creator empire_east
 	building
 	{
-		type core_building governors_house
+		type core_building governors_palace
+	}
+	building
+	{
+		type defenses stone_wall
+	}
+	building
+	{
+		type market market
+	}
+	building
+	{
+		type port_buildings port
+	}
+	building
+	{
+		type health sewers
+	}
+	building
+	{
+		type hinterland_farms farms+2
+	}
+	building
+	{
+		type hinterland_roads paved_roads
+	}
+	building
+	{
+		type hinterland_mines mines
+	}
+	building
+	{
+		type amphitheatres stone_amphitheatre
 	}
 }
 
 settlement
 {
-	level town
+	level large_town
 	region Libya_Inferior
 
-	year_founded 20
-	population 1008
+	year_founded 363
+	population 2163
 	plan_set default_set
 	faction_creator empire_east
 	building
 	{
-		type core_building governors_house
+		type core_building governors_villa
+	}
+	building
+	{
+		type defenses wooden_wall
+	}
+	building
+	{
+		type port_buildings port
+	}
+	building
+	{
+		type hinterland_farms farms
+	}
+	building
+	{
+		type hinterland_roads paved_roads
+	}
+	building
+	{
+		type temple_church_christianity church_christianity_shrine
 	}
 }
 
@@ -5043,12 +5819,28 @@ settlement
 	region Libya
 
 	year_founded 20
-	population 1008
+	population 1208
 	plan_set default_set
-	faction_creator empire_east
+	faction_creator berbers
 	building
 	{
 		type core_building governors_house
+	}
+	building
+	{
+		type market trader
+	}
+	building
+	{
+		type hinterland_farms farms
+	}
+	building
+	{
+		type hinterland_roads roads
+	}
+	building
+	{
+		type temple_of_leadership temple_of_leadership_shrine
 	}
 }
 
@@ -5058,27 +5850,64 @@ settlement
 	region Tyras
 
 	year_founded 20
-	population 1008
+	population 1839
 	plan_set default_set
 	faction_creator empire_east
 	building
 	{
 		type core_building governors_house
 	}
+	building
+	{
+		type defenses wooden_pallisade
+	}
+	building
+	{
+		type barracks muster_field
+	}
+	building
+	{
+		type hinterland_roads roads
+	}
+	building
+	{
+		type temple_of_leadership temple_of_leadership_shrine
+	}
 }
 
 settlement
 {
-	level town
+	level large_town
 	region Taurica
 
-	year_founded 20
-	population 1008
+	year_founded 0
+	population 2298
+	settlement_tax 51
 	plan_set default_set
 	faction_creator empire_east
 	building
 	{
-		type core_building governors_house
+		type core_building governors_villa
+	}
+	building
+	{
+		type defenses wooden_wall
+	}
+	building
+	{
+		type barracks muster_field
+	}
+	building
+	{
+		type hinterland_roads roads
+	}
+	building
+	{
+		type hinterland_farms farms
+	}
+	building
+	{
+		type temple_of_leadership temple_of_leadership_shrine
 	}
 }
 
@@ -5980,16 +6809,16 @@ settlement
 
 settlement
 {
-	level city
+	level large_town
 	region Germania_Superior
 
 	year_founded 363
-	population 12409
+	population 5294
 	plan_set default_set
 	faction_creator empire_west
 	building
 	{
-		type core_building governors_palace
+		type core_building governors_villa
 	}
 	building
 	{
@@ -6001,11 +6830,7 @@ settlement
 	}
 	building
 	{
-		type equestrian stables
-	}
-	building
-	{
-		type market market
+		type market trader
 	}
 	building
 	{
@@ -6017,11 +6842,7 @@ settlement
 	}
 	building
 	{
-		type health sewers
-	}
-	building
-	{
-		type temple_of_mithras temple_of_mithras_temple
+		type temple_of_leadership temple_of_leadership_temple
 	}
 }
 
@@ -6166,7 +6987,7 @@ settlement
 	year_founded 363
 	population 2597
 	plan_set default_set
-	faction_creator celts
+	faction_creator empire_west
 	building
 	{
 		type core_building governors_villa
@@ -6213,7 +7034,7 @@ settlement
 	year_founded 363
 	population 1579
 	plan_set default_set
-	faction_creator celts
+	faction_creator empire_west
 	building
 	{
 		type core_building governors_villa
@@ -6675,16 +7496,32 @@ settlement
 
 settlement
 {
-	level town
+	level large_town
 	region Valentia
 
 	year_founded 20
-	population 1008
+	population 2708
 	plan_set default_set
 	faction_creator romano_british
 	building
 	{
-		type core_building governors_house
+		type core_building governors_villa
+	}
+	building
+	{
+		type barracks muster_field
+	}
+	building
+	{
+		type market trader
+	}
+	building
+	{
+		type hinterland_roads roads
+	}
+	building
+	{
+		type temple_of_mithras temple_of_mithras_shrine
 	}
 }
 
@@ -6694,12 +7531,20 @@ settlement
 	region Dumnonia
 
 	year_founded 20
-	population 1008
+	population 1508
 	plan_set default_set
 	faction_creator romano_british
 	building
 	{
 		type core_building governors_house
+	}
+	building
+	{
+		type market trader
+	}
+	building
+	{
+		type hinterland_roads roads
 	}
 }
 
@@ -6709,12 +7554,24 @@ settlement
 	region Icenia
 
 	year_founded 20
-	population 1008
+	population 1729
 	plan_set default_set
 	faction_creator romano_british
 	building
 	{
 		type core_building governors_house
+	}
+	building
+	{
+		type defenses wooden_pallisade
+	}
+	building
+	{
+		type market trader
+	}
+	building
+	{
+		type hinterland_roads roads
 	}
 }
 
@@ -6724,7 +7581,7 @@ settlement
 	region Britannia_Prima
 
 	year_founded 363
-	population 2713
+	population 3712
 	plan_set default_set
 	faction_creator empire_west
 	building
@@ -6733,7 +7590,11 @@ settlement
 	}
 	building
 	{
-		type defenses wooden_wall
+		type barracks militia_barracks
+	}
+	building
+	{
+		type port_buildings port
 	}
 	building
 	{
@@ -6755,132 +7616,364 @@ settlement
 	region Armorica
 
 	year_founded 20
-	population 1008
+	population 1324
 	plan_set default_set
 	faction_creator empire_west
 	building
 	{
 		type core_building governors_house
 	}
+	building
+	{
+		type market trader
+	}
+	building
+	{
+		type temple_of_leadership temple_of_leadership_shrine
+	}
+	building
+	{
+		type hinterland_roads roads
+	}
 }
 
 settlement
 {
-	level town
+	level large_town
 	region Lugdunensis_Secunda
 
 	year_founded 20
-	population 1008
+	population 3128
 	plan_set default_set
 	faction_creator empire_west
 	building
 	{
-		type core_building governors_house
+		type core_building governors_villa
+	}
+	building
+	{
+		type defenses wooden_wall
+	}
+	building
+	{
+		type port_buildings port
+	}
+	building
+	{
+		type hinterland_farms farms
+	}
+	building
+	{
+		type market market
+	}
+	building
+	{
+		type health sewers
+	}
+	building
+	{
+		type hinterland_roads paved_roads
+	}
+	building
+	{
+		type temple_of_mithras temple_of_mithras_shrine
 	}
 }
 
 settlement
 {
-	level town
+	level large_town
 	region Lugdunensis_Tertia
 
 	year_founded 20
-	population 1008
+	population 3780
 	plan_set default_set
 	faction_creator empire_west
 	building
 	{
-		type core_building governors_house
+		type core_building governors_villa
+	}
+	building
+	{
+		type defenses wooden_wall
+	}
+	building
+	{
+		type barracks muster_field
+	}
+	building
+	{
+		type hinterland_farms farms
+	}
+	building
+	{
+		type market market
+	}
+	building
+	{
+		type health sewers
+	}
+	building
+	{
+		type hinterland_roads paved_roads
+	}
+	building
+	{
+		type temple_of_mithras temple_of_mithras_shrine
 	}
 }
 
 settlement
 {
-	level town
+	level city
 	region Lugdunensis_Senonia
 
 	year_founded 20
-	population 1008
+	population 6821
 	plan_set default_set
 	faction_creator empire_west
 	building
 	{
-		type core_building governors_house
+		type core_building governors_palace
+	}
+	building
+	{
+		type defenses stone_wall
+	}
+	building
+	{
+		type hinterland_farms farms
+	}
+	building
+	{
+		type market market
+	}
+	building
+	{
+		type health baths
+	}
+	building
+	{
+		type hinterland_roads paved_roads
+	}
+	building
+	{
+		type temple_of_mithras temple_of_mithras_large_temple
 	}
 }
 
 settlement
 {
-	level town
+	level city
 	region Belgica_Prima
 
 	year_founded 20
-	population 1008
+	population 9412
 	plan_set default_set
 	faction_creator empire_west
 	building
 	{
-		type core_building governors_house
+		type core_building governors_palace
+	}
+	building
+	{
+		type defenses stone_wall
+	}
+	building
+	{
+		type barracks militia_barracks
+	}
+	building
+	{
+		type equestrian stables
+	}
+	building
+	{
+		type market market
+	}
+	building
+	{
+		type hinterland_farms farms
+	}
+	building
+	{
+		type hinterland_roads paved_roads
+	}
+	building
+	{
+		type health sewers
+	}
+	building
+	{
+		type temple_church_christianity church_christianity_church
 	}
 }
 
 settlement
 {
-	level town
+	level city
 	region Maxima_Sequanorum
 
-	year_founded 20
-	population 1008
+	year_founded 363
+	population 6100
 	plan_set default_set
-	faction_creator empire_west
+	faction_creator empire_east
 	building
 	{
-		type core_building governors_house
+		type core_building governors_palace
+	}
+	building
+	{
+		type defenses stone_wall
+	}
+	building
+	{
+		type hinterland_farms farms
+	}
+	building
+	{
+		type market market
+	}
+	building
+	{
+		type health baths
+	}
+	building
+	{
+		type hinterland_roads paved_roads
+	}
+	building
+	{
+		type temple_of_mithras temple_of_mithras_large_temple
 	}
 }
 
 settlement
 {
-	level town
+	level city
 	region Viennensis
 
-	year_founded 20
-	population 1008
+	year_founded 363
+	population 6200
 	plan_set default_set
-	faction_creator empire_west
+	faction_creator empire_east
 	building
 	{
-		type core_building governors_house
+		type core_building governors_palace
+	}
+	building
+	{
+		type defenses stone_wall
+	}
+	building
+	{
+		type hinterland_farms farms
+	}
+	building
+	{
+		type market market
+	}
+	building
+	{
+		type health sewers
+	}
+	building
+	{
+		type hinterland_roads paved_roads
+	}
+	building
+	{
+		type temple_of_mithras temple_of_mithras_large_temple
 	}
 }
 
 settlement
 {
-	level town
+	level city
 	region Aquitania_Prima
 
-	year_founded 20
-	population 1008
+	year_founded 363
+	population 8400
 	plan_set default_set
 	faction_creator empire_west
 	building
 	{
-		type core_building governors_house
+		type core_building governors_palace
+	}
+	building
+	{
+		type defenses stone_wall
+	}
+	building
+	{
+		type barracks militia_barracks
+	}
+	building
+	{
+		type equestrian stables
+	}
+	building
+	{
+		type market trader
+	}
+	building
+	{
+		type health baths
+	}
+	building
+	{
+		type hinterland_farms farms
+	}
+	building
+	{
+		type amphitheatres stone_amphitheatre
+	}
+	building
+	{
+		type hinterland_roads roads
+	}
+	building
+	{
+		type temple_church_christianity church_christianity_chapel
 	}
 }
 
 settlement
 {
-	level town
+	level large_town
 	region Novempopulana
 
-	year_founded 20
-	population 1008
+	year_founded 363
+	population 2700
 	plan_set default_set
 	faction_creator empire_west
 	building
 	{
-		type core_building governors_house
+		type core_building governors_villa
+	}
+	building
+	{
+		type defenses wooden_wall
+	}
+	building
+	{
+		type hinterland_farms farms
+	}
+	building
+	{
+		type market market
+	}
+	building
+	{
+		type health sewers
+	}
+	building
+	{
+		type hinterland_roads paved_roads
+	}
+	building
+	{
+		type temple_church_christianity church_christianity_shrine
 	}
 }
 
@@ -6889,478 +7982,1150 @@ settlement
 	level town
 	region Vasconia
 
-	year_founded 20
-	population 1008
+	year_founded 0
+	population 1358
 	plan_set default_set
 	faction_creator empire_west
 	building
 	{
 		type core_building governors_house
 	}
+	building
+	{
+		type hinterland_farms farms
+	}
+	building
+	{
+		type hinterland_roads paved_roads
+	}
 }
 
 settlement
 {
-	level town
+	level large_town
 	region Caesaraugustana
 
-	year_founded 20
-	population 1008
+	year_founded 0
+	population 4600
 	plan_set default_set
 	faction_creator empire_west
 	building
 	{
-		type core_building governors_house
+		type core_building governors_villa
+	}
+	building
+	{
+		type defenses wooden_pallisade
+	}
+	building
+	{
+		type barracks militia_barracks
+	}
+	building
+	{
+		type equestrian stables
+	}
+	building
+	{
+		type missiles practice_field
+	}
+	building
+	{
+		type market trader
+	}
+	building
+	{
+		type hinterland_farms farms
+	}
+	building
+	{
+		type hinterland_roads paved_roads
 	}
 }
 
 settlement
 {
-	level town
+	level large_town
 	region Cluniensis
 
 	year_founded 20
-	population 1008
+	population 3280
 	plan_set default_set
 	faction_creator empire_west
 	building
 	{
-		type core_building governors_house
+		type core_building governors_villa
+	}
+	building
+	{
+		type market trader
+	}
+	building
+	{
+		type hinterland_farms farms
+	}
+	building
+	{
+		type hinterland_roads paved_roads
 	}
 }
 
 settlement
 {
-	level town
+	level large_town
 	region Asturicensis
 
 	year_founded 20
-	population 1008
+	population 2200
 	plan_set default_set
 	faction_creator empire_west
 	building
 	{
-		type core_building governors_house
+		type core_building governors_villa
+	}
+	building
+	{
+		type barracks militia_barracks
+	}
+	building
+	{
+		type market market
+	}
+	building
+	{
+		type hinterland_roads paved_roads
+	}
+	building
+	{
+		type temple_of_mithras temple_of_mithras_temple
 	}
 }
 
 settlement
 {
-	level town
+	level large_town
 	region Gallaecia
 
 	year_founded 20
-	population 1008
+	population 5431
 	plan_set default_set
 	faction_creator empire_west
 	building
 	{
-		type core_building governors_house
+		type core_building governors_villa
+	}
+	building
+	{
+		type defenses wooden_wall
+	}
+	building
+	{
+		type barracks muster_field
+	}
+	building
+	{
+		type market trader
+	}
+	building
+	{
+		type hinterland_farms farms
+	}
+	building
+	{
+		type port_buildings port
+	}
+	building
+	{
+		type hinterland_mines mines
+	}
+	building
+	{
+		type hinterland_roads paved_roads
 	}
 }
 
 settlement
 {
-	level town
+	level large_town
 	region Scallabitana
 
-	year_founded 20
-	population 1008
+	year_founded 0
+	population 4550
 	plan_set default_set
 	faction_creator empire_west
 	building
 	{
-		type core_building governors_house
+		type core_building governors_villa
+	}
+	building
+	{
+		type market trader
+	}
+	building
+	{
+		type hinterland_farms farms
+	}
+	building
+	{
+		type hinterland_roads paved_roads
 	}
 }
 
 settlement
 {
-	level town
+	level large_town
 	region Pacensis
 
 	year_founded 20
-	population 1008
+	population 3197
 	plan_set default_set
 	faction_creator empire_west
 	building
 	{
-		type core_building governors_house
+		type core_building governors_villa
+	}
+	building
+	{
+		type temple_of_leadership temple_of_leadership_shrine
+	}
+	building
+	{
+		type hinterland_farms farms
+	}
+	building
+	{
+		type hinterland_roads paved_roads
 	}
 }
 
 settlement
 {
-	level town
+	level large_town
 	region Baetica_Cordubensis
 
-	year_founded 20
-	population 1008
+	year_founded 0
+	population 4400
 	plan_set default_set
 	faction_creator empire_west
 	building
 	{
-		type core_building governors_house
+		type core_building governors_villa
+	}
+	building
+	{
+		type defenses wooden_wall
+	}
+	building
+	{
+		type market trader
+	}
+	building
+	{
+		type hinterland_farms farms
+	}
+	building
+	{
+		type hinterland_roads paved_roads
 	}
 }
 
 settlement
 {
-	level town
+	level city
 	region Gaditanus
 
-	year_founded 20
-	population 1008
+	year_founded 0
+	population 6600
 	plan_set default_set
 	faction_creator empire_west
 	building
 	{
-		type core_building governors_house
+		type core_building governors_palace
+	}
+	building
+	{
+		type defenses stone_wall
+	}
+	building
+	{
+		type barracks militia_barracks
+	}
+	building
+	{
+		type market forum
+	}
+	building
+	{
+		type academic academy
+	}
+	building
+	{
+		type port_buildings shipwright
+	}
+	building
+	{
+		type hinterland_roads paved_roads
 	}
 }
 
 settlement
 {
-	level town
+	level large_town
 	region Hispania_Interior
 
 	year_founded 20
-	population 1008
+	population 4318
 	plan_set default_set
 	faction_creator empire_west
 	building
 	{
-		type core_building governors_house
+		type core_building governors_villa
+	}
+	building
+	{
+		type defenses wooden_wall
+	}
+	building
+	{
+		type barracks muster_field
+	}
+	building
+	{
+		type market trader
+	}
+	building
+	{
+		type smith blacksmith
+	}
+	building
+	{
+		type hinterland_farms farms
+	}
+	building
+	{
+		type hinterland_roads paved_roads
 	}
 }
 
 settlement
 {
-	level town
+	level large_town
 	region Baleares
 
-	year_founded 20
-	population 1008
+	year_founded 363
+	population 2200
 	plan_set default_set
 	faction_creator empire_west
 	building
 	{
-		type core_building governors_house
+		type core_building governors_villa
+	}
+	building
+	{
+		type missiles archery_range
+	}
+	building
+	{
+		type port_buildings port
+	}
+	building
+	{
+		type hinterland_roads paved_roads
+	}
+	building
+	{
+		type temple_of_leadership temple_of_leadership_shrine
 	}
 }
 
 settlement
 {
-	level town
+	level large_town
 	region Alpes_Cottiae
 
-	year_founded 20
-	population 1008
+	year_founded 363
+	population 2300
 	plan_set default_set
 	faction_creator empire_west
 	building
 	{
-		type core_building governors_house
+		type core_building governors_villa
+	}
+	building
+	{
+		type defenses wooden_wall
+	}
+	building
+	{
+		type market trader
+	}
+	building
+	{
+		type port_buildings port
+	}
+	building
+	{
+		type health sewers
+	}
+	building
+	{
+		type hinterland_roads paved_roads
+	}
+	building
+	{
+		type temple_of_mithras temple_of_mithras_temple
 	}
 }
 
 settlement
 {
-	level town
+	level city
 	region Tuscia
 
-	year_founded 20
-	population 1008
+	year_founded 0
+	population 7650
 	plan_set default_set
 	faction_creator empire_west
 	building
 	{
-		type core_building governors_house
+		type core_building governors_palace
+	}
+	building
+	{
+		type defenses stone_wall
+	}
+	building
+	{
+		type barracks city_barracks
+	}
+	building
+	{
+		type market market
+	}
+	building
+	{
+		type health sewers
+	}
+	building
+	{
+		type port_buildings port
+	}
+	building
+	{
+		type hinterland_farms farms
+	}
+	building
+	{
+		type hinterland_roads highways
 	}
 }
 
 settlement
 {
-	level town
+	level large_town
 	region Corsica
 
 	year_founded 20
-	population 1008
+	population 2108
 	plan_set default_set
 	faction_creator empire_west
 	building
 	{
-		type core_building governors_house
+		type core_building governors_villa
+	}
+	building
+	{
+		type hinterland_roads roads
 	}
 }
 
 settlement
 {
-	level town
+	level city
 	region Campania
 
 	year_founded 20
-	population 1008
+	population 8700
 	plan_set default_set
 	faction_creator empire_west
 	building
 	{
-		type core_building governors_house
+		type core_building governors_palace
+	}
+	building
+	{
+		type defenses stone_wall
+	}
+	building
+	{
+		type barracks city_barracks
+	}
+	building
+	{
+		type equestrian stables
+	}
+	building
+	{
+		type smith blacksmith
+	}
+	building
+	{
+		type port_buildings shipwright
+	}
+	building
+	{
+		type market market
+	}
+	building
+	{
+		type hinterland_farms farms
+	}
+	building
+	{
+		type hinterland_roads highways
 	}
 }
 
 settlement
 {
-	level town
+	level large_town
 	region Lucania_et_Brutii
 
 	year_founded 20
-	population 1008
+	population 3100
 	plan_set default_set
 	faction_creator empire_west
 	building
 	{
-		type core_building governors_house
+		type core_building governors_villa
+	}
+	building
+	{
+		type defenses wooden_wall
+	}
+	building
+	{
+		type market trader
+	}
+	building
+	{
+		type port_buildings port
+	}
+	building
+	{
+		type health sewers
+	}
+	building
+	{
+		type hinterland_roads paved_roads
+	}
+	building
+	{
+		type temple_of_mithras temple_of_mithras_temple
 	}
 }
 
 settlement
 {
-	level town
+	level large_town
 	region Samnium
 
 	year_founded 20
-	population 1008
+	population 2500
 	plan_set default_set
 	faction_creator empire_west
 	building
 	{
-		type core_building governors_house
+		type core_building governors_villa
+	}
+	building
+	{
+		type defenses wooden_wall
+	}
+	building
+	{
+		type market trader
+	}
+	building
+	{
+		type port_buildings port
+	}
+	building
+	{
+		type health sewers
+	}
+	building
+	{
+		type hinterland_roads paved_roads
+	}
+	building
+	{
+		type temple_of_mithras temple_of_mithras_shrine
 	}
 }
 
 settlement
 {
-	level town
+	level large_town
 	region Picenum
 
 	year_founded 20
-	population 1008
+	population 2800
 	plan_set default_set
 	faction_creator empire_west
 	building
 	{
-		type core_building governors_house
+		type core_building governors_villa
+	}
+	building
+	{
+		type defenses wooden_wall
+	}
+	building
+	{
+		type market trader
+	}
+	building
+	{
+		type port_buildings port
+	}
+	building
+	{
+		type health sewers
+	}
+	building
+	{
+		type hinterland_roads paved_roads
+	}
+	building
+	{
+		type temple_church_christianity church_christianity_shrine
 	}
 }
 
 settlement
 {
-	level town
+	level city
 	region Venetia
 
 	year_founded 20
-	population 1008
+	population 6400
 	plan_set default_set
 	faction_creator empire_west
 	building
 	{
-		type core_building governors_house
+		type core_building governors_palace
+	}
+	building
+	{
+		type defenses stone_wall
+	}
+	building
+	{
+		type port_buildings port
+	}
+	building
+	{
+		type health sewers
+	}
+	building
+	{
+		type hinterland_roads paved_roads
+	}
+	building
+	{
+		type amphitheatres stone_amphitheatre
+	}
+	building
+	{
+		type temple_church_christianity church_christianity_chapel
 	}
 }
 
 settlement
 {
-	level town
+	level large_town
 	region Raetia_Prima
 
 	year_founded 20
-	population 1008
+	population 3400
 	plan_set default_set
 	faction_creator empire_west
 	building
 	{
-		type core_building governors_house
+		type core_building governors_villa
+	}
+	building
+	{
+		type defenses wooden_pallisade
+	}
+	building
+	{
+		type barracks muster_field
+	}
+	building
+	{
+		type hinterland_farms farms
+	}
+	building
+	{
+		type hinterland_roads paved_roads
 	}
 }
 
 settlement
 {
-	level town
+	level large_town
 	region Savia
 
 	year_founded 20
-	population 1008
+	population 4550
 	plan_set default_set
 	faction_creator empire_west
 	building
 	{
-		type core_building governors_house
+		type core_building governors_villa
+	}
+	building
+	{
+		type defenses wooden_wall
+	}
+	building
+	{
+		type barracks muster_field
+	}
+	building
+	{
+		type equestrian stables
+	}
+	building
+	{
+		type hinterland_roads paved_roads
 	}
 }
 
 settlement
 {
-	level town
+	level city
 	region Pannonia_Secunda
 
-	year_founded 20
-	population 1008
+	year_founded 363
+	population 7140
 	plan_set default_set
-	faction_creator empire_west
+	faction_creator empire_east
 	building
 	{
-		type core_building governors_house
+		type core_building governors_palace
+	}
+	building
+	{
+		type defenses stone_wall
+	}
+	building
+	{
+		type barracks muster_field
+	}
+	building
+	{
+		type equestrian stables
+	}
+	building
+	{
+		type hinterland_farms farms+1
+	}
+	building
+	{
+		type market market
+	}
+	building
+	{
+		type health baths
+	}
+	building
+	{
+		type hinterland_roads paved_roads
+	}
+	building
+	{
+		type temple_church_christianity church_christianity_church
 	}
 }
 
 settlement
 {
-	level town
+	level large_town
 	region Praevalitana
 
-	year_founded 20
-	population 1008
+	year_founded 363
+	population 2200
 	plan_set default_set
-	faction_creator empire_west
+	faction_creator empire_east
 	building
 	{
-		type core_building governors_house
+		type core_building governors_villa
+	}
+	building
+	{
+		type defenses wooden_wall
+	}
+	building
+	{
+		type health sewers
+	}
+	building
+	{
+		type hinterland_roads paved_roads
+	}
+	building
+	{
+		type port_buildings port
+	}
+	building
+	{
+		type temple_of_leadership temple_of_leadership_shrine
 	}
 }
 
 settlement
 {
-	level town
+	level city
 	region Dacia_Ripensis
 
 	year_founded 20
-	population 1008
+	population 6418
 	plan_set default_set
-	faction_creator empire_west
+	faction_creator empire_east
 	building
 	{
-		type core_building governors_house
+		type core_building governors_palace
+	}
+	building
+	{
+		type defenses stone_wall
+	}
+	building
+	{
+		type market market
+	}
+	building
+	{
+		type barracks militia_barracks
+	}
+	building
+	{
+		type health sewers
+	}
+	building
+	{
+		type hinterland_farms farms
+	}
+	building
+	{
+		type hinterland_roads paved_roads
+	}
+	building
+	{
+		type temple_of_leadership temple_of_leadership_temple
 	}
 }
 
 settlement
 {
-	level town
+	level large_town
 	region Dardania
 
 	year_founded 20
-	population 1008
+	population 2308
 	plan_set default_set
-	faction_creator empire_west
+	faction_creator empire_east
 	building
 	{
-		type core_building governors_house
+		type core_building governors_villa
+	}
+	building
+	{
+		type defenses wooden_wall
+	}
+	building
+	{
+		type health sewers
+	}
+	building
+	{
+		type hinterland_roads paved_roads
+	}
+	building
+	{
+		type temple_church_christianity church_christianity_shrine
 	}
 }
 
 settlement
 {
-	level town
+	level city
 	region Epirus_Nova
 
 	year_founded 20
-	population 1008
+	population 7362
 	plan_set default_set
-	faction_creator empire_west
+	faction_creator empire_east
 	building
 	{
-		type core_building governors_house
+		type core_building governors_palace
+	}
+	building
+	{
+		type defenses stone_wall
+	}
+	building
+	{
+		type barracks militia_barracks
+	}
+	building
+	{
+		type missiles practice_field
+	}
+	building
+	{
+		type academic academy
+	}
+	building
+	{
+		type port_buildings port
+	}
+	building
+	{
+		type hinterland_farms farms
+	}
+	building
+	{
+		type hinterland_roads highways
 	}
 }
 
 settlement
 {
-	level town
+	level large_town
 	region Epirus_Vetus
 
 	year_founded 20
-	population 1008
+	population 3181
 	plan_set default_set
-	faction_creator empire_west
+	faction_creator empire_east
 	building
 	{
-		type core_building governors_house
+		type core_building governors_villa
+	}
+	building
+	{
+		type defenses wooden_wall
+	}
+	building
+	{
+		type port_buildings port
+	}
+	building
+	{
+		type health sewers
+	}
+	building
+	{
+		type hinterland_roads paved_roads
+	}
+	building
+	{
+		type temple_church_christianity church_christianity_shrine
 	}
 }
 
 settlement
 {
-	level town
+	level large_town
 	region Thessalia
 
 	year_founded 20
-	population 1008
+	population 4200
 	plan_set default_set
-	faction_creator empire_west
+	faction_creator empire_east
 	building
 	{
-		type core_building governors_house
+		type core_building governors_villa
+	}
+	building
+	{
+		type defenses wooden_wall
+	}
+	building
+	{
+		type port_buildings port
+	}
+	building
+	{
+		type health sewers
+	}
+	building
+	{
+		type hinterland_roads paved_roads
+	}
+	building
+	{
+		type temple_church_christianity church_christianity_shrine
 	}
 }
 
 settlement
 {
-	level town
+	level city
 	region Byzacena
 
 	year_founded 20
-	population 1008
+	population 6300
 	plan_set default_set
 	faction_creator empire_west
 	building
 	{
-		type core_building governors_house
+		type core_building governors_palace
+	}
+	building
+	{
+		type defenses wooden_wall
+	}
+	building
+	{
+		type port_buildings port
+	}
+	building
+	{
+		type health sewers
+	}
+	building
+	{
+		type hinterland_farms farms+1
+	}
+	building
+	{
+		type hinterland_roads paved_roads
+	}
+	building
+	{
+		type amphitheatres stone_amphitheatre
+	}
+	building
+	{
+		type temple_church_christianity church_christianity_church
 	}
 }
 
 settlement
 {
-	level town
+	level large_town
 	region Numidia
 
 	year_founded 20
-	population 1008
+	population 2981
 	plan_set default_set
 	faction_creator empire_west
 	building
 	{
-		type core_building governors_house
+		type core_building governors_villa
+	}
+	building
+	{
+		type defenses wooden_wall
+	}
+	building
+	{
+		type market trader
+	}
+	building
+	{
+		type port_buildings port
+	}
+	building
+	{
+		type health sewers
+	}
+	building
+	{
+		type hinterland_roads roads
+	}
+	building
+	{
+		type temple_church_christianity church_christianity_chapel
 	}
 }
 
 settlement
 {
-	level town
+	level large_town
 	region Mauretania_Sitifensis
 
 	year_founded 20
-	population 1008
+	population 2100
 	plan_set default_set
 	faction_creator empire_west
 	building
 	{
-		type core_building governors_house
+		type core_building governors_villa
+	}
+	building
+	{
+		type defenses wooden_wall
+	}
+	building
+	{
+		type market trader
+	}
+	building
+	{
+		type port_buildings port
+	}
+	building
+	{
+		type hinterland_roads roads
+	}
+	building
+	{
+		type temple_church_christianity church_christianity_chapel
 	}
 }
 
 settlement
 {
-	level town
+	level large_town
 	region Caesariensis
 
 	year_founded 20
-	population 1008
+	population 3000
 	plan_set default_set
 	faction_creator empire_west
 	building
 	{
-		type core_building governors_house
+		type core_building governors_villa
+	}
+	building
+	{
+		type defenses wooden_wall
+	}
+	building
+	{
+		type market trader
+	}
+	building
+	{
+		type port_buildings port
+	}
+	building
+	{
+		type health sewers
+	}
+	building
+	{
+		type hinterland_roads roads
+	}
+	building
+	{
+		type temple_church_christianity church_christianity_chapel
 	}
 }
 
@@ -7370,27 +9135,55 @@ settlement
 	region Caesariensis_Occidental
 
 	year_founded 20
-	population 1008
+	population 1253
 	plan_set default_set
 	faction_creator empire_west
 	building
 	{
 		type core_building governors_house
 	}
+	building
+	{
+		type defenses wooden_pallisade
+	}
+	building
+	{
+		type market trader
+	}
+	building
+	{
+		type hinterland_roads roads
+	}
 }
 
 settlement
 {
-	level town
+	level large_town
 	region Tingitana
 
 	year_founded 20
-	population 1008
+	population 3650
 	plan_set default_set
 	faction_creator empire_west
 	building
 	{
-		type core_building governors_house
+		type core_building governors_villa
+	}
+	building
+	{
+		type defenses wooden_pallisade
+	}
+	building
+	{
+		type barracks muster_field
+	}
+	building
+	{
+		type port_buildings port
+	}
+	building
+	{
+		type hinterland_roads roads
 	}
 }
 
@@ -7758,6 +9551,7 @@ denari	0
 
 faction	slave, balanced_smith
 denari	10000
+;;; TERRA INCOGNITA
 settlement
 {
 	level village
@@ -7769,33 +9563,23 @@ settlement
 	faction_creator berbers
 }
 
-settlement
-{
-	level village
-	region Locus_Barbaricum
-
-	year_founded 363
-	population 400
-	plan_set default_set
-	faction_creator vandals
-}
-
+;;; BOSPHORAN KINGDOM
 settlement
 {
 	level city
-	region Armenia
+	region Cimmerian_Bosphorus
 
-	year_founded 20
-	population 8197
+	year_founded 0
+	population 6875
 	plan_set default_set
-	faction_creator sassanids
+	faction_creator empire_east
 	building
 	{
 		type core_building governors_palace
 	}
 	building
 	{
-		type defenses wooden_wall
+		type defenses stone_wall
 	}
 	building
 	{
@@ -7807,7 +9591,74 @@ settlement
 	}
 	building
 	{
-		type missiles archery_range
+		type market market
+	}
+	building
+	{
+		type hinterland_farms farms
+	}
+	building
+	{
+		type hinterland_roads roads
+	}
+}
+
+settlement
+{
+	level large_town
+	region Sindica
+
+	year_founded 0
+	population 3000
+	plan_set default_set
+	faction_creator empire_east
+	building
+	{
+		type core_building governors_villa
+	}
+	building
+	{
+		type defenses wooden_pallisade
+	}
+	building
+	{
+		type barracks muster_field
+	}
+	building
+	{
+		type hinterland_roads roads
+	}
+}
+
+;;; KINGDOM OF ARMENIA
+settlement
+{
+	level city
+	region Armenia
+
+	year_founded 20
+	population 8197
+	plan_set default_set
+	faction_creator sassanids ;;;armenia
+	building
+	{
+		type core_building governors_palace
+	}
+	building
+	{
+		type defenses stone_wall
+	}
+	building
+	{
+		type barracks militia_barracks
+	}
+	building
+	{
+		type equestrian stables
+	}
+	building
+	{
+		type missiles practice_field
 	}
 	building
 	{
@@ -7823,16 +9674,81 @@ settlement
 	}
 	building
 	{
-		type despotic_law execution_square
-	}
-	building
-	{
 		type hinterland_roads paved_roads
 	}
 	building
 	{
 		type temple_church_christianity church_christianity_church
 	}
+}
+
+settlement
+{
+	level large_town
+	region Vaspakuran
+
+	year_founded 0
+	population 2800
+	plan_set default_set
+	faction_creator sassanids ;;;armenia
+	building
+	{
+		type core_building governors_villa
+	}
+	building
+	{
+		type defenses wooden_wall
+	}
+	building
+	{
+		type barracks muster_field
+	}
+	building
+	{
+		type hinterland_farms farms
+	}
+	building
+	{
+		type hinterland_roads paved_roads
+	}
+}
+
+settlement
+{
+	level large_town
+	region Karin
+
+	year_founded 0
+	population 2500
+	plan_set default_set
+	faction_creator sassanids ;;;armenia
+	building
+	{
+		type core_building governors_villa
+	}
+	building
+	{
+		type defenses wooden_pallisade
+	}
+	building
+	{
+		type hinterland_farms farms
+	}
+	building
+	{
+		type hinterland_roads paved_roads
+	}
+}
+
+settlement
+{
+	level village
+	region Locus_Barbaricum
+
+	year_founded 363
+	population 400
+	plan_set default_set
+	faction_creator slavs
 }
 
 settlement
@@ -7954,7 +9870,7 @@ settlement
 settlement
 {
 	level village
-	region Tribus_Sakae
+	region Tribus_Onoguri
 
 	year_founded 20
 	population 400

@@ -10,9 +10,9 @@ Voruta
 Tribus_Alanni
 Scythica
 Campus_Alanni
-Tribus_Sakae
+Tribus_Iastae
 Barbaricorum
-Campus_Sakae
+Campus_Iastae
 Hibernia
 Hibernica
 Tara
@@ -715,9 +715,9 @@ Sedes_Magyarum
 Tribus_Sabiri
 Scythica
 Sedes_Sabiri
-Tribus_Iastae
+Tribus_Onoguri
 Scythica
-Sedes_Iastae
+Sedes_Onoguri
 Yueban
 Scythica
 Chuban

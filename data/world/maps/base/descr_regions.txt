@@ -43,9 +43,9 @@ Tribus_Alanni
 	5
 	4
 	pagan 100
-Tribus_Sakae
+Tribus_Iastae
 	legion: Barbaricorum
-	Campus_Sakae
+	Campus_Iastae
 	huns
 	Saka
 	58 177 75
@@ -1706,7 +1706,7 @@ Cimmerian_Bosphorus
 Sindica
 	legion: Scythica
 	Phanagoria
-	roxolani
+	empire_east
 	Alans
 	242 235 54
 	bosphoran
@@ -2403,10 +2403,10 @@ Tribus_Sabiri
 	5
 	1
 	pagan 100
-Tribus_Iastae
+Tribus_Onoguri
 	legion: Scythica
-	Sedes_Iastae
-	roxolani
+	Sedes_Onoguri
+	huns
 	Saka
 	239 240 100
 	none
