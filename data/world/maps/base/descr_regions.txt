@@ -2505,7 +2505,7 @@ Bukhara
 	zoroastrian 60 pagan 40
 Chaghaniyan
 	legion: Parthica
-	Akhrun
+	Shuman
 	sassanids
 	Sughdians
 	156 92 48

@@ -9560,7 +9560,7 @@ settlement
 	year_founded 363
 	population 400
 	plan_set default_set
-	faction_creator berbers
+	faction_creator slave
 }
 
 ;;; BOSPHORAN KINGDOM
@@ -9740,17 +9740,842 @@ settlement
 	}
 }
 
+;;; LAKHMID KINGDOM
 settlement
 {
-	level village
-	region Locus_Barbaricum
+	level city
+	region al-Manadhirah
 
-	year_founded 363
-	population 400
+	year_founded 0
+	population 6750
 	plan_set default_set
-	faction_creator slavs
+	faction_creator berbers ;;;lakhmids
+	building
+	{
+		type core_building governors_palace
+	}
+	building
+	{
+		type defenses stone_wall
+	}
+	building
+	{
+		type barracks city_barracks
+	}
+	building
+	{
+		type missiles practice_field
+	}
+	building
+	{
+		type market trader
+	}
+	building
+	{
+		type hinterland_farms farms
+	}
+	building
+	{
+		type hinterland_roads paved_roads
+	}
 }
 
+settlement
+{
+	level large_town
+	region Bahrain
+
+	year_founded 0
+	population 4300
+	plan_set default_set
+	faction_creator berbers ;;;lakhmids
+	building
+	{
+		type core_building governors_villa
+	}
+	building
+	{
+		type defenses wooden_pallisade
+	}
+	building
+	{
+		type barracks muster_field
+	}
+	building
+	{
+		type market trader
+	}
+	building
+	{
+		type hinterland_roads roads
+	}
+}
+
+;;; HYMIARITE KINGDOM
+settlement
+{
+	level city
+	region Himyar
+
+	year_founded 0
+	population 6421
+	plan_set default_set
+	faction_creator berbers ;;;himyar
+	building
+	{
+		type core_building governors_palace
+	}
+	building
+	{
+		type defenses stone_wall
+	}
+	building
+	{
+		type barracks militia_barracks
+	}
+	building
+	{
+		type missiles practice_field
+	}
+	building
+	{
+		type market market
+	}
+	building
+	{
+		type port_buildings port
+	}
+	building
+	{
+		type hinterland_farms farms
+	}
+	building
+	{
+		type hinterland_roads roads
+	}
+	building
+	{
+		type hinterland_mines mines
+	}
+}
+
+settlement
+{
+	level large_town
+	region Saba
+
+	year_founded 0
+	population 3300
+	plan_set default_set
+	faction_creator berbers ;;;himyar
+	building
+	{
+		type core_building governors_villa
+	}
+	building
+	{
+		type defenses wooden_wall
+	}
+	building
+	{
+		type equestrian stables
+	}
+	building
+	{
+		type market trader
+	}
+	building
+	{
+		type port_buildings port
+	}
+	building
+	{
+		type hinterland_farms farms
+	}
+	building
+	{
+		type hinterland_roads roads
+	}
+}
+
+settlement
+{
+	level large_town
+	region Hadramaut
+
+	year_founded 0
+	population 2100
+	plan_set default_set
+	faction_creator berbers ;;;himyar
+	building
+	{
+		type core_building governors_villa
+	}
+	building
+	{
+		type barracks muster_field
+	}
+	building
+	{
+		type hinterland_roads roads
+	}
+	building
+	{
+		type hinterland_farms farms
+	}
+}
+
+;;; KINGDOM OF AKSUM
+settlement
+{
+	level city
+	region Ethiopia
+
+	year_founded 0
+	population 6200
+	plan_set default_set
+	faction_creator berbers ;;;axumites
+	building
+	{
+		type core_building governors_palace
+	}
+	building
+	{
+		type defenses stone_wall
+	}
+	building
+	{
+		type barracks militia_barracks
+	}
+	building
+	{
+		type missiles archery_range
+	}
+	building
+	{
+		type market market
+	}
+	building
+	{
+		type hinterland_farms farms+1
+	}
+	building
+	{
+		type hinterland_roads roads
+	}
+	building
+	{
+		type hinterland_mines mines
+	}
+}
+
+settlement
+{
+	level large_town
+	region Erythraea
+
+	year_founded 0
+	population 4200
+	plan_set default_set
+	faction_creator berbers ;;;axumites
+	building
+	{
+		type core_building governors_villa
+	}
+	building
+	{
+		type defenses stone_wall
+	}
+	building
+	{
+		type barracks muster_field
+	}
+	building
+	{
+		type missiles practice_field
+	}
+	building
+	{
+		type market trader
+	}
+	building
+	{
+		type hinterland_roads roads
+	}
+	building
+	{
+		type hinterland_farms farms
+	}
+	building
+	{
+		type hinterland_mines mines
+	}
+}
+
+settlement
+{
+	level large_town
+	region Adulitania
+
+	year_founded 0
+	population 4000
+	plan_set default_set
+	faction_creator berbers ;;;axumites
+	building
+	{
+		type core_building governors_villa
+	}
+	building
+	{
+		type defenses wooden_wall
+	}
+	building
+	{
+		type missiles practice_field
+	}
+	building
+	{
+		type market market
+	}
+	building
+	{
+		type hinterland_roads roads
+	}
+	building
+	{
+		type port_buildings port
+	}
+}
+
+;;; MEROITE KINGDOM
+settlement
+{
+	level large_town
+	region Kush
+
+	year_founded 0
+	population 4150
+	plan_set default_set
+	faction_creator berbers ;;;meroe
+	building
+	{
+		type core_building governors_villa
+	}
+	building
+	{
+		type defenses stone_wall
+	}
+	building
+	{
+		type barracks militia_barracks
+	}
+	building
+	{
+		type missiles practice_field
+	}
+	building
+	{
+		type market trader
+	}
+	building
+	{
+		type equestrian stables
+	}
+	building
+	{
+		type hinterland_roads roads
+	}
+	building
+	{
+		type hinterland_farms farms
+	}
+}
+
+settlement
+{
+	level large_town
+	region Nubia
+
+	year_founded 0
+	population 3400
+	plan_set default_set
+	faction_creator berbers ;;;meroe
+	building
+	{
+		type core_building governors_villa
+	}
+	building
+	{
+		type defenses wooden_pallisade
+	}
+	building
+	{
+		type barracks muster_field
+	}
+	building
+	{
+		type market trader
+	}
+	building
+	{
+		type hinterland_roads roads
+	}
+	building
+	{
+		type hinterland_farms farms
+	}
+}
+
+;;; SALIHID KINGDOM
+settlement
+{
+	level large_town
+	region Arabia_Inferior
+
+	year_founded 363
+	population 2400
+	plan_set default_set
+	faction_creator berbers
+	building
+	{
+		type core_building governors_villa
+	}
+	building
+	{
+		type defenses wooden_pallisade
+	}
+	building
+	{
+		type barracks muster_field
+	}
+	building
+	{
+		type market trader
+	}
+}
+
+;;; GARAMANTES
+settlement
+{
+	level city
+	region Garamantia
+
+	year_founded 0
+	population 6412
+	plan_set default_set
+	faction_creator berbers
+	building
+	{
+		type core_building governors_palace
+	}
+	building
+	{
+		type defenses stone_wall
+	}
+	building
+	{
+		type barracks muster_field
+	}
+	building
+	{
+		type missiles practice_field
+	}
+	building
+	{
+		type market trader
+	}
+	building
+	{
+		type health sewers
+	}
+	building
+	{
+		type hinterland_roads roads
+	}
+	building
+	{
+		type hinterland_farms farms
+	}
+}
+
+settlement
+{
+	level large_town
+	region Phasania
+
+	year_founded 0
+	population 2275
+	plan_set default_set
+	faction_creator berbers
+	building
+	{
+		type core_building governors_villa
+	}
+	building
+	{
+		type defenses wooden_wall
+	}
+	building
+	{
+		type health sewers
+	}
+	building
+	{
+		type hinterland_roads roads
+	}
+	building
+	{
+		type hinterland_farms farms
+	}
+}
+
+;;; KIDARITES/KUSHANSHAHS
+settlement
+{
+	level city
+	region Bactria
+
+	year_founded 0
+	population 7411
+	plan_set default_set
+	faction_creator sassanids
+	building
+	{
+		type core_building governors_palace
+	}
+	building
+	{
+		type defenses stone_wall
+	}
+	building
+	{
+		type barracks city_barracks
+	}
+	building
+	{
+		type equestrian stables
+	}
+	building
+	{
+		type missiles practice_field
+	}
+	building
+	{
+		type market market
+	}
+	building
+	{
+		type academic academy
+	}
+	building
+	{
+		type health sewers
+	}
+	building
+	{
+		type hinterland_farms farms+1
+	}
+	building
+	{
+		type hinterland_roads paved_roads
+	}
+}
+
+settlement
+{
+	level city
+	region Gandhara
+
+	year_founded 0
+	population 7950
+	plan_set default_set
+	faction_creator sassanids
+	building
+	{
+		type core_building governors_palace
+	}
+	building
+	{
+		type defenses stone_wall
+	}
+	building
+	{
+		type barracks muster_field
+	}
+	building
+	{
+		type missiles practice_field
+	}
+	building
+	{
+		type market market
+	}
+	building
+	{
+		type health baths
+	}
+	building
+	{
+		type hinterland_farms farms+1
+	}
+	building
+	{
+		type hinterland_roads paved_roads
+	}
+}
+
+settlement
+{
+	level large_town
+	region Parshistan
+
+	year_founded 0
+	population 4600
+	plan_set default_set
+	faction_creator sassanids
+	building
+	{
+		type core_building governors_villa
+	}
+	building
+	{
+		type defenses wooden_wall
+	}
+	building
+	{
+		type barracks militia_barracks
+	}
+	building
+	{
+		type missiles practice_field
+	}
+	building
+	{
+		type market market
+	}
+	building
+	{
+		type hinterland_farms farms
+	}
+	building
+	{
+		type hinterland_roads paved_roads
+	}
+}
+
+settlement
+{
+	level large_town
+	region Chaghaniyan
+
+	year_founded 0
+	population 2780
+	plan_set default_set
+	faction_creator sassanids
+	building
+	{
+		type core_building governors_villa
+	}
+	building
+	{
+		type defenses wooden_pallisade
+	}
+	building
+	{
+		type barracks muster_field
+	}
+	building
+	{
+		type hinterland_farms farms
+	}
+	building
+	{
+		type hinterland_roads roads
+	}
+}
+
+settlement
+{
+	level town
+	region Khuttal
+
+	year_founded 0
+	population 1110
+	plan_set default_set
+	faction_creator sassanids
+	building
+	{
+		type core_building governors_house
+	}
+	building
+	{
+		type defenses wooden_pallisade
+	}
+	building
+	{
+		type barracks muster_field
+	}
+	building
+	{
+		type hinterland_roads roads
+	}
+}
+
+;;; CHIONITES
+settlement
+{
+	level city
+	region Sughdia
+
+	year_founded 0
+	population 6107
+	plan_set default_set
+	faction_creator sassanids
+	building
+	{
+		type core_building governors_palace
+	}
+	building
+	{
+		type defenses stone_wall
+	}
+	building
+	{
+		type barracks militia_barracks
+	}
+	building
+	{
+		type equestrian cavalry_barracks
+	}
+	building
+	{
+		type missiles archery_range
+	}
+	building
+	{
+		type market market
+	}
+	building
+	{
+		type hinterland_farms farms+1
+	}
+	building
+	{
+		type hinterland_roads paved_roads
+	}
+}
+
+settlement
+{
+	level large_town
+	region Bukhara
+
+	year_founded 0
+	population 4950
+	plan_set default_set
+	faction_creator sassanids
+	building
+	{
+		type core_building governors_villa
+	}
+	building
+	{
+		type defenses stone_wall
+	}
+	building
+	{
+		type barracks muster_field
+	}
+	building
+	{
+		type missiles practice_field
+	}
+	building
+	{
+		type market market
+	}
+	building
+	{
+		type hinterland_farms farms
+	}
+	building
+	{
+		type hinterland_roads paved_roads
+	}
+}
+
+settlement
+{
+	level large_town
+	region Farghana
+
+	year_founded 0
+	population 3843
+	settlement_tax 51
+	plan_set default_set
+	faction_creator sassanids
+	building
+	{
+		type core_building governors_villa
+	}
+	building
+	{
+		type defenses wooden_wall
+	}
+	building
+	{
+		type equestrian stables
+	}
+	building
+	{
+		type hinterland_farms farms
+	}
+	building
+	{
+		type market trader
+	}
+	building
+	{
+		type caravans silk_rd
+	}
+	building
+	{
+		type hinterland_roads roads
+	}
+}
+
+settlement
+{
+	level large_town
+	region Usrushana
+
+	year_founded 0
+	population 2113
+	plan_set default_set
+	faction_creator sassanids
+	building
+	{
+		type core_building governors_villa
+	}
+	building
+	{
+		type defenses wooden_pallisade
+	}
+	building
+	{
+		type barracks muster_field
+	}
+	building
+	{
+		type hinterland_farms farms
+	}
+	building
+	{
+		type hinterland_roads roads
+	}
+}
+
+;;;BRITISH ISLES
 settlement
 {
 	level large_town
@@ -9780,21 +10605,251 @@ settlement
 	{
 		type hinterland_roads roads
 	}
+}
+
+settlement
+{
+	level large_town
+	region Connachta
+
+	year_founded 20
+	population 4816
+	plan_set default_set
+	faction_creator celts
 	building
 	{
-		type temple_of_battleforge temple_of_battleforge_shrine
+		type core_building governors_villa
+	}
+	building
+	{
+		type defenses wooden_pallisade
+	}
+	building
+	{
+		type barracks muster_field
+	}
+	building
+	{
+		type port_buildings port
+	}
+	building
+	{
+		type hinterland_roads roads
 	}
 }
 
 settlement
 {
 	level large_town
-	region Hermunduria
+	region Ulaidh
+
+	year_founded 20
+	population 2180
+	plan_set default_set
+	faction_creator celts
+	building
+	{
+		type core_building governors_villa
+	}
+	building
+	{
+		type market trader
+	}
+	building
+	{
+		type hinterland_roads roads
+	}
+}
+
+settlement
+{
+	level large_town
+	region Mumhain
+
+	year_founded 20
+	population 3729
+	plan_set default_set
+	faction_creator celts
+	building
+	{
+		type core_building governors_villa
+	}
+	building
+	{
+		type defenses wooden_pallisade
+	}
+	building
+	{
+		type barracks militia_barracks
+	}
+	building
+	{
+		type market trader
+	}
+	building
+	{
+		type port_buildings port
+	}
+	building
+	{
+		type hinterland_roads roads
+	}
+}
+
+settlement
+{
+	level large_town
+	region Fortriu
+
+	year_founded 20
+	population 3500
+	plan_set default_set
+	faction_creator celts
+	building
+	{
+		type core_building governors_villa
+	}
+	building
+	{
+		type defenses wooden_pallisade
+	}
+	building
+	{
+		type barracks muster_field
+	}
+	building
+	{
+		type equestrian stables
+	}
+	building
+	{
+		type missiles practice_field
+	}
+	building
+	{
+		type market trader
+	}
+	building
+	{
+		type port_buildings port
+	}
+	building
+	{
+		type hinterland_roads roads
+	}
+}
+
+settlement
+{
+	level large_town
+	region Guotodin
+
+	year_founded 20
+	population 2100
+	plan_set default_set
+	faction_creator celts
+	building
+	{
+		type core_building governors_villa
+	}
+	building
+	{
+		type defenses wooden_pallisade
+	}
+	building
+	{
+		type barracks muster_field
+	}
+	building
+	{
+		type market trader
+	}
+	building
+	{
+		type hinterland_roads roads
+	}
+}
+
+;;;SCANDINAVIA
+settlement
+{
+	level city
+	region Sueonia
+
+	year_founded 20
+	population 8563
+	plan_set default_set
+	faction_creator saxons ;;;suehans
+	building
+	{
+		type core_building governors_palace
+	}
+	building
+	{
+		type defenses wooden_wall
+	}
+	building
+	{
+		type barracks militia_barracks
+	}
+	building
+	{
+		type equestrian stables
+	}
+	building
+	{
+		type missiles practice_field
+	}
+	building
+	{
+		type market market
+	}
+	building
+	{
+		type port_buildings port
+	}
+	building
+	{
+		type hinterland_roads roads
+	}
+}
+
+settlement
+{
+	level large_town
+	region Gautia
+
+	year_founded 363
+	population 3511
+	plan_set default_set
+	faction_creator saxons ;;;gauts
+	building
+	{
+		type core_building governors_villa
+	}
+	building
+	{
+		type defenses wooden_wall
+	}
+	building
+	{
+		type market trader
+	}
+	building
+	{
+		type barracks muster_field
+	}
+}
+
+settlement
+{
+	level large_town
+	region Ostrogothia
 
 	year_founded 363
 	population 2547
 	plan_set default_set
-	faction_creator franks
+	faction_creator saxons ;;;gauts
 	building
 	{
 		type core_building governors_villa
@@ -9806,6 +10861,83 @@ settlement
 	building
 	{
 		type market trader
+	}
+	building
+	{
+		type barracks muster_field
+	}
+	building
+	{
+		type hinterland_farms farms
+	}
+}
+
+settlement
+{
+	level town
+	region Theustia
+
+	year_founded 363
+	population 1713
+	plan_set default_set
+	faction_creator saxons ;;;gauts
+	building
+	{
+		type core_building governors_house
+	}
+	building
+	{
+		type barracks muster_field
+	}
+}
+
+settlement
+{
+	level town
+	region Dania
+
+	year_founded 363
+	population 1204
+	plan_set default_set
+	faction_creator saxons ;;;gauts
+	building
+	{
+		type core_building governors_house
+	}
+	building
+	{
+		type hinterland_farms farms
+	}
+}
+
+settlement
+{
+	level village
+	region Valagothia
+
+	year_founded 363
+	population 400
+	plan_set default_set
+	faction_creator saxons ;;;gauts
+}
+
+;;;WESTERN GERMANIA
+settlement
+{
+	level large_town
+	region Anglia
+
+	year_founded 363
+	population 3297
+	plan_set default_set
+	faction_creator saxons
+	building
+	{
+		type core_building governors_villa
+	}
+	building
+	{
+		type defenses wooden_pallisade
 	}
 	building
 	{
@@ -9815,28 +10947,24 @@ settlement
 
 settlement
 {
-	level large_town
-	region Colchis
+	level town
+	region Cimbria
 
 	year_founded 363
-	population 3583
+	population 1750
 	plan_set default_set
-	faction_creator empire_east
+	faction_creator saxons
 	building
 	{
-		type core_building governors_villa
+		type core_building governors_house
 	}
 	building
 	{
-		type defenses wooden_pallisade
+		type barracks muster_field
 	}
 	building
 	{
 		type market trader
-	}
-	building
-	{
-		type hinterland_roads roads
 	}
 }
 
@@ -9859,6 +10987,10 @@ settlement
 	}
 	building
 	{
+		type barracks muster_field
+	}
+	building
+	{
 		type market trader
 	}
 	building
@@ -9869,15 +11001,86 @@ settlement
 
 settlement
 {
-	level village
-	region Tribus_Onoguri
+	level town
+	region Ripuaria
 
-	year_founded 20
-	population 400
+	year_founded 363
+	population 1769
 	plan_set default_set
-	faction_creator huns
+	faction_creator franks
+	building
+	{
+		type core_building governors_house
+	}
+	building
+	{
+		type defenses wooden_pallisade
+	}
+	building
+	{
+		type barracks muster_field
+	}
+	building
+	{
+		type hinterland_roads roads
+	}
 }
 
+settlement
+{
+	level town
+	region Hermunduria
+
+	year_founded 363
+	population 1547
+	plan_set default_set
+	faction_creator alemanni
+	building
+	{
+		type core_building governors_house
+	}
+	building
+	{
+		type defenses wooden_pallisade
+	}
+	building
+	{
+		type market trader
+	}
+	building
+	{
+		type hinterland_roads roads
+	}
+}
+
+settlement
+{
+	level town
+	region Hercynia
+
+	year_founded 363
+	population 1547
+	plan_set default_set
+	faction_creator alemanni
+	building
+	{
+		type core_building governors_house
+	}
+	building
+	{
+		type defenses wooden_pallisade
+	}
+	building
+	{
+		type barracks muster_field
+	}
+	building
+	{
+		type hinterland_roads roads
+	}
+}
+
+;;;EASTERN GERMANIA
 settlement
 {
 	level large_town
@@ -9890,6 +11093,14 @@ settlement
 	building
 	{
 		type core_building governors_villa
+	}
+	building
+	{
+		type defenses wooden_pallisade
+	}
+	building
+	{
+		type barracks muster_field
 	}
 	building
 	{
@@ -9916,6 +11127,191 @@ settlement
 	}
 	building
 	{
+		type defenses wooden_pallisade
+	}
+	building
+	{
+		type barracks muster_field
+	}
+	building
+	{
+		type market trader
+	}
+	building
+	{
+		type hinterland_roads roads
+	}
+}
+
+settlement
+{
+	level town
+	region Tribus_Varini
+
+	year_founded 363
+	population 1234
+	plan_set default_set
+	faction_creator lombardi
+	building
+	{
+		type core_building governors_house
+	}
+	building
+	{
+		type barracks muster_field
+	}
+}
+
+settlement
+{
+	level large_town
+	region Tribus_Rugii
+
+	year_founded 363
+	population 2234
+	plan_set default_set
+	faction_creator lombardi
+	building
+	{
+		type core_building governors_villa
+	}
+	building
+	{
+		type defenses wooden_pallisade
+	}
+	building
+	{
+		type barracks muster_field
+	}
+	building
+	{
+		type market trader
+	}
+}
+
+settlement
+{
+	level town
+	region Tribus_Vidivarii
+
+	year_founded 363
+	population 1234
+	plan_set default_set
+	faction_creator lombardi
+	building
+	{
+		type core_building governors_house
+	}
+	building
+	{
+		type market trader
+	}
+}
+
+settlement
+{
+	level town
+	region Vistula
+
+	year_founded 363
+	population 1234
+	plan_set default_set
+	faction_creator vandals
+	building
+	{
+		type core_building governors_house
+	}
+	building
+	{
+		type barracks muster_field
+	}
+}
+
+settlement
+{
+	level town
+	region Lugia
+
+	year_founded 363
+	population 1432
+	plan_set default_set
+	faction_creator vandals
+	building
+	{
+		type core_building governors_house
+	}
+	building
+	{
+		type defenses wooden_pallisade
+	}
+	building
+	{
+		type barracks muster_field
+	}
+	building
+	{
+		type market trader
+	}
+}
+
+;;;EASTERN EUROPE
+settlement
+{
+	level village
+	region Tribus_Sitoni
+
+	year_founded 363
+	population 400
+	plan_set default_set
+	faction_creator slavs
+}
+
+settlement
+{
+	level town
+	region Locus_Barbaricum
+
+	year_founded 363
+	population 1400
+	plan_set default_set
+	faction_creator slavs
+	building
+	{
+		type core_building governors_house
+	}
+	building
+	{
+		type barracks muster_field
+	}
+}
+
+settlement
+{
+	level large_town
+	region Locus_Aestii
+
+	year_founded 363
+	population 2342
+	plan_set default_set
+	faction_creator slavs
+	building
+	{
+		type core_building governors_villa
+	}
+	building
+	{
+		type defenses wooden_pallisade
+	}
+	building
+	{
+		type barracks muster_field
+	}
+	building
+	{
+		type missiles practice_field
+	}
+	building
+	{
 		type market trader
 	}
 	building
@@ -9927,7 +11323,947 @@ settlement
 settlement
 {
 	level village
-	region Arabia_Inferior
+	region Venedae
+
+	year_founded 363
+	population 400
+	plan_set default_set
+	faction_creator slavs
+}
+
+settlement
+{
+	level town
+	region Neuria
+
+	year_founded 363
+	population 1400
+	plan_set default_set
+	faction_creator slavs
+	building
+	{
+		type core_building governors_house
+	}
+	building
+	{
+		type market trader
+	}
+}
+
+settlement
+{
+	level town
+	region Amadocia
+
+	year_founded 363
+	population 1400
+	plan_set default_set
+	faction_creator slavs
+	building
+	{
+		type core_building governors_house
+	}
+	building
+	{
+		type defenses wooden_pallisade
+	}
+	building
+	{
+		type barracks muster_field
+	}
+	building
+	{
+		type market trader
+	}
+}
+
+settlement
+{
+	level town
+	region Tribus_Sclaveniae
+
+	year_founded 363
+	population 1400
+	plan_set default_set
+	faction_creator slavs
+	building
+	{
+		type core_building governors_house
+	}
+	building
+	{
+		type market trader
+	}
+}
+
+settlement
+{
+	level village
+	region Tribus_Galindae
+
+	year_founded 363
+	population 400
+	plan_set default_set
+	faction_creator slavs
+}
+
+;;;BALKANS
+settlement
+{
+	level town
+	region Dacia_Porolissensis
+
+	year_founded 363
+	population 1400
+	plan_set default_set
+	faction_creator goths
+	building
+	{
+		type core_building governors_house
+	}
+	building
+	{
+		type defenses wooden_pallisade
+	}
+	building
+	{
+		type barracks muster_field
+	}
+	building
+	{
+		type market trader
+	}
+	building
+	{
+		type hinterland_roads roads
+	}
+}
+
+settlement
+{
+	level town
+	region Tibiscus
+
+	year_founded 363
+	population 1400
+	plan_set default_set
+	faction_creator goths
+	building
+	{
+		type core_building governors_house
+	}
+	building
+	{
+		type defenses wooden_pallisade
+	}
+	building
+	{
+		type market trader
+	}
+	building
+	{
+		type hinterland_roads roads
+	}
+}
+
+;;;WESTERN STEPPES
+settlement
+{
+	level town
+	region Tribus_Tissagetae
+
+	year_founded 363
+	population 1400
+	plan_set default_set
+	faction_creator roxolani
+	building
+	{
+		type core_building governors_house
+	}
+	building
+	{
+		type barracks muster_field
+	}
+}
+
+settlement
+{
+	level village
+	region Tribus_Iirkai
+
+	year_founded 363
+	population 400
+	plan_set default_set
+	faction_creator roxolani
+}
+
+settlement
+{
+	level village
+	region Tribus_Hunni
+
+	year_founded 20
+	population 400
+	plan_set default_set
+	faction_creator huns
+}
+
+settlement
+{
+	level town
+	region Tribus_Baranjar
+
+	year_founded 363
+	population 1400
+	plan_set default_set
+	faction_creator huns
+	building
+	{
+		type core_building governors_house
+	}
+	building
+	{
+		type market trader
+	}
+}
+
+;;;EASTERN STEPPES
+settlement
+{
+	level village
+	region Tribus_Magyar
+
+	year_founded 20
+	population 400
+	plan_set default_set
+	faction_creator huns
+}
+
+settlement
+{
+	level village
+	region Tribus_Onoguri
+
+	year_founded 20
+	population 400
+	plan_set default_set
+	faction_creator huns
+}
+
+settlement
+{
+	level village
+	region Tribus_Sabiri
+
+	year_founded 20
+	population 400
+	plan_set default_set
+	faction_creator huns
+}
+
+settlement
+{
+	level village
+	region Tribus_Iastae
+
+	year_founded 20
+	population 400
+	plan_set default_set
+	faction_creator roxolani
+}
+
+settlement
+{
+	level large_town
+	region Yueban
+
+	year_founded 363
+	population 1811
+	plan_set default_set
+	faction_creator huns
+	building
+	{
+		type core_building governors_house
+	}
+	building
+	{
+		type defenses wooden_pallisade
+	}
+	building
+	{
+		type barracks muster_field
+	}
+	building
+	{
+		type market trader
+	}
+}
+
+;;;TOCHARIA
+settlement
+{
+	level large_town
+	region Wusun
+
+	year_founded 363
+	population 4650
+	plan_set default_set
+	faction_creator huns ;;;hephtalites
+	building
+	{
+		type core_building governors_villa
+	}
+	building
+	{
+		type defenses wooden_pallisade
+	}
+	building
+	{
+		type equestrian stables
+	}
+	building
+	{
+		type market trader
+	}
+	building
+	{
+		type hinterland_farms farms
+	}
+	building
+	{
+		type hinterland_roads roads
+	}
+	building
+	{
+		type caravans caravan
+	}
+}
+
+settlement
+{
+	level city
+	region Kashgaria
+
+	year_founded 0
+	population 6100
+	plan_set default_set
+	faction_creator sassanids
+	building
+	{
+		type core_building governors_palace
+	}
+	building
+	{
+		type defenses stone_wall
+	}
+	building
+	{
+		type barracks militia_barracks
+	}
+	building
+	{
+		type equestrian stables
+	}
+	building
+	{
+		type market market
+	}
+	building
+	{
+		type caravans silk_rd
+	}
+	building
+	{
+		type hinterland_farms farms
+	}
+	building
+	{
+		type hinterland_roads roads
+	}
+}
+
+settlement
+{
+	level large_town
+	region Khotan
+
+	year_founded 0
+	population 2100
+	plan_set default_set
+	faction_creator sassanids
+	building
+	{
+		type core_building governors_villa
+	}
+	building
+	{
+		type defenses wooden_wall
+	}
+	building
+	{
+		type barracks muster_field
+	}
+	building
+	{
+		type equestrian stables
+	}
+	building
+	{
+		type market market
+	}
+	building
+	{
+		type caravans caravan
+	}
+	building
+	{
+		type hinterland_farms farms
+	}
+	building
+	{
+		type hinterland_roads roads
+	}
+}
+
+settlement
+{
+	level town
+	region Kuqa
+
+	year_founded 0
+	population 1500
+	plan_set default_set
+	faction_creator sassanids
+	building
+	{
+		type core_building governors_house
+	}
+	building
+	{
+		type defenses wooden_pallisade
+	}
+	building
+	{
+		type market trader
+	}
+	building
+	{
+		type hinterland_farms farms
+	}
+	building
+	{
+		type hinterland_roads roads
+	}
+}
+
+;;;INDIA
+settlement
+{
+	level town
+	region Darada
+
+	year_founded 0
+	population 1650
+	plan_set default_set
+	faction_creator sassanids;india
+	building
+	{
+		type core_building governors_house
+	}
+	building
+	{
+		type defenses wooden_pallisade
+	}
+	building
+	{
+		type barracks muster_field
+	}
+	building
+	{
+		type market trader
+	}
+	building
+	{
+		type hinterland_roads roads
+	}
+}
+
+settlement
+{
+	level large_town
+	region Madra
+
+	year_founded 0
+	population 4650
+	plan_set default_set
+	faction_creator sassanids ;;;india
+	building
+	{
+		type core_building governors_villa
+	}
+	building
+	{
+		type defenses wooden_wall
+	}
+	building
+	{
+		type barracks muster_field
+	}
+	building
+	{
+		type missiles practice_field
+	}
+	building
+	{
+		type market market
+	}
+	building
+	{
+		type hinterland_farms farms
+	}
+	building
+	{
+		type hinterland_roads paved_roads
+	}
+}
+
+settlement
+{
+	level large_town
+	region Sattagydia
+
+	year_founded 0
+	population 3850
+	plan_set default_set
+	faction_creator sassanids ;;;india
+	building
+	{
+		type core_building governors_villa
+	}
+	building
+	{
+		type defenses wooden_wall
+	}
+	building
+	{
+		type barracks muster_field
+	}
+	building
+	{
+		type market trader
+	}
+	building
+	{
+		type hinterland_roads paved_roads
+	}
+}
+
+settlement
+{
+	level town
+	region Sauvira
+
+	year_founded 0
+	population 1950
+	plan_set default_set
+	faction_creator sassanids ;;;india
+	building
+	{
+		type core_building governors_house
+	}
+	building
+	{
+		type defenses wooden_pallisade
+	}
+	building
+	{
+		type market trader
+	}
+	building
+	{
+		type hinterland_farms farms
+	}
+	building
+	{
+		type hinterland_roads roads
+	}
+}
+
+settlement
+{
+	level city
+	region Sind
+
+	year_founded 0
+	population 6734
+	plan_set default_set
+	faction_creator sassanids ;;;india
+	building
+	{
+		type core_building governors_palace
+	}
+	building
+	{
+		type defenses stone_wall
+	}
+	building
+	{
+		type barracks militia_barracks
+	}
+	building
+	{
+		type missiles archery_range
+	}
+	building
+	{
+		type equestrian stables
+	}
+	building
+	{
+		type market forum
+	}
+	building
+	{
+		type port_buildings shipwright
+	}
+	building
+	{
+		type hinterland_farms farms+1
+	}
+	building
+	{
+		type hinterland_roads paved_roads
+	}
+}
+
+settlement
+{
+	level large_town
+	region Saurashtra
+
+	year_founded 0
+	population 4950
+	plan_set default_set
+	faction_creator sassanids ;;;india
+	building
+	{
+		type core_building governors_villa
+	}
+	building
+	{
+		type defenses wooden_wall
+	}
+	building
+	{
+		type missiles practice_field
+	}
+	building
+	{
+		type market trader
+	}
+	building
+	{
+		type port_buildings port
+	}
+	building
+	{
+		type hinterland_farms farms
+	}
+	building
+	{
+		type hinterland_roads roads
+	}
+}
+
+;;;SOGDIANA
+settlement
+{
+	level town
+	region Jaxartes
+
+	year_founded 363
+	population 1583
+	plan_set default_set
+	faction_creator sassanids
+	building
+	{
+		type core_building governors_house
+	}
+	building
+	{
+		type barracks muster_field
+	}
+	building
+	{
+		type hinterland_farms farms
+	}
+	building
+	{
+		type hinterland_roads roads
+	}
+}
+
+settlement
+{
+	level town
+	region Kangha
+
+	year_founded 0
+	population 1500
+	plan_set default_set
+	faction_creator sassanids
+	building
+	{
+		type core_building governors_house
+	}
+	building
+	{
+		type defenses wooden_pallisade
+	}
+	building
+	{
+		type market trader
+	}
+	building
+	{
+		type hinterland_farms farms
+	}
+	building
+	{
+		type hinterland_roads roads
+	}
+}
+
+settlement
+{
+	level town
+	region Khwarazm
+
+	year_founded 0
+	population 1850
+	plan_set default_set
+	faction_creator sassanids
+	building
+	{
+		type core_building governors_house
+	}
+	building
+	{
+		type defenses wooden_pallisade
+	}
+	building
+	{
+		type barracks muster_field
+	}
+	building
+	{
+		type market trader
+	}
+	building
+	{
+		type hinterland_farms farms
+	}
+	building
+	{
+		type hinterland_roads roads
+	}
+}
+
+;;;CAUCASUS
+settlement
+{
+	level large_town
+	region Kartli
+
+	year_founded 363
+	population 3134
+	plan_set default_set
+	faction_creator sassanids ;;;armenia
+	building
+	{
+		type core_building governors_villa
+	}
+	building
+	{
+		type defenses wooden_pallisade
+	}
+	building
+	{
+		type barracks muster_field
+	}
+	building
+	{
+		type hinterland_roads roads
+	}
+}
+
+settlement
+{
+	level large_town
+	region Colchis
+
+	year_founded 363
+	population 3583
+	plan_set default_set
+	faction_creator empire_east
+	building
+	{
+		type core_building governors_villa
+	}
+	building
+	{
+		type defenses wooden_pallisade
+	}
+	building
+	{
+		type barracks muster_field
+	}
+	building
+	{
+		type market trader
+	}
+	building
+	{
+		type hinterland_roads roads
+	}
+}
+
+;;;ARABIA
+settlement
+{
+	level town
+	region Nabataea
+
+	year_founded 363
+	population 1493
+	plan_set default_set
+	faction_creator berbers
+	building
+	{
+		type core_building governors_house
+	}
+	building
+	{
+		type defenses wooden_pallisade
+	}
+	building
+	{
+		type barracks muster_field
+	}
+	building
+	{
+		type market trader
+	}
+	building
+	{
+		type hinterland_roads roads
+	}
+}
+
+settlement
+{
+	level town
+	region Taenia
+
+	year_founded 363
+	population 1493
+	plan_set default_set
+	faction_creator berbers
+	building
+	{
+		type core_building governors_house
+	}
+	building
+	{
+		type barracks muster_field
+	}
+	building
+	{
+		type market trader
+	}
+}
+
+settlement
+{
+	level town
+	region Hejaz
+
+	year_founded 363
+	population 1493
+	plan_set default_set
+	faction_creator berbers
+	building
+	{
+		type core_building governors_house
+	}
+	building
+	{
+		type market trader
+	}
+	building
+	{
+		type hinterland_roads roads
+	}
+}
+
+settlement
+{
+	level large_town
+	region Tihamah
+
+	year_founded 363
+	population 2512
+	plan_set default_set
+	faction_creator berbers
+	building
+	{
+		type core_building governors_villa
+	}
+	building
+	{
+		type defenses wooden_pallisade
+	}
+	building
+	{
+		type market trader
+	}
+	building
+	{
+		type hinterland_roads roads
+	}
+}
+
+settlement
+{
+	level town
+	region Najran
+
+	year_founded 363
+	population 1493
+	plan_set default_set
+	faction_creator berbers
+	building
+	{
+		type core_building governors_house
+	}
+	building
+	{
+		type defenses wooden_pallisade
+	}
+	building
+	{
+		type barracks muster_field
+	}
+	building
+	{
+		type hinterland_roads roads
+	}
+}
+
+settlement
+{
+	level village
+	region Kindah
 
 	year_founded 363
 	population 400
@@ -9938,7 +12274,7 @@ settlement
 settlement
 {
 	level village
-	region Nabataea
+	region Yamama
 
 	year_founded 363
 	population 400
@@ -9946,99 +12282,288 @@ settlement
 	faction_creator berbers
 }
 
-character	sub_faction vandals, Gunthamund, general, age 38, , x 148, y 184
+settlement
+{
+	level large_town
+	region Maketa
+
+	year_founded 0
+	population 3725
+	plan_set default_set
+	faction_creator berbers
+	building
+	{
+		type core_building governors_villa
+	}
+	building
+	{
+		type defenses wooden_wall
+	}
+	building
+	{
+		type barracks muster_field
+	}
+	building
+	{
+		type missiles practice_field
+	}
+	building
+	{
+		type market trader
+	}
+	building
+	{
+		type hinterland_farms farms
+	}
+}
+
+settlement
+{
+	level village
+	region Zufar
+
+	year_founded 363
+	population 400
+	plan_set default_set
+	faction_creator berbers
+}
+
+settlement
+{
+	level town
+	region Mahra
+
+	year_founded 363
+	population 1493
+	plan_set default_set
+	faction_creator berbers
+	building
+	{
+		type core_building governors_house
+	}
+	building
+	{
+		type barracks muster_field
+	}
+}
+
+;;;AFRICA
+settlement
+{
+	level village
+	region Locus_Blemmyae
+
+	year_founded 363
+	population 400
+	plan_set default_set
+	faction_creator berbers
+}
+
+settlement
+{
+	level town
+	region Triacontaschoenus
+
+	year_founded 363
+	population 1947
+	plan_set default_set
+	faction_creator berbers
+	building
+	{
+		type core_building governors_house
+	}
+	building
+	{
+		type defenses wooden_pallisade
+	}
+	building
+	{
+		type barracks muster_field
+	}
+	building
+	{
+		type market trader
+	}
+	building
+	{
+		type hinterland_farms farms
+	}
+	building
+	{
+		type hinterland_roads roads
+	}
+}
+
+settlement
+{
+	level town
+	region Alut
+
+	year_founded 363
+	population 1493
+	plan_set default_set
+	faction_creator berbers
+	building
+	{
+		type core_building governors_house
+	}
+	building
+	{
+		type defenses wooden_pallisade
+	}
+	building
+	{
+		type barracks muster_field
+	}
+	building
+	{
+		type hinterland_farms farms
+	}
+}
+
+settlement
+{
+	level town
+	region Nasamonia
+
+	year_founded 363
+	population 1000
+	plan_set default_set
+	faction_creator berbers
+	building
+	{
+		type core_building governors_house
+	}
+	building
+	{
+		type market trader
+	}
+}
+
+settlement
+{
+	level town
+	region Arzugitania
+
+	year_founded 363
+	population 1000
+	plan_set default_set
+	faction_creator berbers
+	building
+	{
+		type core_building governors_house
+	}
+	building
+	{
+		type barracks muster_field
+	}
+}
+
+settlement
+{
+	level town
+	region Locus_Melanogaetuli
+
+	year_founded 363
+	population 1000
+	plan_set default_set
+	faction_creator berbers
+	building
+	{
+		type core_building governors_house
+	}
+}
+
+character	sub_faction vandals, Gunthamund, general, age 38, , x 116, y 181
 
 army
 unit		steppe warlords				exp 0 armour 0 weapon_lvl 0
 unit		steppe spearmen vandal				exp 0 armour 0 weapon_lvl 0
 unit		steppe raiders				exp 0 armour 0 weapon_lvl 0
 
-character	sub_faction berbers, Mundhir, general, age 52, , x 205, y 70 
+character	sub_faction berbers, Mundhir, general, age 52, , x 235, y 74 
 
 army
 unit		african peasant				exp 0 armour 0 weapon_lvl 0
 unit		mountain men				exp 0 armour 0 weapon_lvl 0
 unit		desert cavalry				exp 0 armour 0 weapon_lvl 0
 
-character	sub_faction berbers, Qabus, general, age 18, , x 240, y 81 
+character	sub_faction berbers, Qabus, general, age 18, , x 213, y 65 
 
 army
 unit		mountain men				exp 0 armour 0 weapon_lvl 0
 unit		desert cavalry				exp 0 armour 0 weapon_lvl 0
 unit		moorish raiders				exp 0 armour 0 weapon_lvl 0
 
-character	sub_faction alemanni, Vadomar, general, age 44, , x 109, y 173 
+character	sub_faction alemanni, Vadomar, general, age 44, , x 92, y 167 
 
 army
 unit		western peasant alemanni				exp 0 armour 0 weapon_lvl 0
 unit		lombard archers				exp 0 armour 0 weapon_lvl 0
 unit		chosen warlord alemanni				exp 0 armour 0 weapon_lvl 0
 
-character	sub_faction alemanni, Hortar, general, age 38, , x 106, y 167 
+character	sub_faction alemanni, Hortar, general, age 38, , x 95, y 177 
 
 army
 unit		western peasant alemanni				exp 0 armour 0 weapon_lvl 0
 unit		spear warband alemanni				exp 0 armour 0 weapon_lvl 0
 unit		lombard archers				exp 0 armour 0 weapon_lvl 0
 
-character	sub_faction sarmatians, Fragiledus, general, age 39, , x 129, y 152 
+character	sub_faction sarmatians, Fragiledus, general, age 39, , x 361, y 205 
 
 army
 unit		sarmatian warlords				exp 0 armour 0 weapon_lvl 0
 unit		runaway slave spearmen				exp 0 armour 0 weapon_lvl 0
 unit		steppe horse archers				exp 0 armour 0 weapon_lvl 0
 
-character	sub_faction saxons, Adalwolf, named character, leader, age 65, , x 79, y 185 
+character	sub_faction saxons, Adalwolf, named character, leader, age 65, , x 73, y 189 
 traits Pagan 1
 army
 unit		saxon warlord				exp 0 armour 0 weapon_lvl 0
 unit		saxon hunters				exp 0 armour 0 weapon_lvl 0
+unit		saxon hunters				exp 0 armour 0 weapon_lvl 0
 
-character	sub_faction vandals, Brinno, named character, age 47, , x 141, y 205
+character	sub_faction vandals, Brinno, named character, age 47, , x 121, y 173
 traits Pagan 1
 army
 unit		steppe warlords				exp 0 armour 0 weapon_lvl 0
 unit		steppe spearmen vandal				exp 0 armour 0 weapon_lvl 0
 unit		steppe raiders				exp 0 armour 0 weapon_lvl 0
 
-character	sub_faction saxons, Gunderic, named character, age 45, , x 77, y 187 
+character	sub_faction saxons, Gunderic, named character, age 45, , x 114, y 228 
 traits Pagan 1
 army
 unit		saxon warlord				exp 0 armour 0 weapon_lvl 0
 unit		saxon hunters				exp 0 armour 0 weapon_lvl 0
 unit		saxon hunters				exp 0 armour 0 weapon_lvl 0
 
-character	sub_faction alemanni, Chnonodemar, named character, age 40, , x 95, y 186 
+character	sub_faction alemanni, Chnonodemar, named character, age 40, , x 103, y 169 
 traits Pagan 1
 army
 unit		chosen warlord alemanni				exp 0 armour 0 weapon_lvl 0
 unit		western peasant alemanni				exp 0 armour 0 weapon_lvl 0
 unit		spear warband alemanni				exp 0 armour 0 weapon_lvl 0
 
-character	sub_faction sarmatians, Amage, general, age 38, , x 216, y 147 
+character	sub_faction sarmatians, Palacus, general, age 42, , x 202, y 199 
 
 army
-unit		steppe horse archers				exp 0 armour 0 weapon_lvl 0
-unit		runaway slave spearmen				exp 0 armour 0 weapon_lvl 0
-unit		steppe lancers				exp 0 armour 0 weapon_lvl 0
-
-character	sub_faction sarmatians, Palacus, general, age 42, , x 229, y 187 
-
-army
-unit		runaway slave spearmen				exp 0 armour 0 weapon_lvl 0
-unit		alan horse archers				exp 0 armour 0 weapon_lvl 0
 unit		steppe warlords				exp 0 armour 0 weapon_lvl 0
+unit		runaway slave spearmen				exp 0 armour 0 weapon_lvl 0
+unit		alan horse archers				exp 0 armour 0 weapon_lvl 0
+unit		steppe horse archers				exp 0 armour 0 weapon_lvl 0
 
-character	sub_faction sarmatians, Rasparaganus, general, age 32, , x 248, y 208
+character	sub_faction sarmatians, Rasparaganus, general, age 32, , x 277, y 198
 
 army
+unit		sarmatian warlords				exp 0 armour 0 weapon_lvl 0
 unit		runaway slave spearmen				exp 0 armour 0 weapon_lvl 0
 unit		steppe horse archers				exp 0 armour 0 weapon_lvl 0
 unit		alan horse archers				exp 0 armour 0 weapon_lvl 0
 
-character	sub_faction sarmatians, Rumo, general, age 37, , x 181, y 185
+character	sub_faction sarmatians, Rumo, general, age 37, , x 193, y 182
 
 army
+unit		sarmatian warlords				exp 0 armour 0 weapon_lvl 0
 unit		runaway slave spearmen				exp 0 armour 0 weapon_lvl 0
 unit		steppe horse archers				exp 0 armour 0 weapon_lvl 0
 unit		steppe horse archers				exp 0 armour 0 weapon_lvl 0
