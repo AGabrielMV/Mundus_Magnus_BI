@@ -3757,28 +3757,27 @@ unit		levy spearmen sassanid				exp 3 armour 0 weapon_lvl 0
 unit		levy spearmen sassanid				exp 2 armour 0 weapon_lvl 0
 unit		levy spearmen sassanid				exp 2 armour 0 weapon_lvl 0
 
-character	Ardashir, named character, heir, age 22, , x 227, y 143
+character	Ardashir, named character, heir, age 22, , x 235, y 116
 traits FactionHeir 1, GoodCommander 2 , Epicurean 1 , Xenophobia 1 , GoodAdministrator 1 , PoeticSkill 2 , Zoroastrian 1 
 ancillaries office_mobadan_mobad, zoroastrian_teacher
 army
 unit		clibinarii immortals				exp 0 armour 0 weapon_lvl 0
 unit		levy spearmen sassanid				exp 2 armour 0 weapon_lvl 0
-unit		levy spearmen sassanid				exp 1 armour 0 weapon_lvl 0
-unit		levy spearmen sassanid				exp 1 armour 0 weapon_lvl 0
+unit		levy spearmen sassanid				exp 2 armour 0 weapon_lvl 0
+unit		desert archers sassanid				exp 0 armour 0 weapon_lvl 0
 unit		kurdish javelinmen				exp 0 armour 0 weapon_lvl 0
-unit		sassanid peasant				exp 0 armour 0 weapon_lvl 0
 
 character	Melchior, named character, age 31, , x 241, y 138
 traits GoodCommander 4 , GoodCavalryGeneral 1 , GoodInfantryGeneral 1 , Authoritarian 2 , PoliticsSkill 2 , AssassinMaster 1 , Zoroastrian 1
 ancillaries office_eran_spahbod
 army
 unit		clibinarii immortals				exp 0 armour 0 weapon_lvl 0
+unit		clibinarii				exp 0 armour 0 weapon_lvl 0
 unit		levy spearmen sassanid				exp 2 armour 0 weapon_lvl 0
 unit		levy spearmen sassanid				exp 2 armour 0 weapon_lvl 0
 unit		levy spearmen sassanid				exp 1 armour 0 weapon_lvl 0
 unit		desert archers sassanid				exp 0 armour 0 weapon_lvl 0
 unit		mountain slinger				exp 0 armour 0 weapon_lvl 0
-unit		sassanid peasant				exp 0 armour 0 weapon_lvl 0
 
 character	Artostes, general, age 38, , x 253, y 134
 
@@ -3798,22 +3797,22 @@ unit		clibinarii				exp 0 armour 0 weapon_lvl 0
 unit		levy spearmen sassanid				exp 2 armour 0 weapon_lvl 0
 unit		levy spearmen sassanid				exp 1 armour 0 weapon_lvl 0
 unit		levy spearmen sassanid				exp 0 armour 0 weapon_lvl 0
-unit		sassanid peasant				exp 0 armour 0 weapon_lvl 0
 unit		kurdish javelinmen				exp 0 armour 0 weapon_lvl 0
 unit		desert archers sassanid				exp 0 armour 0 weapon_lvl 0
 
 character	Buran, general, age 30, , x 228, y 106
 
 army
+unit		clibinarii immortals				exp 0 armour 0 weapon_lvl 0
 unit		clibinarii				exp 0 armour 0 weapon_lvl 0
 unit		levy spearmen sassanid				exp 2 armour 0 weapon_lvl 0
-unit		desert archers sassanid				exp 0 armour 0 weapon_lvl 0
+unit		levy spearmen sassanid				exp 1 armour 0 weapon_lvl 0
+unit		levy spearmen sassanid				exp 1 armour 0 weapon_lvl 0
 unit		mountain slinger				exp 0 armour 0 weapon_lvl 0
 
 character	Fariel, general, age 32, , x 214, y 126
 
 army
-unit		clibinarii				exp 0 armour 0 weapon_lvl 0
 unit		camel raiders				exp 0 armour 0 weapon_lvl 0
 unit		levy spearmen sassanid				exp 2 armour 0 weapon_lvl 0
 unit		levy spearmen sassanid				exp 0 armour 0 weapon_lvl 0
@@ -11574,7 +11573,7 @@ settlement
 
 settlement
 {
-	level large_town
+	level town
 	region Yueban
 
 	year_founded 363
@@ -12474,19 +12473,105 @@ settlement
 	}
 }
 
-character	sub_faction vandals, Gunthamund, general, age 38, , x 116, y 181
-
-army
-unit		steppe warlords				exp 0 armour 0 weapon_lvl 0
-unit		steppe spearmen vandal				exp 0 armour 0 weapon_lvl 0
-unit		steppe raiders				exp 0 armour 0 weapon_lvl 0
-
-character	sub_faction berbers, Mundhir, general, age 52, , x 235, y 74 
+;;;AFRICA
+character	sub_faction berbers, Mundhir, general, age 52, , x 11, y 73 
 
 army
 unit		african peasant				exp 0 armour 0 weapon_lvl 0
 unit		mountain men				exp 0 armour 0 weapon_lvl 0
 unit		desert cavalry				exp 0 armour 0 weapon_lvl 0
+
+character	sub_faction berbers, Mundhir, general, age 52, , x 75, y 67	
+
+army
+unit		african peasant				exp 0 armour 0 weapon_lvl 0
+unit		mountain men				exp 0 armour 0 weapon_lvl 0
+unit		desert cavalry				exp 0 armour 0 weapon_lvl 0
+
+character	sub_faction berbers, Mundhir, general, age 52, , x 93, y 49 
+
+army
+unit		african peasant				exp 0 armour 0 weapon_lvl 0
+unit		mountain men				exp 0 armour 0 weapon_lvl 0
+unit		desert cavalry				exp 0 armour 0 weapon_lvl 0
+
+character	sub_faction berbers, Mundhir, general, age 52, , x 98, y 52 
+
+army
+unit		african peasant				exp 0 armour 0 weapon_lvl 0
+unit		mountain men				exp 0 armour 0 weapon_lvl 0
+unit		desert cavalry				exp 0 armour 0 weapon_lvl 0
+
+character	sub_faction berbers, Mundhir, general, age 52, , x 133, y 58 
+
+army
+unit		african peasant				exp 0 armour 0 weapon_lvl 0
+unit		mountain men				exp 0 armour 0 weapon_lvl 0
+unit		desert cavalry				exp 0 armour 0 weapon_lvl 0
+
+character	sub_faction berbers, Mundhir, general, age 52, , x 182, y 38 
+
+army
+unit		african peasant				exp 0 armour 0 weapon_lvl 0
+unit		mountain men				exp 0 armour 0 weapon_lvl 0
+unit		desert cavalry				exp 0 armour 0 weapon_lvl 0
+
+character	sub_faction berbers, Mundhir, general, age 52, , x 208, y 39 
+
+army
+unit		african peasant				exp 0 armour 0 weapon_lvl 0
+unit		mountain men				exp 0 armour 0 weapon_lvl 0
+unit		desert cavalry				exp 0 armour 0 weapon_lvl 0
+
+character	sub_faction berbers, Mundhir, general, age 52, , x 190, y 19 
+
+army
+unit		african peasant				exp 0 armour 0 weapon_lvl 0
+unit		mountain men				exp 0 armour 0 weapon_lvl 0
+unit		desert cavalry				exp 0 armour 0 weapon_lvl 0
+
+character	sub_faction berbers, Mundhir, general, age 52, , x 199, y 13 
+
+army
+unit		african peasant				exp 0 armour 0 weapon_lvl 0
+unit		mountain men				exp 0 armour 0 weapon_lvl 0
+unit		desert cavalry				exp 0 armour 0 weapon_lvl 0
+
+character	sub_faction berbers, Mundhir, general, age 52, , x 195, y 5 
+
+army
+unit		african peasant				exp 0 armour 0 weapon_lvl 0
+unit		mountain men				exp 0 armour 0 weapon_lvl 0
+unit		desert cavalry				exp 0 armour 0 weapon_lvl 0
+
+character	sub_faction berbers, Mundhir, general, age 52, , x 222, y 5 
+
+army
+unit		african peasant				exp 0 armour 0 weapon_lvl 0
+unit		mountain men				exp 0 armour 0 weapon_lvl 0
+unit		desert cavalry				exp 0 armour 0 weapon_lvl 0
+
+character	sub_faction berbers, Mundhir, general, age 52, , x 222, y 11 
+
+army
+unit		african peasant				exp 0 armour 0 weapon_lvl 0
+unit		mountain men				exp 0 armour 0 weapon_lvl 0
+unit		desert cavalry				exp 0 armour 0 weapon_lvl 0
+
+character	sub_faction berbers, Mundhir, general, age 52, , x 234, y 9 
+
+army
+unit		african peasant				exp 0 armour 0 weapon_lvl 0
+unit		mountain men				exp 0 armour 0 weapon_lvl 0
+unit		desert cavalry				exp 0 armour 0 weapon_lvl 0
+
+;;;ARABIA
+character	sub_faction berbers, Qabus, general, age 18, , x 235, y 74 
+
+army
+unit		mountain men				exp 0 armour 0 weapon_lvl 0
+unit		desert cavalry				exp 0 armour 0 weapon_lvl 0
+unit		moorish raiders				exp 0 armour 0 weapon_lvl 0
 
 character	sub_faction berbers, Qabus, general, age 18, , x 213, y 65 
 
@@ -12495,54 +12580,164 @@ unit		mountain men				exp 0 armour 0 weapon_lvl 0
 unit		desert cavalry				exp 0 armour 0 weapon_lvl 0
 unit		moorish raiders				exp 0 armour 0 weapon_lvl 0
 
-character	sub_faction alemanni, Vadomar, general, age 44, , x 92, y 167 
+character	sub_faction berbers, Qabus, general, age 18, , x 262, y 11 
 
 army
-unit		western peasant alemanni				exp 0 armour 0 weapon_lvl 0
-unit		lombard archers				exp 0 armour 0 weapon_lvl 0
-unit		chosen warlord alemanni				exp 0 armour 0 weapon_lvl 0
+unit		mountain men				exp 0 armour 0 weapon_lvl 0
+unit		desert cavalry				exp 0 armour 0 weapon_lvl 0
+unit		moorish raiders				exp 0 armour 0 weapon_lvl 0
 
-character	sub_faction alemanni, Hortar, general, age 38, , x 95, y 177 
-
-army
-unit		western peasant alemanni				exp 0 armour 0 weapon_lvl 0
-unit		spear warband alemanni				exp 0 armour 0 weapon_lvl 0
-unit		lombard archers				exp 0 armour 0 weapon_lvl 0
-
-character	sub_faction sarmatians, Fragiledus, general, age 39, , x 361, y 205 
+character	sub_faction berbers, Qabus, general, age 18, , x 263, y 19
 
 army
-unit		sarmatian warlords				exp 0 armour 0 weapon_lvl 0
-unit		runaway slave spearmen				exp 0 armour 0 weapon_lvl 0
+unit		mountain men				exp 0 armour 0 weapon_lvl 0
+unit		desert cavalry				exp 0 armour 0 weapon_lvl 0
+unit		moorish raiders				exp 0 armour 0 weapon_lvl 0
+
+character	sub_faction berbers, Qabus, general, age 18, , x 254, y 26 
+
+army
+unit		mountain men				exp 0 armour 0 weapon_lvl 0
+unit		desert cavalry				exp 0 armour 0 weapon_lvl 0
+unit		moorish raiders				exp 0 armour 0 weapon_lvl 0
+
+character	sub_faction berbers, Qabus, general, age 18, , x 229, y 41 
+
+army
+unit		mountain men				exp 0 armour 0 weapon_lvl 0
+unit		desert cavalry				exp 0 armour 0 weapon_lvl 0
+unit		moorish raiders				exp 0 armour 0 weapon_lvl 0
+
+character	sub_faction berbers, Qabus, general, age 18, , x 228, y 54 
+
+army
+unit		mountain men				exp 0 armour 0 weapon_lvl 0
+unit		desert cavalry				exp 0 armour 0 weapon_lvl 0
+unit		moorish raiders				exp 0 armour 0 weapon_lvl 0
+
+character	sub_faction berbers, Qabus, general, age 18, , x 224, y 81 
+
+army
+unit		mountain men				exp 0 armour 0 weapon_lvl 0
+unit		desert cavalry				exp 0 armour 0 weapon_lvl 0
+unit		moorish raiders				exp 0 armour 0 weapon_lvl 0
+
+character	sub_faction berbers, Qabus, general, age 18, , x 258, y 60 
+
+army
+unit		mountain men				exp 0 armour 0 weapon_lvl 0
+unit		desert cavalry				exp 0 armour 0 weapon_lvl 0
+unit		moorish raiders				exp 0 armour 0 weapon_lvl 0
+
+character	sub_faction berbers, Qabus, general, age 18, , x 258, y 41 
+
+army
+unit		mountain men				exp 0 armour 0 weapon_lvl 0
+unit		desert cavalry				exp 0 armour 0 weapon_lvl 0
+unit		moorish raiders				exp 0 armour 0 weapon_lvl 0
+
+character	sub_faction berbers, Qabus, general, age 18, , x 279, y 23 
+
+army
+unit		mountain men				exp 0 armour 0 weapon_lvl 0
+unit		desert cavalry				exp 0 armour 0 weapon_lvl 0
+unit		moorish raiders				exp 0 armour 0 weapon_lvl 0
+
+character	sub_faction berbers, Qabus, general, age 18, , x 305, y 34 
+
+army
+unit		mountain men				exp 0 armour 0 weapon_lvl 0
+unit		desert cavalry				exp 0 armour 0 weapon_lvl 0
+unit		moorish raiders				exp 0 armour 0 weapon_lvl 0
+
+character	sub_faction berbers, Qabus, general, age 18, , x 314, y 42 
+
+army
+unit		mountain men				exp 0 armour 0 weapon_lvl 0
+unit		desert cavalry				exp 0 armour 0 weapon_lvl 0
+unit		moorish raiders				exp 0 armour 0 weapon_lvl 0
+
+character	sub_faction berbers, Qabus, general, age 18, , x 321, y 70 
+
+army
+unit		mountain men				exp 0 armour 0 weapon_lvl 0
+unit		desert cavalry				exp 0 armour 0 weapon_lvl 0
+unit		moorish raiders				exp 0 armour 0 weapon_lvl 0
+
+character	sub_faction berbers, Qabus, general, age 18, , x 268, y 76 
+
+army
+unit		mountain men				exp 0 armour 0 weapon_lvl 0
+unit		desert cavalry				exp 0 armour 0 weapon_lvl 0
+unit		moorish raiders				exp 0 armour 0 weapon_lvl 0
+
+character	sub_faction berbers, Qabus, general, age 18, , x 240, y 101 
+
+army
+unit		mountain men				exp 0 armour 0 weapon_lvl 0
+unit		desert cavalry				exp 0 armour 0 weapon_lvl 0
+unit		moorish raiders				exp 0 armour 0 weapon_lvl 0
+
+;;;CAUCASUS
+character	sub_faction sassanids, Fariel, general, age 30,	, x 225, y 134 
+
+army
+unit		nomad archer cavalry				exp 0 armour 0 weapon_lvl 0
+unit		mountain slinger				exp 0 armour 0 weapon_lvl 0
+unit		levy spearmen sassanid				exp 0 armour 0 weapon_lvl 0
+unit		levy spearmen sassanid				exp 0 armour 0 weapon_lvl 0
+unit		kurdish javelinmen				exp 0 armour 0 weapon_lvl 0
+
+character	sub_faction sassanids, Fariel, general, age 30,	, x 209, y 136 
+
+army
+unit		nomad archer cavalry				exp 0 armour 0 weapon_lvl 0
+unit		mountain slinger				exp 0 armour 0 weapon_lvl 0
+unit		levy spearmen sassanid				exp 0 armour 0 weapon_lvl 0
+unit		levy spearmen sassanid				exp 0 armour 0 weapon_lvl 0
+unit		kurdish javelinmen				exp 0 armour 0 weapon_lvl 0
+
+character	sub_faction sassanids, Fariel, general, age 30,	, x 228, y 143 
+
+army
+unit		nomad archer cavalry				exp 0 armour 0 weapon_lvl 0
+unit		mountain slinger				exp 0 armour 0 weapon_lvl 0
+unit		levy spearmen sassanid				exp 0 armour 0 weapon_lvl 0
+unit		levy spearmen sassanid				exp 0 armour 0 weapon_lvl 0
+unit		kurdish javelinmen				exp 0 armour 0 weapon_lvl 0
+
+character	sub_faction sassanids, Valkas, general, age 25,	, x 223, y 148 
+
+army
+unit		nomad archer cavalry				exp 0 armour 0 weapon_lvl 0
+unit		mountain slinger				exp 0 armour 0 weapon_lvl 0
+unit		levy spearmen sassanid				exp 0 armour 0 weapon_lvl 0
+
+character	sub_faction sassanids, Valkas, general, age 25,	, x 212, y 148 
+
+army
+unit		nomad archer cavalry				exp 0 armour 0 weapon_lvl 0
+unit		mountain slinger				exp 0 armour 0 weapon_lvl 0
+unit		levy spearmen sassanid				exp 0 armour 0 weapon_lvl 0
+
+;;;WESTERN STEPPES
+character	sub_faction empire_east, Aulus, general, age 30, , x 187, y 158 
+
+army
+unit		equites auxilia				exp 0 armour 0 weapon_lvl 0
 unit		steppe horse archers				exp 0 armour 0 weapon_lvl 0
-
-character	sub_faction saxons, Adalwolf, named character, leader, age 65, , x 73, y 189 
-traits Pagan 1
-army
-unit		saxon warlord				exp 0 armour 0 weapon_lvl 0
-unit		saxon hunters				exp 0 armour 0 weapon_lvl 0
-unit		saxon hunters				exp 0 armour 0 weapon_lvl 0
-
-character	sub_faction vandals, Brinno, named character, age 47, , x 121, y 173
-traits Pagan 1
-army
-unit		steppe warlords				exp 0 armour 0 weapon_lvl 0
-unit		steppe spearmen vandal				exp 0 armour 0 weapon_lvl 0
+unit		limitanei				exp 0 armour 0 weapon_lvl 0
+unit		limitanei				exp 0 armour 0 weapon_lvl 0
 unit		steppe raiders				exp 0 armour 0 weapon_lvl 0
 
-character	sub_faction saxons, Gunderic, named character, age 45, , x 114, y 228 
-traits Pagan 1
-army
-unit		saxon warlord				exp 0 armour 0 weapon_lvl 0
-unit		saxon hunters				exp 0 armour 0 weapon_lvl 0
-unit		saxon hunters				exp 0 armour 0 weapon_lvl 0
+character	sub_faction empire_east, Aulus, general, age 30, , x 184, y 157 
 
-character	sub_faction alemanni, Chnonodemar, named character, age 40, , x 103, y 169 
-traits Pagan 1
 army
-unit		chosen warlord alemanni				exp 0 armour 0 weapon_lvl 0
-unit		western peasant alemanni				exp 0 armour 0 weapon_lvl 0
-unit		spear warband alemanni				exp 0 armour 0 weapon_lvl 0
+unit		equites auxilia				exp 0 armour 0 weapon_lvl 0
+unit		steppe horse archers				exp 0 armour 0 weapon_lvl 0
+unit		limitanei				exp 0 armour 0 weapon_lvl 0
+unit		limitanei				exp 0 armour 0 weapon_lvl 0
+unit		steppe raiders				exp 0 armour 0 weapon_lvl 0
 
 character	sub_faction sarmatians, Palacus, general, age 42, , x 202, y 199 
 
@@ -12552,14 +12747,6 @@ unit		runaway slave spearmen				exp 0 armour 0 weapon_lvl 0
 unit		alan horse archers				exp 0 armour 0 weapon_lvl 0
 unit		steppe horse archers				exp 0 armour 0 weapon_lvl 0
 
-character	sub_faction sarmatians, Rasparaganus, general, age 32, , x 277, y 198
-
-army
-unit		sarmatian warlords				exp 0 armour 0 weapon_lvl 0
-unit		runaway slave spearmen				exp 0 armour 0 weapon_lvl 0
-unit		steppe horse archers				exp 0 armour 0 weapon_lvl 0
-unit		alan horse archers				exp 0 armour 0 weapon_lvl 0
-
 character	sub_faction sarmatians, Rumo, general, age 37, , x 193, y 182
 
 army
@@ -12568,7 +12755,446 @@ unit		runaway slave spearmen				exp 0 armour 0 weapon_lvl 0
 unit		steppe horse archers				exp 0 armour 0 weapon_lvl 0
 unit		steppe horse archers				exp 0 armour 0 weapon_lvl 0
 
-relative 	Adalwolf, 	 none, 	Brinno,	Gunderic,	Chnonodemar,	end
+character	sub_faction huns, Kuridach, general, age 24, , x 232, y 161 
+
+army
+unit		hunnic warlords				exp 0 armour 0 weapon_lvl 0
+unit		tribal cavalry				exp 0 armour 0 weapon_lvl 0
+unit		steppe horse archers				exp 0 armour 0 weapon_lvl 0
+unit		runaway slave spearmen				exp 0 armour 0 weapon_lvl 0
+
+;;;BALKANS
+character	sub_faction goths, Alaric, general, age 25, , x 130, y 148 
+
+army
+unit		goth warlords				exp 0 armour 0 weapon_lvl 0
+unit		goth raiders				exp 0 armour 0 weapon_lvl 0
+unit		gothic spearmen				exp 0 armour 0 weapon_lvl 0
+
+character	sub_faction goths, Alaric, general, age 25, , x 135, y 158 
+
+army
+unit		goth warlords				exp 0 armour 0 weapon_lvl 0
+unit		goth raiders				exp 0 armour 0 weapon_lvl 0
+unit		gothic spearmen				exp 0 armour 0 weapon_lvl 0
+
+;;;EASTERN GERMANIA
+character	sub_faction alemanni, Chnonodemar, named character, age 40, , x 103, y 169 
+traits Pagan 1
+army
+unit		chosen warlord alemanni				exp 0 armour 0 weapon_lvl 0
+unit		spear warband alemanni				exp 0 armour 0 weapon_lvl 0
+unit		spear warband alemanni				exp 0 armour 0 weapon_lvl 0
+unit		lombard archers				exp 0 armour 0 weapon_lvl 0
+
+character	sub_faction alemanni, Vadomar, general, age 44, , x 113, y 168 
+
+army
+unit		chosen warlord alemanni				exp 0 armour 0 weapon_lvl 0
+unit		lombard archers				exp 0 armour 0 weapon_lvl 0
+unit		spear warband alemanni				exp 0 armour 0 weapon_lvl 0
+
+character	sub_faction vandals, Brinno, named character, age 47, , x 121, y 173
+traits Pagan 1
+army
+unit		steppe warlords				exp 0 armour 0 weapon_lvl 0
+unit		steppe spearmen vandal				exp 0 armour 0 weapon_lvl 0
+unit		steppe raiders				exp 0 armour 0 weapon_lvl 0
+
+character	sub_faction vandals, Gunthamund, general, age 38, , x 116, y 181
+
+army
+unit		steppe warlords				exp 0 armour 0 weapon_lvl 0
+unit		steppe spearmen vandal				exp 0 armour 0 weapon_lvl 0
+unit		steppe raiders				exp 0 armour 0 weapon_lvl 0
+
+character	sub_faction lombardi, Huocin, general, age 45, , x 116, y 192 
+
+army
+unit		chosen warlord alemanni				exp 0 armour 0 weapon_lvl 0
+unit		lombard archers				exp 0 armour 0 weapon_lvl 0
+unit		spear warband alemanni				exp 0 armour 0 weapon_lvl 0
+
+character	sub_faction lombardi, Huocin, general, age 45, , x 106, y 189 
+
+army
+unit		chosen warlord alemanni				exp 0 armour 0 weapon_lvl 0
+unit		lombard archers				exp 0 armour 0 weapon_lvl 0
+unit		spear warband alemanni				exp 0 armour 0 weapon_lvl 0
+
+;;;WESTERN GERMANIA
+character	sub_faction alemanni, Vadomar, named character, age 44, , x 92, y 167 
+traits Pagan 1
+army
+unit		chosen warlord alemanni				exp 0 armour 0 weapon_lvl 0
+unit		lombard archers				exp 0 armour 0 weapon_lvl 0
+unit		spear warband alemanni				exp 0 armour 0 weapon_lvl 0
+
+character	sub_faction alemanni, Hortar, general, age 38, , x 95, y 177 
+
+army
+unit		chosen warlord alemanni				exp 0 armour 0 weapon_lvl 0
+unit		spear warband alemanni				exp 0 armour 0 weapon_lvl 0
+unit		lombard archers				exp 0 armour 0 weapon_lvl 0
+
+character	sub_faction franks, Sigibert, general, age 40, , x 82, y 179 
+
+army
+unit		chosen warlord alemanni				exp 0 armour 0 weapon_lvl 0
+unit		saxon hunters				exp 0 armour 0 weapon_lvl 0
+unit		levy spearman frank				exp 0 armour 0 weapon_lvl 0
+unit		axe heerbann				exp 0 armour 0 weapon_lvl 0
+
+character	sub_faction saxons, Adalwolf, named character, leader, age 65, , x 73, y 189 
+traits Pagan 1
+army
+unit		saxon warlord				exp 0 armour 0 weapon_lvl 0
+unit		saxon hunters				exp 0 armour 0 weapon_lvl 0
+unit		saxon hunters				exp 0 armour 0 weapon_lvl 0
+
+character	sub_faction saxons, Gunderic, general, age 35, , x 99, y 192 
+
+army
+unit		saxon hunters				exp 0 armour 0 weapon_lvl 0
+unit		saxon hunters				exp 0 armour 0 weapon_lvl 0
+
+character	sub_faction saxons, Gunderic, general, age 35, , x 87, y 197 
+
+army
+unit		saxon hunters				exp 0 armour 0 weapon_lvl 0
+unit		saxon hunters				exp 0 armour 0 weapon_lvl 0
+
+;;;BRITISH ISLES
+character	sub_faction celts, Drest, general, age 25, , x 53, y 208 
+
+army
+unit		celtic warlord				exp 0 armour 0 weapon_lvl 0
+unit		celtic spearman				exp 0 armour 0 weapon_lvl 0
+unit		celtic slingers				exp 0 armour 0 weapon_lvl 0
+
+character	sub_faction celts, Drest, general, age 25, , x 25, y 192 
+
+army
+unit		celtic warlord				exp 0 armour 0 weapon_lvl 0
+unit		celtic spearman				exp 0 armour 0 weapon_lvl 0
+unit		celtic slingers				exp 0 armour 0 weapon_lvl 0
+
+character	sub_faction celts, Drest, general, age 25, , x 31, y 203 
+
+army
+unit		celtic warlord				exp 0 armour 0 weapon_lvl 0
+unit		celtic spearman				exp 0 armour 0 weapon_lvl 0
+unit		celtic slingers				exp 0 armour 0 weapon_lvl 0
+
+character	sub_faction celts, Drest, general, age 25, , x 37, y 205 
+
+army
+unit		celtic warlord				exp 0 armour 0 weapon_lvl 0
+unit		celtic spearman				exp 0 armour 0 weapon_lvl 0
+unit		celtic slingers				exp 0 armour 0 weapon_lvl 0
+
+character	sub_faction celts, Drest, general, age 25, , x 43, y 217 
+
+army
+unit		celtic warlord				exp 0 armour 0 weapon_lvl 0
+unit		celtic spearman				exp 0 armour 0 weapon_lvl 0
+unit		celtic slingers				exp 0 armour 0 weapon_lvl 0
+
+character	sub_faction celts, Drest, general, age 25, , x 50, y 221 
+
+army
+unit		celtic warlord				exp 0 armour 0 weapon_lvl 0
+unit		celtic spearman				exp 0 armour 0 weapon_lvl 0
+unit		celtic slingers				exp 0 armour 0 weapon_lvl 0
+
+;;;SCANDINAVIA
+character	sub_faction saxons, Gunderic, named character, age 45, , x 114, y 228 
+traits Pagan 1
+army
+unit		saxon warlord				exp 0 armour 0 weapon_lvl 0
+unit		saxon hunters				exp 0 armour 0 weapon_lvl 0
+unit		saxon hunters				exp 0 armour 0 weapon_lvl 0
+
+character	sub_faction saxons, Agelmund, general, age 35, , x 89, y 209 
+
+army
+unit		saxon hunters				exp 0 armour 0 weapon_lvl 0
+unit		saxon hunters				exp 0 armour 0 weapon_lvl 0
+
+character	sub_faction saxons, Agelmund, general, age 35, , x 99, y 201 
+
+army
+unit		saxon hunters				exp 0 armour 0 weapon_lvl 0
+unit		saxon hunters				exp 0 armour 0 weapon_lvl 0
+
+character	sub_faction saxons, Agelmund, general, age 35, , x 103, y 207 
+
+army
+unit		saxon hunters				exp 0 armour 0 weapon_lvl 0
+unit		saxon hunters				exp 0 armour 0 weapon_lvl 0
+
+character	sub_faction saxons, Agelmund, general, age 35, , x 95, y 215 
+
+army
+unit		saxon hunters				exp 0 armour 0 weapon_lvl 0
+unit		saxon hunters				exp 0 armour 0 weapon_lvl 0
+
+character	sub_faction saxons, Agelmund, general, age 35, , x 108, y 219 
+
+army
+unit		saxon hunters				exp 0 armour 0 weapon_lvl 0
+unit		saxon hunters				exp 0 armour 0 weapon_lvl 0
+
+character	sub_faction saxons, Agelmund, general, age 35, , x 114, y 211 
+
+army
+unit		saxon hunters				exp 0 armour 0 weapon_lvl 0
+unit		saxon hunters				exp 0 armour 0 weapon_lvl 0
+
+;;;EASTERN STEPPES
+character	sub_faction sarmatians, Fragiledus, general, age 39, , x 361, y 205 
+
+army
+unit		sarmatian warlords				exp 0 armour 0 weapon_lvl 0
+unit		runaway slave spearmen				exp 0 armour 0 weapon_lvl 0
+unit		steppe horse archers				exp 0 armour 0 weapon_lvl 0
+
+character	sub_faction huns, Kuridach, general, age 24, , x 229, y 189 
+
+army
+unit		tribal cavalry				exp 0 armour 0 weapon_lvl 0
+unit		steppe horse archers				exp 0 armour 0 weapon_lvl 0
+unit		steppe horse archers				exp 0 armour 0 weapon_lvl 0
+
+character	sub_faction huns, Kuridach, general, age 24, , x 242, y 200 
+
+army
+unit		tribal cavalry				exp 0 armour 0 weapon_lvl 0
+unit		steppe horse archers				exp 0 armour 0 weapon_lvl 0
+unit		steppe horse archers				exp 0 armour 0 weapon_lvl 0
+
+character	sub_faction huns, Kuridach, general, age 24, , x 233, y 218 
+
+army
+unit		tribal cavalry				exp 0 armour 0 weapon_lvl 0
+unit		steppe horse archers				exp 0 armour 0 weapon_lvl 0
+unit		steppe horse archers				exp 0 armour 0 weapon_lvl 0
+
+character	sub_faction huns, Kuridach, general, age 24, , x 288, y 227 
+
+army
+unit		tribal cavalry				exp 0 armour 0 weapon_lvl 0
+unit		steppe horse archers				exp 0 armour 0 weapon_lvl 0
+unit		steppe horse archers				exp 0 armour 0 weapon_lvl 0
+
+character	sub_faction huns, Kuridach, general, age 24, , x 317, y 218 
+
+army
+unit		hunnic warlords				exp 0 armour 0 weapon_lvl 0
+unit		tribal cavalry				exp 0 armour 0 weapon_lvl 0
+unit		steppe horse archers				exp 0 armour 0 weapon_lvl 0
+unit		steppe horse archers				exp 0 armour 0 weapon_lvl 0
+unit		steppe horse archers				exp 0 armour 0 weapon_lvl 0
+
+;;;TOCHARIA
+character	sub_faction sarmatians, Rasparaganus, general, age 32, , x 277, y 198
+
+army
+unit		sarmatian warlords				exp 0 armour 0 weapon_lvl 0
+unit		runaway slave spearmen				exp 0 armour 0 weapon_lvl 0
+unit		steppe horse archers				exp 0 armour 0 weapon_lvl 0
+unit		alan horse archers				exp 0 armour 0 weapon_lvl 0
+
+character	sub_faction sassanids, Buran, general, age 35, , x 382, y 198 
+
+army
+unit		steppe horse archers				exp 0 armour 0 weapon_lvl 0
+unit		levy spearmen sassanid				exp 0 armour 0 weapon_lvl 0
+unit		levy spearmen sassanid				exp 0 armour 0 weapon_lvl 0
+unit		desert archers sassanid				exp 0 armour 0 weapon_lvl 0
+
+character	sub_faction sassanids, Buran, general, age 35, , x 378, y 177 
+
+army
+unit		steppe horse archers				exp 0 armour 0 weapon_lvl 0
+unit		levy spearmen sassanid				exp 0 armour 0 weapon_lvl 0
+unit		levy spearmen sassanid				exp 0 armour 0 weapon_lvl 0
+unit		desert archers sassanid				exp 0 armour 0 weapon_lvl 0
+
+character	sub_faction sassanids, Buran, general, age 35, , x 365, y 186 
+
+army
+unit		steppe horse archers				exp 0 armour 0 weapon_lvl 0
+unit		levy spearmen sassanid				exp 0 armour 0 weapon_lvl 0
+unit		levy spearmen sassanid				exp 0 armour 0 weapon_lvl 0
+unit		desert archers sassanid				exp 0 armour 0 weapon_lvl 0
+
+;;;SOGDIANA
+character	sub_faction sassanids, Buran, general, age 35, , x 338, y 177 
+
+army
+unit		steppe horse archers				exp 0 armour 0 weapon_lvl 0
+unit		levy spearmen sassanid				exp 0 armour 0 weapon_lvl 0
+unit		levy spearmen sassanid				exp 0 armour 0 weapon_lvl 0
+unit		desert archers sassanid				exp 0 armour 0 weapon_lvl 0
+
+character	sub_faction sassanids, Buran, general, age 35, , x 322, y 178 
+
+army
+unit		steppe horse archers				exp 0 armour 0 weapon_lvl 0
+unit		levy spearmen sassanid				exp 0 armour 0 weapon_lvl 0
+unit		levy spearmen sassanid				exp 0 armour 0 weapon_lvl 0
+unit		desert archers sassanid				exp 0 armour 0 weapon_lvl 0
+
+character	sub_faction sassanids, Buran, general, age 35, , x 314, y 186 
+
+army
+unit		steppe horse archers				exp 0 armour 0 weapon_lvl 0
+unit		levy spearmen sassanid				exp 0 armour 0 weapon_lvl 0
+unit		levy spearmen sassanid				exp 0 armour 0 weapon_lvl 0
+unit		desert archers sassanid				exp 0 armour 0 weapon_lvl 0
+
+character	sub_faction sassanids, Buran, general, age 35, , x 292, y 172 
+
+army
+unit		steppe horse archers				exp 0 armour 0 weapon_lvl 0
+unit		levy spearmen sassanid				exp 0 armour 0 weapon_lvl 0
+unit		levy spearmen sassanid				exp 0 armour 0 weapon_lvl 0
+unit		desert archers sassanid				exp 0 armour 0 weapon_lvl 0
+
+character	sub_faction huns, Kandak, general, age 40, , x 305, y 165 
+
+army
+unit		tribal cavalry				exp 0 armour 0 weapon_lvl 0
+unit		steppe horse archers				exp 0 armour 0 weapon_lvl 0
+unit		levy spearmen sassanid				exp 0 armour 0 weapon_lvl 0
+unit		levy spearmen sassanid				exp 0 armour 0 weapon_lvl 0
+unit		desert archers sassanid				exp 0 armour 0 weapon_lvl 0
+
+character	sub_faction huns, Kandak, general, age 40, , x 320, y 165 
+
+army
+unit		hunnic warlords				exp 0 armour 0 weapon_lvl 0
+unit		tribal cavalry				exp 0 armour 0 weapon_lvl 0
+unit		steppe horse archers				exp 0 armour 0 weapon_lvl 0
+unit		steppe horse archers				exp 0 armour 0 weapon_lvl 0
+unit		levy spearmen sassanid				exp 0 armour 0 weapon_lvl 0
+unit		levy spearmen sassanid				exp 0 armour 0 weapon_lvl 0
+unit		levy spearmen sassanid				exp 0 armour 0 weapon_lvl 0
+unit		desert archers sassanid				exp 0 armour 0 weapon_lvl 0
+
+character	sub_faction huns, Kandak, general, age 40, , x 328, y 167 
+
+army
+unit		tribal cavalry				exp 0 armour 0 weapon_lvl 0
+unit		steppe horse archers				exp 0 armour 0 weapon_lvl 0
+unit		levy spearmen sassanid				exp 0 armour 0 weapon_lvl 0
+unit		levy spearmen sassanid				exp 0 armour 0 weapon_lvl 0
+unit		desert archers sassanid				exp 0 armour 0 weapon_lvl 0
+
+;;;BACTRIA
+character	sub_faction huns, Kandak, general, age 40, , x 334, y 157 
+
+army
+unit		tribal cavalry				exp 0 armour 0 weapon_lvl 0
+unit		steppe horse archers				exp 0 armour 0 weapon_lvl 0
+unit		levy spearmen sassanid				exp 0 armour 0 weapon_lvl 0
+unit		levy spearmen sassanid				exp 0 armour 0 weapon_lvl 0
+unit		desert archers sassanid				exp 0 armour 0 weapon_lvl 0
+
+character	sub_faction huns, Kandak, general, age 40, , x 327, y 148 
+
+army
+unit		hunnic warlords				exp 0 armour 0 weapon_lvl 0
+unit		tribal cavalry				exp 0 armour 0 weapon_lvl 0
+unit		steppe horse archers				exp 0 armour 0 weapon_lvl 0
+unit		steppe horse archers				exp 0 armour 0 weapon_lvl 0
+unit		levy spearmen sassanid				exp 0 armour 0 weapon_lvl 0
+unit		levy spearmen sassanid				exp 0 armour 0 weapon_lvl 0
+unit		levy spearmen sassanid				exp 0 armour 0 weapon_lvl 0
+unit		desert archers sassanid				exp 0 armour 0 weapon_lvl 0
+
+character	sub_faction huns, Kandak, general, age 40, , x 345, y 155 
+
+army
+unit		tribal cavalry				exp 0 armour 0 weapon_lvl 0
+unit		steppe horse archers				exp 0 armour 0 weapon_lvl 0
+unit		levy spearmen sassanid				exp 0 armour 0 weapon_lvl 0
+unit		levy spearmen sassanid				exp 0 armour 0 weapon_lvl 0
+unit		desert archers sassanid				exp 0 armour 0 weapon_lvl 0
+
+character	sub_faction huns, Kandak, general, age 40, , x 350, y 146 
+
+army
+unit		tribal cavalry				exp 0 armour 0 weapon_lvl 0
+unit		steppe horse archers				exp 0 armour 0 weapon_lvl 0
+unit		levy spearmen sassanid				exp 0 armour 0 weapon_lvl 0
+unit		levy spearmen sassanid				exp 0 armour 0 weapon_lvl 0
+unit		desert archers sassanid				exp 0 armour 0 weapon_lvl 0
+
+;;;INDIA
+character	sub_faction huns, Kandak, general, age 40, , x 371, y 152 
+
+army
+unit		hunnic warlords				exp 0 armour 0 weapon_lvl 0
+unit		merc elephants				exp 0 armour 0 weapon_lvl 0
+unit		tribal cavalry				exp 0 armour 0 weapon_lvl 0
+unit		steppe horse archers				exp 0 armour 0 weapon_lvl 0
+unit		steppe horse archers				exp 0 armour 0 weapon_lvl 0
+unit		levy spearmen sassanid				exp 0 armour 0 weapon_lvl 0
+unit		levy spearmen sassanid				exp 0 armour 0 weapon_lvl 0
+unit		levy spearmen sassanid				exp 0 armour 0 weapon_lvl 0
+unit		desert archers sassanid				exp 0 armour 0 weapon_lvl 0
+
+character	sub_faction sassanids, Buran, general, age 35, , x 370, y 158 
+
+army
+unit		merc elephants				exp 0 armour 0 weapon_lvl 0
+unit		levy spearmen sassanid				exp 0 armour 0 weapon_lvl 0
+unit		levy spearmen sassanid				exp 0 armour 0 weapon_lvl 0
+unit		desert archers sassanid				exp 0 armour 0 weapon_lvl 0
+
+character	sub_faction sassanids, Buran, general, age 35, , x 382, y 140 
+
+army
+unit		merc elephants				exp 0 armour 0 weapon_lvl 0
+unit		levy spearmen sassanid				exp 0 armour 0 weapon_lvl 0
+unit		levy spearmen sassanid				exp 0 armour 0 weapon_lvl 0
+unit		desert archers sassanid				exp 0 armour 0 weapon_lvl 0
+
+character	sub_faction sassanids, Buran, general, age 35, , x 371, y 125 
+
+army
+unit		merc elephants				exp 0 armour 0 weapon_lvl 0
+unit		levy spearmen sassanid				exp 0 armour 0 weapon_lvl 0
+unit		levy spearmen sassanid				exp 0 armour 0 weapon_lvl 0
+unit		desert archers sassanid				exp 0 armour 0 weapon_lvl 0
+
+character	sub_faction sassanids, Buran, general, age 35, , x 362, y 108 
+
+army
+unit		merc elephants				exp 0 armour 0 weapon_lvl 0
+unit		levy spearmen sassanid				exp 0 armour 0 weapon_lvl 0
+unit		levy spearmen sassanid				exp 0 armour 0 weapon_lvl 0
+unit		desert archers sassanid				exp 0 armour 0 weapon_lvl 0
+
+character	sub_faction sassanids, Buran, general, age 35, , x 360, y 94 
+
+army
+unit		merc elephants				exp 0 armour 0 weapon_lvl 0
+unit		levy spearmen sassanid				exp 0 armour 0 weapon_lvl 0
+unit		levy spearmen sassanid				exp 0 armour 0 weapon_lvl 0
+unit		desert archers sassanid				exp 0 armour 0 weapon_lvl 0
+
+character	sub_faction sassanids, Buran, general, age 35, , x 377, y 78 
+
+army
+unit		merc elephants				exp 0 armour 0 weapon_lvl 0
+unit		levy spearmen sassanid				exp 0 armour 0 weapon_lvl 0
+unit		levy spearmen sassanid				exp 0 armour 0 weapon_lvl 0
+unit		desert archers sassanid				exp 0 armour 0 weapon_lvl 0
+
+relative 	Adalwolf, 	 none, 	Brinno,	Gunderic,	Vadomar,	Chnonodemar,	end
 
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ; >>>> start of diplomacy section <<<<
