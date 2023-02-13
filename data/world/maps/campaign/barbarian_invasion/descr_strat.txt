@@ -3767,7 +3767,7 @@ unit		levy spearmen sassanid				exp 2 armour 0 weapon_lvl 0
 unit		desert archers sassanid				exp 0 armour 0 weapon_lvl 0
 unit		kurdish javelinmen				exp 0 armour 0 weapon_lvl 0
 
-character	Melchior, named character, age 31, , x 241, y 138
+character	Melchior, named character, age 31, , x 233, y 142
 traits GoodCommander 4 , GoodCavalryGeneral 1 , GoodInfantryGeneral 1 , Authoritarian 2 , PoliticsSkill 2 , AssassinMaster 1 , Zoroastrian 1
 ancillaries office_eran_spahbod
 army
@@ -3779,7 +3779,7 @@ unit		levy spearmen sassanid				exp 1 armour 0 weapon_lvl 0
 unit		desert archers sassanid				exp 0 armour 0 weapon_lvl 0
 unit		mountain slinger				exp 0 armour 0 weapon_lvl 0
 
-character	Artostes, general, age 38, , x 253, y 134
+character	Artostes, general, age 38, , x 250, y 125
 
 army
 unit		clibinarii				exp 0 armour 0 weapon_lvl 0
@@ -3790,7 +3790,7 @@ unit		desert archers sassanid				exp 0 armour 0 weapon_lvl 0
 unit		camel raiders				exp 0 armour 0 weapon_lvl 0
 unit		mountain slinger				exp 0 armour 0 weapon_lvl 0
 
-character	Valkas, general, age 38, , x 216, y 116
+character	Valkas, general, age 38, , x 296, y 141
 
 army
 unit		clibinarii				exp 0 armour 0 weapon_lvl 0
@@ -3800,7 +3800,7 @@ unit		levy spearmen sassanid				exp 0 armour 0 weapon_lvl 0
 unit		kurdish javelinmen				exp 0 armour 0 weapon_lvl 0
 unit		desert archers sassanid				exp 0 armour 0 weapon_lvl 0
 
-character	Buran, general, age 30, , x 228, y 106
+character	Buran, general, age 30, , x 222, y 112
 
 army
 unit		clibinarii immortals				exp 0 armour 0 weapon_lvl 0
@@ -3810,7 +3810,7 @@ unit		levy spearmen sassanid				exp 1 armour 0 weapon_lvl 0
 unit		levy spearmen sassanid				exp 1 armour 0 weapon_lvl 0
 unit		mountain slinger				exp 0 armour 0 weapon_lvl 0
 
-character	Fariel, general, age 32, , x 214, y 126
+character	Fariel, general, age 32, , x 279, y 99
 
 army
 unit		camel raiders				exp 0 armour 0 weapon_lvl 0
@@ -3818,10 +3818,10 @@ unit		levy spearmen sassanid				exp 2 armour 0 weapon_lvl 0
 unit		levy spearmen sassanid				exp 0 armour 0 weapon_lvl 0
 unit		mountain slinger				exp 0 armour 0 weapon_lvl 0
 
-character	Bagabigna, diplomat, age 38, , x 212, y 114
+character	Bagabigna, diplomat, age 38, , x 231, y 114
 traits GoodDiplomat 2 
 
-character	Artavardiya, assassin, age 32, , x 209, y 126 
+character	Artavardiya, assassin, age 32, , x 230, y 126 
 traits GoodAssassin 4 
 
 character	Bistam, spy, age 24, , x 233, y 147 
@@ -5910,7 +5910,7 @@ settlement
 	}
 }
 
-character	Valens Flavius, named character, leader, age 60, , x 160, y 129
+character	Valens Flavius, named character, leader, age 60, , x 161, y 128
 traits LoyaltyStarter 1,  RomanFactionleader 1, Christian 1, ChristianArianHeresy 2, ChristianProselytism 3, Unjust 1, Ignorance 1, DeceiverVirtue 1, AuthoritarianRomanVirtue 1, YellowBileHumour 1, BadRiskyAttacker 1
 ancillaries linguist, merchant, military_tribune, procurator, rhetorician
 army
@@ -5932,7 +5932,7 @@ unit		limitanei				exp 0 armour 0 weapon_lvl 0
 unit		limitanei				exp 0 armour 0 weapon_lvl 0
 unit		limitanei				exp 0 armour 0 weapon_lvl 0
 
-character	Julianus Flavius, named character, age 42, , x 138, y 124
+character	Julianus Flavius, named character, age 42, , x 151, y 130
 traits LoyaltyStarter 1, Pagan 1, BadAdministrator 1
 ancillaries office_amici_principis_east, playwright, judge, gladiator
 army
@@ -5941,7 +5941,7 @@ unit		equites auxilia				exp 0 armour 0 weapon_lvl 0
 unit		legio lanciarii				exp 0 armour 0 weapon_lvl 0
 unit		eastern archer				exp 0 armour 0 weapon_lvl 0
 
-character	Gnaeus Flavius, named character, age 40, , x 144, y 108
+character	Gnaeus Flavius, named character, age 40, , x 162, y 112
 traits LoyaltyStarter 1, Christian 1, GoodTaxman 1, HaleAndHearty 1, Lewd 1 
 ancillaries office_comes_domesticorum_equitum_east
 army
@@ -5950,7 +5950,7 @@ unit		limitanei				exp 0 armour 0 weapon_lvl 0
 unit		limitanei				exp 0 armour 0 weapon_lvl 0
 unit		eastern archer				exp 0 armour 0 weapon_lvl 0
 
-character	Luca Flavius, named character, age 39, , x 125, y 141
+character	Luca Flavius, named character, age 39, , x 175, y 151
 traits LoyaltyStarter 1, Christian 1, GoodAdministrator 3, GoodTrader 2, RaceFanGreen 1
 ancillaries office_magister_militum_east, trusty_steed, athlete, wine_steward
 army
@@ -5959,7 +5959,7 @@ unit		sassanid peasant				exp 0 armour 0 weapon_lvl 0
 unit		limitanei				exp 0 armour 0 weapon_lvl 0
 unit		limitanei				exp 0 armour 0 weapon_lvl 0
 
-character	Syagrius Flavius, named character, age 25, , x 156, y 110
+character	Syagrius Flavius, named character, age 25, , x 156, y 107
 traits LoyaltyStarter 1, Christian 1, GoodBuilder 1, BadTaxman 3, Superstitious 1, WellConnectedWife 1, RaceFanBlue 1
 ancillaries agriculturalist, charioteer, biographer 
 army
@@ -5969,7 +5969,7 @@ unit		eastern archer				exp 0 armour 0 weapon_lvl 0
 unit		limitanei				exp 0 armour 0 weapon_lvl 0
 unit		limitanei				exp 0 armour 0 weapon_lvl 0
 
-character	Honorius Flavius, named character, age 24, , x 146, y 94
+character	Honorius Flavius, named character, age 24, , x 195, y 135
 traits LoyaltyStarter 1, GoodCommander 3, Handsome 1,	ExpensiveTastes 1, Fertile 1, HatesSlave 1, Noctophobia 1, Pagan 1
 ancillaries office_magister_peditum_east
 army
@@ -5979,7 +5979,7 @@ unit		limitanei				exp 0 armour 0 weapon_lvl 0
 unit		limitanei				exp 0 armour 0 weapon_lvl 0
 unit		legio lanciarii				exp 0 armour 0 weapon_lvl 0
 
-character	Manius Flavius, named character, age 23, , x 154, y 144
+character	Manius Flavius, named character, age 23, , x 154, y 139
 traits LoyaltyStarter 1, GoodCommander 2, FearsEastern 1,	BlackBileHumour 1, Miserly 2, Pagan 1
 army
 unit		imperial household bodyguard				exp 0 armour 0 weapon_lvl 0
@@ -5990,7 +5990,7 @@ unit		limitanei				exp 0 armour 0 weapon_lvl 0
 unit		limitanei				exp 0 armour 0 weapon_lvl 0
 unit		limitanei				exp 0 armour 0 weapon_lvl 0
 
-character	Titus Flavius, named character, age 24, , x 174, y 122
+character	Titus Flavius, named character, age 24, , x 177, y 123
 traits LoyaltyStarter 1, Christian 1, GoodAdministrator 1, GoodBuilder 1 
 ancillaries office_magister_scrinii_east
 army
@@ -6000,7 +6000,7 @@ unit		legio lanciarii				exp 0 armour 0 weapon_lvl 0
 unit		limitanei				exp 0 armour 0 weapon_lvl 0
 unit		limitanei				exp 0 armour 0 weapon_lvl 0
 
-character	Equitius Flavius, named character, age 23, , x 194, y 113
+character	Equitius Flavius, named character, age 23, , x 210, y 114
 traits LoyaltyStarter 1, Christian 1, HarshJustice 2, BadEngineer 1, BadTaxman 3, BadAdministrator 1
 ancillaries office_magister_officiorum_east
 army
@@ -6022,7 +6022,7 @@ unit		limitanei				exp 0 armour 0 weapon_lvl 0
 unit		hippo toxotai				exp 0 armour 0 weapon_lvl 0
 unit		sassanid peasant				exp 0 armour 0 weapon_lvl 0
 
-character	Gainus Flavius, named character, age 21, , x 199, y 98
+character	Gainus Flavius, named character, age 21, , x 182, y 63
 traits LoyaltyStarter 1, Pagan 1, Anger 1, GoodFarmer 1
 ancillaries procurator, rhetorician
 army
@@ -6038,7 +6038,7 @@ unit		legio lanciarii				exp 0 armour 0 weapon_lvl 0
 unit		limitanei				exp 0 armour 0 weapon_lvl 0
 unit		limitanei				exp 0 armour 0 weapon_lvl 0
 
-character	Crispus Flavius, named character, age 22, , x 202, y 88
+character	Crispus Flavius, named character, age 22, , x 201, y 88
 traits LoyaltyStarter 1, Pagan 1, GoodCommander 2, RomanHero 2, RaceFanRed 1, GoodFarmer 3, GoodTaxman 3, GoodTrader 3, GoodAdministrator 2
 ancillaries scout, astrologer, tax_farmer, easterner_turncoat
 army
@@ -6058,7 +6058,7 @@ unit		limitanei				exp 0 armour 0 weapon_lvl 0
 unit		limitanei				exp 0 armour 0 weapon_lvl 0
 unit		limitanei				exp 0 armour 0 weapon_lvl 0
 
-character	Decentius Flavius, named character, age 20, , x 130, y 75 
+character	Decentius Flavius, named character, age 20, , x 132, y 77 
 traits LoyaltyStarter 1, Christian 1, Prim 1, ExpensiveTastes 1
 army
 unit		imperial household bodyguard				exp 0 armour 0 weapon_lvl 0
@@ -6066,7 +6066,7 @@ unit		limitanei				exp 0 armour 0 weapon_lvl 0
 unit		limitanei				exp 0 armour 0 weapon_lvl 0
 unit		eastern archer				exp 0 armour 0 weapon_lvl 0
 
-character	Asinius, general, age 38, , x 135, y 141
+character	Asinius, general, age 38, , x 150, y 140
 army
 unit		comitatenses				exp 0 armour 0 weapon_lvl 0
 unit		comitatenses				exp 0 armour 0 weapon_lvl 0
@@ -6076,7 +6076,7 @@ unit		limitanei				exp 0 armour 0 weapon_lvl 0
 unit		limitanei				exp 0 armour 0 weapon_lvl 0
 unit		limitanei				exp 0 armour 0 weapon_lvl 0
 
-character	Titus, general, age 43, , x 190, y 137
+character	Titus, general, age 43, , x 218, y 125
 
 army
 unit		sassanid peasant				exp 0 armour 0 weapon_lvl 0
@@ -6084,14 +6084,14 @@ unit		hippo toxotai				exp 0 armour 0 weapon_lvl 0
 unit		limitanei				exp 0 armour 0 weapon_lvl 0
 unit		limitanei				exp 0 armour 0 weapon_lvl 0
 
-character	Aulus, general, age 35, , x 208, y 141
+character	Aulus, general, age 35, , x 203, y 140
 
 army
 unit		sassanid peasant				exp 0 armour 0 weapon_lvl 0
 unit		hippo toxotai				exp 0 armour 0 weapon_lvl 0
 unit		limitanei				exp 0 armour 0 weapon_lvl 0
 
-character	Vibius Flavius, named character, age 19, , x 207, y 90
+character	Vibius Flavius, named character, age 19, , x 209, y 94
 traits LoyaltyStarter 1, Christian 1, RaceFanGreen 1
 army
 unit		imperial household bodyguard				exp 0 armour 0 weapon_lvl 0
@@ -6315,20 +6315,20 @@ settlement
 
 settlement
 {
-	level large_town
+	level city
 	region Baetica
 
-	year_founded 363
-	population 4562
+	year_founded 0
+	population 6662
 	plan_set default_set
 	faction_creator empire_west
 	building
 	{
-		type core_building governors_villa
+		type core_building governors_palace
 	}
 	building
 	{
-		type defenses wooden_wall
+		type defenses stone_wall
 	}
 	building
 	{
@@ -6336,19 +6336,19 @@ settlement
 	}
 	building
 	{
-		type hinterland_roads paved_roads
-	}
-	building
-	{
-		type port_buildings port
-	}
-	building
-	{
 		type barracks militia_barracks
 	}
 	building
 	{
-		type market trader
+		type market forum
+	}
+	building
+	{
+		type academic academy
+	}
+	building
+	{
+		type port_buildings shipwright
 	}
 	building
 	{
@@ -6356,7 +6356,7 @@ settlement
 	}
 	building
 	{
-		type hinterland_mines mines
+		type hinterland_roads paved_roads
 	}
 	building
 	{
@@ -8230,20 +8230,28 @@ settlement
 
 settlement
 {
-	level city
+	level large_town
 	region Gaditanus
 
-	year_founded 0
-	population 6600
+	year_founded 363
+	population 4500
 	plan_set default_set
 	faction_creator empire_west
 	building
 	{
-		type core_building governors_palace
+		type core_building governors_villa
 	}
 	building
 	{
-		type defenses stone_wall
+		type defenses wooden_wall
+	}
+	building
+	{
+		type hinterland_roads paved_roads
+	}
+	building
+	{
+		type port_buildings port
 	}
 	building
 	{
@@ -8251,19 +8259,11 @@ settlement
 	}
 	building
 	{
-		type market forum
+		type market trader
 	}
 	building
 	{
-		type academic academy
-	}
-	building
-	{
-		type port_buildings shipwright
-	}
-	building
-	{
-		type hinterland_roads paved_roads
+		type hinterland_mines mines
 	}
 }
 
@@ -9239,7 +9239,7 @@ unit		limitanei				exp 0 armour 0 weapon_lvl 0
 unit		limitanei				exp 0 armour 0 weapon_lvl 0
 unit		bucellarii				exp 0 armour 0 weapon_lvl 0
 
-character	Aulus Flavius, named character, age 45, , x 93, y 141
+character	Aulus Flavius, named character, age 45, , x 94, y 142
 traits LoyaltyStarter 1 , Pagan 1, Bloodthirsty 2 , Loyal 2 , InspiringSpeaker 2 , RabbleRouser 3 , BadFarmer 3 
 ancillaries drunken_uncle
 army
@@ -9249,7 +9249,7 @@ unit		foederati cavalry				exp 0 armour 0 weapon_lvl 0
 unit		foederati infantry				exp 0 armour 0 weapon_lvl 0
 unit		comitatenses				exp 0 armour 0 weapon_lvl 0
 
-character	Caius Flavius, named character, age 44, , x 79, y 171
+character	Caius Flavius, named character, age 44, , x 79, y 166
 traits LoyaltyStarter 1 , Christian 1, GoodDefender 2 , GoodCommander 1 , Brave 2 , VictorRomanVirtue 2 , Epicurean 2 
 ancillaries office_magister_militum_west
 army
@@ -9261,7 +9261,7 @@ unit		limitanei				exp 0 armour 0 weapon_lvl 0
 unit		limitanei				exp 0 armour 0 weapon_lvl 0
 unit		limitanei				exp 0 armour 0 weapon_lvl 0
 
-character	Cassius Flavius, named character, age 43, , x 67, y 138
+character	Cassius Flavius, named character, age 43, , x 69, y 137
 traits LoyaltyStarter 1 , Pagan 1, Intelligent 3 , Drink 2 , Gambling 3 , Epicurean 3 , Coward 3 , Generous 3 
 ancillaries drinking_companion
 army
@@ -9278,7 +9278,7 @@ unit		foederati cavalry				exp 0 armour 0 weapon_lvl 0
 unit		foederati cavalry				exp 0 armour 0 weapon_lvl 0
 unit		foederati cavalry				exp 0 armour 0 weapon_lvl 0
 
-character	Nero Flavius, named character, age 29, , x 77, y 178
+character	Nero Flavius, named character, age 29, , x 77, y 180
 traits LoyaltyStarter 1 , Christian 1, GoodCommander 2 , GoodAmbusher 2 , StrategicSkill 3 , Disloyal 2 , Corrupt 3, RaceFanRed 1 
 ancillaries office_magister_peditum_west, barbarian_slave, master_of_assassins
 army
@@ -9298,7 +9298,7 @@ unit		comitatenses				exp 0 armour 0 weapon_lvl 0
 unit		western archer				exp 0 armour 0 weapon_lvl 0
 unit		western archer				exp 0 armour 0 weapon_lvl 0
 
-character	Spurius Flavius, named character, age 24, , x 116, y 157 
+character	Spurius Flavius, named character, age 24, , x 118, y 157 
 traits LoyaltyStarter 1 , Christian 1, Intelligent 1 , TacticalSkill 3 , ReligiousMania 1 , NightBattleCapable 1 , ChristianConversion 3 , ChristianPoverty 3 , BadTaxman 3 
 ancillaries saint_marcella, relic_true_cross_splinters_3
 army
@@ -9320,7 +9320,7 @@ army
 unit		imperial german bodyguard				exp 0 armour 0 weapon_lvl 0
 unit		limitanei				exp 0 armour 0 weapon_lvl 0
 
-character	Appius Flavius, named character, age 25, , x 82, y 101
+character	Appius Flavius, named character, age 25, , x 84, y 99
 traits LoyaltyStarter 1 , Christian 1, Epicurean 3 , ApicianRomanVice 2 , Gambling 2 , Inbred 2 , WellConnectedWife 2, RaceFanGreen 1 
 ancillaries chirugeon, cook, herald, mercenary_captain, wilderness_prophet
 army
@@ -9328,7 +9328,7 @@ unit		imperial german bodyguard				exp 0 armour 0 weapon_lvl 0
 unit		limitanei				exp 0 armour 0 weapon_lvl 0
 unit		foederati infantry				exp 0 armour 0 weapon_lvl 0
 
-character	Decimus Flavius, named character, age 26, , x 79, y 113
+character	Decimus Flavius, named character, age 26, , x 49, y 103
 traits LoyaltyStarter 1 , Christian 1, PlainRomanVirtue 2 , Energetic 2 , Loyal 2 , GoodAdministrator 2 , NaturalPhilosophySkill 2 , GoodTrader 2 
 ancillaries office_magister_scrinii_west
 army
@@ -9343,21 +9343,21 @@ army
 unit		imperial german bodyguard				exp 0 armour 0 weapon_lvl 0
 unit		western archer				exp 0 armour 0 weapon_lvl 0
 
-character	Marcellus Flavius, named character, age 28, , x 14, y 135
+character	Marcellus Flavius, named character, age 28, , x 123, y 125
 traits LoyaltyStarter 1 , Pagan 1, BloodHumour 2 , GoodCommander 3 , GoodSiegeAttacker 3 , GoodAdministrator 2 , ArchitectSkill 2 , RomanHero 2 
 ancillaries siege_engineer, treasurer
 army
 unit		imperial german bodyguard				exp 0 armour 0 weapon_lvl 0
 unit		foederati infantry				exp 0 armour 0 weapon_lvl 0
 
-character	Servius Flavius, named character, age 28, , x 17, y 114
+character	Servius Flavius, named character, age 28, , x 12, y 115
 traits LoyaltyStarter 1 , Christian 1, Counterspy 2 , HighPersonalSecurity 2 , DeceiverVirtue 3 , Intelligent 1 , AssassinMaster 3 
 ancillaries spymaster, master_of_assassins, famous_courtesan, office_amici_principis_west
 army
 unit		imperial german bodyguard				exp 0 armour 0 weapon_lvl 0
 unit		western archer				exp 0 armour 0 weapon_lvl 0
 
-character	Publius Flavius, named character, age 29, , x 36, y 114
+character	Publius Flavius, named character, age 29, , x 138, y 122
 traits LoyaltyStarter 1 , Pagan 1, Loyal 2 , RhetoricSkill 3 , Handsome 3 , Unjust 1 , Liar 2 , Drink 3 , Corrupt 3 , ExpensiveTastes 3 
 ancillaries aged_retainer, crooked_judge, librarian
 army
@@ -9370,7 +9370,7 @@ unit		foederati cavalry				exp 0 armour 0 weapon_lvl 0
 unit		western archer				exp 0 armour 0 weapon_lvl 0
 unit		western archer				exp 0 armour 0 weapon_lvl 0
 
-character	Oppius Flavius, named character, age 28, , x 62, y 140
+character	Oppius Flavius, named character, age 28, , x 66, y 150
 traits LoyaltyStarter 1 , Pagan 1, GoodCommander 2 , Disciplinarian 1 , Brave 3 , HaleAndHearty 2 , LogisticalSkill 2 , Disloyal 1 
 ancillaries quartermaster
 army
@@ -9378,7 +9378,7 @@ unit		imperial german bodyguard				exp 0 armour 0 weapon_lvl 0
 unit		foederati infantry				exp 0 armour 0 weapon_lvl 0
 unit		foederati cavalry				exp 0 armour 0 weapon_lvl 0
 
-character	Placus Flavius, named character, age 27, , x 55, y 196 
+character	Placus Flavius, named character, age 27, , x 51, y 192 
 traits LoyaltyStarter 1 , Pagan 1, GoodAttacker 3 , GoodCavalryGeneral 3 , BadInfantryGeneral 2 , Handsome 3 , Genocide 1 , RaceFanWhite 1
 ancillaries trusty_steed, master_of_horse, office_dux_britannium
 army
@@ -9391,7 +9391,7 @@ unit		limitanei				exp 0 armour 0 weapon_lvl 0
 unit		limitanei				exp 0 armour 0 weapon_lvl 0
 unit		sarmatian auxilia				exp 0 armour 0 weapon_lvl 0
 
-character	Eutropius Flavius, named character, age 27, , x 106, y 101
+character	Eutropius Flavius, named character, age 27, , x 127, y 144
 traits LoyaltyStarter 1 , Pagan 1, GoodCommander 3 , GoodAdministrator 2 , GoodFarmer 1 , PlainRomanVirtue 1, RaceFanBlue 1 
 ancillaries wine_steward, master_smith
 army
@@ -9402,7 +9402,7 @@ unit		comitatenses				exp 0 armour 0 weapon_lvl 0
 unit		comitatenses				exp 0 armour 0 weapon_lvl 0
 unit		comitatenses				exp 0 armour 0 weapon_lvl 0
 
-character	Gratianus Flavius, named character, age 25, , x 84, y 158 
+character	Gratianus Flavius, named character, age 25, , x 84, y 155 
 traits LoyaltyStarter 1 , Christian 1, GoodCommander 4 , BlackBileHumour 3 , Disciplinarian 3 , Coward 3 , LaxPersonalSecurity 2 , FearsBarbarian 3 
 ancillaries office_magister_memoriae_west, bad_poet
 army
@@ -9413,7 +9413,7 @@ unit		limitanei				exp 0 armour 0 weapon_lvl 0
 unit		limitanei				exp 0 armour 0 weapon_lvl 0
 unit		limitanei				exp 0 armour 0 weapon_lvl 0
 
-character	Kaeso Alienus, general, age 40, , x 55, y 158 
+character	Kaeso Alienus, general, age 40, , x 57, y 158 
 
 army
 unit		comitatenses				exp 0 armour 0 weapon_lvl 0
@@ -9425,7 +9425,7 @@ unit		limitanei				exp 0 armour 0 weapon_lvl 0
 unit		western archer				exp 0 armour 0 weapon_lvl 0
 unit		foederati cavalry				exp 0 armour 0 weapon_lvl 0
 
-character	Julianus Alienus, general, age 32, , x 61, y 174 
+character	Julianus Alienus, general, age 32, , x 67, y 172 
 
 army
 unit		western archer				exp 0 armour 0 weapon_lvl 0
@@ -9442,21 +9442,24 @@ unit		limitanei				exp 0 armour 0 weapon_lvl 0
 unit		limitanei				exp 0 armour 0 weapon_lvl 0
 unit		limitanei				exp 0 armour 0 weapon_lvl 0
 
-character	Galerius Fonteius, general, age 36, , x 43, y 134
+character	Galerius Fonteius, general, age 36, , x 20, y 138
 
 army
 unit		foederati cavalry				exp 0 armour 0 weapon_lvl 0
+unit		foederati cavalry				exp 0 armour 0 weapon_lvl 0
+unit		comitatenses				exp 0 armour 0 weapon_lvl 0
+unit		comitatenses				exp 0 armour 0 weapon_lvl 0
 unit		foederati infantry				exp 0 armour 0 weapon_lvl 0
 unit		foederati infantry				exp 0 armour 0 weapon_lvl 0
 unit		western archer				exp 0 armour 0 weapon_lvl 0
 
-character	Lentulus Ammianus, general, age 40, , x 117, y 131 
+character	Lentulus Ammianus, general, age 40, , x 112, y 134 
 
 army
 unit		foederati cavalry				exp 0 armour 0 weapon_lvl 0
 unit		foederati infantry				exp 0 armour 0 weapon_lvl 0
 
-character	Gnaeus, general, age 29, , x 104, y 161 
+character	Gnaeus, general, age 29, , x 99, y 160 
 
 army
 unit		foederati cavalry				exp 0 armour 0 weapon_lvl 0
@@ -9510,7 +9513,7 @@ unit		naval triremes				exp 0 armour 0 weapon_lvl 0
 character	Magnus Drusus, diplomat, age 34, , x 76, y 161 
 traits GoodDiplomat 2, Christian 1
 
-character	Gaius Fabricius, diplomat, age 28, , x 18, y 110 
+character	Gaius Fabricius, diplomat, age 28, , x 18, y 100 
 traits GoodDiplomat 1, Pagan 1 
 
 character	Constans Labienus, diplomat, age 50, , x 111, y 153 
