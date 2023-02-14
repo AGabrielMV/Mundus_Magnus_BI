@@ -3818,6 +3818,170 @@ unit		levy spearmen sassanid				exp 2 armour 0 weapon_lvl 0
 unit		levy spearmen sassanid				exp 0 armour 0 weapon_lvl 0
 unit		mountain slinger				exp 0 armour 0 weapon_lvl 0
 
+character	Fariel, general, age 30, , x 243, y 156
+
+army
+unit		levy spearmen sassanid				exp 0 armour 0 weapon_lvl 0
+unit		mountain slinger				exp 0 armour 0 weapon_lvl 0
+
+character	Fariel, general, age 30, , x 243, y 145
+
+army
+unit		levy spearmen sassanid				exp 0 armour 0 weapon_lvl 0
+unit		levy spearmen sassanid				exp 0 armour 0 weapon_lvl 0
+unit		mountain slinger				exp 0 armour 0 weapon_lvl 0
+
+character	Fariel, general, age 30, , x 239, y 139
+
+army
+unit		levy spearmen sassanid				exp 2 armour 0 weapon_lvl 0
+unit		levy spearmen sassanid				exp 0 armour 0 weapon_lvl 0
+unit		mountain slinger				exp 0 armour 0 weapon_lvl 0
+
+character	Fariel, general, age 30, , x 238, y 131
+
+army
+unit		camel raiders				exp 0 armour 0 weapon_lvl 0
+unit		levy spearmen sassanid				exp 2 armour 0 weapon_lvl 0
+unit		levy spearmen sassanid				exp 0 armour 0 weapon_lvl 0
+unit		mountain slinger				exp 0 armour 0 weapon_lvl 0
+
+character	Fariel, general, age 30, , x 227, y 114
+
+army
+unit		levy spearmen sassanid				exp 2 armour 0 weapon_lvl 0
+unit		levy spearmen sassanid				exp 0 armour 0 weapon_lvl 0
+unit		mountain slinger				exp 0 armour 0 weapon_lvl 0
+
+character	Fariel, general, age 30, , x 257, y 98
+
+army
+unit		levy spearmen sassanid				exp 2 armour 0 weapon_lvl 0
+unit		levy spearmen sassanid				exp 0 armour 0 weapon_lvl 0
+unit		mountain slinger				exp 0 armour 0 weapon_lvl 0
+
+character	Fariel, general, age 30, , x 259, y 110
+
+army
+unit		levy spearmen sassanid				exp 2 armour 0 weapon_lvl 0
+unit		levy spearmen sassanid				exp 0 armour 0 weapon_lvl 0
+unit		mountain slinger				exp 0 armour 0 weapon_lvl 0
+
+character	Fariel, general, age 30, , x 255, y 139
+
+army
+unit		levy spearmen sassanid				exp 0 armour 0 weapon_lvl 0
+unit		mountain slinger				exp 0 armour 0 weapon_lvl 0
+
+character	Fariel, general, age 30, , x 267, y 135
+
+army
+unit		levy spearmen sassanid				exp 2 armour 0 weapon_lvl 0
+unit		levy spearmen sassanid				exp 0 armour 0 weapon_lvl 0
+unit		mountain slinger				exp 0 armour 0 weapon_lvl 0
+
+character	Fariel, general, age 30, , x 264, y 127
+
+army
+unit		levy spearmen sassanid				exp 2 armour 0 weapon_lvl 0
+unit		levy spearmen sassanid				exp 0 armour 0 weapon_lvl 0
+unit		mountain slinger				exp 0 armour 0 weapon_lvl 0
+
+character	Fariel, general, age 30, , x 274, y 114
+
+army
+unit		levy spearmen sassanid				exp 2 armour 0 weapon_lvl 0
+unit		levy spearmen sassanid				exp 0 armour 0 weapon_lvl 0
+unit		mountain slinger				exp 0 armour 0 weapon_lvl 0
+
+character	Fariel, general, age 30, , x 278, y 142
+
+army
+unit		levy spearmen sassanid				exp 2 armour 0 weapon_lvl 0
+unit		levy spearmen sassanid				exp 0 armour 0 weapon_lvl 0
+unit		mountain slinger				exp 0 armour 0 weapon_lvl 0
+
+character	Fariel, general, age 30, , x 274, y 159
+
+army
+unit		levy spearmen sassanid				exp 0 armour 0 weapon_lvl 0
+unit		mountain slinger				exp 0 armour 0 weapon_lvl 0
+
+character	Fariel, general, age 30, , x 306, y 152
+
+army
+unit		levy spearmen sassanid				exp 2 armour 0 weapon_lvl 0
+unit		levy spearmen sassanid				exp 0 armour 0 weapon_lvl 0
+unit		mountain slinger				exp 0 armour 0 weapon_lvl 0
+
+character	Fariel, general, age 30, , x 319, y 135
+
+army
+unit		levy spearmen sassanid				exp 2 armour 0 weapon_lvl 0
+unit		levy spearmen sassanid				exp 0 armour 0 weapon_lvl 0
+unit		mountain slinger				exp 0 armour 0 weapon_lvl 0
+
+character	Fariel, general, age 30, , x 305, y 111
+
+army
+unit		levy spearmen sassanid				exp 2 armour 0 weapon_lvl 0
+unit		levy spearmen sassanid				exp 0 armour 0 weapon_lvl 0
+unit		mountain slinger				exp 0 armour 0 weapon_lvl 0
+
+character	Fariel, general, age 30, , x 306, y 90
+
+army
+unit		levy spearmen sassanid				exp 2 armour 0 weapon_lvl 0
+unit		levy spearmen sassanid				exp 0 armour 0 weapon_lvl 0
+unit		mountain slinger				exp 0 armour 0 weapon_lvl 0
+
+character	Fariel, general, age 30, , x 275, y 74
+
+army
+unit		levy spearmen sassanid				exp 0 armour 0 weapon_lvl 0
+unit		mountain slinger				exp 0 armour 0 weapon_lvl 0
+
+character	Fariel, general, age 30, , x 308, y 74
+
+army
+unit		levy spearmen sassanid				exp 0 armour 0 weapon_lvl 0
+unit		mountain slinger				exp 0 armour 0 weapon_lvl 0
+
+character	Fariel, general, age 30, , x 328, y 85
+
+army
+unit		levy spearmen sassanid				exp 2 armour 0 weapon_lvl 0
+unit		levy spearmen sassanid				exp 0 armour 0 weapon_lvl 0
+unit		mountain slinger				exp 0 armour 0 weapon_lvl 0
+
+character	Fariel, general, age 30, , x 326, y 96
+
+army
+unit		levy spearmen sassanid				exp 2 armour 0 weapon_lvl 0
+unit		levy spearmen sassanid				exp 0 armour 0 weapon_lvl 0
+unit		mountain slinger				exp 0 armour 0 weapon_lvl 0
+
+character	Fariel, general, age 30, , x 325, y 122
+
+army
+unit		levy spearmen sassanid				exp 2 armour 0 weapon_lvl 0
+unit		levy spearmen sassanid				exp 0 armour 0 weapon_lvl 0
+unit		mountain slinger				exp 0 armour 0 weapon_lvl 0
+
+character	Fariel, general, age 30, , x 339, y 117
+
+army
+unit		levy spearmen sassanid				exp 2 armour 0 weapon_lvl 0
+unit		levy spearmen sassanid				exp 0 armour 0 weapon_lvl 0
+unit		mountain slinger				exp 0 armour 0 weapon_lvl 0
+
+character	Fariel, general, age 30, , x 347, y 97
+
+army
+unit		levy spearmen sassanid				exp 2 armour 0 weapon_lvl 0
+unit		levy spearmen sassanid				exp 0 armour 0 weapon_lvl 0
+unit		mountain slinger				exp 0 armour 0 weapon_lvl 0
+
 character	Bagabigna, diplomat, age 38, , x 231, y 114
 traits GoodDiplomat 2 
 
