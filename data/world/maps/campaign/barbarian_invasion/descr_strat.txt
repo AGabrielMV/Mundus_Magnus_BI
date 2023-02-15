@@ -6266,6 +6266,177 @@ unit		limitanei				exp 0 armour 0 weapon_lvl 0
 unit		limitanei				exp 0 armour 0 weapon_lvl 0
 unit		limitanei				exp 0 armour 0 weapon_lvl 0
 
+character	Aulus, general, age 30, , x 161, y 155
+
+army
+unit		eastern archer				exp 0 armour 0 weapon_lvl 0
+unit		limitanei				exp 0 armour 0 weapon_lvl 0
+
+character	Aulus, general, age 30, , x 158, y 144
+
+army
+unit		hippo toxotai				exp 0 armour 0 weapon_lvl 0
+unit		eastern archer				exp 0 armour 0 weapon_lvl 0
+unit		limitanei				exp 0 armour 0 weapon_lvl 0
+unit		limitanei				exp 0 armour 0 weapon_lvl 0
+
+character	Aulus, general, age 30, , x 144, y 131
+
+army
+unit		limitanei				exp 0 armour 0 weapon_lvl 0
+unit		sassanid peasant				exp 0 armour 0 weapon_lvl 0
+
+character	Aulus, general, age 30, , x 165, y 128
+
+army
+unit		hippo toxotai				exp 0 armour 0 weapon_lvl 0
+unit		eastern archer				exp 0 armour 0 weapon_lvl 0
+unit		limitanei				exp 0 armour 0 weapon_lvl 0
+unit		limitanei				exp 0 armour 0 weapon_lvl 0
+unit		limitanei				exp 0 armour 0 weapon_lvl 0
+
+character	Aulus, general, age 30, , x 156, y 123
+
+army
+unit		eastern archer				exp 0 armour 0 weapon_lvl 0
+unit		limitanei				exp 0 armour 0 weapon_lvl 0
+unit		sassanid peasant				exp 0 armour 0 weapon_lvl 0
+
+character	Aulus, general, age 30, , x 163, y 107
+
+army
+unit		eastern archer				exp 0 armour 0 weapon_lvl 0
+unit		sassanid peasant				exp 0 armour 0 weapon_lvl 0
+
+character	Aulus, general, age 30, , x 162, y 102
+
+army
+unit		sassanid peasant				exp 0 armour 0 weapon_lvl 0
+
+character	Aulus, general, age 30, , x 172, y 103
+
+army
+unit		eastern archer				exp 0 armour 0 weapon_lvl 0
+unit		sassanid peasant				exp 0 armour 0 weapon_lvl 0
+
+character	Aulus, general, age 30, , x 170, y 115
+
+army
+unit		eastern archer				exp 0 armour 0 weapon_lvl 0
+unit		limitanei				exp 0 armour 0 weapon_lvl 0
+
+character	Aulus, general, age 30, , x 182, y 131
+
+army
+unit		eastern archer				exp 0 armour 0 weapon_lvl 0
+unit		limitanei				exp 0 armour 0 weapon_lvl 0
+unit		hippo toxotai				exp 0 armour 0 weapon_lvl 0
+
+character	Aulus, general, age 30, , x 180, y 113
+
+army
+unit		eastern archer				exp 0 armour 0 weapon_lvl 0
+unit		limitanei				exp 0 armour 0 weapon_lvl 0
+
+character	Aulus, general, age 30, , x 177, y 108
+
+army
+unit		limitanei				exp 0 armour 0 weapon_lvl 0
+unit		sassanid peasant				exp 0 armour 0 weapon_lvl 0
+
+character	Aulus, general, age 30, , x 187, y 106
+
+army
+unit		eastern archer				exp 0 armour 0 weapon_lvl 0
+unit		sassanid peasant				exp 0 armour 0 weapon_lvl 0
+
+character	Aulus, general, age 30, , x 190, y 112
+
+army
+unit		eastern archer				exp 0 armour 0 weapon_lvl 0
+unit		limitanei				exp 0 armour 0 weapon_lvl 0
+unit		sassanid peasant				exp 0 armour 0 weapon_lvl 0
+
+character	Aulus, general, age 30, , x 198, y 129
+
+army
+unit		eastern archer				exp 0 armour 0 weapon_lvl 0
+unit		limitanei				exp 0 armour 0 weapon_lvl 0
+unit		limitanei				exp 0 armour 0 weapon_lvl 0
+
+character	Aulus, general, age 30, , x 206, y 126
+
+army
+unit		hippo toxotai				exp 0 armour 0 weapon_lvl 0
+unit		eastern archer				exp 0 armour 0 weapon_lvl 0
+unit		limitanei				exp 0 armour 0 weapon_lvl 0
+unit		limitanei				exp 0 armour 0 weapon_lvl 0
+
+character	Aulus, general, age 30, , x 206, y 112
+
+army
+unit		eastern archer				exp 0 armour 0 weapon_lvl 0
+unit		limitanei				exp 0 armour 0 weapon_lvl 0
+
+character	Aulus, general, age 30, , x 212, y 102
+
+army
+unit		eastern archer				exp 0 armour 0 weapon_lvl 0
+unit		limitanei				exp 0 armour 0 weapon_lvl 0
+unit		limitanei				exp 0 armour 0 weapon_lvl 0
+
+character	Aulus, general, age 30, , x 205, y 102
+
+army
+unit		eastern archer				exp 0 armour 0 weapon_lvl 0
+unit		limitanei				exp 0 armour 0 weapon_lvl 0
+
+character	Aulus, general, age 30, , x 199, y 96
+
+army
+unit		eastern archer				exp 0 armour 0 weapon_lvl 0
+unit		sassanid peasant				exp 0 armour 0 weapon_lvl 0
+
+character	Aulus, general, age 30, , x 203, y 92
+
+army
+unit		eastern archer				exp 0 armour 0 weapon_lvl 0
+unit		limitanei				exp 0 armour 0 weapon_lvl 0
+unit		hippo toxotai				exp 0 armour 0 weapon_lvl 0
+
+character	Aulus, general, age 30, , x 205, y 72
+
+army
+unit		eastern archer				exp 0 armour 0 weapon_lvl 0
+unit		limitanei				exp 0 armour 0 weapon_lvl 0
+unit		limitanei				exp 0 armour 0 weapon_lvl 0
+
+character	Aulus, general, age 30, , x 189, y 77
+
+army
+unit		eastern archer				exp 0 armour 0 weapon_lvl 0
+unit		limitanei				exp 0 armour 0 weapon_lvl 0
+
+character	Aulus, general, age 30, , x 184, y 57
+
+army
+unit		eastern archer				exp 0 armour 0 weapon_lvl 0
+unit		legio lanciarii				exp 0 armour 0 weapon_lvl 0
+unit		comitatenses				exp 0 armour 0 weapon_lvl 0
+
+character	Aulus, general, age 30, , x 190, y 52
+
+army
+unit		eastern archer				exp 0 armour 0 weapon_lvl 0
+unit		limitanei				exp 0 armour 0 weapon_lvl 0
+unit		hippo toxotai				exp 0 armour 0 weapon_lvl 0
+
+character	Aulus, general, age 30, , x 164, y 75
+
+army
+unit		eastern archer				exp 0 armour 0 weapon_lvl 0
+unit		limitanei				exp 0 armour 0 weapon_lvl 0
+
 character	Olybrius, admiral, age 40, , x 175, y 80
 
 army
