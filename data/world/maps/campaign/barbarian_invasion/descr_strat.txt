@@ -59,9 +59,9 @@ resource	amber, 1,	93,	192
 resource	amber, 1,	113,	195
 resource	amber, 1,	108,	193
 resource	amber, 1,	115,	197
-resource        amber, 1,  125,    209
-resource        amber, 1,   103,   202
-resource        amber, 1,   123,   197
+resource	amber, 1,  125,    209
+resource	amber, 1,   103,   202
+resource	amber, 1,   123,   197
 resource	camels, 1,	247,	195
 resource	camels, 1,	262,	125
 resource	camels, 1,	217,	114
@@ -140,60 +140,60 @@ resource	copper, 1,	26,	95
 resource	copper, 1,	27,	95
 resource	copper, 1,	185,	99
 resource	copper, 1,	184,	98
-resource        copper, 1, 76,    156
-resource        copper, 1, 78,    157
-resource        copper, 1,  140,   103
-resource        copper, 1,  127,   124
-resource        copper, 1,  126,   127
-resource        copper, 1,  135,   117
-resource        copper, 1,  134,   118
-resource        copper, 1,  222,   124
-resource        copper, 1,  224,   122
-resource        copper, 1,  237,   127
-resource        copper, 1,  234,   126
-resource        copper, 1,  243,   118
-resource        copper, 1,  241,   119
-resource        copper, 1,  261,   109
-resource        copper, 1,  262,   108
-resource        copper, 1,  195,   116
-resource        copper, 1,  191,   116
-resource        copper, 1,  249,   217
-resource        copper, 1,  251,   216
-resource        copper, 1,  306,   212
-resource        copper, 1,  303,   213
-resource        copper, 1,  326,   219
-resource        copper, 1,  325,   222
-resource        copper, 1,  325,   175
-resource        copper, 1,  327,   177
-resource        copper, 1,  284,   119
-resource        copper, 1,  287,   117
-resource        copper, 1,  87,   29
-resource        copper, 1,  89,   27
-resource        copper, 1,  180,   17
-resource        copper, 1,  182,   15
-resource        copper, 1,  26,   118
-resource        copper, 1,  25,   118
-resource        copper, 1,  24,   114
-resource        copper, 1,  25,   113
-resource        copper, 1,  130,   146
-resource        copper, 1,  131,   148
-resource        copper, 1,  146,   133
-resource        copper, 1,  144,   133
-resource        copper, 1,  201,   137
-resource        copper, 1,  199,   136
-resource        copper, 1,  244,   135
-resource        copper, 1,  244,   133
-resource        copper, 1,  345,   114
-resource        copper, 1,  346,   110
-resource        copper, 1,  346,   106
-resource        copper, 1,  338,   95
-resource        copper, 1,  336,   96
-resource        copper, 1,  324,   92
-resource        copper, 1,  323,   130
-resource        copper, 1,  322,   131
-resource        copper, 1,  297,   112
-resource        copper, 1,  304,   69
-resource        copper, 1,  307,   67
+resource	copper, 1, 76,    156
+resource	copper, 1, 78,    157
+resource	copper, 1,  140,   103
+resource	copper, 1,  127,   124
+resource	copper, 1,  126,   127
+resource	copper, 1,  135,   117
+resource	copper, 1,  134,   118
+resource	copper, 1,  222,   124
+resource	copper, 1,  224,   122
+resource	copper, 1,  237,   127
+resource	copper, 1,  234,   126
+resource	copper, 1,  243,   118
+resource	copper, 1,  241,   119
+resource	copper, 1,  261,   109
+resource	copper, 1,  262,   108
+resource	copper, 1,  195,   116
+resource	copper, 1,  191,   116
+resource	copper, 1,  249,   217
+resource	copper, 1,  251,   216
+resource	copper, 1,  306,   212
+resource	copper, 1,  303,   213
+resource	copper, 1,  326,   219
+resource	copper, 1,  325,   222
+resource	copper, 1,  325,   175
+resource	copper, 1,  327,   177
+resource	copper, 1,  284,   119
+resource	copper, 1,  287,   117
+resource	copper, 1,  87,   29
+resource	copper, 1,  89,   27
+resource	copper, 1,  180,   17
+resource	copper, 1,  182,   15
+resource	copper, 1,  26,   118
+resource	copper, 1,  25,   118
+resource	copper, 1,  24,   114
+resource	copper, 1,  25,   113
+resource	copper, 1,  130,   146
+resource	copper, 1,  131,   148
+resource	copper, 1,  146,   133
+resource	copper, 1,  144,   133
+resource	copper, 1,  201,   137
+resource	copper, 1,  199,   136
+resource	copper, 1,  244,   135
+resource	copper, 1,  244,   133
+resource	copper, 1,  345,   114
+resource	copper, 1,  346,   110
+resource	copper, 1,  346,   106
+resource	copper, 1,  338,   95
+resource	copper, 1,  336,   96
+resource	copper, 1,  324,   92
+resource	copper, 1,  323,   130
+resource	copper, 1,  322,   131
+resource	copper, 1,  297,   112
+resource	copper, 1,  304,   69
+resource	copper, 1,  307,   67
 resource	dogs, 1,	124,	212
 resource	dogs, 1,	134,	221
 resource	dogs, 1,	138,	223
@@ -272,24 +272,24 @@ resource	gold, 1,	196,	53
 resource	gold, 1,	187,	99
 resource	gold, 1,	114,	140
 resource	gold, 1,	151,	126
-resource        gold, 1,   169,    114
-resource        gold, 1,   133,   124
-resource        gold, 1,   144,   125
-resource        gold, 1,   173,   128
-resource        gold, 1,   217,   137
-resource        gold, 1,   252,   226
-resource        gold, 1,   327,   161
-resource        gold, 1,   322,   164
-resource        gold, 1,   253,   28
-resource        gold, 1,   229,   2
-resource        gold, 1,   214,   13
-resource        gold, 1,   321,   96
-resource        gold, 1,   253,   121
-resource        gold, 1,   376,   163
-resource        gold, 1,   356,   98
-resource        gold, 1,   331,   116
-resource        gold, 1,   295,   127
-resource        gold, 1,   94,   160
+resource	gold, 1,   169,    114
+resource	gold, 1,   133,   124
+resource	gold, 1,   144,   125
+resource	gold, 1,   173,   128
+resource	gold, 1,   217,   137
+resource	gold, 1,   252,   226
+resource	gold, 1,   327,   161
+resource	gold, 1,   322,   164
+resource	gold, 1,   253,   28
+resource	gold, 1,   229,   2
+resource	gold, 1,   214,   13
+resource	gold, 1,   321,   96
+resource	gold, 1,   253,   121
+resource	gold, 1,   376,   163
+resource	gold, 1,   356,   98
+resource	gold, 1,   331,   116
+resource	gold, 1,   295,   127
+resource	gold, 1,   94,   160
 resource	grain, 1,	103,	100
 resource	grain, 1,	84,	97
 resource	grain, 1,	190,	171
@@ -304,20 +304,20 @@ resource	hides, 1,	68,	165
 resource	hides, 1,	87,	186
 resource	hides, 1,	161,	168
 resource	hides, 1,	158,	165
-resource        hides, 1,  220,    180
-resource        hides, 1,  215,    174
-resource        hides, 1,  223,    196
-resource        hides, 1,  198,    184
-resource        hides, 1,  209,    209
-resource        hides, 1,  124,    153
-resource        hides, 1,  232,    203
-resource        hides, 1,  374,    224
-resource        hides, 1,  366,    221
-resource        hides, 1,  275,    148
-resource        hides, 1,  315,    218
-resource        hides, 1,  98,    49
-resource        hides, 1,  42,    67
-resource        hides, 1,  104,    175
+resource	hides, 1,  220,    180
+resource	hides, 1,  215,    174
+resource	hides, 1,  223,    196
+resource	hides, 1,  198,    184
+resource	hides, 1,  209,    209
+resource	hides, 1,  124,    153
+resource	hides, 1,  232,    203
+resource	hides, 1,  374,    224
+resource	hides, 1,  366,    221
+resource	hides, 1,  275,    148
+resource	hides, 1,  315,    218
+resource	hides, 1,  98,    49
+resource	hides, 1,  42,    67
+resource	hides, 1,  104,    175
 resource	incense, 1,	373,	80
 resource	incense, 1,	375,	78
 resource	incense, 1,	379,	77
@@ -382,31 +382,31 @@ resource	iron, 1,	106,	154
 resource	iron, 1,	111,	141
 resource	iron, 1,	140,	111
 resource	iron, 1,	141,	111
-resource        iron, 1,   80,     128
-resource        iron, 1,   81,     132
-resource        iron, 1,    141,   101
-resource        iron, 1,   158,   117
-resource        iron, 1,   153,   120
-resource        iron, 1,   99,   211
-resource        iron, 1,   103,   210
-resource        iron, 1,   257,   216
-resource        iron, 1,   249,   224
-resource        iron, 1,   257,   228
-resource        iron, 1,   268,   222
-resource        iron, 1,   266,   220
-resource        iron, 1,   333,   231
-resource        iron, 1,   331,   232
-resource        iron, 1,   306,   105
-resource        iron, 1,   307,   103
-resource        iron, 1,   194,   39
-resource        iron, 1,   195,   37
-resource        iron, 1,   32,   135
-resource        iron, 1,   78,   93
-resource        iron, 1,   77,   94
-resource        iron, 1,   123,   168
-resource        iron, 1,   122,   169
-resource        iron, 1,   170,   183
-resource        iron, 1,   168,   186
+resource	iron, 1,   80,     128
+resource	iron, 1,   81,     132
+resource	iron, 1,    141,   101
+resource	iron, 1,   158,   117
+resource	iron, 1,   153,   120
+resource	iron, 1,   99,   211
+resource	iron, 1,   103,   210
+resource	iron, 1,   257,   216
+resource	iron, 1,   249,   224
+resource	iron, 1,   257,   228
+resource	iron, 1,   268,   222
+resource	iron, 1,   266,   220
+resource	iron, 1,   333,   231
+resource	iron, 1,   331,   232
+resource	iron, 1,   306,   105
+resource	iron, 1,   307,   103
+resource	iron, 1,   194,   39
+resource	iron, 1,   195,   37
+resource	iron, 1,   32,   135
+resource	iron, 1,   78,   93
+resource	iron, 1,   77,   94
+resource	iron, 1,   123,   168
+resource	iron, 1,   122,   169
+resource	iron, 1,   170,   183
+resource	iron, 1,   168,   186
 resource	lead, 1,	52,	199
 resource	lead, 1,	52,	195
 resource	lead, 1,	45,	189
@@ -418,17 +418,17 @@ resource	lead, 1,	28,	124
 resource	lead, 1,	196,	124
 resource	lead, 1,	47,	116
 resource	lead, 1,	197,	124
-resource        lead, 1,   83,    118
-resource        lead, 1,   82,    117
-resource        lead, 1,   146,   106
-resource        lead, 1,   20,   111
-resource        lead, 1,   21,   110
-resource        lead, 1,   33,   114
-resource        lead, 1,   33,   112
-resource        lead, 1,   351,   123
-resource        lead, 1,   353,   123
-resource        lead, 1,   295,   104
-resource        lead, 1,   298,   104
+resource	lead, 1,   83,    118
+resource	lead, 1,   82,    117
+resource	lead, 1,   146,   106
+resource	lead, 1,   20,   111
+resource	lead, 1,   21,   110
+resource	lead, 1,   33,   114
+resource	lead, 1,   33,   112
+resource	lead, 1,   351,   123
+resource	lead, 1,   353,   123
+resource	lead, 1,   295,   104
+resource	lead, 1,   298,   104
 resource	marble, 1,	56,	119
 resource	marble, 1,	91,	138
 resource	marble, 1,	47,	133
@@ -436,15 +436,15 @@ resource	marble, 1,	165,	113
 resource	marble, 1,	64,	94
 resource	marble, 1,	136,	105
 resource	marble, 1,	148,	73
-resource        marble, 1,  225,   154
-resource        marble, 1,  145,   113
-resource        marble, 1,  377,   152
-resource        marble, 1,  339,   133
-resource        marble, 1,  193,   61
-resource        marble, 1,  45,   140
-resource        marble, 1,  71,   173
-resource        marble, 1,  153,   131
-resource        marble, 1,  174,   111
+resource	marble, 1,  225,   154
+resource	marble, 1,  145,   113
+resource	marble, 1,  377,   152
+resource	marble, 1,  339,   133
+resource	marble, 1,  193,   61
+resource	marble, 1,  45,   140
+resource	marble, 1,  71,   173
+resource	marble, 1,  153,   131
+resource	marble, 1,  174,   111
 resource	olive_oil, 1,	122,	129
 resource	olive_oil, 1,	123,	129
 resource	olive_oil, 1,	16,	114
@@ -459,12 +459,12 @@ resource	olive_oil, 1,	82,	91
 resource	olive_oil, 1,	207,	95
 resource	olive_oil, 1,	209,	96
 resource	olive_oil, 1,	83,	94
-resource        olive_oil, 1,  136,   108
-resource        olive_oil, 1,  153,   114
-resource        olive_oil, 1,  88,   136
-resource        olive_oil, 1,  71,   136
-resource        olive_oil, 1,  70,   137
-resource        olive_oil, 1,  145,   76
+resource	olive_oil, 1,  136,   108
+resource	olive_oil, 1,  153,   114
+resource	olive_oil, 1,  88,   136
+resource	olive_oil, 1,  71,   136
+resource	olive_oil, 1,  70,   137
+resource	olive_oil, 1,  145,   76
 resource	pigs, 1,	51,	84
 resource	pigs, 1,	24,	133
 resource	pigs, 1,	150,	140
@@ -485,9 +485,9 @@ resource	pottery, 1,	99,	135
 resource	pottery, 1,	38,	122
 resource	pottery, 1,	195,	113
 resource	pottery, 1,	196,	114
-resource        pottery, 1,  182,    157
-resource        pottery, 1, 79,    91
-resource        pottery, 1, 280,    169
+resource	pottery, 1,  182,    157
+resource	pottery, 1, 79,    91
+resource	pottery, 1, 280,    169
 resource	purple_dye, 1,	150,	93
 resource	purple_dye, 1,	145,	94
 resource	purple_dye, 1,	151,	93
@@ -541,232 +541,115 @@ resource	silver, 1,	155,	108
 resource	silver, 1,	143,	109
 resource	silver, 1,	112,	111
 resource	silver, 1,	111,	138
-resource        silver, 1, 132,   131
-resource        silver, 1,  165,   125
-resource        silver, 1,  203,   127
-resource        silver, 1,  196,   18
-resource        silver, 1,  310,   94
-resource        silver, 1,  276,   120
-resource        silver, 1,  103,   232
-resource        silver, 1,  251,   212
-resource        silver, 1,  328,   173
-resource        silver, 1,  361,   224
-resource        silver, 1,  365,   188
-resource        silver, 1,  25,   124
-resource        silver, 1,  17,   112
-resource        silver, 1,  15,   93
-resource        silver, 1,  27,   88
-resource        silver, 1,  131,   134
-resource        silver, 1,  137,   137
-resource        silver, 1,  30,   198
-resource        silver, 1,  107,   172
-resource        silver, 1,  214,   124
-resource        silver, 1,  351,   135
-resource        silver, 1,  345,   131
-resource        silver, 1,  334,   109
-resource        silver, 1,  135,   161
-resource        silver, 1,  128,   175
+resource	silver, 1, 132,   131
+resource	silver, 1,  165,   125
+resource	silver, 1,  203,   127
+resource	silver, 1,  196,   18
+resource	silver, 1,  310,   94
+resource	silver, 1,  276,   120
+resource	silver, 1,  103,   232
+resource	silver, 1,  251,   212
+resource	silver, 1,  328,   173
+resource	silver, 1,  361,   224
+resource	silver, 1,  365,   188
+resource	silver, 1,  25,   124
+resource	silver, 1,  17,   112
+resource	silver, 1,  15,   93
+resource	silver, 1,  27,   88
+resource	silver, 1,  131,   134
+resource	silver, 1,  137,   137
+resource	silver, 1,  30,   198
+resource	silver, 1,  107,   172
+resource	silver, 1,  214,   124
+resource	silver, 1,  351,   135
+resource	silver, 1,  345,   131
+resource	silver, 1,  334,   109
+resource	silver, 1,  135,   161
+resource	silver, 1,  128,   175
 resource	slaves, 1,	30,	204
-resource	slaves, 1,	57,	196
-resource	slaves, 1,	60,	188
-resource	slaves, 1,	47,	193
-resource	slaves, 1,	60,	173
-resource	slaves, 1,	37,	168
-resource	slaves, 1,	47,	154
-resource	slaves, 1,	56,	140
-resource	slaves, 1,	68,	137
-resource	slaves, 1,	68,	151
-resource	slaves, 1,	65,	161
-resource	slaves, 1,	79,	190
-resource	slaves, 1,	86,	199
-resource	slaves, 1,	89,	167
-resource	slaves, 1,	78,	166
-resource	slaves, 1,	95,	185
-resource	slaves, 1,	98,	193
-resource	slaves, 1,	120,	174
-resource	slaves, 1,	138,	203
-resource	slaves, 1,	147,	183
-resource	slaves, 1,	190,	224
-resource	slaves, 1,	236,	201
-resource	slaves, 1,	177,	151
-resource	slaves, 1,	156,	143
-resource	slaves, 1,	150,	133
-resource	slaves, 1,	158,	129
-resource	slaves, 1,	138,	124
-resource	slaves, 1,	135,	114
-resource	slaves, 1,	132,	110
-resource	slaves, 1,	143,	109
-resource	slaves, 1,	140,	106
-resource	slaves, 1,	138,	101
-resource	slaves, 1,	147,	93
-resource	slaves, 1,	160,	99
-resource	slaves, 1,	125,	121
-resource	slaves, 1,	107,	147
-resource	slaves, 1,	109,	150
-resource	slaves, 1,	98,	159
-resource	slaves, 1,	116,	157
-resource	slaves, 1,	143,	143
-resource	slaves, 1,	136,	132
-resource	slaves, 1,	93,	145
-resource	slaves, 1,	97,	137
-resource	slaves, 1,	89,	136
-resource	slaves, 1,	83,	148
-resource	slaves, 1,	95,	125
-resource	slaves, 1,	101,	125
-resource	slaves, 1,	113,	121
-resource	slaves, 1,	79,	116
-resource	slaves, 1,	105,	102
-resource	slaves, 1,	96,	104
-resource	slaves, 1,	107,	106
-resource	slaves, 1,	54,	118
-resource	slaves, 1,	58,	133
-resource	slaves, 1,	37,	134
-resource	slaves, 1,	10,	142
-resource	slaves, 1,	7,	124
-resource	slaves, 1,	11,	112
-resource	slaves, 1,	37,	111
-resource	slaves, 1,	11,	101
-resource	slaves, 1,	80,	102
-resource	slaves, 1,	84,	90
-resource	slaves, 1,	39,	50
-resource	slaves, 1,	47,	70
-resource	slaves, 1,	97,	73
-resource	slaves, 1,	157,	57
-resource	slaves, 1,	193,	53
-resource	slaves, 1,	183,	66
-resource	slaves, 1,	175,	72
-resource	slaves, 1,	207,	72
-resource	slaves, 1,	214,	81
-resource	slaves, 1,	257,	58
-resource	slaves, 1,	203,	90
-resource	slaves, 1,	199,	100
-resource	slaves, 1,	199,	109
-resource	slaves, 1,	188,	101
-resource	slaves, 1,	193,	113
-resource	slaves, 1,	190,	123
-resource	slaves, 1,	183,	138
-resource	slaves, 1,	176,	124
-resource	slaves, 1,	167,	128
-resource	slaves, 1,	156,	117
-resource	slaves, 1,	161,	112
-resource	slaves, 1,	159,	107
-resource	slaves, 1,	226,	145
-resource	slaves, 1,	215,	146
-resource	slaves, 1,	214,	115
-resource	slaves, 1,	221,	99
-resource	slaves, 1,	243,	109
-resource	slaves, 1,	254,	116
-resource	slaves, 1,	250,	123
-resource	slaves, 1,	238,	138
-resource	slaves, 1,	206,	98
-resource	slaves, 1,	113,	115
-resource	slaves, 1,	85,	140
-resource	slaves, 1,	109,	137
-resource	slaves, 1,	113,	169
-resource        slaves, 1,  188,    158
-resource        slaves, 1,  163,    161
-resource        slaves, 1,  193,    170
-resource        slaves, 1,  224,    174
-resource        slaves, 1,  200,    197
-resource        slaves, 1,  83,    131
-resource        slaves, 1,  88,    159
-resource	slaves, 1,	 59,	96
-resource	slaves, 1,	161,	75
-resource        slaves, 1,  233,   147
-resource        slaves, 1,  241,   157
-resource        slaves, 1,  133,   77
-resource        slaves, 1,  99,   207
-resource        slaves, 1,  53,   218
-resource        slaves, 1,  241,   215
-resource        slaves, 1,  287,   225
-resource        slaves, 1,  282,   200
-resource        slaves, 1,  363,   207
-resource        slaves, 1,  373,   187
-resource        slaves, 1,  278,   172
-resource        slaves, 1,  317,   171
-resource        slaves, 1,  340,   178
-resource        slaves, 1,  287,   158
-resource        slaves, 1,  310,   152
-resource        slaves, 1,  323,   146
-resource        slaves, 1,  373,   151
-resource        slaves, 1,  374,   119
-resource        slaves, 1,  367,   93
-resource        slaves, 1,  342,   118
-resource        slaves, 1,  322,   88
-resource        slaves, 1,  310,   88
-resource        slaves, 1,  312,   117
-resource        slaves, 1,  320,   133
-resource        slaves, 1,  274,   136
-resource        slaves, 1,  280,   110
-resource        slaves, 1,  289,   100
-resource        slaves, 1,  305,   76
-resource        slaves, 1,  293,   33
-resource        slaves, 1,  275,   12
-resource        slaves, 1,  259,   17
-resource        slaves, 1,  241,   39
-resource        slaves, 1,  218,   4
-resource        slaves, 1,  203,   17
-resource        slaves, 1,  179,   37
-resource        slaves, 1,  169,   44
-resource        slaves, 1,  351,   144
-resource        slaves, 1,  263,   99
-resource        slaves, 1,  269,   71
-resource        slaves, 1,  29,   97
-resource        slaves, 1,  94,   51
-resource        slaves, 1,  75,   44
-resource        slaves, 1,  71,   30
-resource        slaves, 1,  130,   49
-resource        slaves, 1,  153,   18
-resource        slaves, 1,  104,   19
-resource        slaves, 1,  208,   32
-resource        slaves, 1,  294,   2
-resource        slaves, 1,  350,   169
-resource        slaves, 1,  290,   147
-resource        slaves, 1,  283,   133
-resource        slaves, 1,  280,   126
-resource        slaves, 1,  324,   181
-resource        slaves, 1,  72,   68
-resource        slaves, 1,  31,   22
-resource        slaves, 1,  314,   53
-resource        slaves, 1,  316,   219
-resource        slaves, 1,  109,   127
-resource        slaves, 1,  40,   121
-resource        slaves, 1,  27,   121
-resource        slaves, 1,  35,   141
-resource        slaves, 1,  153,   112
-resource        slaves, 1,  145,   112
-resource        slaves, 1,  137,   139
-resource        slaves, 1,  129,   142
-resource        slaves, 1,  119,   167
-resource        slaves, 1,  150,   170
-resource        slaves, 1,  132,   186
-resource        slaves, 1,  165,   226
-resource        slaves, 1,  163,   192
-resource        slaves, 1,  182,   184
-resource        slaves, 1,  166,   119
-resource        slaves, 1,  181,   109
-resource        slaves, 1,  218,   124
-resource        slaves, 1,  230,   126
-resource        slaves, 1,  205,   140
-resource        slaves, 1,  191,   135
-resource        slaves, 1,  58,   100
-resource        slaves, 1,  43,   182
-resource        slaves, 1,  24,   195
-resource        slaves, 1,  77,   180
-resource        slaves, 1,  44,   152
-resource        slaves, 1,  59,   150
-resource        slaves, 1,  56,   157
-resource        slaves, 1,  85,   184
-resource        slaves, 1,  88,   175
-resource        slaves, 1,  93,   225
-resource        slaves, 1,  139,   153
-resource        slaves, 1,  160,   208
-resource        slaves, 1,  17,   117
-resource        slaves, 1,  114,   209
-resource        slaves, 1,  174,   156
-resource        slaves, 1,  26,   137
-resource        slaves, 1,  203,   132
-resource        slaves, 1,  53,   165
+resource	slaves, 1,	27,	194
+resource	slaves, 1,	35,	194
+resource	slaves, 1,	40,	205
+resource	slaves, 1,	44,	214
+resource	slaves, 1,	52,	225
+resource	slaves, 1,	49, 207
+resource	slaves, 1,	56, 198
+resource	slaves, 1,	51, 191
+resource	slaves, 1,	42, 194
+resource	slaves, 1,	48, 182
+resource	slaves, 1,	41, 183
+resource	slaves, 1,	54,	184
+resource	slaves, 1,	58, 189
+resource	slaves, 1,	96, 218
+resource	slaves, 1,	98, 206
+resource	slaves, 1,	106, 205
+resource	slaves, 1,	115, 210
+resource	slaves, 1,	108, 215
+resource	slaves, 1,	115, 224
+resource	slaves, 1,	38, 170
+resource	slaves, 1,	45, 156
+resource	slaves, 1,	45, 143
+resource	slaves, 1,	54, 141
+resource	slaves, 1,	67, 138
+resource	slaves, 1,	69, 150
+resource	slaves, 1,	63, 151
+resource	slaves, 1,	60, 158
+resource	slaves, 1,	49, 166
+resource	slaves, 1,	50, 172
+resource	slaves, 1,	58, 166
+resource	slaves, 1,	62, 176
+resource	slaves, 1,	68, 180
+resource	slaves, 1,	75, 183
+resource	slaves, 1,	80, 171
+resource	slaves, 1,	72, 166
+resource	slaves, 1,	75, 159
+resource	slaves, 1,	12, 145
+resource	slaves, 1,	21, 148
+resource	slaves, 1,	26, 140
+resource	slaves, 1,	35, 143
+resource	slaves, 1,	43, 133
+resource	slaves, 1,	52, 129
+resource	slaves, 1,	36, 114
+resource	slaves, 1,	31, 126
+resource	slaves, 1,	17, 125
+resource	slaves, 1,	10, 132
+resource	slaves, 1,	7, 124
+resource	slaves, 1,	11, 118
+resource	slaves, 1,	20, 118
+resource	slaves, 1,	14, 112
+resource	slaves, 1,	54, 120
+resource	slaves, 1,	11, 102
+resource	slaves, 1,	7, 95
+resource	slaves, 1,	9, 72
+resource	slaves, 1,	6, 6
+resource	slaves, 1,	56, 85
+resource	slaves, 1,	32, 98
+resource	slaves, 1,	45, 103
+resource	slaves, 1,	58, 97
+resource	slaves, 1,	69, 96
+resource	slaves, 1,	81, 99
+resource	slaves, 1,	84, 89
+resource	slaves, 1,	96, 75
+resource	slaves, 1,	73, 70
+resource	slaves, 1,	102, 52
+resource	slaves, 1,	91, 52
+resource	slaves, 1,	132, 60
+resource	slaves, 1,	130, 73
+resource	slaves, 1,	158, 63
+resource	slaves, 1,	162, 73
+resource	slaves, 1,	175, 72
+resource	slaves, 1,	191, 76
+resource	slaves, 1,	183, 68
+resource	slaves, 1,	186, 56
+resource	slaves, 1,	190, 49
+resource	slaves, 1,	185, 40
+resource	slaves, 1,	210, 42
+resource	slaves, 1,	187, 21
+resource	slaves, 1,	201, 15
+resource	slaves, 1,	194, 3
+resource	slaves, 1,	220, 5
+resource	slaves, 1,	221, 14
+resource	slaves, 1,	232, 12
 resource	textiles, 1,	69,	178
 resource	textiles, 1,	56,	185
 resource	textiles, 1,	91,	146
@@ -815,17 +698,17 @@ resource	timber, 1,	186,	102
 resource	timber, 1,	106,	141
 resource	timber, 1,	176,	224
 resource	timber, 1,	57,	98
-resource        timber, 1,  143,   124
-resource        timber, 1,  201,   93
-resource        timber, 1,  201,   102
-resource        timber, 1,  240,   226
-resource        timber, 1,  266,   133
-resource        timber, 1,  363,   155
-resource        timber, 1,  215,   1
-resource        timber, 1,  316,   100
-resource        timber, 1,  51,   131
-resource        timber, 1,  190,   207
-resource        timber, 1,  97,   174
+resource	timber, 1,  143,   124
+resource	timber, 1,  201,   93
+resource	timber, 1,  201,   102
+resource	timber, 1,  240,   226
+resource	timber, 1,  266,   133
+resource	timber, 1,  363,   155
+resource	timber, 1,  215,   1
+resource	timber, 1,  316,   100
+resource	timber, 1,  51,   131
+resource	timber, 1,  190,   207
+resource	timber, 1,  97,   174
 resource	tin, 1,	24,	144
 resource	tin, 1,	38,	182
 resource	tin, 1,	36,	182
@@ -907,16 +790,16 @@ resource	wine, 1,	41,	136
 resource	wine, 1,	63,	143
 resource	wine, 1,	179,	152
 resource	wine, 1,	210,	150
-resource        wine, 1,   80,    160
-resource        wine, 1,   236,   146
-resource        wine, 1,   228,   147
-resource        wine, 1,   254,   97
-resource        wine, 1,   308,   157
-resource        wine, 1,   309,   126
-resource        wine, 1,   154,   114
-resource        wine, 1,   173,   107
-resource        wine, 1,   173,   105
-resource        wine, 1,   78,   167
+resource	wine, 1,   80,    160
+resource	wine, 1,   236,   146
+resource	wine, 1,   228,   147
+resource	wine, 1,   254,   97
+resource	wine, 1,   308,   157
+resource	wine, 1,   309,   126
+resource	wine, 1,   154,   114
+resource	wine, 1,   173,   107
+resource	wine, 1,   173,   105
+resource	wine, 1,   78,   167
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ; >>>> start of sound emitters section <<<<
 
@@ -1447,7 +1330,7 @@ settlement
 	}
 }
 
-character	Visimar, named character, leader, age 37, , x 119, y 166 
+character	Visimar, named character, leader, age 37, , x 122, y 163 
 traits FactionLeader 1, Warlord 1 , Despoiler 3 , GoodTrader 3 , GoodTaxman 3 , Intelligent 2 , LogisticalSkill 2 , Pagan 1 
 ancillaries overseer, scout, torturer, merchant, jeweller, swordbearer
 army
@@ -1456,7 +1339,7 @@ unit		steppe lancers				exp 0 armour 0 weapon_lvl 0
 unit		steppe spearmen vandal				exp 0 armour 0 weapon_lvl 0
 unit		steppe spearmen vandal				exp 0 armour 0 weapon_lvl 0
 
-character	Gondegusulus, named character, heir, age 18, , x 121, y 162 
+character	Gondegusulus, named character, heir, age 18, , x 119, y 166 
 traits FactionHeir 1, GoodCommander 1 , Pagan 1 
 ancillaries musician, herbalist, master_hunter
 army
@@ -6440,6 +6323,7 @@ unit		limitanei				exp 0 armour 0 weapon_lvl 0
 character	Aulus, general, age 30, , x 161, y 63
 
 army
+unit		eastern archer				exp 0 armour 0 weapon_lvl 0
 unit		sassanid peasant				exp 0 armour 0 weapon_lvl 0
 
 character	Aulus, general, age 30, , x 220, y 120
@@ -9573,16 +9457,16 @@ traits LoyaltyStarter 1 , RomanFactionLeader 1, Christian 1, ChristianConversion
 ancillaries elder_senator, famous_warrior, historian
 army
 unit		imperial german bodyguard				exp 2 armour 1 weapon_lvl 1
-unit		comitatenses				exp 1 armour 0 weapon_lvl 0
-unit		comitatenses				exp 1 armour 0 weapon_lvl 0
+unit		comitatenses first cohort				exp 2 armour 1 weapon_lvl 1
+unit		comitatenses first cohort				exp 2 armour 1 weapon_lvl 1
 unit		roman priest				exp 0 armour 0 weapon_lvl 0
 unit		comitatenses				exp 1 armour 0 weapon_lvl 0
 unit		comitatenses				exp 1 armour 0 weapon_lvl 0
 unit		comitatenses				exp 1 armour 0 weapon_lvl 0
 unit		western archer				exp 0 armour 0 weapon_lvl 0
 unit		bucellarii				exp 0 armour 0 weapon_lvl 0
-unit		foederati cavalry				exp 0 armour 0 weapon_lvl 0
-unit		foederati cavalry				exp 0 armour 0 weapon_lvl 0
+unit		scholae palatinae				exp 2 armour 1 weapon_lvl 1
+unit		scholae palatinae				exp 2 armour 1 weapon_lvl 1
 
 character	Leontius Flavius, named character, age 46, , x 114, y 119
 traits LoyaltyStarter 1 , Christian 1, DeceiverVirtue 1 , AuthoritarianRomanVirtue 2 , RhetoricSkill 2 , Embezzler 3 , HatesBarbarian 2 
@@ -9600,21 +9484,21 @@ ancillaries drunken_uncle
 army
 unit		imperial german bodyguard				exp 0 armour 0 weapon_lvl 0
 unit		comitatenses				exp 0 armour 0 weapon_lvl 0
+unit		comitatenses				exp 0 armour 0 weapon_lvl 0
 unit		foederati cavalry				exp 0 armour 0 weapon_lvl 0
 unit		foederati infantry				exp 0 armour 0 weapon_lvl 0
-unit		comitatenses				exp 0 armour 0 weapon_lvl 0
 
 character	Caius Flavius, named character, age 44, , x 79, y 166
 traits LoyaltyStarter 1 , Christian 1, GoodDefender 2 , GoodCommander 1 , Brave 2 , VictorRomanVirtue 2 , Epicurean 2 
 ancillaries office_magister_militum_west
 army
 unit		imperial german bodyguard				exp 0 armour 0 weapon_lvl 0
-unit		western peasant				exp 0 armour 0 weapon_lvl 0
+unit		foederati cavalry				exp 0 armour 0 weapon_lvl 0
+unit		foederati infantry				exp 0 armour 0 weapon_lvl 0
+unit		foederati infantry				exp 0 armour 0 weapon_lvl 0
+unit		comitatenses				exp 0 armour 0 weapon_lvl 0
+unit		comitatenses				exp 0 armour 0 weapon_lvl 0
 unit		western archer				exp 0 armour 0 weapon_lvl 0
-unit		limitanei				exp 0 armour 0 weapon_lvl 0
-unit		limitanei				exp 0 armour 0 weapon_lvl 0
-unit		limitanei				exp 0 armour 0 weapon_lvl 0
-unit		limitanei				exp 0 armour 0 weapon_lvl 0
 
 character	Cassius Flavius, named character, age 43, , x 69, y 137
 traits LoyaltyStarter 1 , Pagan 1, Intelligent 3 , Drink 2 , Gambling 3 , Epicurean 3 , Coward 3 , Generous 3 
@@ -9622,7 +9506,8 @@ ancillaries drinking_companion
 army
 unit		imperial german bodyguard				exp 0 armour 0 weapon_lvl 0
 unit		foederati cavalry				exp 0 armour 0 weapon_lvl 0
-unit		foederati cavalry				exp 0 armour 0 weapon_lvl 0
+unit		western peasant				exp 0 armour 0 weapon_lvl 0
+unit		western archer				exp 0 armour 0 weapon_lvl 0
 
 character	Cnaeus Flavius, named character, age 26, , x 45, y 151
 traits LoyaltyStarter 1 , Pagan 1, YellowBileHumour 2 , HarshRuler 1 , AuthoritarianRomanVirtue 2 , Embezzler 2 , Badfarmer 3 
@@ -9630,16 +9515,17 @@ ancillaries office_comes_domesticorum_equitum_west, torturer
 army
 unit		imperial german bodyguard				exp 0 armour 0 weapon_lvl 0
 unit		foederati cavalry				exp 0 armour 0 weapon_lvl 0
-unit		foederati cavalry				exp 0 armour 0 weapon_lvl 0
-unit		foederati cavalry				exp 0 armour 0 weapon_lvl 0
+unit		limitanei				exp 0 armour 0 weapon_lvl 0
+unit		limitanei				exp 0 armour 0 weapon_lvl 0
 
 character	Nero Flavius, named character, age 29, , x 77, y 180
 traits LoyaltyStarter 1 , Christian 1, GoodCommander 2 , GoodAmbusher 2 , StrategicSkill 3 , Disloyal 2 , Corrupt 3, RaceFanRed 1 
 ancillaries office_magister_peditum_west, barbarian_slave, master_of_assassins
 army
 unit		imperial german bodyguard				exp 0 armour 0 weapon_lvl 0
-unit		limitanei				exp 0 armour 0 weapon_lvl 0
+unit		foederati cavalry				exp 0 armour 0 weapon_lvl 0
 unit		western archer				exp 0 armour 0 weapon_lvl 0
+unit		limitanei				exp 0 armour 0 weapon_lvl 0
 unit		limitanei				exp 0 armour 0 weapon_lvl 0
 
 character	Marcus Flavius, named character, age 30, , x 70, y 161 
@@ -9647,6 +9533,7 @@ traits LoyaltyStarter 1 , Christian 1, GoodAttacker 3 , GoodInfantryGeneral 2 , 
 ancillaries office_comes_litoris_saxonici, scout
 army
 unit		imperial german bodyguard				exp 0 armour 0 weapon_lvl 0
+unit		foederati cavalry				exp 0 armour 0 weapon_lvl 0
 unit		comitatenses				exp 0 armour 0 weapon_lvl 0
 unit		comitatenses				exp 0 armour 0 weapon_lvl 0
 unit		comitatenses				exp 0 armour 0 weapon_lvl 0
@@ -9674,6 +9561,8 @@ ancillaries bodyguard, carnifex
 army
 unit		imperial german bodyguard				exp 0 armour 0 weapon_lvl 0
 unit		limitanei				exp 0 armour 0 weapon_lvl 0
+unit		limitanei				exp 0 armour 0 weapon_lvl 0
+unit		western archer				exp 0 armour 0 weapon_lvl 0
 
 character	Appius Flavius, named character, age 25, , x 84, y 99
 traits LoyaltyStarter 1 , Christian 1, Epicurean 3 , ApicianRomanVice 2 , Gambling 2 , Inbred 2 , WellConnectedWife 2, RaceFanGreen 1 
@@ -9681,7 +9570,9 @@ ancillaries chirugeon, cook, herald, mercenary_captain, wilderness_prophet
 army
 unit		imperial german bodyguard				exp 0 armour 0 weapon_lvl 0
 unit		limitanei				exp 0 armour 0 weapon_lvl 0
-unit		foederati infantry				exp 0 armour 0 weapon_lvl 0
+unit		limitanei				exp 0 armour 0 weapon_lvl 0
+unit		comitatenses				exp 0 armour 0 weapon_lvl 0
+unit		western archer				exp 0 armour 0 weapon_lvl 0
 
 character	Decimus Flavius, named character, age 26, , x 49, y 103
 traits LoyaltyStarter 1 , Christian 1, PlainRomanVirtue 2 , Energetic 2 , Loyal 2 , GoodAdministrator 2 , NaturalPhilosophySkill 2 , GoodTrader 2 
@@ -9696,6 +9587,8 @@ traits LoyaltyStarter 1 , Pagan 1, Loyal 3 , Slothful 2 , ApicianRomanVice 3 , B
 ancillaries gourmands_chef, actor, herald, musician
 army
 unit		imperial german bodyguard				exp 0 armour 0 weapon_lvl 0
+unit		foederati infantry				exp 0 armour 0 weapon_lvl 0
+unit		foederati infantry				exp 0 armour 0 weapon_lvl 0
 unit		western archer				exp 0 armour 0 weapon_lvl 0
 
 character	Marcellus Flavius, named character, age 28, , x 123, y 125
@@ -9703,13 +9596,19 @@ traits LoyaltyStarter 1 , Pagan 1, BloodHumour 2 , GoodCommander 3 , GoodSiegeAt
 ancillaries siege_engineer, treasurer
 army
 unit		imperial german bodyguard				exp 0 armour 0 weapon_lvl 0
+unit		foederati cavalry				exp 0 armour 0 weapon_lvl 0
 unit		foederati infantry				exp 0 armour 0 weapon_lvl 0
+unit		foederati infantry				exp 0 armour 0 weapon_lvl 0
+unit		comitatenses				exp 0 armour 0 weapon_lvl 0
+unit		western archer				exp 0 armour 0 weapon_lvl 0
 
 character	Servius Flavius, named character, age 28, , x 12, y 115
 traits LoyaltyStarter 1 , Christian 1, Counterspy 2 , HighPersonalSecurity 2 , DeceiverVirtue 3 , Intelligent 1 , AssassinMaster 3 
 ancillaries spymaster, master_of_assassins, famous_courtesan, office_amici_principis_west
 army
 unit		imperial german bodyguard				exp 0 armour 0 weapon_lvl 0
+unit		foederati cavalry				exp 0 armour 0 weapon_lvl 0
+unit		foederati infantry				exp 0 armour 0 weapon_lvl 0
 unit		western archer				exp 0 armour 0 weapon_lvl 0
 
 character	Publius Flavius, named character, age 29, , x 138, y 122
@@ -9765,8 +9664,8 @@ unit		imperial german bodyguard				exp 0 armour 0 weapon_lvl 0
 unit		western archer				exp 0 armour 0 weapon_lvl 0
 unit		limitanei				exp 0 armour 0 weapon_lvl 0
 unit		limitanei				exp 0 armour 0 weapon_lvl 0
-unit		limitanei				exp 0 armour 0 weapon_lvl 0
-unit		limitanei				exp 0 armour 0 weapon_lvl 0
+unit		comitatenses				exp 0 armour 0 weapon_lvl 0
+unit		foederati cavalry				exp 0 armour 0 weapon_lvl 0
 
 character	Kaeso Alienus, general, age 40, , x 57, y 158 
 
@@ -9827,6 +9726,363 @@ unit		foederati cavalry				exp 0 armour 0 weapon_lvl 0
 unit		foederati cavalry				exp 0 armour 0 weapon_lvl 0
 unit		western peasant				exp 0 armour 0 weapon_lvl 0
 unit		foederati infantry				exp 0 armour 0 weapon_lvl 0
+
+character	Gnaeus, general, age 29, , x 89, y 162 
+
+army
+unit		foederati cavalry				exp 0 armour 0 weapon_lvl 0
+unit		limitanei				exp 0 armour 0 weapon_lvl 0
+unit		limitanei				exp 0 armour 0 weapon_lvl 0
+unit		western archer				exp 0 armour 0 weapon_lvl 0
+
+character	Gnaeus, general, age 29, , x 71, y 157 
+
+army
+unit		foederati infantry				exp 0 armour 0 weapon_lvl 0
+unit		foederati infantry				exp 0 armour 0 weapon_lvl 0
+unit		western archer				exp 0 armour 0 weapon_lvl 0
+
+character	Gnaeus, general, age 29, , x 76, y 172 
+
+army
+unit		foederati cavalry				exp 0 armour 0 weapon_lvl 0
+unit		foederati infantry				exp 0 armour 0 weapon_lvl 0
+unit		foederati infantry				exp 0 armour 0 weapon_lvl 0
+unit		comitatenses				exp 0 armour 0 weapon_lvl 0
+unit		comitatenses				exp 0 armour 0 weapon_lvl 0
+unit		western archer				exp 0 armour 0 weapon_lvl 0
+
+character	Gnaeus, general, age 29, , x 121, y 145 
+
+army
+unit		foederati cavalry		exp 0 armour 0 weapon_lvl 0
+unit		limitanei				exp 0 armour 0 weapon_lvl 0
+unit		limitanei				exp 0 armour 0 weapon_lvl 0
+unit		western archer				exp 0 armour 0 weapon_lvl 0
+
+character	Gnaeus, general, age 29, , x 137, y 140 
+
+army
+unit		comitatenses				exp 0 armour 0 weapon_lvl 0
+unit		comitatenses				exp 0 armour 0 weapon_lvl 0
+unit		limitanei				exp 0 armour 0 weapon_lvl 0
+unit		limitanei				exp 0 armour 0 weapon_lvl 0
+
+character	Gnaeus, general, age 29, , x 54, y 198 
+
+army
+unit		foederati infantry				exp 0 armour 0 weapon_lvl 0
+unit		foederati infantry				exp 0 armour 0 weapon_lvl 0
+unit		limitanei				exp 0 armour 0 weapon_lvl 0
+unit		western archer				exp 0 armour 0 weapon_lvl 0
+
+character	Gnaeus, general, age 29, , x 56, y 193 
+
+army
+unit		limitanei				exp 0 armour 0 weapon_lvl 0
+unit		western archer				exp 0 armour 0 weapon_lvl 0
+
+character	Gnaeus, general, age 29, , x 60, y 189 
+
+army
+unit		limitanei				exp 0 armour 0 weapon_lvl 0
+unit		western archer				exp 0 armour 0 weapon_lvl 0
+
+character	Gnaeus, general, age 29, , x 48, y 185 
+
+army
+unit		foederati infantry				exp 0 armour 0 weapon_lvl 0
+unit		western archer				exp 0 armour 0 weapon_lvl 0
+
+character	Gnaeus, general, age 29, , x 46, y 195 
+
+army
+unit		western peasant				exp 0 armour 0 weapon_lvl 0
+
+character	Gnaeus, general, age 29, , x 42, y 181 
+
+army
+unit		western peasant				exp 0 armour 0 weapon_lvl 0
+
+character	Gnaeus, general, age 29, , x 39, y 167 
+
+army
+unit		western peasant				exp 0 armour 0 weapon_lvl 0
+
+character	Gnaeus, general, age 29, , x 37, y 140 
+
+army
+unit		western peasant				exp 0 armour 0 weapon_lvl 0
+
+character	Gnaeus, general, age 29, , x 56, y 173 
+
+army
+unit		limitanei				exp 0 armour 0 weapon_lvl 0
+unit		western archer				exp 0 armour 0 weapon_lvl 0
+
+character	Gnaeus, general, age 29, , x 54, y 163 
+
+army
+unit		foederati infantry				exp 0 armour 0 weapon_lvl 0
+unit		western archer				exp 0 armour 0 weapon_lvl 0
+
+character	Gnaeus, general, age 29, , x 63, y 166 
+
+army
+unit		limitanei				exp 0 armour 0 weapon_lvl 0
+unit		limitanei				exp 0 armour 0 weapon_lvl 0
+unit		western archer				exp 0 armour 0 weapon_lvl 0
+
+character	Gnaeus, general, age 29, , x 68, y 146 
+
+army
+unit		foederati cavalry				exp 0 armour 0 weapon_lvl 0
+unit		foederati infantry				exp 0 armour 0 weapon_lvl 0
+unit		western archer				exp 0 armour 0 weapon_lvl 0
+
+character	Gnaeus, general, age 29, , x 57, y 137 
+
+army
+unit		limitanei				exp 0 armour 0 weapon_lvl 0
+unit		foederati infantry				exp 0 armour 0 weapon_lvl 0
+unit		western archer				exp 0 armour 0 weapon_lvl 0
+
+character	Gnaeus, general, age 29, , x 49, y 142 
+
+army
+unit		limitanei				exp 0 armour 0 weapon_lvl 0
+unit		western archer				exp 0 armour 0 weapon_lvl 0
+
+character	Gnaeus, general, age 29, , x 39, y 133 
+
+army
+unit		limitanei				exp 0 armour 0 weapon_lvl 0
+unit		limitanei				exp 0 armour 0 weapon_lvl 0
+unit		western archer				exp 0 armour 0 weapon_lvl 0
+
+character	Gnaeus, general, age 29, , x 27, y 137 
+
+army
+unit		foederati infantry				exp 0 armour 0 weapon_lvl 0
+unit		western archer				exp 0 armour 0 weapon_lvl 0
+
+character	Gnaeus, general, age 29, , x 10, y 141 
+
+army
+unit		foederati cavalry				exp 0 armour 0 weapon_lvl 0
+unit		foederati infantry				exp 0 armour 0 weapon_lvl 0
+unit		limitanei				exp 0 armour 0 weapon_lvl 0
+unit		western archer				exp 0 armour 0 weapon_lvl 0
+
+character	Gnaeus, general, age 29, , x 5, y 129 
+
+army
+unit		foederati infantry				exp 0 armour 0 weapon_lvl 0
+unit		western archer				exp 0 armour 0 weapon_lvl 0
+
+character	Gnaeus, general, age 29, , x 15, y 125 
+
+army
+unit		foederati infantry				exp 0 armour 0 weapon_lvl 0
+unit		foederati infantry				exp 0 armour 0 weapon_lvl 0
+unit		western archer				exp 0 armour 0 weapon_lvl 0
+
+character	Gnaeus, general, age 29, , x 6, y 120 
+
+army
+unit		western peasant				exp 0 armour 0 weapon_lvl 0
+unit		western archer				exp 0 armour 0 weapon_lvl 0
+
+character	Gnaeus, general, age 29, , x 12, y 111 
+
+army
+unit		foederati cavalry				exp 0 armour 0 weapon_lvl 0
+unit		limitanei				exp 0 armour 0 weapon_lvl 0
+unit		western archer				exp 0 armour 0 weapon_lvl 0
+
+character	Gnaeus, general, age 29, , x 18, y 117 
+
+army
+unit		limitanei				exp 0 armour 0 weapon_lvl 0
+unit		western archer				exp 0 armour 0 weapon_lvl 0
+
+character	Gnaeus, general, age 29, , x 28, y 126 
+
+army
+unit		foederati cavalry				exp 0 armour 0 weapon_lvl 0
+unit		limitanei				exp 0 armour 0 weapon_lvl 0
+unit		western archer				exp 0 armour 0 weapon_lvl 0
+
+character	Gnaeus, general, age 29, , x 35, y 111 
+
+army
+unit		sarmatian auxilia				exp 0 armour 0 weapon_lvl 0
+unit		foederati infantry				exp 0 armour 0 weapon_lvl 0
+unit		foederati infantry				exp 0 armour 0 weapon_lvl 0
+unit		comitatenses				exp 0 armour 0 weapon_lvl 0
+unit		western archer				exp 0 armour 0 weapon_lvl 0
+
+character	Gnaeus, general, age 29, , x 53, y 118 
+
+army
+unit		western peasant				exp 0 armour 0 weapon_lvl 0
+unit		western archer				exp 0 armour 0 weapon_lvl 0
+
+character	Gnaeus, general, age 29, , x 11, y 105 
+
+army
+unit		limitanei				exp 0 armour 0 weapon_lvl 0
+unit		limitanei				exp 0 armour 0 weapon_lvl 0
+unit		western archer				exp 0 armour 0 weapon_lvl 0
+
+character	Gnaeus, general, age 29, , x 31, y 96 
+
+army
+unit		limitanei				exp 0 armour 0 weapon_lvl 0
+unit		western archer				exp 0 armour 0 weapon_lvl 0
+
+character	Gnaeus, general, age 29, , x 61, y 97 
+
+army
+unit		foederati cavalry				exp 0 armour 0 weapon_lvl 0
+unit		limitanei				exp 0 armour 0 weapon_lvl 0
+unit		western archer				exp 0 armour 0 weapon_lvl 0
+
+character	Gnaeus, general, age 29, , x 70, y 99 
+
+army
+unit		foederati cavalry				exp 0 armour 0 weapon_lvl 0
+unit		limitanei				exp 0 armour 0 weapon_lvl 0
+unit		limitanei				exp 0 armour 0 weapon_lvl 0
+unit		western archer				exp 0 armour 0 weapon_lvl 0
+
+character	Gnaeus, general, age 29, , x 85, y 92 
+
+army
+unit		comitatenses				exp 0 armour 0 weapon_lvl 0
+unit		limitanei				exp 0 armour 0 weapon_lvl 0
+unit		western archer				exp 0 armour 0 weapon_lvl 0
+
+character	Gnaeus, general, age 29, , x 94, y 105 
+
+army
+unit		western peasant				exp 0 armour 0 weapon_lvl 0
+unit		western archer				exp 0 armour 0 weapon_lvl 0
+
+character	Gnaeus, general, age 29, , x 106, y 100 
+
+army
+unit		foederati cavalry				exp 0 armour 0 weapon_lvl 0
+unit		comitatenses				exp 0 armour 0 weapon_lvl 0
+unit		limitanei				exp 0 armour 0 weapon_lvl 0
+unit		western archer				exp 0 armour 0 weapon_lvl 0
+
+character	Gnaeus, general, age 29, , x 109, y 110 
+
+army
+unit		limitanei				exp 0 armour 0 weapon_lvl 0
+unit		western archer				exp 0 armour 0 weapon_lvl 0
+
+character	Gnaeus, general, age 29, , x 105, y 124 
+
+army
+unit		limitanei				exp 0 armour 0 weapon_lvl 0
+unit		western archer				exp 0 armour 0 weapon_lvl 0
+
+character	Gnaeus, general, age 29, , x 101, y 122 
+
+army
+unit		comitatenses				exp 0 armour 0 weapon_lvl 0
+unit		limitanei				exp 0 armour 0 weapon_lvl 0
+unit		western archer				exp 0 armour 0 weapon_lvl 0
+
+character	Gnaeus, general, age 29, , x 80, y 113 
+
+army
+unit		western archer				exp 0 armour 0 weapon_lvl 0
+unit		limitanei				exp 0 armour 0 weapon_lvl 0
+
+character	Gnaeus, general, age 29, , x 83, y 130 
+
+army
+unit		western peasant				exp 0 armour 0 weapon_lvl 0
+unit		western archer				exp 0 armour 0 weapon_lvl 0
+
+character	Gnaeus, general, age 29, , x 81, y 141 
+
+army
+unit		foederati cavalry				exp 0 armour 0 weapon_lvl 0
+unit		limitanei				exp 0 armour 0 weapon_lvl 0
+unit		western archer				exp 0 armour 0 weapon_lvl 0
+
+character	Gnaeus, general, age 29, , x 90, y 137 
+
+army
+unit		comitatenses				exp 0 armour 0 weapon_lvl 0
+unit		limitanei				exp 0 armour 0 weapon_lvl 0
+unit		limitanei				exp 0 armour 0 weapon_lvl 0
+unit		western archer				exp 0 armour 0 weapon_lvl 0
+
+character	Gnaeus, general, age 29, , x 100, y 131 
+
+army
+unit		limitanei				exp 0 armour 0 weapon_lvl 0
+unit		limitanei				exp 0 armour 0 weapon_lvl 0
+unit		western archer				exp 0 armour 0 weapon_lvl 0
+
+character	Gnaeus, general, age 29, , x 97, y 148 
+
+army
+unit		comitatenses				exp 0 armour 0 weapon_lvl 0
+unit		limitanei				exp 0 armour 0 weapon_lvl 0
+unit		western archer				exp 0 armour 0 weapon_lvl 0
+
+character	Gnaeus, general, age 29, , x 107, y 148 
+
+army
+unit		foederati cavalry				exp 0 armour 0 weapon_lvl 0
+unit		foederati infantry				exp 0 armour 0 weapon_lvl 0
+unit		western archer				exp 0 armour 0 weapon_lvl 0
+
+character	Gnaeus, general, age 29, , x 122, y 132 
+
+army
+unit		foederati infantry				exp 0 armour 0 weapon_lvl 0
+unit		limitanei				exp 0 armour 0 weapon_lvl 0
+unit		western archer				exp 0 armour 0 weapon_lvl 0
+
+character	Gnaeus, general, age 29, , x 131, y 129 
+
+army
+unit		limitanei				exp 0 armour 0 weapon_lvl 0
+unit		western archer				exp 0 armour 0 weapon_lvl 0
+
+character	Gnaeus, general, age 29, , x 128, y 116 
+
+army
+unit		limitanei				exp 0 armour 0 weapon_lvl 0
+unit		western archer				exp 0 armour 0 weapon_lvl 0
+
+character	Gnaeus, general, age 29, , x 136, y 115 
+
+army
+unit		limitanei				exp 0 armour 0 weapon_lvl 0
+unit		western archer				exp 0 armour 0 weapon_lvl 0
+
+character	Gnaeus, general, age 29, , x 140, y 108 
+
+army
+unit		sarmatian auxilia				exp 0 armour 0 weapon_lvl 0
+unit		comitatenses				exp 0 armour 0 weapon_lvl 0
+unit		limitanei				exp 0 armour 0 weapon_lvl 0
+unit		limitanei				exp 0 armour 0 weapon_lvl 0
+unit		western archer				exp 0 armour 0 weapon_lvl 0
+
+character	Gnaeus, general, age 29, , x 149, y 93 
+
+army
+unit		limitanei				exp 0 armour 0 weapon_lvl 0
+unit		western archer				exp 0 armour 0 weapon_lvl 0
 
 character	Bacurius, admiral, age 29, , x 64, y 184 
 
@@ -13308,6 +13564,63 @@ character	sub_faction saxons, Agelmund, general, age 35, , x 114, y 211
 army
 unit		saxon hunters				exp 0 armour 0 weapon_lvl 0
 unit		saxon hunters				exp 0 armour 0 weapon_lvl 0
+
+;;;EASTERN EUROPE
+character	sub_faction slavs, Claffo, general, age 20, , x 135, y 220 
+
+army
+unit		steppe warlords				exp 0 armour 0 weapon_lvl 0
+unit		steppe spearmen vandal				exp 0 armour 0 weapon_lvl 0
+unit		steppe raiders				exp 0 armour 0 weapon_lvl 0
+
+character	sub_faction slavs, Claffo, general, age 20, , x 159, y 206 
+
+army
+unit		steppe warlords				exp 0 armour 0 weapon_lvl 0
+unit		steppe spearmen vandal				exp 0 armour 0 weapon_lvl 0
+unit		steppe raiders				exp 0 armour 0 weapon_lvl 0
+
+character	sub_faction slavs, Claffo, general, age 20, , x 136, y 202 
+
+army
+unit		steppe warlords				exp 0 armour 0 weapon_lvl 0
+unit		steppe spearmen vandal				exp 0 armour 0 weapon_lvl 0
+unit		steppe raiders				exp 0 armour 0 weapon_lvl 0
+
+character	sub_faction slavs, Claffo, general, age 20, , x 122, y 197 
+
+army
+unit		steppe warlords				exp 0 armour 0 weapon_lvl 0
+unit		steppe spearmen vandal				exp 0 armour 0 weapon_lvl 0
+unit		steppe raiders				exp 0 armour 0 weapon_lvl 0
+
+character	sub_faction slavs, Claffo, general, age 20, , x 128, y 181 
+
+army
+unit		steppe warlords				exp 0 armour 0 weapon_lvl 0
+unit		steppe spearmen vandal				exp 0 armour 0 weapon_lvl 0
+unit		steppe raiders				exp 0 armour 0 weapon_lvl 0
+
+character	sub_faction slavs, Claffo, general, age 20, , x 149, y 185 
+
+army
+unit		steppe warlords				exp 0 armour 0 weapon_lvl 0
+unit		steppe spearmen vandal				exp 0 armour 0 weapon_lvl 0
+unit		steppe raiders				exp 0 armour 0 weapon_lvl 0
+
+character	sub_faction slavs, Claffo, general, age 20, , x 161, y 180 
+
+army
+unit		steppe warlords				exp 0 armour 0 weapon_lvl 0
+unit		steppe spearmen vandal				exp 0 armour 0 weapon_lvl 0
+unit		steppe raiders				exp 0 armour 0 weapon_lvl 0
+
+character	sub_faction slavs, Claffo, general, age 20, , x 164, y 194 
+
+army
+unit		steppe warlords				exp 0 armour 0 weapon_lvl 0
+unit		steppe spearmen vandal				exp 0 armour 0 weapon_lvl 0
+unit		steppe raiders				exp 0 armour 0 weapon_lvl 0
 
 ;;;EASTERN STEPPES
 character	sub_faction sarmatians, Fragiledus, general, age 39, , x 361, y 205 
