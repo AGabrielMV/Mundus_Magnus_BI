@@ -193,6 +193,12 @@ pool Cilicia
 	unit merc equites veteranii,			exp 2 cost 950 replenish 0.06 - 0.19 max 1 initial 0
 	unit merc veteranii,			exp 2 cost 1230 replenish 0.06 - 0.19 max 1 initial 1
 
+pool Cappadocia
+	regions Cappadocia Armenia_Prima Armenia_Secunda Satrapiae			
+	unit merc hippo toxotai,			exp 0 cost 1200 replenish 0.06 - 0.19 max 1 initial 1
+	unit merc equites veteranii,			exp 2 cost 950 replenish 0.06 - 0.19 max 1 initial 0
+	unit merc veteranii,			exp 2 cost 1230 replenish 0.06 - 0.19 max 1 initial 1
+
 pool Syria
 	regions Syria_Coele Phoenicia Palaestina Euphratensis Phoenicia_Libanensis Palmyrene Osrhoene Palaestina_Secunda							
 	unit merc camel raiders,			exp 0 cost 500 replenish 0.1 - 0.15 max 1 initial 1
