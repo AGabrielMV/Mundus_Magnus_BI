@@ -1,71 +1,71 @@
 saxons
-hold_regions Tulifurdum Londinium Samarobriva
-take_regions 18
+hold_regions Tulifurdum Londinium Eburacum
+take_regions 25
 
 vandals
 hold_regions Corduba Carthage Rome
-take_regions 10
+take_regions 25
 
 empire_east
-hold_regions Constantinople Alexandria Rome Carthage
-take_regions 34
+hold_regions Constantinople Alexandria Rome Carthage Ctesiphon Carthago_Nova
+take_regions 160
 
 empire_west
-hold_regions Rome Carthage Tarraco Constantinople
-take_regions 34
+hold_regions Rome Carthage Tarraco Antioch Constantinople Alexandria
+take_regions 145
 
 huns
-hold_regions Rome Constantinople
-take_regions 15
+hold_regions Rome Constantinople Salona Aquincum Ravenna Marcianopolis Olbia
+take_regions 50
 
 franks
-hold_regions Lugdunum Burdigala Arles
-take_regions 20
+hold_regions Lugdunum Burdigala Senones Argentoratum
+take_regions 30
 
 alemanni
-hold_regions Augusta_Treverorum Aquincum Rome
-take_regions 20
+hold_regions Augusta_Treverorum Mediolanium Rome Colonia_Agrippina
+take_regions 30
 
 sarmatians
-hold_regions Aquincum Salona Kotais
-take_regions 15
+hold_regions Aquincum Salona Sirmium Thessalonica Constantinople
+take_regions 25
 
 goths
-hold_regions Constantinople Rome
-take_regions 16
+hold_regions Toletum Corduba Burdigala Rome Salona
+take_regions 42
 
 sassanids
-hold_regions Alexandria Jerusalem Constantinople
-take_regions 20
+hold_regions Alexandria Jerusalem Constantinople Antioch Ctesiphon Arsakia Neyshapur Bactra Taksasila Mariaba
+take_regions 110
 
 celts
-hold_regions Londinium Eburacum Lugdunum 
-take_regions 16
+hold_regions Londinium Eburacum Lugdunum Darioritum
+take_regions 20
 
 romano_british
-hold_regions Londinium Eburacum Lugdunum 
-take_regions 14
+hold_regions Londinium Eburacum Lugdunum Samarobriva Augusta_Treverorum Burdigala
+take_regions 25
 
 slavs
-hold_regions Constantinople
-take_regions 14
+hold_regions Constantinople Colonia_Dacia Olbia
+take_regions 21
 
 ostrogoths
-hold_regions Rome Salona
-take_regions 14
+hold_regions Rome Salona Ravenna Tarentum Massilia Toletum Carthago_Nova Corduba
+take_regions 45
 
 berbers
 hold_regions Carthage Alexandria
-take_regions 10
+take_regions 25
 
 lombardi
-hold_regions Mediolanium Ravenna
-take_regions 14
+hold_regions Mediolanium Ravenna Rome Neapolis Syracuse
+take_regions 15
 
 burgundii
-hold_regions Massilia Augusta_Vindelicorum Arles
+hold_regions Massilia Augusta_Vindelicorum Lugdunum Argentoratum
 take_regions 14
 
 roxolani
-hold_regions Aquincum Salona Kotais
-take_regions 10
+hold_regions Olbia Tanais Kotais Cherson Alba_Julia
+take_regions 15
