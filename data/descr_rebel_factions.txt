@@ -1,9 +1,168 @@
+rebel_type 			Melanogaetuli	//Empire_West
+category			peasant_revolt 
+chance				0					
+description			Melanogaetuli
+unit				african peasant
+unit				desert cavalry
+unit				desert cavalry
+unit				moorish raiders
+unit				desert archers african
+unit				desert chieftain					
+
+rebel_type 			Gaetuli	//Empire_West
+category			peasant_revolt 
+chance				0					
+description			Gaetuli
+unit				african peasant
+unit				desert cavalry
+unit				desert cavalry
+unit				desert archers african
+unit				desert chieftain					
+
+rebel_type 			Musulami	//Empire_West
+category			peasant_revolt 
+chance				0					
+description			Musulami
+unit				african peasant
+unit				desert cavalry
+unit				desert cavalry
+unit				desert archers african
+unit				desert chieftain					
+
+rebel_type 			Azurges	//Empire_West
+category			peasant_revolt 
+chance				0					
+description			Azurges
+unit				african peasant
+unit				desert cavalry
+unit				desert cavalry
+unit				desert archers african
+unit				desert chieftain					
+
+rebel_type 			Leuatae	//Empire_West
+category			peasant_revolt 
+chance				0					
+description			Leuatae
+unit				african peasant
+unit				desert cavalry
+unit				desert cavalry
+unit				desert archers african
+unit				desert chieftain					
+
+rebel_type 			Nasamones	//Empire_West
+category			peasant_revolt 
+chance				0					
+description			Nasamones
+unit				african peasant
+unit				desert cavalry
+unit				desert cavalry
+unit				desert archers african
+unit				desert chieftain					
+
+rebel_type 			Cyrenaicans //Empire_East
+category			peasant_revolt 
+chance				3					
+description			Cyrenaicans
+unit				equites auxilia
+unit				coastal levies
+unit				merc veteranii
+unit				generic rebel general
+				
+rebel_type 			Marmaridae	//Empire_East
+category			peasant_revolt 
+chance				0					
+description			Marmaridae
+unit				african peasant
+unit				desert cavalry
+unit				equites auxilia
+unit				coastal levies
+unit				desert archers african
+unit				desert chieftain					
+
+rebel_type 			Egyptians	//Empire_East
+category			peasant_revolt 
+chance				0					
+description			Egyptians
+unit				western peasant
+unit				african peasant
+unit				desert cavalry
+unit				merc veteranii
+unit				merc equites veteranii
+unit				limitanei
+unit				desert archers
+unit				generic rebel general
+
+rebel_type 			Nubians 	//Empire_East
+category			peasant_revolt 
+chance				3					
+description			Nubians
+unit				desert cavalry
+unit				african peasant
+unit				desert archers
+unit				eastern rebel general
+
+rebel_type 			Blemmyae 	//Empire_East
+category			peasant_revolt 
+chance				0					
+description			Blemmyae
+unit				desert cavalry
+unit				african peasant
+unit				hillmen
+unit				desert archers african
+unit				desert chieftain					
+
+rebel_type 			Axumites		//Empire_East
+category			peasant_revolt 
+chance				0					
+description			Axumites
+unit				desert cavalry
+unit				african peasant
+unit				desert archers african
+unit				mountain men
+unit				mountain men
+unit				eastern rebel general
+					
+rebel_type 			Gallaecians		//Empire_West
+category			peasant_revolt 
+chance				0					
+description			Gallaecians
+unit				western peasant celt
+unit				western peasant
+unit				merc veteranii
+unit				limitanei
+unit				celtic slingers
+unit				merc herdsmen
+unit				barbarian rebel general
+
+rebel_type 			Asturians		//Empire_West
+category			peasant_revolt 
+chance				0					
+description			Asturians
+unit				western peasant celt
+unit				western peasant celt
+unit				merc veteranii
+unit				limitanei
+unit				celtic slingers
+unit				barbarian rebel general
+
+rebel_type 			Armoricans		//Empire_West
+category			peasant_revolt 
+chance				0					
+description			Armoricans
+unit				western peasant celt
+unit				western peasant celt
+unit				celtic slingers
+unit				celtic slingers
+unit				celtic spearman
+unit				merc veteranii
+unit				barbarian rebel general
+
 rebel_type			Britons //Empire_West
 category			peasant_revolt
 chance				0					
 description			Britons
 unit				western peasant celt
-unit				western peasant celt
+unit				western peasant
 unit				celtic slingers
 unit				celtic slingers
 unit				celtic spearman
@@ -39,6 +198,7 @@ unit				western peasant celt
 unit				celtic spearman
 unit				celtic spearman
 unit				celtic crossbowmen
+unit				celtic slingers
 unit				celtic kerns
 unit				celtic warlord
 
@@ -48,7 +208,6 @@ chance				3
 description			Slavs
 unit				peasant vandal
 unit				steppe swordsmen vandal
-unit				steppe horse archers
 unit				steppe spearmen vandal
 unit				steppe warlords
 					
@@ -99,8 +258,11 @@ category			peasant_revolt
 chance				0					
 description			Armenians
 unit				sassanid peasant
+unit				levy spearmen sassanid
+unit				levy spearmen sassanid
 unit				nomad archer cavalry
 unit				nomad archer cavalry
+unit				mountain slinger
 unit				kurdish javelinmen
 unit				eastern rebel general
 
@@ -109,8 +271,9 @@ category			peasant_revolt
 chance				0					
 description			Cappadocians
 unit				levy spearmen sassanid
-unit				nomad archer cavalry
-unit				nomad archer cavalry
+unit				equites auxilia
+unit				merc veteranii
+unit				kurdish javelinmen
 unit				mountain slinger
 unit				eastern rebel general
 				
@@ -119,6 +282,8 @@ category			peasant_revolt
 chance				0					
 description			Berbers
 unit				african peasant
+unit				hillmen
+unit				hillmen
 unit				desert cavalry
 unit				desert cavalry
 unit				desert archers african
@@ -130,7 +295,7 @@ chance				0
 description			Poeni
 unit				african peasant
 unit				hillmen
-unit				hillmen
+unit				limitanei
 unit				desert archers african
 unit				merc veteranii
 unit				generic rebel general					
@@ -277,9 +442,10 @@ rebel_type 			Nabataeans 	//Empire_East
 category			peasant_revolt 
 chance				3					
 description			Nabataeans
-unit				moorish raiders
+unit				desert cavalry
 unit				mountain men
 unit				mountain men
+unit				desert archers
 unit				desert chieftain				
 
 rebel_type 			Cypriots //Empire_East
@@ -391,7 +557,7 @@ unit				levy spearmen sassanid
 unit				mountain slinger
 unit				generic rebel general
 
-rebel_type 			Sarmatians	//Vandals
+rebel_type 			Sarmatians	//Sarmatians
 category			peasant_revolt 
 chance				0					
 description			Sarmatians
@@ -430,8 +596,8 @@ description			Iberians
 unit				western peasant
 unit				merc veteranii
 unit				limitanei
-unit				merc herdsmen
-unit				barbarian rebel general
+unit				equites auxilia
+unit				generic rebel general
 
 rebel_type 			Achaeans	//Empire_East
 category			peasant_revolt 
@@ -468,10 +634,11 @@ category			peasant_revolt
 chance				0					
 description			Lusitanians
 unit				western peasant
+unit				celtic slingers
 unit				merc veteranii
 unit				limitanei
 unit				merc herdsmen
-unit				barbarian rebel general
+unit				generic rebel general
 
 rebel_type 			Scotii	//Celts
 category			peasant_revolt 
