@@ -1,12 +1,13 @@
 {
 	"Description": "Mundus Magnus Map with mesh for Rome Remastered Barbarian Invasion by AntonioBarbarian. Updated 6-27-2022 by ahowl11. Mesh and textures for Remastered by wilddog and makanyane. Original map by ngr with alterations by Ahowl11 & El Santo Padre.  Please see readme for more details.",
-	"Mod Name": "Mundus Magnus for BI",
+	"Mod Name": "DEV - Mundus Magnus for BI",
 	"Preview Image": "previewimage.jpg",
 	"Supports Alex": false,
 	"Supports BI": true,
 	"Supports Rome": false,
 	"Tags": [
+		"Map"
 	],
-	"Visibility": 0,
+	"Visibility": 2,
 	"Workshop ID": 0
 }

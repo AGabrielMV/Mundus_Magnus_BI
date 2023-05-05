@@ -217,9 +217,9 @@ Cyrene
 Flavia_Caesariensis
 Victrix
 Lindum
-Valentia
+Siluria
 Victrix
-Deva
+Segontium
 Britannia_Prima
 Victrix
 Corinium
@@ -378,7 +378,7 @@ Africarum
 Garama
 Phasania
 Africarum
-Sabae
+Rapsa
 Libya
 Africarum
 Ammonium
@@ -835,3 +835,15 @@ Arsenium
 Locus_Aestii
 Barbaricorum
 Sedes_Aestiorum
+Valentia
+Victrix
+Luguvallium
+Miathi
+Caledonica
+Alauna
+Musulamia
+Africarum
+Mlili
+Austoriania
+Africarum
+Sabae

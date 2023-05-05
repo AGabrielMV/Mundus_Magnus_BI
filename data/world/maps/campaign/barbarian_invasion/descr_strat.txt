@@ -7948,7 +7948,38 @@ settlement
 	}
 	building
 	{
+		type defenses wooden_wall
+	}
+	building
+	{
 		type barracks muster_field
+	}
+	building
+	{
+		type market trader
+	}
+	building
+	{
+		type hinterland_roads roads
+	}
+	building
+	{
+		type temple_of_mithras temple_of_mithras_shrine
+	}
+}
+
+settlement
+{
+	level town
+	region Siluria
+
+	year_founded 20
+	population 1278
+	plan_set default_set
+	faction_creator romano_british
+	building
+	{
+		type core_building governors_house
 	}
 	building
 	{

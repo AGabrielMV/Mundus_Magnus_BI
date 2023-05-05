@@ -733,9 +733,9 @@ Flavia_Caesariensis
 	5
 	2
 	christianity 55 pagan 45
-Valentia
+Siluria
 	legion: Victrix						
-	Deva
+	Segontium
 	empire_west						
 	Celts
 	41 232 63						
@@ -1202,7 +1202,7 @@ Guotodin
 	none
 	5
 	3
-	pagan 90 christianity 10
+	pagan 100
 Fortriu
 	legion: Caledonica
 	Tuesis
@@ -1212,7 +1212,7 @@ Fortriu
 	none
 	5
 	2
-	pagan 90 christianity 10
+	pagan 100
 Anglia
 	legion: Barbaricorum
 	Haithabu
@@ -1275,13 +1275,13 @@ Garamantia
 	pagan 95 christianity 5
 Phasania
 	legion: Africarum
-	Sabae
+	Rapsa
 	berbers
 	Berbers
 	54 132 36
 	berber
 	5
-	4
+	1
 	pagan 100
 Libya
 	legion: Africarum
@@ -2792,4 +2792,44 @@ Locus_Aestii
 	none
 	5
 	2
+	pagan 100
+Valentia
+	legion: Victrix						
+	Luguvallium
+	empire_west						
+	Celts
+	213 102 73						
+	britain						
+	5						
+	3						
+	pagan 80 christianity 20						
+Miathi
+	legion: Caledonica
+	Alauna
+	celts
+	Pictii
+	117 206 231
+	none
+	5
+	2
+	pagan 100
+Musulamia
+	legion: Africarum
+	Mlili
+	berbers
+	Berbers
+	17 13 221
+	berber
+	5
+	1
+	christianity 10 pagan 90
+Austoriania
+	legion: Africarum
+	Sabae
+	berbers
+	Berbers
+	119 179 87
+	berber
+	5
+	3
 	pagan 100
