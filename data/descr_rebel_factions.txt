@@ -48,7 +48,7 @@ chance				3
 description			Slavs
 unit				peasant vandal
 unit				steppe swordsmen vandal
-unit				steppe horse archers
+unit				steppe raiders
 unit				steppe spearmen vandal
 unit				steppe warlords
 					
@@ -76,10 +76,10 @@ rebel_type 			Saka		//Huns
 category			peasant_revolt
 chance				3					
 description			Saka
-unit				alan horse archers
-unit				alan horse archers
-unit				alan horse archers
-unit				alan horse archers
+unit				steppe horse archers
+unit				steppe horse archers
+unit				steppe horse archers
+unit				steppe horse archers
 unit				steppe warlords
 					
 rebel_type 			Angles	//Saxons
@@ -99,8 +99,10 @@ category			peasant_revolt
 chance				0					
 description			Armenians
 unit				sassanid peasant
+unit				levy spearmen sassanid
+unit				levy spearmen sassanid
 unit				nomad archer cavalry
-unit				nomad archer cavalry
+unit				mountain slinger
 unit				kurdish javelinmen
 unit				eastern rebel general
 
@@ -109,8 +111,8 @@ category			peasant_revolt
 chance				0					
 description			Cappadocians
 unit				levy spearmen sassanid
-unit				nomad archer cavalry
-unit				nomad archer cavalry
+unit				levy spearmen sassanid
+unit				merc veteranii
 unit				mountain slinger
 unit				eastern rebel general
 				
@@ -130,7 +132,8 @@ chance				0
 description			Poeni
 unit				african peasant
 unit				hillmen
-unit				hillmen
+unit				limitanei
+unit				limitanei
 unit				desert archers african
 unit				merc veteranii
 unit				generic rebel general					
@@ -194,9 +197,10 @@ chance				3
 description			Batavi
 unit				western peasant
 unit				western peasant
-unit				equites auxilia
+unit				levy spearman frank
 unit				merc veteranii
-unit				levy spearman saxon
+unit				foederati infantry
+unit				foederati cavalry
 unit				barbarian rebel general
 					
 rebel_type 			Iazyges	//Iazyges
@@ -216,7 +220,7 @@ chance				6
 description			Jutes	
 unit				western peasant saxon
 unit				western peasant saxon
-unit				levy spearman frank
+unit				levy spearman saxon
 unit				saxon keels
 unit				saxon hunters
 unit				saxon sea raiders
@@ -269,15 +273,15 @@ chance				0
 description			Moors
 unit				moorish raiders
 unit				moorish raiders
-unit				mountain men
-unit				mountain men
+unit				hillmen
+unit				hillmen
 unit				desert chieftain				
 					
 rebel_type 			Nabataeans 	//Empire_East
 category			peasant_revolt 
 chance				3					
 description			Nabataeans
-unit				moorish raiders
+unit				desert cavalry
 unit				mountain men
 unit				mountain men
 unit				desert chieftain				
@@ -304,10 +308,12 @@ rebel_type 			Palmyrans		//Empire_East
 category			peasant_revolt 
 chance				0					
 description			Palmyrans
-unit				merc sughdian warriors
 unit				sassanid peasant
 unit				levy spearmen sassanid
-unit				nomad archer cavalry
+unit				levy spearmen sassanid
+unit				camel raiders
+unit				desert archers
+unit				merc veteranii
 unit				eastern rebel general
 
 rebel_type 			Judaeans		//Empire_East
@@ -325,7 +331,7 @@ chance				0
 description			Parthians
 unit				sassanid peasant
 unit				camel raiders
-unit				camel raiders
+unit				nomad archer cavalry
 unit				nomad archer cavalry
 unit				eastern rebel general
 					
@@ -334,7 +340,8 @@ category			peasant_revolt
 chance				0					
 description			Persians
 unit				sassanid peasant
-unit				sassanid peasant
+unit				levy spearmen sassanid
+unit				levy spearmen sassanid
 unit				camel raiders
 unit				nomad archer cavalry
 unit				eastern rebel general
@@ -344,9 +351,11 @@ category			peasant_revolt
 chance				0					
 description			Syrians
 unit				sassanid peasant
-unit				sassanid peasant
+unit				levy spearmen sassanid
+unit				levy spearmen sassanid
+unit				merc veteranii
 unit				camel raiders
-unit				nomad archer cavalry
+unit				equites auxilia
 unit				eastern rebel general
 
 rebel_type 			Pictii		//Celts
@@ -368,6 +377,8 @@ description			Roxolani
 unit				herdsmen sarmatian
 unit				herdsmen sarmatian
 unit				steppe raiders
+unit				steppe horse archers
+unit				steppe horse archers
 unit				sarmatian warlords
 
 rebel_type 			Edones	//Empire_East
@@ -431,16 +442,16 @@ unit				western peasant
 unit				merc veteranii
 unit				limitanei
 unit				merc herdsmen
-unit				barbarian rebel general
+unit				generic rebel general
 
 rebel_type 			Achaeans	//Empire_East
 category			peasant_revolt 
 chance				0					
 description			Achaeans
-unit				sassanid peasant
+unit				western peasant
 unit				merc veteranii
 unit				merc equites veteranii
-unit				merc herdsmen
+unit				limitanei
 unit				generic rebel general
 
 rebel_type 			Phrygians	//Empire_East
@@ -471,7 +482,7 @@ unit				western peasant
 unit				merc veteranii
 unit				limitanei
 unit				merc herdsmen
-unit				barbarian rebel general
+unit				generic rebel general
 
 rebel_type 			Scotii	//Celts
 category			peasant_revolt 
@@ -490,6 +501,7 @@ category			peasant_revolt
 chance				0					
 description			Sughdians
 unit				sassanid peasant
+unit				levy spearmen sassanid
 unit				mountain slinger
 unit				merc sughdian warriors
 unit				merc sughdian warriors
@@ -500,6 +512,7 @@ category			peasant_revolt
 chance				0					
 description			Colchians
 unit				mountain slinger
+unit				levy spearmen sassanid
 unit				herdsmen sarmatian
 unit				steppe horse archers
 unit				steppe raiders
